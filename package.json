@@ -1,0 +1,97 @@
+{
+  "name": "icons-library",
+  "version": "0.0.1",
+  "displayName": "Icons Library",
+  "description": "Easily browse icons from popular free icon packs",
+  "author": "Cristian Militaru",
+  "publisher": "crsx",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/crsmilitaru97/icons-library"
+  },
+  "license": "ISC",
+  "keywords": [
+    "icons",
+    "library",
+    "fontawesome",
+    "codicons",
+    "primeicons",
+    "bootstrap",
+    "material"
+  ],
+  "icon": "icon.png",
+  "engines": {
+    "vscode": "^1.104.0"
+  },
+  "categories": [
+    "Visualization",
+    "Other"
+  ],
+  "main": "./out/extension.js",
+  "activationEvents": [
+    "onView:icons-library.icons-view"
+  ],
+  "contributes": {
+    "viewsContainers": {
+      "activitybar": [
+        {
+          "id": "icons-library-container",
+          "title": "Icons Library",
+          "icon": "icon.png"
+        }
+      ]
+    },
+    "views": {
+      "icons-library-container": [
+        {
+          "type": "webview",
+          "id": "icons-library.icons-view",
+          "name": "Icons Library",
+          "icon": "icon.png"
+        }
+      ]
+    },
+    "configuration": {
+      "title": "Icons Library",
+      "properties": {
+        "iconsLibrary.enabledPacks": {
+          "type": "array",
+          "uniqueItems": true,
+          "items": {
+            "type": "string",
+            "enum": [
+              "codicons",
+              "fontawesome",
+              "fontawesome-brands",
+              "primeicons",
+              "bootstrap",
+              "material-symbols"
+            ]
+          },
+          "default": [
+            "codicons",
+            "fontawesome",
+            "fontawesome-brands",
+            "primeicons",
+            "bootstrap",
+            "material-symbols"
+          ],
+          "description": "Icon packs to display in the library"
+        }
+      }
+    }
+  },
+  "scripts": {
+    "vscode:prepublish": "npm run compile",
+    "compile": "tsc -p ./",
+    "package": "npx vsce package",
+    "publish:ovsx": "npx ovsx publish"
+  },
+  "devDependencies": {
+    "@types/node": "^25.0.3",
+    "@types/vscode": "^1.104.0",
+    "eslint": "^9.39.2",
+    "typescript": "^5.9.3",
+    "typescript-eslint": "^8.50.1"
+  }
+}

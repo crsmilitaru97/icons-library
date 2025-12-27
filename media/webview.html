@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="UTF-8">
+	<meta http-equiv="Content-Security-Policy"
+		content="default-src 'none'; style-src {{cspSource}} 'unsafe-inline' https://unpkg.com https://cdnjs.cloudflare.com https://cdn.jsdelivr.net https://fonts.googleapis.com; font-src {{cspSource}} https://unpkg.com https://cdnjs.cloudflare.com https://cdn.jsdelivr.net https://fonts.gstatic.com; script-src 'unsafe-inline' {{cspSource}};">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+	<link href="{{codiconsUri}}" rel="stylesheet" />
+	<link rel="stylesheet" href="{{fontAwesomeUri}}">
+	<link rel="stylesheet" href="{{primeIconsUri}}">
+	<link rel="stylesheet" href="{{bootstrapIconsUri}}">
+	<link rel="stylesheet" href="{{materialIconsUri}}">
+	<link rel="stylesheet" href="{{styleUri}}">
+</head>
+
+<body class="preload">
+	<div class="search-container">
+		<input type="text" id="search-input" placeholder="Search icons..." aria-label="Search icons">
+		<div class="controls-row">
+			<div class="dropdown-wrapper" id="pack-dropdown">
+				<div class="dropdown-toggle" tabindex="0" role="button" aria-haspopup="listbox" aria-expanded="false">
+					<span class="dropdown-label">All Packs</span>
+					<span class="arrow"></span>
+				</div>
+				<div class="dropdown-menu" role="listbox">
+					<div class="dropdown-option selected" data-value="all" role="option" aria-selected="true">
+						<span>All Packs</span>
+					</div>
+				</div>
+			</div>
+			<button id="settings-btn" class="icon-btn" title="Open Settings" aria-label="Open Settings">
+				<i class="codicon codicon-gear"></i>
+			</button>
+		</div>
+	</div>
+
+	<div id="icon-count" class="icon-count"></div>
+
+	<div id="icons-grid" class="icons-grid"></div>
+	<div id="empty-state" class="empty-state">
+		<i class="codicon codicon-search"></i>
+		<p>No icons found</p>
+	</div>
+	<div id="loading">Loading icons...</div>
+
+	<script>window.initialIconData = '{{iconData}}';</script>
+	<script src="{{scriptUri}}"></script>
+</body>
+
+</html>

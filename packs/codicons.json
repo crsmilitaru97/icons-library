@@ -1,0 +1,3740 @@
+{
+  "account": [
+    "account",
+    "icon",
+    "ui",
+    "editor",
+    "tool"
+  ],
+  "activate-breakpoints": [
+    "activate",
+    "breakpoints",
+    "icon",
+    "ui",
+    "editor"
+  ],
+  "add": [
+    "add",
+    "plus",
+    "increase",
+    "new",
+    "create"
+  ],
+  "add-small": [
+    "add",
+    "new",
+    "create",
+    "insert",
+    "expand"
+  ],
+  "agent": [
+    "agent",
+    "icon",
+    "ui",
+    "editor",
+    "tool"
+  ],
+  "archive": [
+    "box",
+    "storage",
+    "save",
+    "package",
+    "history"
+  ],
+  "arrow-both": [
+    "arrow",
+    "direction",
+    "navigate",
+    "move",
+    "pointer"
+  ],
+  "arrow-circle-down": [
+    "direction",
+    "download",
+    "bottom",
+    "round",
+    "move"
+  ],
+  "arrow-circle-left": [
+    "direction",
+    "back",
+    "return",
+    "round",
+    "move"
+  ],
+  "arrow-circle-right": [
+    "direction",
+    "forward",
+    "next",
+    "round",
+    "move"
+  ],
+  "arrow-circle-up": [
+    "direction",
+    "upload",
+    "top",
+    "round",
+    "move"
+  ],
+  "arrow-down": [
+    "direction",
+    "south",
+    "bottom",
+    "download",
+    "descend"
+  ],
+  "arrow-left": [
+    "direction",
+    "west",
+    "back",
+    "previous",
+    "return"
+  ],
+  "arrow-right": [
+    "direction",
+    "east",
+    "forward",
+    "next",
+    "go"
+  ],
+  "arrow-small-down": [
+    "arrow",
+    "direction",
+    "navigate",
+    "move",
+    "pointer"
+  ],
+  "arrow-small-left": [
+    "arrow",
+    "direction",
+    "navigate",
+    "move",
+    "pointer"
+  ],
+  "arrow-small-right": [
+    "arrow",
+    "direction",
+    "navigate",
+    "move",
+    "pointer"
+  ],
+  "arrow-small-up": [
+    "arrow",
+    "direction",
+    "navigate",
+    "move",
+    "pointer"
+  ],
+  "arrow-swap": [
+    "arrow",
+    "direction",
+    "navigate",
+    "move",
+    "pointer"
+  ],
+  "arrow-up": [
+    "direction",
+    "north",
+    "top",
+    "upload",
+    "ascend"
+  ],
+  "attach": [
+    "attach",
+    "icon",
+    "ui",
+    "editor",
+    "tool"
+  ],
+  "azure": [
+    "azure",
+    "cloud",
+    "microsoft",
+    "devops",
+    "service"
+  ],
+  "azure-devops": [
+    "azure",
+    "cloud",
+    "microsoft",
+    "devops",
+    "service"
+  ],
+  "beaker": [
+    "beaker",
+    "icon",
+    "ui",
+    "editor",
+    "tool"
+  ],
+  "beaker-stop": [
+    "beaker",
+    "stop",
+    "end",
+    "cancel",
+    "halt"
+  ],
+  "bell": [
+    "notification",
+    "alarm",
+    "alert",
+    "ring",
+    "reminder"
+  ],
+  "bell-dot": [
+    "notification",
+    "alert",
+    "alarm",
+    "ring",
+    "reminder"
+  ],
+  "bell-slash": [
+    "mute",
+    "silent",
+    "quiet",
+    "off",
+    "disable"
+  ],
+  "bell-slash-dot": [
+    "notification",
+    "alert",
+    "alarm",
+    "ring",
+    "reminder"
+  ],
+  "blank": [
+    "blank",
+    "icon",
+    "ui",
+    "editor",
+    "tool"
+  ],
+  "bold": [
+    "text",
+    "format",
+    "style",
+    "heavy",
+    "font"
+  ],
+  "book": [
+    "read",
+    "library",
+    "study",
+    "education",
+    "literature"
+  ],
+  "bookmark": [
+    "save",
+    "favorite",
+    "tag",
+    "marker",
+    "keep"
+  ],
+  "bracket-dot": [
+    "bracket",
+    "dot",
+    "icon",
+    "ui",
+    "editor"
+  ],
+  "bracket-error": [
+    "bracket",
+    "error",
+    "fail",
+    "issue",
+    "bug"
+  ],
+  "briefcase": [
+    "work",
+    "business",
+    "office",
+    "job",
+    "bag"
+  ],
+  "broadcast": [
+    "broadcast",
+    "icon",
+    "ui",
+    "editor",
+    "tool"
+  ],
+  "browser": [
+    "browser",
+    "icon",
+    "ui",
+    "editor",
+    "tool"
+  ],
+  "bug": [
+    "error",
+    "insect",
+    "glitch",
+    "fix",
+    "issue"
+  ],
+  "build": [
+    "build",
+    "icon",
+    "ui",
+    "editor",
+    "tool"
+  ],
+  "calendar": [
+    "date",
+    "schedule",
+    "event",
+    "time",
+    "plan"
+  ],
+  "call-incoming": [
+    "call",
+    "incoming",
+    "icon",
+    "ui",
+    "editor"
+  ],
+  "call-outgoing": [
+    "call",
+    "outgoing",
+    "icon",
+    "ui",
+    "editor"
+  ],
+  "case-sensitive": [
+    "case",
+    "sensitive",
+    "icon",
+    "ui",
+    "editor"
+  ],
+  "chat-sparkle": [
+    "chat",
+    "message",
+    "talk",
+    "comment",
+    "discussion"
+  ],
+  "chat-sparkle-error": [
+    "chat",
+    "message",
+    "talk",
+    "comment",
+    "discussion"
+  ],
+  "chat-sparkle-warning": [
+    "chat",
+    "message",
+    "talk",
+    "comment",
+    "discussion"
+  ],
+  "check": [
+    "tick",
+    "success",
+    "confirm",
+    "done",
+    "yes"
+  ],
+  "check-all": [
+    "check",
+    "all",
+    "icon",
+    "ui",
+    "editor"
+  ],
+  "checklist": [
+    "checklist",
+    "icon",
+    "ui",
+    "editor",
+    "tool"
+  ],
+  "chevron-down": [
+    "arrow",
+    "expand",
+    "bottom",
+    "menu",
+    "dropdown"
+  ],
+  "chevron-left": [
+    "arrow",
+    "back",
+    "previous",
+    "west",
+    "return"
+  ],
+  "chevron-right": [
+    "arrow",
+    "forward",
+    "next",
+    "east",
+    "go"
+  ],
+  "chevron-up": [
+    "arrow",
+    "collapse",
+    "top",
+    "north",
+    "ascend"
+  ],
+  "chip": [
+    "chip",
+    "icon",
+    "ui",
+    "editor",
+    "tool"
+  ],
+  "chrome-close": [
+    "chrome",
+    "close",
+    "exit",
+    "cancel",
+    "dismiss"
+  ],
+  "chrome-maximize": [
+    "chrome",
+    "maximize",
+    "icon",
+    "ui",
+    "editor"
+  ],
+  "chrome-minimize": [
+    "chrome",
+    "minimize",
+    "icon",
+    "ui",
+    "editor"
+  ],
+  "chrome-restore": [
+    "chrome",
+    "restore",
+    "icon",
+    "ui",
+    "editor"
+  ],
+  "circle": [
+    "round",
+    "shape",
+    "empty",
+    "outline",
+    "geometry"
+  ],
+  "circle-filled": [
+    "round",
+    "shape",
+    "dot",
+    "status",
+    "indicator"
+  ],
+  "circle-large": [
+    "round",
+    "shape",
+    "dot",
+    "status",
+    "indicator"
+  ],
+  "circle-large-filled": [
+    "round",
+    "shape",
+    "dot",
+    "status",
+    "indicator"
+  ],
+  "circle-slash": [
+    "round",
+    "shape",
+    "dot",
+    "status",
+    "indicator"
+  ],
+  "circle-small": [
+    "round",
+    "shape",
+    "dot",
+    "status",
+    "indicator"
+  ],
+  "circle-small-filled": [
+    "round",
+    "shape",
+    "dot",
+    "status",
+    "indicator"
+  ],
+  "circuit-board": [
+    "circuit",
+    "board",
+    "icon",
+    "ui",
+    "editor"
+  ],
+  "clear-all": [
+    "clear",
+    "all",
+    "icon",
+    "ui",
+    "editor"
+  ],
+  "clippy": [
+    "clippy",
+    "icon",
+    "ui",
+    "editor",
+    "tool"
+  ],
+  "clock": [
+    "time",
+    "clock",
+    "schedule",
+    "timer",
+    "watch"
+  ],
+  "close": [
+    "remove",
+    "delete",
+    "cancel",
+    "x",
+    "exit"
+  ],
+  "close-all": [
+    "close",
+    "exit",
+    "cancel",
+    "dismiss",
+    "remove"
+  ],
+  "cloud": [
+    "weather",
+    "storage",
+    "server",
+    "data",
+    "sky"
+  ],
+  "cloud-download": [
+    "import",
+    "get",
+    "save",
+    "server",
+    "arrow"
+  ],
+  "cloud-upload": [
+    "export",
+    "send",
+    "save",
+    "server",
+    "arrow"
+  ],
+  "code": [
+    "develop",
+    "program",
+    "syntax",
+    "html",
+    "brackets"
+  ],
+  "code-oss": [
+    "code",
+    "oss",
+    "icon",
+    "ui",
+    "editor"
+  ],
+  "code-review": [
+    "code",
+    "review",
+    "icon",
+    "ui",
+    "editor"
+  ],
+  "coffee": [
+    "coffee",
+    "drink",
+    "beverage",
+    "caffeine",
+    "cup"
+  ],
+  "collapse-all": [
+    "collapse",
+    "all",
+    "icon",
+    "ui",
+    "editor"
+  ],
+  "collection": [
+    "collection",
+    "icon",
+    "ui",
+    "editor",
+    "tool"
+  ],
+  "color-mode": [
+    "color",
+    "mode",
+    "icon",
+    "ui",
+    "editor"
+  ],
+  "combine": [
+    "combine",
+    "icon",
+    "ui",
+    "editor",
+    "tool"
+  ],
+  "comment": [
+    "chat",
+    "message",
+    "bubble",
+    "talk",
+    "feedback"
+  ],
+  "comment-discussion": [
+    "chat",
+    "message",
+    "talk",
+    "comment",
+    "discussion"
+  ],
+  "comment-discussion-quote": [
+    "chat",
+    "message",
+    "talk",
+    "comment",
+    "discussion"
+  ],
+  "comment-discussion-sparkle": [
+    "chat",
+    "message",
+    "talk",
+    "comment",
+    "discussion"
+  ],
+  "comment-draft": [
+    "chat",
+    "message",
+    "talk",
+    "comment",
+    "discussion"
+  ],
+  "comment-unresolved": [
+    "chat",
+    "message",
+    "talk",
+    "comment",
+    "discussion"
+  ],
+  "compass": [
+    "navigation",
+    "direction",
+    "explore",
+    "map",
+    "safari"
+  ],
+  "compass-active": [
+    "compass",
+    "active",
+    "icon",
+    "ui",
+    "editor"
+  ],
+  "compass-dot": [
+    "compass",
+    "dot",
+    "icon",
+    "ui",
+    "editor"
+  ],
+  "copilot": [
+    "ai",
+    "assistant",
+    "copilot",
+    "code",
+    "suggest"
+  ],
+  "copilot-blocked": [
+    "ai",
+    "assistant",
+    "copilot",
+    "code",
+    "suggest"
+  ],
+  "copilot-error": [
+    "ai",
+    "assistant",
+    "copilot",
+    "code",
+    "suggest"
+  ],
+  "copilot-in-progress": [
+    "ai",
+    "assistant",
+    "copilot",
+    "code",
+    "suggest"
+  ],
+  "copilot-large": [
+    "ai",
+    "assistant",
+    "copilot",
+    "code",
+    "suggest"
+  ],
+  "copilot-not-connected": [
+    "ai",
+    "assistant",
+    "copilot",
+    "code",
+    "suggest"
+  ],
+  "copilot-snooze": [
+    "ai",
+    "assistant",
+    "copilot",
+    "code",
+    "suggest"
+  ],
+  "copilot-success": [
+    "ai",
+    "assistant",
+    "copilot",
+    "code",
+    "suggest"
+  ],
+  "copilot-unavailable": [
+    "ai",
+    "assistant",
+    "copilot",
+    "code",
+    "suggest"
+  ],
+  "copilot-warning": [
+    "ai",
+    "assistant",
+    "copilot",
+    "code",
+    "suggest"
+  ],
+  "copilot-warning-large": [
+    "ai",
+    "assistant",
+    "copilot",
+    "code",
+    "suggest"
+  ],
+  "copy": [
+    "duplicate",
+    "clone",
+    "files",
+    "clipboard",
+    "replicate"
+  ],
+  "coverage": [
+    "coverage",
+    "icon",
+    "ui",
+    "editor",
+    "tool"
+  ],
+  "credit-card": [
+    "payment",
+    "money",
+    "purchase",
+    "bank",
+    "debit"
+  ],
+  "cursor": [
+    "cursor",
+    "icon",
+    "ui",
+    "editor",
+    "tool"
+  ],
+  "dash": [
+    "dash",
+    "icon",
+    "ui",
+    "editor",
+    "tool"
+  ],
+  "dashboard": [
+    "control",
+    "panel",
+    "stats",
+    "analytics",
+    "metrics"
+  ],
+  "database": [
+    "storage",
+    "server",
+    "sql",
+    "data",
+    "backup"
+  ],
+  "debug": [
+    "debug",
+    "breakpoint",
+    "run",
+    "inspect",
+    "bug"
+  ],
+  "debug-all": [
+    "debug",
+    "breakpoint",
+    "run",
+    "inspect",
+    "bug"
+  ],
+  "debug-alt": [
+    "debug",
+    "breakpoint",
+    "run",
+    "inspect",
+    "bug"
+  ],
+  "debug-alt-small": [
+    "debug",
+    "breakpoint",
+    "run",
+    "inspect",
+    "bug"
+  ],
+  "debug-breakpoint-conditional": [
+    "debug",
+    "breakpoint",
+    "run",
+    "inspect",
+    "bug"
+  ],
+  "debug-breakpoint-conditional-unverified": [
+    "debug",
+    "breakpoint",
+    "run",
+    "inspect",
+    "bug"
+  ],
+  "debug-breakpoint-data": [
+    "debug",
+    "breakpoint",
+    "run",
+    "inspect",
+    "bug"
+  ],
+  "debug-breakpoint-data-unverified": [
+    "debug",
+    "breakpoint",
+    "run",
+    "inspect",
+    "bug"
+  ],
+  "debug-breakpoint-function": [
+    "debug",
+    "breakpoint",
+    "run",
+    "inspect",
+    "bug"
+  ],
+  "debug-breakpoint-function-unverified": [
+    "debug",
+    "breakpoint",
+    "run",
+    "inspect",
+    "bug"
+  ],
+  "debug-breakpoint-log": [
+    "debug",
+    "breakpoint",
+    "run",
+    "inspect",
+    "bug"
+  ],
+  "debug-breakpoint-log-unverified": [
+    "debug",
+    "breakpoint",
+    "run",
+    "inspect",
+    "bug"
+  ],
+  "debug-breakpoint-unsupported": [
+    "debug",
+    "breakpoint",
+    "run",
+    "inspect",
+    "bug"
+  ],
+  "debug-connected": [
+    "debug",
+    "breakpoint",
+    "run",
+    "inspect",
+    "bug"
+  ],
+  "debug-console": [
+    "debug",
+    "breakpoint",
+    "run",
+    "inspect",
+    "bug"
+  ],
+  "debug-continue": [
+    "debug",
+    "breakpoint",
+    "run",
+    "inspect",
+    "bug"
+  ],
+  "debug-continue-small": [
+    "debug",
+    "breakpoint",
+    "run",
+    "inspect",
+    "bug"
+  ],
+  "debug-coverage": [
+    "debug",
+    "breakpoint",
+    "run",
+    "inspect",
+    "bug"
+  ],
+  "debug-disconnect": [
+    "debug",
+    "breakpoint",
+    "run",
+    "inspect",
+    "bug"
+  ],
+  "debug-line-by-line": [
+    "debug",
+    "breakpoint",
+    "run",
+    "inspect",
+    "bug"
+  ],
+  "debug-pause": [
+    "debug",
+    "breakpoint",
+    "run",
+    "inspect",
+    "bug"
+  ],
+  "debug-rerun": [
+    "debug",
+    "breakpoint",
+    "run",
+    "inspect",
+    "bug"
+  ],
+  "debug-restart": [
+    "debug",
+    "breakpoint",
+    "run",
+    "inspect",
+    "bug"
+  ],
+  "debug-restart-frame": [
+    "debug",
+    "breakpoint",
+    "run",
+    "inspect",
+    "bug"
+  ],
+  "debug-reverse-continue": [
+    "debug",
+    "breakpoint",
+    "run",
+    "inspect",
+    "bug"
+  ],
+  "debug-stackframe": [
+    "debug",
+    "breakpoint",
+    "run",
+    "inspect",
+    "bug"
+  ],
+  "debug-stackframe-active": [
+    "debug",
+    "breakpoint",
+    "run",
+    "inspect",
+    "bug"
+  ],
+  "debug-start": [
+    "debug",
+    "breakpoint",
+    "run",
+    "inspect",
+    "bug"
+  ],
+  "debug-step-back": [
+    "debug",
+    "breakpoint",
+    "run",
+    "inspect",
+    "bug"
+  ],
+  "debug-step-into": [
+    "debug",
+    "breakpoint",
+    "run",
+    "inspect",
+    "bug"
+  ],
+  "debug-step-out": [
+    "debug",
+    "breakpoint",
+    "run",
+    "inspect",
+    "bug"
+  ],
+  "debug-step-over": [
+    "debug",
+    "breakpoint",
+    "run",
+    "inspect",
+    "bug"
+  ],
+  "debug-stop": [
+    "debug",
+    "breakpoint",
+    "run",
+    "inspect",
+    "bug"
+  ],
+  "desktop-download": [
+    "desktop",
+    "download",
+    "save",
+    "get",
+    "import"
+  ],
+  "device-camera": [
+    "device",
+    "camera",
+    "icon",
+    "ui",
+    "editor"
+  ],
+  "device-camera-video": [
+    "device",
+    "camera",
+    "video",
+    "icon",
+    "ui"
+  ],
+  "device-mobile": [
+    "device",
+    "mobile",
+    "icon",
+    "ui",
+    "editor"
+  ],
+  "diff": [
+    "diff",
+    "compare",
+    "changes",
+    "patch",
+    "version"
+  ],
+  "diff-added": [
+    "diff",
+    "compare",
+    "changes",
+    "patch",
+    "version"
+  ],
+  "diff-ignored": [
+    "diff",
+    "compare",
+    "changes",
+    "patch",
+    "version"
+  ],
+  "diff-modified": [
+    "diff",
+    "compare",
+    "changes",
+    "patch",
+    "version"
+  ],
+  "diff-multiple": [
+    "diff",
+    "compare",
+    "changes",
+    "patch",
+    "version"
+  ],
+  "diff-removed": [
+    "diff",
+    "compare",
+    "changes",
+    "patch",
+    "version"
+  ],
+  "diff-renamed": [
+    "diff",
+    "compare",
+    "changes",
+    "patch",
+    "version"
+  ],
+  "diff-single": [
+    "diff",
+    "compare",
+    "changes",
+    "patch",
+    "version"
+  ],
+  "discard": [
+    "discard",
+    "icon",
+    "ui",
+    "editor",
+    "tool"
+  ],
+  "download": [
+    "save",
+    "get",
+    "import",
+    "arrow",
+    "install"
+  ],
+  "edit": [
+    "edit",
+    "modify",
+    "update",
+    "write",
+    "change"
+  ],
+  "edit-code": [
+    "edit",
+    "modify",
+    "update",
+    "write",
+    "change"
+  ],
+  "edit-session": [
+    "edit",
+    "modify",
+    "update",
+    "write",
+    "change"
+  ],
+  "edit-sparkle": [
+    "edit",
+    "modify",
+    "update",
+    "write",
+    "change"
+  ],
+  "editor-layout": [
+    "layout",
+    "panel",
+    "sidebar",
+    "view",
+    "ui"
+  ],
+  "ellipsis": [
+    "ellipsis",
+    "dots",
+    "menu",
+    "options",
+    "more"
+  ],
+  "empty-window": [
+    "empty",
+    "window",
+    "icon",
+    "ui",
+    "editor"
+  ],
+  "eraser": [
+    "delete",
+    "remove",
+    "clear",
+    "wipe",
+    "rubber"
+  ],
+  "error": [
+    "error",
+    "fail",
+    "issue",
+    "bug",
+    "alert"
+  ],
+  "error-small": [
+    "error",
+    "fail",
+    "issue",
+    "bug",
+    "alert"
+  ],
+  "exclude": [
+    "exclude",
+    "icon",
+    "ui",
+    "editor",
+    "tool"
+  ],
+  "expand-all": [
+    "expand",
+    "all",
+    "icon",
+    "ui",
+    "editor"
+  ],
+  "export": [
+    "export",
+    "icon",
+    "ui",
+    "editor",
+    "tool"
+  ],
+  "extensions": [
+    "extensions",
+    "icon",
+    "ui",
+    "editor",
+    "tool"
+  ],
+  "extensions-large": [
+    "extensions",
+    "large",
+    "icon",
+    "ui",
+    "editor"
+  ],
+  "eye": [
+    "view",
+    "show",
+    "visible",
+    "watch",
+    "see"
+  ],
+  "eye-closed": [
+    "eye",
+    "closed",
+    "icon",
+    "ui",
+    "editor"
+  ],
+  "feedback": [
+    "feedback",
+    "icon",
+    "ui",
+    "editor",
+    "tool"
+  ],
+  "file": [
+    "document",
+    "page",
+    "paper",
+    "data",
+    "record"
+  ],
+  "file-binary": [
+    "file",
+    "document",
+    "page",
+    "data",
+    "record"
+  ],
+  "file-code": [
+    "file",
+    "code",
+    "programming",
+    "document",
+    "syntax"
+  ],
+  "file-media": [
+    "file",
+    "document",
+    "page",
+    "data",
+    "record"
+  ],
+  "file-pdf": [
+    "document",
+    "adobe",
+    "print",
+    "portable",
+    "read"
+  ],
+  "file-submodule": [
+    "file",
+    "document",
+    "page",
+    "data",
+    "record"
+  ],
+  "file-symlink-directory": [
+    "file",
+    "document",
+    "page",
+    "data",
+    "record"
+  ],
+  "file-symlink-file": [
+    "file",
+    "document",
+    "page",
+    "data",
+    "record"
+  ],
+  "file-text": [
+    "file",
+    "document",
+    "page",
+    "data",
+    "record"
+  ],
+  "file-zip": [
+    "file",
+    "document",
+    "page",
+    "data",
+    "record"
+  ],
+  "files": [
+    "files",
+    "icon",
+    "ui",
+    "editor",
+    "tool"
+  ],
+  "filter": [
+    "sort",
+    "funnel",
+    "refine",
+    "search",
+    "options"
+  ],
+  "filter-filled": [
+    "filter",
+    "sort",
+    "refine",
+    "funnel",
+    "search"
+  ],
+  "flag": [
+    "report",
+    "country",
+    "banner",
+    "mark",
+    "goal"
+  ],
+  "flame": [
+    "flame",
+    "icon",
+    "ui",
+    "editor",
+    "tool"
+  ],
+  "fold": [
+    "fold",
+    "icon",
+    "ui",
+    "editor",
+    "tool"
+  ],
+  "fold-down": [
+    "fold",
+    "bottom",
+    "south",
+    "download",
+    "descend"
+  ],
+  "fold-up": [
+    "fold",
+    "top",
+    "north",
+    "upload",
+    "ascend"
+  ],
+  "folder": [
+    "directory",
+    "file",
+    "organize",
+    "group",
+    "storage"
+  ],
+  "folder-active": [
+    "folder",
+    "directory",
+    "files",
+    "storage",
+    "browse"
+  ],
+  "folder-library": [
+    "folder",
+    "directory",
+    "files",
+    "storage",
+    "browse"
+  ],
+  "folder-opened": [
+    "folder",
+    "directory",
+    "files",
+    "storage",
+    "browse"
+  ],
+  "forward": [
+    "next",
+    "arrow",
+    "skip",
+    "media",
+    "go"
+  ],
+  "game": [
+    "game",
+    "icon",
+    "ui",
+    "editor",
+    "tool"
+  ],
+  "gear": [
+    "gear",
+    "settings",
+    "cog",
+    "config",
+    "wheel"
+  ],
+  "gift": [
+    "present",
+    "box",
+    "reward",
+    "birthday",
+    "offer"
+  ],
+  "gist": [
+    "gist",
+    "icon",
+    "ui",
+    "editor",
+    "tool"
+  ],
+  "gist-secret": [
+    "gist",
+    "secret",
+    "icon",
+    "ui",
+    "editor"
+  ],
+  "git-branch": [
+    "git",
+    "version",
+    "repo",
+    "commit",
+    "branch"
+  ],
+  "git-branch-changes": [
+    "git",
+    "version",
+    "repo",
+    "commit",
+    "branch"
+  ],
+  "git-branch-conflicts": [
+    "git",
+    "version",
+    "repo",
+    "commit",
+    "branch"
+  ],
+  "git-branch-staged-changes": [
+    "git",
+    "version",
+    "repo",
+    "commit",
+    "branch"
+  ],
+  "git-commit": [
+    "git",
+    "version",
+    "repo",
+    "commit",
+    "branch"
+  ],
+  "git-compare": [
+    "git",
+    "version",
+    "repo",
+    "commit",
+    "branch"
+  ],
+  "git-fetch": [
+    "git",
+    "version",
+    "repo",
+    "commit",
+    "branch"
+  ],
+  "git-merge": [
+    "git",
+    "version",
+    "repo",
+    "commit",
+    "branch"
+  ],
+  "git-pull-request": [
+    "git",
+    "version",
+    "repo",
+    "commit",
+    "branch"
+  ],
+  "git-pull-request-closed": [
+    "git",
+    "version",
+    "repo",
+    "commit",
+    "branch"
+  ],
+  "git-pull-request-create": [
+    "git",
+    "version",
+    "repo",
+    "commit",
+    "branch"
+  ],
+  "git-pull-request-done": [
+    "git",
+    "version",
+    "repo",
+    "commit",
+    "branch"
+  ],
+  "git-pull-request-draft": [
+    "git",
+    "version",
+    "repo",
+    "commit",
+    "branch"
+  ],
+  "git-pull-request-go-to-changes": [
+    "git",
+    "version",
+    "repo",
+    "commit",
+    "branch"
+  ],
+  "git-pull-request-new-changes": [
+    "git",
+    "version",
+    "repo",
+    "commit",
+    "branch"
+  ],
+  "git-stash": [
+    "git",
+    "version",
+    "repo",
+    "commit",
+    "branch"
+  ],
+  "git-stash-apply": [
+    "git",
+    "version",
+    "repo",
+    "commit",
+    "branch"
+  ],
+  "git-stash-pop": [
+    "git",
+    "version",
+    "repo",
+    "commit",
+    "branch"
+  ],
+  "github": [
+    "code",
+    "repo",
+    "git",
+    "brand",
+    "developer"
+  ],
+  "github-action": [
+    "git",
+    "version",
+    "repo",
+    "commit",
+    "branch"
+  ],
+  "github-alt": [
+    "git",
+    "version",
+    "repo",
+    "commit",
+    "branch"
+  ],
+  "github-inverted": [
+    "git",
+    "version",
+    "repo",
+    "commit",
+    "branch"
+  ],
+  "github-project": [
+    "git",
+    "version",
+    "repo",
+    "commit",
+    "branch"
+  ],
+  "globe": [
+    "world",
+    "internet",
+    "web",
+    "earth",
+    "language"
+  ],
+  "go-to-editing-session": [
+    "go",
+    "to",
+    "editing",
+    "session",
+    "icon"
+  ],
+  "go-to-file": [
+    "go",
+    "to",
+    "file",
+    "document",
+    "page"
+  ],
+  "go-to-search": [
+    "go",
+    "to",
+    "search",
+    "find",
+    "query"
+  ],
+  "grabber": [
+    "grabber",
+    "icon",
+    "ui",
+    "editor",
+    "tool"
+  ],
+  "graph": [
+    "graph",
+    "icon",
+    "ui",
+    "editor",
+    "tool"
+  ],
+  "graph-left": [
+    "graph",
+    "back",
+    "previous",
+    "west",
+    "return"
+  ],
+  "graph-line": [
+    "graph",
+    "line",
+    "icon",
+    "ui",
+    "editor"
+  ],
+  "graph-scatter": [
+    "graph",
+    "scatter",
+    "icon",
+    "ui",
+    "editor"
+  ],
+  "gripper": [
+    "gripper",
+    "icon",
+    "ui",
+    "editor",
+    "tool"
+  ],
+  "group-by-ref-type": [
+    "group",
+    "by",
+    "ref",
+    "type",
+    "icon"
+  ],
+  "heart": [
+    "like",
+    "love",
+    "favorite",
+    "save",
+    "health"
+  ],
+  "heart-filled": [
+    "heart",
+    "filled",
+    "icon",
+    "ui",
+    "editor"
+  ],
+  "history": [
+    "time",
+    "backup",
+    "past",
+    "restore",
+    "clock"
+  ],
+  "home": [
+    "house",
+    "main",
+    "start",
+    "dashboard",
+    "building"
+  ],
+  "horizontal-rule": [
+    "horizontal",
+    "rule",
+    "icon",
+    "ui",
+    "editor"
+  ],
+  "hubot": [
+    "hubot",
+    "icon",
+    "ui",
+    "editor",
+    "tool"
+  ],
+  "inbox": [
+    "email",
+    "messages",
+    "tray",
+    "receive",
+    "mail"
+  ],
+  "indent": [
+    "indent",
+    "text",
+    "format",
+    "align",
+    "spacing"
+  ],
+  "index-zero": [
+    "index",
+    "zero",
+    "icon",
+    "ui",
+    "editor"
+  ],
+  "info": [
+    "help",
+    "details",
+    "support",
+    "about",
+    "tooltip"
+  ],
+  "insert": [
+    "insert",
+    "icon",
+    "ui",
+    "editor",
+    "tool"
+  ],
+  "inspect": [
+    "inspect",
+    "icon",
+    "ui",
+    "editor",
+    "tool"
+  ],
+  "issue-draft": [
+    "issue",
+    "draft",
+    "icon",
+    "ui",
+    "editor"
+  ],
+  "issue-reopened": [
+    "issue",
+    "reopened",
+    "icon",
+    "ui",
+    "editor"
+  ],
+  "issues": [
+    "issues",
+    "icon",
+    "ui",
+    "editor",
+    "tool"
+  ],
+  "italic": [
+    "text",
+    "format",
+    "style",
+    "font",
+    "slant"
+  ],
+  "jersey": [
+    "jersey",
+    "icon",
+    "ui",
+    "editor",
+    "tool"
+  ],
+  "json": [
+    "json",
+    "icon",
+    "ui",
+    "editor",
+    "tool"
+  ],
+  "kebab-vertical": [
+    "menu",
+    "more",
+    "options",
+    "dots",
+    "overflow"
+  ],
+  "key": [
+    "password",
+    "lock",
+    "access",
+    "security",
+    "login"
+  ],
+  "keyboard-tab": [
+    "keyboard",
+    "tab",
+    "icon",
+    "ui",
+    "editor"
+  ],
+  "keyboard-tab-above": [
+    "keyboard",
+    "tab",
+    "above",
+    "icon",
+    "ui"
+  ],
+  "keyboard-tab-below": [
+    "keyboard",
+    "tab",
+    "below",
+    "icon",
+    "ui"
+  ],
+  "law": [
+    "law",
+    "icon",
+    "ui",
+    "editor",
+    "tool"
+  ],
+  "layers": [
+    "layers",
+    "icon",
+    "ui",
+    "editor",
+    "tool"
+  ],
+  "layers-active": [
+    "layers",
+    "active",
+    "icon",
+    "ui",
+    "editor"
+  ],
+  "layers-dot": [
+    "layers",
+    "dot",
+    "icon",
+    "ui",
+    "editor"
+  ],
+  "layout": [
+    "layout",
+    "panel",
+    "sidebar",
+    "view",
+    "ui"
+  ],
+  "layout-activitybar-left": [
+    "layout",
+    "panel",
+    "sidebar",
+    "view",
+    "ui"
+  ],
+  "layout-activitybar-right": [
+    "layout",
+    "panel",
+    "sidebar",
+    "view",
+    "ui"
+  ],
+  "layout-centered": [
+    "layout",
+    "panel",
+    "sidebar",
+    "view",
+    "ui"
+  ],
+  "layout-menubar": [
+    "layout",
+    "panel",
+    "sidebar",
+    "view",
+    "ui"
+  ],
+  "layout-panel": [
+    "layout",
+    "panel",
+    "sidebar",
+    "view",
+    "ui"
+  ],
+  "layout-panel-center": [
+    "layout",
+    "panel",
+    "sidebar",
+    "view",
+    "ui"
+  ],
+  "layout-panel-dock": [
+    "layout",
+    "panel",
+    "sidebar",
+    "view",
+    "ui"
+  ],
+  "layout-panel-justify": [
+    "layout",
+    "panel",
+    "sidebar",
+    "view",
+    "ui"
+  ],
+  "layout-panel-left": [
+    "layout",
+    "panel",
+    "sidebar",
+    "view",
+    "ui"
+  ],
+  "layout-panel-off": [
+    "layout",
+    "panel",
+    "sidebar",
+    "view",
+    "ui"
+  ],
+  "layout-panel-right": [
+    "layout",
+    "panel",
+    "sidebar",
+    "view",
+    "ui"
+  ],
+  "layout-sidebar-left": [
+    "layout",
+    "panel",
+    "sidebar",
+    "view",
+    "ui"
+  ],
+  "layout-sidebar-left-dock": [
+    "layout",
+    "panel",
+    "sidebar",
+    "view",
+    "ui"
+  ],
+  "layout-sidebar-left-off": [
+    "layout",
+    "panel",
+    "sidebar",
+    "view",
+    "ui"
+  ],
+  "layout-sidebar-right": [
+    "layout",
+    "panel",
+    "sidebar",
+    "view",
+    "ui"
+  ],
+  "layout-sidebar-right-dock": [
+    "layout",
+    "panel",
+    "sidebar",
+    "view",
+    "ui"
+  ],
+  "layout-sidebar-right-off": [
+    "layout",
+    "panel",
+    "sidebar",
+    "view",
+    "ui"
+  ],
+  "layout-statusbar": [
+    "layout",
+    "panel",
+    "sidebar",
+    "view",
+    "ui"
+  ],
+  "library": [
+    "library",
+    "icon",
+    "ui",
+    "editor",
+    "tool"
+  ],
+  "lightbulb": [
+    "idea",
+    "tip",
+    "solution",
+    "bright",
+    "hint"
+  ],
+  "lightbulb-autofix": [
+    "lightbulb",
+    "autofix",
+    "icon",
+    "ui",
+    "editor"
+  ],
+  "lightbulb-empty": [
+    "lightbulb",
+    "empty",
+    "icon",
+    "ui",
+    "editor"
+  ],
+  "lightbulb-sparkle": [
+    "lightbulb",
+    "sparkle",
+    "icon",
+    "ui",
+    "editor"
+  ],
+  "link": [
+    "url",
+    "chain",
+    "connect",
+    "attach",
+    "web"
+  ],
+  "link-external": [
+    "link",
+    "url",
+    "connect",
+    "chain",
+    "external"
+  ],
+  "list-filter": [
+    "list",
+    "filter",
+    "sort",
+    "refine",
+    "funnel"
+  ],
+  "list-flat": [
+    "list",
+    "flat",
+    "icon",
+    "ui",
+    "editor"
+  ],
+  "list-ordered": [
+    "list",
+    "ordered",
+    "icon",
+    "ui",
+    "editor"
+  ],
+  "list-selection": [
+    "list",
+    "selection",
+    "icon",
+    "ui",
+    "editor"
+  ],
+  "list-tree": [
+    "list",
+    "tree",
+    "icon",
+    "ui",
+    "editor"
+  ],
+  "list-unordered": [
+    "list",
+    "unordered",
+    "icon",
+    "ui",
+    "editor"
+  ],
+  "live-share": [
+    "live",
+    "share",
+    "icon",
+    "ui",
+    "editor"
+  ],
+  "loading": [
+    "loading",
+    "icon",
+    "ui",
+    "editor",
+    "tool"
+  ],
+  "location": [
+    "location",
+    "gps",
+    "place",
+    "position",
+    "map"
+  ],
+  "lock": [
+    "secure",
+    "closed",
+    "password",
+    "protect",
+    "private"
+  ],
+  "lock-small": [
+    "lock",
+    "secure",
+    "protect",
+    "private",
+    "password"
+  ],
+  "magnet": [
+    "magnet",
+    "magnetic",
+    "attract",
+    "metal",
+    "physics"
+  ],
+  "mail": [
+    "mail",
+    "icon",
+    "ui",
+    "editor",
+    "tool"
+  ],
+  "mail-read": [
+    "mail",
+    "read",
+    "icon",
+    "ui",
+    "editor"
+  ],
+  "map": [
+    "location",
+    "place",
+    "travel",
+    "navigate",
+    "guide"
+  ],
+  "map-filled": [
+    "location",
+    "map",
+    "pin",
+    "place",
+    "gps"
+  ],
+  "map-vertical": [
+    "location",
+    "map",
+    "pin",
+    "place",
+    "gps"
+  ],
+  "map-vertical-filled": [
+    "location",
+    "map",
+    "pin",
+    "place",
+    "gps"
+  ],
+  "markdown": [
+    "markdown",
+    "icon",
+    "ui",
+    "editor",
+    "tool"
+  ],
+  "mcp": [
+    "mcp",
+    "icon",
+    "ui",
+    "editor",
+    "tool"
+  ],
+  "megaphone": [
+    "announce",
+    "shout",
+    "broadcast",
+    "speak",
+    "volume"
+  ],
+  "mention": [
+    "mention",
+    "icon",
+    "ui",
+    "editor",
+    "tool"
+  ],
+  "menu": [
+    "menu",
+    "icon",
+    "ui",
+    "editor",
+    "tool"
+  ],
+  "merge": [
+    "merge",
+    "icon",
+    "ui",
+    "editor",
+    "tool"
+  ],
+  "merge-into": [
+    "merge",
+    "into",
+    "icon",
+    "ui",
+    "editor"
+  ],
+  "mic": [
+    "mic",
+    "microphone",
+    "audio",
+    "voice",
+    "record"
+  ],
+  "mic-filled": [
+    "mic",
+    "microphone",
+    "audio",
+    "voice",
+    "record"
+  ],
+  "milestone": [
+    "milestone",
+    "icon",
+    "ui",
+    "editor",
+    "tool"
+  ],
+  "mirror": [
+    "mirror",
+    "icon",
+    "ui",
+    "editor",
+    "tool"
+  ],
+  "mortar-board": [
+    "mortar",
+    "board",
+    "graduation",
+    "cap",
+    "education"
+  ],
+  "move": [
+    "move",
+    "icon",
+    "ui",
+    "editor",
+    "tool"
+  ],
+  "multiple-windows": [
+    "multiple",
+    "windows",
+    "icon",
+    "ui",
+    "editor"
+  ],
+  "music": [
+    "music",
+    "sound",
+    "audio",
+    "note",
+    "song"
+  ],
+  "mute": [
+    "mute",
+    "silent",
+    "quiet",
+    "off",
+    "disable"
+  ],
+  "new-collection": [
+    "new",
+    "collection",
+    "icon",
+    "ui",
+    "editor"
+  ],
+  "new-file": [
+    "new",
+    "file",
+    "document",
+    "page",
+    "data"
+  ],
+  "new-folder": [
+    "new",
+    "folder",
+    "directory",
+    "files",
+    "storage"
+  ],
+  "newline": [
+    "newline",
+    "icon",
+    "ui",
+    "editor",
+    "tool"
+  ],
+  "no-newline": [
+    "no",
+    "newline",
+    "icon",
+    "ui",
+    "editor"
+  ],
+  "note": [
+    "note",
+    "icon",
+    "ui",
+    "editor",
+    "tool"
+  ],
+  "notebook": [
+    "notebook",
+    "icon",
+    "ui",
+    "editor",
+    "tool"
+  ],
+  "notebook-template": [
+    "notebook",
+    "template",
+    "icon",
+    "ui",
+    "editor"
+  ],
+  "octoface": [
+    "octoface",
+    "icon",
+    "ui",
+    "editor",
+    "tool"
+  ],
+  "open-in-product": [
+    "open",
+    "launch",
+    "view",
+    "expand",
+    "enter"
+  ],
+  "open-preview": [
+    "open",
+    "launch",
+    "view",
+    "expand",
+    "enter"
+  ],
+  "organization": [
+    "organization",
+    "icon",
+    "ui",
+    "editor",
+    "tool"
+  ],
+  "output": [
+    "output",
+    "icon",
+    "ui",
+    "editor",
+    "tool"
+  ],
+  "package": [
+    "package",
+    "icon",
+    "ui",
+    "editor",
+    "tool"
+  ],
+  "paintcan": [
+    "paintcan",
+    "icon",
+    "ui",
+    "editor",
+    "tool"
+  ],
+  "pass": [
+    "pass",
+    "icon",
+    "ui",
+    "editor",
+    "tool"
+  ],
+  "pass-filled": [
+    "pass",
+    "filled",
+    "icon",
+    "ui",
+    "editor"
+  ],
+  "percentage": [
+    "discount",
+    "rate",
+    "math",
+    "sale",
+    "ratio"
+  ],
+  "person": [
+    "person",
+    "icon",
+    "ui",
+    "editor",
+    "tool"
+  ],
+  "person-add": [
+    "person",
+    "add",
+    "new",
+    "create",
+    "insert"
+  ],
+  "piano": [
+    "piano",
+    "icon",
+    "ui",
+    "editor",
+    "tool"
+  ],
+  "pie-chart": [
+    "graph",
+    "analytics",
+    "ratio",
+    "statistics",
+    "data"
+  ],
+  "pin": [
+    "pin",
+    "icon",
+    "ui",
+    "editor",
+    "tool"
+  ],
+  "pinned": [
+    "pinned",
+    "icon",
+    "ui",
+    "editor",
+    "tool"
+  ],
+  "pinned-dirty": [
+    "pinned",
+    "dirty",
+    "icon",
+    "ui",
+    "editor"
+  ],
+  "play": [
+    "start",
+    "video",
+    "media",
+    "run",
+    "go"
+  ],
+  "play-circle": [
+    "start",
+    "video",
+    "media",
+    "round",
+    "run"
+  ],
+  "plug": [
+    "plug",
+    "icon",
+    "ui",
+    "editor",
+    "tool"
+  ],
+  "preserve-case": [
+    "preserve",
+    "case",
+    "icon",
+    "ui",
+    "editor"
+  ],
+  "preview": [
+    "preview",
+    "icon",
+    "ui",
+    "editor",
+    "tool"
+  ],
+  "primitive-square": [
+    "primitive",
+    "box",
+    "shape",
+    "outline",
+    "container"
+  ],
+  "project": [
+    "project",
+    "icon",
+    "ui",
+    "editor",
+    "tool"
+  ],
+  "pulse": [
+    "pulse",
+    "icon",
+    "ui",
+    "editor",
+    "tool"
+  ],
+  "python": [
+    "python",
+    "icon",
+    "ui",
+    "editor",
+    "tool"
+  ],
+  "question": [
+    "help",
+    "support",
+    "faq",
+    "unknown",
+    "query"
+  ],
+  "quote": [
+    "quote",
+    "citation",
+    "text",
+    "comment",
+    "message"
+  ],
+  "quotes": [
+    "quote",
+    "citation",
+    "text",
+    "comment",
+    "message"
+  ],
+  "radio-tower": [
+    "radio",
+    "tower",
+    "icon",
+    "ui",
+    "editor"
+  ],
+  "reactions": [
+    "reactions",
+    "icon",
+    "ui",
+    "editor",
+    "tool"
+  ],
+  "record": [
+    "record",
+    "capture",
+    "save",
+    "audio",
+    "video"
+  ],
+  "record-keys": [
+    "record",
+    "capture",
+    "save",
+    "audio",
+    "video"
+  ],
+  "record-small": [
+    "record",
+    "capture",
+    "save",
+    "audio",
+    "video"
+  ],
+  "redo": [
+    "redo",
+    "repeat",
+    "forward",
+    "again",
+    "restore"
+  ],
+  "references": [
+    "references",
+    "icon",
+    "ui",
+    "editor",
+    "tool"
+  ],
+  "refresh": [
+    "reload",
+    "sync",
+    "update",
+    "renew",
+    "cycle"
+  ],
+  "regex": [
+    "regex",
+    "icon",
+    "ui",
+    "editor",
+    "tool"
+  ],
+  "remote": [
+    "remote",
+    "icon",
+    "ui",
+    "editor",
+    "tool"
+  ],
+  "remote-explorer": [
+    "remote",
+    "explorer",
+    "icon",
+    "ui",
+    "editor"
+  ],
+  "remove": [
+    "remove",
+    "delete",
+    "erase",
+    "clear",
+    "subtract"
+  ],
+  "remove-small": [
+    "remove",
+    "delete",
+    "subtract",
+    "clear",
+    "reduce"
+  ],
+  "rename": [
+    "rename",
+    "icon",
+    "ui",
+    "editor",
+    "tool"
+  ],
+  "replace": [
+    "replace",
+    "icon",
+    "ui",
+    "editor",
+    "tool"
+  ],
+  "replace-all": [
+    "replace",
+    "all",
+    "icon",
+    "ui",
+    "editor"
+  ],
+  "reply": [
+    "respond",
+    "answer",
+    "back",
+    "email",
+    "return"
+  ],
+  "repo": [
+    "repo",
+    "icon",
+    "ui",
+    "editor",
+    "tool"
+  ],
+  "repo-clone": [
+    "repo",
+    "clone",
+    "icon",
+    "ui",
+    "editor"
+  ],
+  "repo-fetch": [
+    "repo",
+    "fetch",
+    "icon",
+    "ui",
+    "editor"
+  ],
+  "repo-force-push": [
+    "repo",
+    "force",
+    "push",
+    "icon",
+    "ui"
+  ],
+  "repo-forked": [
+    "repo",
+    "forked",
+    "icon",
+    "ui",
+    "editor"
+  ],
+  "repo-pinned": [
+    "repo",
+    "pinned",
+    "icon",
+    "ui",
+    "editor"
+  ],
+  "repo-pull": [
+    "repo",
+    "pull",
+    "icon",
+    "ui",
+    "editor"
+  ],
+  "repo-push": [
+    "repo",
+    "push",
+    "icon",
+    "ui",
+    "editor"
+  ],
+  "repo-selected": [
+    "repo",
+    "selected",
+    "icon",
+    "ui",
+    "editor"
+  ],
+  "report": [
+    "report",
+    "icon",
+    "ui",
+    "editor",
+    "tool"
+  ],
+  "request-changes": [
+    "request",
+    "changes",
+    "icon",
+    "ui",
+    "editor"
+  ],
+  "robot": [
+    "robot",
+    "machine",
+    "automaton",
+    "technology",
+    "ai"
+  ],
+  "rocket": [
+    "rocket",
+    "space",
+    "launch",
+    "flight",
+    "spacecraft"
+  ],
+  "root-folder": [
+    "root",
+    "folder",
+    "directory",
+    "files",
+    "storage"
+  ],
+  "root-folder-opened": [
+    "root",
+    "folder",
+    "directory",
+    "files",
+    "storage"
+  ],
+  "rss": [
+    "rss",
+    "feed",
+    "syndication",
+    "xml",
+    "subscribe"
+  ],
+  "ruby": [
+    "ruby",
+    "icon",
+    "ui",
+    "editor",
+    "tool"
+  ],
+  "run-above": [
+    "run",
+    "above",
+    "icon",
+    "ui",
+    "editor"
+  ],
+  "run-all": [
+    "run",
+    "all",
+    "icon",
+    "ui",
+    "editor"
+  ],
+  "run-all-coverage": [
+    "run",
+    "all",
+    "coverage",
+    "icon",
+    "ui"
+  ],
+  "run-below": [
+    "run",
+    "below",
+    "icon",
+    "ui",
+    "editor"
+  ],
+  "run-coverage": [
+    "run",
+    "coverage",
+    "icon",
+    "ui",
+    "editor"
+  ],
+  "run-errors": [
+    "run",
+    "errors",
+    "icon",
+    "ui",
+    "editor"
+  ],
+  "run-with-deps": [
+    "run",
+    "with",
+    "deps",
+    "icon",
+    "ui"
+  ],
+  "save": [
+    "disk",
+    "store",
+    "keep",
+    "record",
+    "file"
+  ],
+  "save-all": [
+    "save",
+    "store",
+    "disk",
+    "keep",
+    "record"
+  ],
+  "save-as": [
+    "save",
+    "store",
+    "disk",
+    "keep",
+    "record"
+  ],
+  "screen-full": [
+    "screen",
+    "full",
+    "icon",
+    "ui",
+    "editor"
+  ],
+  "screen-normal": [
+    "screen",
+    "normal",
+    "icon",
+    "ui",
+    "editor"
+  ],
+  "search": [
+    "find",
+    "magnify",
+    "look",
+    "query",
+    "inspect"
+  ],
+  "search-fuzzy": [
+    "search",
+    "find",
+    "query",
+    "lookup",
+    "inspect"
+  ],
+  "search-large": [
+    "search",
+    "find",
+    "query",
+    "lookup",
+    "inspect"
+  ],
+  "search-sparkle": [
+    "search",
+    "find",
+    "query",
+    "lookup",
+    "inspect"
+  ],
+  "search-stop": [
+    "search",
+    "find",
+    "query",
+    "lookup",
+    "inspect"
+  ],
+  "send": [
+    "submit",
+    "paperplane",
+    "email",
+    "chat",
+    "dispatch"
+  ],
+  "send-to-remote-agent": [
+    "send",
+    "to",
+    "remote",
+    "agent",
+    "icon"
+  ],
+  "server": [
+    "database",
+    "network",
+    "storage",
+    "rack",
+    "host"
+  ],
+  "server-environment": [
+    "server",
+    "environment",
+    "icon",
+    "ui",
+    "editor"
+  ],
+  "server-process": [
+    "server",
+    "process",
+    "icon",
+    "ui",
+    "editor"
+  ],
+  "session-in-progress": [
+    "session",
+    "in",
+    "progress",
+    "icon",
+    "ui"
+  ],
+  "settings": [
+    "settings",
+    "options",
+    "config",
+    "gear",
+    "setup"
+  ],
+  "settings-gear": [
+    "settings",
+    "options",
+    "config",
+    "gear",
+    "setup"
+  ],
+  "share": [
+    "share",
+    "social",
+    "network",
+    "connect",
+    "distribute"
+  ],
+  "shield": [
+    "secure",
+    "protect",
+    "guard",
+    "safety",
+    "defense"
+  ],
+  "sign-in": [
+    "login",
+    "enter",
+    "access",
+    "account",
+    "arrow"
+  ],
+  "sign-out": [
+    "logout",
+    "exit",
+    "leave",
+    "close",
+    "arrow"
+  ],
+  "skip": [
+    "skip",
+    "icon",
+    "ui",
+    "editor",
+    "tool"
+  ],
+  "smiley": [
+    "smiley",
+    "icon",
+    "ui",
+    "editor",
+    "tool"
+  ],
+  "snake": [
+    "snake",
+    "icon",
+    "ui",
+    "editor",
+    "tool"
+  ],
+  "sort-precedence": [
+    "sort",
+    "order",
+    "arrange",
+    "rank",
+    "filter"
+  ],
+  "source-control": [
+    "source",
+    "control",
+    "icon",
+    "ui",
+    "editor"
+  ],
+  "sparkle": [
+    "sparkle",
+    "icon",
+    "ui",
+    "editor",
+    "tool"
+  ],
+  "sparkle-filled": [
+    "sparkle",
+    "filled",
+    "icon",
+    "ui",
+    "editor"
+  ],
+  "split-horizontal": [
+    "split",
+    "horizontal",
+    "icon",
+    "ui",
+    "editor"
+  ],
+  "split-vertical": [
+    "split",
+    "vertical",
+    "icon",
+    "ui",
+    "editor"
+  ],
+  "squirrel": [
+    "squirrel",
+    "icon",
+    "ui",
+    "editor",
+    "tool"
+  ],
+  "star-empty": [
+    "star",
+    "empty",
+    "icon",
+    "ui",
+    "editor"
+  ],
+  "star-full": [
+    "star",
+    "full",
+    "icon",
+    "ui",
+    "editor"
+  ],
+  "star-half": [
+    "rating",
+    "score",
+    "review",
+    "partial",
+    "medium"
+  ],
+  "stop-circle": [
+    "halt",
+    "end",
+    "round",
+    "media",
+    "control"
+  ],
+  "strikethrough": [
+    "text",
+    "format",
+    "style",
+    "strike",
+    "font"
+  ],
+  "surround-with": [
+    "surround",
+    "with",
+    "icon",
+    "ui",
+    "editor"
+  ],
+  "symbol-array": [
+    "symbol",
+    "array",
+    "icon",
+    "ui",
+    "editor"
+  ],
+  "symbol-boolean": [
+    "symbol",
+    "boolean",
+    "icon",
+    "ui",
+    "editor"
+  ],
+  "symbol-class": [
+    "symbol",
+    "class",
+    "icon",
+    "ui",
+    "editor"
+  ],
+  "symbol-color": [
+    "symbol",
+    "color",
+    "icon",
+    "ui",
+    "editor"
+  ],
+  "symbol-constant": [
+    "symbol",
+    "constant",
+    "icon",
+    "ui",
+    "editor"
+  ],
+  "symbol-enum": [
+    "symbol",
+    "enum",
+    "icon",
+    "ui",
+    "editor"
+  ],
+  "symbol-enum-member": [
+    "symbol",
+    "enum",
+    "member",
+    "icon",
+    "ui"
+  ],
+  "symbol-event": [
+    "symbol",
+    "event",
+    "icon",
+    "ui",
+    "editor"
+  ],
+  "symbol-field": [
+    "symbol",
+    "field",
+    "icon",
+    "ui",
+    "editor"
+  ],
+  "symbol-file": [
+    "symbol",
+    "file",
+    "document",
+    "page",
+    "data"
+  ],
+  "symbol-interface": [
+    "symbol",
+    "interface",
+    "icon",
+    "ui",
+    "editor"
+  ],
+  "symbol-key": [
+    "symbol",
+    "key",
+    "icon",
+    "ui",
+    "editor"
+  ],
+  "symbol-keyword": [
+    "symbol",
+    "keyword",
+    "icon",
+    "ui",
+    "editor"
+  ],
+  "symbol-method": [
+    "symbol",
+    "method",
+    "icon",
+    "ui",
+    "editor"
+  ],
+  "symbol-method-arrow": [
+    "symbol",
+    "method",
+    "arrow",
+    "direction",
+    "navigate"
+  ],
+  "symbol-misc": [
+    "symbol",
+    "misc",
+    "icon",
+    "ui",
+    "editor"
+  ],
+  "symbol-namespace": [
+    "symbol",
+    "namespace",
+    "icon",
+    "ui",
+    "editor"
+  ],
+  "symbol-numeric": [
+    "symbol",
+    "numeric",
+    "icon",
+    "ui",
+    "editor"
+  ],
+  "symbol-operator": [
+    "symbol",
+    "operator",
+    "icon",
+    "ui",
+    "editor"
+  ],
+  "symbol-parameter": [
+    "symbol",
+    "parameter",
+    "icon",
+    "ui",
+    "editor"
+  ],
+  "symbol-property": [
+    "symbol",
+    "property",
+    "icon",
+    "ui",
+    "editor"
+  ],
+  "symbol-ruler": [
+    "symbol",
+    "ruler",
+    "icon",
+    "ui",
+    "editor"
+  ],
+  "symbol-snippet": [
+    "symbol",
+    "snippet",
+    "icon",
+    "ui",
+    "editor"
+  ],
+  "symbol-string": [
+    "symbol",
+    "string",
+    "icon",
+    "ui",
+    "editor"
+  ],
+  "symbol-structure": [
+    "symbol",
+    "structure",
+    "icon",
+    "ui",
+    "editor"
+  ],
+  "symbol-variable": [
+    "symbol",
+    "variable",
+    "icon",
+    "ui",
+    "editor"
+  ],
+  "sync": [
+    "refresh",
+    "reload",
+    "cycle",
+    "update",
+    "exchange"
+  ],
+  "sync-ignored": [
+    "sync",
+    "refresh",
+    "update",
+    "reload",
+    "cycle"
+  ],
+  "table": [
+    "grid",
+    "data",
+    "row",
+    "column",
+    "spreadsheet"
+  ],
+  "tag": [
+    "label",
+    "price",
+    "category",
+    "badge",
+    "mark"
+  ],
+  "target": [
+    "target",
+    "icon",
+    "ui",
+    "editor",
+    "tool"
+  ],
+  "tasklist": [
+    "tasklist",
+    "icon",
+    "ui",
+    "editor",
+    "tool"
+  ],
+  "telescope": [
+    "telescope",
+    "icon",
+    "ui",
+    "editor",
+    "tool"
+  ],
+  "terminal": [
+    "terminal",
+    "command",
+    "console",
+    "code",
+    "computer"
+  ],
+  "terminal-bash": [
+    "terminal",
+    "console",
+    "shell",
+    "cli",
+    "command"
+  ],
+  "terminal-cmd": [
+    "terminal",
+    "console",
+    "shell",
+    "cli",
+    "command"
+  ],
+  "terminal-debian": [
+    "terminal",
+    "console",
+    "shell",
+    "cli",
+    "command"
+  ],
+  "terminal-git-bash": [
+    "git",
+    "version",
+    "repo",
+    "commit",
+    "branch"
+  ],
+  "terminal-linux": [
+    "terminal",
+    "console",
+    "shell",
+    "cli",
+    "command"
+  ],
+  "terminal-powershell": [
+    "terminal",
+    "console",
+    "shell",
+    "cli",
+    "command"
+  ],
+  "terminal-tmux": [
+    "terminal",
+    "console",
+    "shell",
+    "cli",
+    "command"
+  ],
+  "terminal-ubuntu": [
+    "terminal",
+    "console",
+    "shell",
+    "cli",
+    "command"
+  ],
+  "text-size": [
+    "text",
+    "size",
+    "icon",
+    "ui",
+    "editor"
+  ],
+  "thinking": [
+    "thinking",
+    "icon",
+    "ui",
+    "editor",
+    "tool"
+  ],
+  "three-bars": [
+    "three",
+    "bars",
+    "icon",
+    "ui",
+    "editor"
+  ],
+  "thumbsdown": [
+    "thumbsdown",
+    "icon",
+    "ui",
+    "editor",
+    "tool"
+  ],
+  "thumbsdown-filled": [
+    "thumbsdown",
+    "filled",
+    "icon",
+    "ui",
+    "editor"
+  ],
+  "thumbsup": [
+    "thumbsup",
+    "icon",
+    "ui",
+    "editor",
+    "tool"
+  ],
+  "thumbsup-filled": [
+    "thumbsup",
+    "filled",
+    "icon",
+    "ui",
+    "editor"
+  ],
+  "tools": [
+    "tools",
+    "repair",
+    "fix",
+    "hardware",
+    "maintenance"
+  ],
+  "trash": [
+    "delete",
+    "remove",
+    "bin",
+    "garbage",
+    "discard"
+  ],
+  "triangle-down": [
+    "caret",
+    "arrow",
+    "direction",
+    "shape",
+    "indicator"
+  ],
+  "triangle-left": [
+    "caret",
+    "arrow",
+    "direction",
+    "shape",
+    "indicator"
+  ],
+  "triangle-right": [
+    "caret",
+    "arrow",
+    "direction",
+    "shape",
+    "indicator"
+  ],
+  "triangle-up": [
+    "caret",
+    "arrow",
+    "direction",
+    "shape",
+    "indicator"
+  ],
+  "twitter": [
+    "social",
+    "tweet",
+    "brand",
+    "bird",
+    "network"
+  ],
+  "type-hierarchy": [
+    "type",
+    "hierarchy",
+    "icon",
+    "ui",
+    "editor"
+  ],
+  "type-hierarchy-sub": [
+    "type",
+    "hierarchy",
+    "sub",
+    "icon",
+    "ui"
+  ],
+  "type-hierarchy-super": [
+    "type",
+    "hierarchy",
+    "super",
+    "icon",
+    "ui"
+  ],
+  "unarchive": [
+    "unarchive",
+    "icon",
+    "ui",
+    "editor",
+    "tool"
+  ],
+  "unfold": [
+    "unfold",
+    "icon",
+    "ui",
+    "editor",
+    "tool"
+  ],
+  "ungroup-by-ref-type": [
+    "ungroup",
+    "by",
+    "ref",
+    "type",
+    "icon"
+  ],
+  "unlock": [
+    "open",
+    "access",
+    "permit",
+    "security",
+    "key"
+  ],
+  "unmute": [
+    "unmute",
+    "sound",
+    "audio",
+    "on",
+    "enable"
+  ],
+  "unverified": [
+    "unverified",
+    "icon",
+    "ui",
+    "editor",
+    "tool"
+  ],
+  "variable-group": [
+    "variable",
+    "group",
+    "icon",
+    "ui",
+    "editor"
+  ],
+  "verified": [
+    "check",
+    "official",
+    "authentic",
+    "badge",
+    "trust"
+  ],
+  "verified-filled": [
+    "verified",
+    "filled",
+    "icon",
+    "ui",
+    "editor"
+  ],
+  "versions": [
+    "versions",
+    "icon",
+    "ui",
+    "editor",
+    "tool"
+  ],
+  "vm": [
+    "vm",
+    "virtual",
+    "machine",
+    "server",
+    "cloud"
+  ],
+  "vm-active": [
+    "vm",
+    "virtual",
+    "machine",
+    "server",
+    "cloud"
+  ],
+  "vm-connect": [
+    "vm",
+    "virtual",
+    "machine",
+    "server",
+    "cloud"
+  ],
+  "vm-outline": [
+    "vm",
+    "virtual",
+    "machine",
+    "server",
+    "cloud"
+  ],
+  "vm-pending": [
+    "vm",
+    "virtual",
+    "machine",
+    "server",
+    "cloud"
+  ],
+  "vm-running": [
+    "vm",
+    "virtual",
+    "machine",
+    "server",
+    "cloud"
+  ],
+  "vm-small": [
+    "vm",
+    "virtual",
+    "machine",
+    "server",
+    "cloud"
+  ],
+  "vr": [
+    "vr",
+    "icon",
+    "ui",
+    "editor",
+    "tool"
+  ],
+  "vscode": [
+    "vscode",
+    "editor",
+    "ide",
+    "code",
+    "microsoft"
+  ],
+  "vscode-insiders": [
+    "vscode",
+    "editor",
+    "ide",
+    "code",
+    "microsoft"
+  ],
+  "wand": [
+    "wand",
+    "icon",
+    "ui",
+    "editor",
+    "tool"
+  ],
+  "warning": [
+    "warning",
+    "alert",
+    "caution",
+    "danger",
+    "notice"
+  ],
+  "watch": [
+    "watch",
+    "icon",
+    "ui",
+    "editor",
+    "tool"
+  ],
+  "whitespace": [
+    "whitespace",
+    "icon",
+    "ui",
+    "editor",
+    "tool"
+  ],
+  "whole-word": [
+    "whole",
+    "word",
+    "icon",
+    "ui",
+    "editor"
+  ],
+  "window": [
+    "window",
+    "icon",
+    "ui",
+    "editor",
+    "tool"
+  ],
+  "window-active": [
+    "window",
+    "active",
+    "icon",
+    "ui",
+    "editor"
+  ],
+  "word-wrap": [
+    "word",
+    "wrap",
+    "icon",
+    "ui",
+    "editor"
+  ],
+  "workspace-trusted": [
+    "workspace",
+    "trusted",
+    "icon",
+    "ui",
+    "editor"
+  ],
+  "workspace-unknown": [
+    "workspace",
+    "unknown",
+    "icon",
+    "ui",
+    "editor"
+  ],
+  "workspace-untrusted": [
+    "workspace",
+    "untrusted",
+    "icon",
+    "ui",
+    "editor"
+  ],
+  "worktree": [
+    "worktree",
+    "git",
+    "branch",
+    "repo",
+    "source"
+  ],
+  "worktree-small": [
+    "worktree",
+    "git",
+    "branch",
+    "repo",
+    "source"
+  ],
+  "zoom-in": [
+    "zoom",
+    "in",
+    "icon",
+    "ui",
+    "editor"
+  ],
+  "zoom-out": [
+    "zoom",
+    "out",
+    "icon",
+    "ui",
+    "editor"
+  ]
+}

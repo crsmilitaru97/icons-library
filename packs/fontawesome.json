@@ -1,0 +1,9837 @@
+{
+  "0": [
+    "number",
+    "digit",
+    "count",
+    "zero",
+    "math"
+  ],
+  "1": [
+    "number",
+    "digit",
+    "count",
+    "one",
+    "first"
+  ],
+  "2": [
+    "number",
+    "digit",
+    "count",
+    "two",
+    "second"
+  ],
+  "3": [
+    "number",
+    "digit",
+    "count",
+    "three",
+    "third"
+  ],
+  "4": [
+    "number",
+    "digit",
+    "count",
+    "four",
+    "fourth"
+  ],
+  "5": [
+    "number",
+    "digit",
+    "count",
+    "five",
+    "fifth"
+  ],
+  "6": [
+    "number",
+    "digit",
+    "count",
+    "six",
+    "sixth"
+  ],
+  "7": [
+    "number",
+    "digit",
+    "count",
+    "seven",
+    "seventh"
+  ],
+  "8": [
+    "number",
+    "digit",
+    "count",
+    "eight",
+    "eighth"
+  ],
+  "9": [
+    "number",
+    "digit",
+    "count",
+    "nine",
+    "ninth"
+  ],
+  "a": [
+    "letter",
+    "character",
+    "text",
+    "font",
+    "alphabet"
+  ],
+  "alarm-clock": [
+    "alarm",
+    "clock",
+    "time",
+    "schedule",
+    "timer"
+  ],
+  "align-center": [
+    "text",
+    "format",
+    "middle",
+    "paragraph",
+    "justify"
+  ],
+  "align-justify": [
+    "text",
+    "format",
+    "stretch",
+    "paragraph",
+    "lines"
+  ],
+  "align-left": [
+    "text",
+    "format",
+    "start",
+    "paragraph",
+    "lines"
+  ],
+  "align-right": [
+    "text",
+    "format",
+    "end",
+    "paragraph",
+    "lines"
+  ],
+  "anchor": [
+    "marine",
+    "ship",
+    "boat",
+    "secure",
+    "link"
+  ],
+  "anchor-circle-check": [
+    "anchor",
+    "circle",
+    "check",
+    "link",
+    "marine"
+  ],
+  "anchor-circle-exclamation": [
+    "anchor",
+    "warning",
+    "alert",
+    "marine",
+    "exclamation"
+  ],
+  "anchor-circle-xmark": [
+    "anchor",
+    "circle",
+    "xmark",
+    "cancel",
+    "remove"
+  ],
+  "anchor-lock": [
+    "secure",
+    "marine",
+    "ship",
+    "boat",
+    "safe"
+  ],
+  "angle-down": [
+    "arrow",
+    "bottom",
+    "expand",
+    "direction",
+    "dropdown"
+  ],
+  "angle-left": [
+    "arrow",
+    "back",
+    "previous",
+    "direction",
+    "return"
+  ],
+  "angle-right": [
+    "arrow",
+    "forward",
+    "next",
+    "direction",
+    "go"
+  ],
+  "angle-up": [
+    "arrow",
+    "top",
+    "collapse",
+    "direction",
+    "ascend"
+  ],
+  "angles-down": [
+    "arrows",
+    "chevrons",
+    "direction",
+    "collapse",
+    "expand"
+  ],
+  "angles-left": [
+    "angles",
+    "left",
+    "arrows",
+    "direction",
+    "back"
+  ],
+  "angles-right": [
+    "arrow",
+    "forward",
+    "next",
+    "double",
+    "direction"
+  ],
+  "angles-up": [
+    "angles",
+    "up",
+    "arrows",
+    "direction",
+    "expand"
+  ],
+  "ankh": [
+    "ankh",
+    "egyptian",
+    "symbol",
+    "life",
+    "ancient"
+  ],
+  "apple-whole": [
+    "apple",
+    "fruit",
+    "food",
+    "red",
+    "sweet"
+  ],
+  "archway": [
+    "architecture",
+    "building",
+    "arch",
+    "structure",
+    "entrance"
+  ],
+  "arrow-down": [
+    "direction",
+    "bottom",
+    "download",
+    "descend",
+    "south"
+  ],
+  "arrow-down-up-across-line": [
+    "arrow",
+    "down",
+    "up",
+    "across",
+    "line"
+  ],
+  "arrow-down-up-lock": [
+    "arrow",
+    "down",
+    "up",
+    "lock",
+    "secure"
+  ],
+  "arrow-left": [
+    "direction",
+    "back",
+    "previous",
+    "return",
+    "west"
+  ],
+  "arrow-right": [
+    "direction",
+    "forward",
+    "next",
+    "go",
+    "east"
+  ],
+  "arrow-right-to-city": [
+    "arrow",
+    "right",
+    "city",
+    "location",
+    "destination"
+  ],
+  "arrow-trend-down": [
+    "arrow",
+    "trend",
+    "down",
+    "decrease",
+    "decline"
+  ],
+  "arrow-trend-up": [
+    "arrow",
+    "trend",
+    "up",
+    "growth",
+    "increase"
+  ],
+  "arrow-up": [
+    "direction",
+    "top",
+    "upload",
+    "ascend",
+    "north"
+  ],
+  "arrow-up-from-bracket": [
+    "export",
+    "upload",
+    "share",
+    "send",
+    "sync"
+  ],
+  "arrow-up-from-ground-water": [
+    "water",
+    "ground",
+    "arrow",
+    "up",
+    "nature"
+  ],
+  "arrow-up-from-water-pump": [
+    "arrow",
+    "up",
+    "water",
+    "pump",
+    "flow"
+  ],
+  "arrow-up-right-dots": [
+    "arrow",
+    "up",
+    "right",
+    "dots",
+    "direction"
+  ],
+  "arrows-down-to-line": [
+    "arrows",
+    "down",
+    "line",
+    "download",
+    "bottom"
+  ],
+  "arrows-down-to-people": [
+    "arrow",
+    "down",
+    "people",
+    "download",
+    "direction"
+  ],
+  "arrows-left-right": [
+    "arrows",
+    "horizontal",
+    "direction",
+    "width",
+    "resize"
+  ],
+  "arrows-left-right-to-line": [
+    "arrows",
+    "left",
+    "right",
+    "line",
+    "compress"
+  ],
+  "arrows-spin": [
+    "arrows",
+    "spin",
+    "rotate",
+    "reload",
+    "refresh"
+  ],
+  "arrows-split-up-and-left": [
+    "arrows",
+    "split",
+    "up",
+    "left",
+    "direction"
+  ],
+  "arrows-to-circle": [
+    "arrows",
+    "to",
+    "circle",
+    "round",
+    "shape"
+  ],
+  "arrows-to-dot": [
+    "arrows",
+    "center",
+    "focus",
+    "target",
+    "converge"
+  ],
+  "arrows-to-eye": [
+    "arrows",
+    "eye",
+    "focus",
+    "view",
+    "look"
+  ],
+  "arrows-turn-right": [
+    "arrow",
+    "turn",
+    "right",
+    "direction",
+    "bend"
+  ],
+  "arrows-turn-to-dots": [
+    "arrows",
+    "turn",
+    "dots",
+    "loading",
+    "processing"
+  ],
+  "arrows-up-down-left-right": [
+    "arrows",
+    "up",
+    "down",
+    "left",
+    "right"
+  ],
+  "arrows-up-to-line": [
+    "arrows",
+    "up",
+    "direction",
+    "align",
+    "top"
+  ],
+  "arrows-v": [
+    "arrows",
+    "vertical",
+    "up",
+    "down",
+    "direction"
+  ],
+  "asterisk": [
+    "star",
+    "required",
+    "symbol",
+    "mark",
+    "password"
+  ],
+  "at": [
+    "email",
+    "mention",
+    "address",
+    "symbol",
+    "internet"
+  ],
+  "atom": [
+    "science",
+    "physics",
+    "chemistry",
+    "nuclear",
+    "energy"
+  ],
+  "audio-description": [
+    "audio",
+    "description",
+    "sound",
+    "accessibility",
+    "media"
+  ],
+  "austral-sign": [
+    "money",
+    "currency",
+    "australia",
+    "cash",
+    "finance"
+  ],
+  "award": [
+    "award",
+    "prize",
+    "trophy",
+    "achievement",
+    "recognition"
+  ],
+  "b": [
+    "letter",
+    "character",
+    "text",
+    "font",
+    "alphabet"
+  ],
+  "baby": [
+    "baby",
+    "infant",
+    "child",
+    "newborn",
+    "toddler"
+  ],
+  "backward": [
+    "rewind",
+    "previous",
+    "media",
+    "player",
+    "return"
+  ],
+  "bacon": [
+    "food",
+    "meat",
+    "breakfast",
+    "pig",
+    "cook"
+  ],
+  "bacteria": [
+    "bacteria",
+    "germ",
+    "microbe",
+    "virus",
+    "cell"
+  ],
+  "bacterium": [
+    "bacterium",
+    "microbe",
+    "germ",
+    "virus",
+    "cell"
+  ],
+  "baht-sign": [
+    "baht",
+    "sign",
+    "currency",
+    "money",
+    "thai"
+  ],
+  "bandage": [
+    "bandage",
+    "medical",
+    "first",
+    "aid",
+    "heal"
+  ],
+  "bangladeshi-taka-sign": [
+    "money",
+    "currency",
+    "bangladesh",
+    "cash",
+    "finance"
+  ],
+  "barcode": [
+    "scan",
+    "price",
+    "product",
+    "shop",
+    "code"
+  ],
+  "baseball-ball": [
+    "baseball",
+    "ball",
+    "sport",
+    "game",
+    "equipment"
+  ],
+  "baseball-bat-ball": [
+    "baseball",
+    "bat",
+    "ball",
+    "sport",
+    "game"
+  ],
+  "basketball-ball": [
+    "sport",
+    "ball",
+    "basketball",
+    "game",
+    "hoop"
+  ],
+  "bathtub": [
+    "bathroom",
+    "wash",
+    "clean",
+    "water",
+    "shower"
+  ],
+  "battery-empty": [
+    "battery",
+    "empty",
+    "power",
+    "charge",
+    "energy"
+  ],
+  "battery-full": [
+    "power",
+    "charge",
+    "energy",
+    "status",
+    "100%"
+  ],
+  "battery-half": [
+    "battery",
+    "half",
+    "power",
+    "charge",
+    "energy"
+  ],
+  "battery-quarter": [
+    "battery",
+    "quarter",
+    "power",
+    "charge",
+    "energy"
+  ],
+  "battery-three-quarters": [
+    "battery",
+    "three",
+    "quarters",
+    "power",
+    "charge"
+  ],
+  "bed": [
+    "bed",
+    "sleep",
+    "rest",
+    "furniture",
+    "bedroom"
+  ],
+  "beer-mug-empty": [
+    "beer",
+    "mug",
+    "drink",
+    "beverage",
+    "alcohol"
+  ],
+  "bell": [
+    "notification",
+    "alarm",
+    "alert",
+    "ring",
+    "reminder"
+  ],
+  "bell-slash": [
+    "mute",
+    "silent",
+    "quiet",
+    "off",
+    "disable"
+  ],
+  "bezier-curve": [
+    "bezier",
+    "curve",
+    "design",
+    "shape",
+    "path"
+  ],
+  "bicycle": [
+    "bike",
+    "cycle",
+    "transport",
+    "ride",
+    "sport"
+  ],
+  "binoculars": [
+    "binoculars",
+    "view",
+    "zoom",
+    "watch",
+    "observe"
+  ],
+  "biohazard": [
+    "biohazard",
+    "danger",
+    "warning",
+    "toxic",
+    "hazard"
+  ],
+  "bitcoin-sign": [
+    "bitcoin",
+    "cryptocurrency",
+    "money",
+    "digital",
+    "finance"
+  ],
+  "blender": [
+    "blender",
+    "mix",
+    "blend",
+    "kitchen",
+    "appliance"
+  ],
+  "blender-phone": [
+    "mix",
+    "blend",
+    "phone",
+    "device",
+    "kitchen"
+  ],
+  "blog": [
+    "blog",
+    "article",
+    "post",
+    "write",
+    "journal"
+  ],
+  "bold": [
+    "text",
+    "format",
+    "style",
+    "heavy",
+    "font"
+  ],
+  "bolt-lightning": [
+    "lightning",
+    "bolt",
+    "electric",
+    "power",
+    "storm"
+  ],
+  "bomb": [
+    "explode",
+    "weapon",
+    "danger",
+    "boom",
+    "error"
+  ],
+  "bone": [
+    "bone",
+    "skeleton",
+    "medical",
+    "anatomy",
+    "body"
+  ],
+  "bong": [
+    "bong",
+    "smoke",
+    "pipe",
+    "glass",
+    "water"
+  ],
+  "book": [
+    "read",
+    "library",
+    "study",
+    "education",
+    "literature"
+  ],
+  "book-atlas": [
+    "book",
+    "atlas",
+    "geography",
+    "maps",
+    "world"
+  ],
+  "book-bible": [
+    "book",
+    "bible",
+    "religion",
+    "holy",
+    "scripture"
+  ],
+  "book-bookmark": [
+    "book",
+    "bookmark",
+    "read",
+    "page",
+    "study"
+  ],
+  "book-medical": [
+    "book",
+    "medical",
+    "health",
+    "medicine",
+    "doctor"
+  ],
+  "book-open": [
+    "book",
+    "open",
+    "read",
+    "pages",
+    "literature"
+  ],
+  "book-reader": [
+    "book",
+    "reader",
+    "reading",
+    "education",
+    "learn"
+  ],
+  "book-skull": [
+    "book",
+    "skull",
+    "death",
+    "horror",
+    "macabre"
+  ],
+  "bookmark": [
+    "save",
+    "favorite",
+    "tag",
+    "marker",
+    "keep"
+  ],
+  "border-all": [
+    "border",
+    "all",
+    "frame",
+    "outline",
+    "square"
+  ],
+  "border-none": [
+    "border",
+    "none",
+    "remove",
+    "clear",
+    "outline"
+  ],
+  "border-top-left": [
+    "corner",
+    "border",
+    "edge",
+    "frame",
+    "shape"
+  ],
+  "bore-hole": [
+    "bore",
+    "hole",
+    "drilling",
+    "mining",
+    "excavation"
+  ],
+  "bottle-droplet": [
+    "bottle",
+    "droplet",
+    "water",
+    "liquid",
+    "drink"
+  ],
+  "bottle-water": [
+    "water",
+    "bottle",
+    "drink",
+    "hydration",
+    "liquid"
+  ],
+  "bowl-food": [
+    "food",
+    "bowl",
+    "eat",
+    "meal",
+    "dish"
+  ],
+  "bowl-rice": [
+    "bowl",
+    "rice",
+    "food",
+    "asian",
+    "cuisine"
+  ],
+  "bowling-ball": [
+    "bowling",
+    "ball",
+    "sport",
+    "game",
+    "pin"
+  ],
+  "box": [
+    "package",
+    "container",
+    "delivery",
+    "cube",
+    "product"
+  ],
+  "box-archive": [
+    "box",
+    "archive",
+    "storage",
+    "file",
+    "save"
+  ],
+  "box-open": [
+    "open",
+    "box",
+    "package",
+    "container",
+    "delivery"
+  ],
+  "box-tissue": [
+    "box",
+    "tissue",
+    "paper",
+    "napkin",
+    "hygiene"
+  ],
+  "boxes-packing": [
+    "boxes",
+    "packing",
+    "move",
+    "package",
+    "container"
+  ],
+  "boxes-stacked": [
+    "boxes",
+    "stacked",
+    "storage",
+    "organization",
+    "inventory"
+  ],
+  "braille": [
+    "braille",
+    "blind",
+    "accessibility",
+    "touch",
+    "reading"
+  ],
+  "brain": [
+    "brain",
+    "mind",
+    "intelligence",
+    "thinking",
+    "neural"
+  ],
+  "brazilian-real-sign": [
+    "brazilian",
+    "real",
+    "sign",
+    "money",
+    "currency"
+  ],
+  "bread-slice": [
+    "bread",
+    "food",
+    "slice",
+    "bake",
+    "wheat"
+  ],
+  "bridge": [
+    "bridge",
+    "connection",
+    "link",
+    "crossing",
+    "structure"
+  ],
+  "bridge-circle-check": [
+    "bridge",
+    "circle",
+    "check",
+    "round",
+    "shape"
+  ],
+  "bridge-circle-exclamation": [
+    "warning",
+    "danger",
+    "structure",
+    "travel",
+    "alert"
+  ],
+  "bridge-circle-xmark": [
+    "remove",
+    "delete",
+    "close",
+    "travel",
+    "structure"
+  ],
+  "bridge-lock": [
+    "bridge",
+    "lock",
+    "security",
+    "private",
+    "protect"
+  ],
+  "bridge-water": [
+    "bridge",
+    "water",
+    "crossing",
+    "river",
+    "structure"
+  ],
+  "briefcase": [
+    "work",
+    "business",
+    "office",
+    "job",
+    "bag"
+  ],
+  "briefcase-medical": [
+    "briefcase",
+    "medical",
+    "health",
+    "doctor",
+    "professional"
+  ],
+  "broom": [
+    "broom",
+    "clean",
+    "sweep",
+    "household",
+    "tool"
+  ],
+  "brush": [
+    "brush",
+    "paint",
+    "draw",
+    "art",
+    "design"
+  ],
+  "bucket": [
+    "container",
+    "water",
+    "carry",
+    "pail",
+    "wash"
+  ],
+  "bug": [
+    "error",
+    "insect",
+    "glitch",
+    "fix",
+    "issue"
+  ],
+  "bug-slash": [
+    "bug",
+    "slash",
+    "debug",
+    "error",
+    "fix"
+  ],
+  "bugs": [
+    "bug",
+    "insect",
+    "pest",
+    "animal",
+    "debug"
+  ],
+  "building": [
+    "office",
+    "company",
+    "city",
+    "structure",
+    "work"
+  ],
+  "building-circle-arrow-right": [
+    "building",
+    "circle",
+    "arrow",
+    "right",
+    "office"
+  ],
+  "building-circle-check": [
+    "confirm",
+    "success",
+    "building",
+    "office",
+    "company"
+  ],
+  "building-circle-exclamation": [
+    "warning",
+    "alert",
+    "building",
+    "office",
+    "danger"
+  ],
+  "building-circle-xmark": [
+    "building",
+    "circle",
+    "xmark",
+    "remove",
+    "delete"
+  ],
+  "building-flag": [
+    "building",
+    "flag",
+    "office",
+    "company",
+    "business"
+  ],
+  "building-lock": [
+    "secure",
+    "building",
+    "office",
+    "company",
+    "safety"
+  ],
+  "building-ngo": [
+    "charity",
+    "organization",
+    "nonprofit",
+    "help",
+    "aid"
+  ],
+  "building-shield": [
+    "building",
+    "shield",
+    "security",
+    "protection",
+    "safe"
+  ],
+  "building-un": [
+    "building",
+    "un",
+    "office",
+    "company",
+    "structure"
+  ],
+  "building-user": [
+    "office",
+    "company",
+    "work",
+    "business",
+    "people"
+  ],
+  "building-wheat": [
+    "farm",
+    "agriculture",
+    "grain",
+    "harvest",
+    "food"
+  ],
+  "bullhorn": [
+    "announce",
+    "shout",
+    "broadcast",
+    "speak",
+    "megaphone"
+  ],
+  "bullseye": [
+    "target",
+    "goal",
+    "aim",
+    "precision",
+    "center"
+  ],
+  "burst": [
+    "explode",
+    "burst",
+    "star",
+    "energy",
+    "radiation"
+  ],
+  "bus": [
+    "vehicle",
+    "transport",
+    "public",
+    "travel",
+    "transit"
+  ],
+  "bus-side": [
+    "bus",
+    "side",
+    "transit",
+    "transport",
+    "vehicle"
+  ],
+  "bus-simple": [
+    "bus",
+    "simple",
+    "transport",
+    "vehicle",
+    "public"
+  ],
+  "business-time": [
+    "business",
+    "time",
+    "clock",
+    "work",
+    "office"
+  ],
+  "c": [
+    "letter",
+    "character",
+    "text",
+    "font",
+    "alphabet"
+  ],
+  "cake-candles": [
+    "cake",
+    "candles",
+    "birthday",
+    "celebration",
+    "party"
+  ],
+  "calculator": [
+    "math",
+    "numbers",
+    "finance",
+    "count",
+    "accounting"
+  ],
+  "calendar": [
+    "date",
+    "schedule",
+    "event",
+    "time",
+    "plan"
+  ],
+  "calendar-check": [
+    "calendar",
+    "check",
+    "confirm",
+    "schedule",
+    "appointment"
+  ],
+  "calendar-day": [
+    "calendar",
+    "day",
+    "date",
+    "schedule",
+    "event"
+  ],
+  "calendar-days": [
+    "calendar",
+    "days",
+    "date",
+    "schedule",
+    "event"
+  ],
+  "calendar-minus": [
+    "calendar",
+    "minus",
+    "remove",
+    "date",
+    "schedule"
+  ],
+  "calendar-plus": [
+    "calendar",
+    "plus",
+    "add",
+    "schedule",
+    "appointment"
+  ],
+  "calendar-week": [
+    "calendar",
+    "week",
+    "schedule",
+    "planner",
+    "organizer"
+  ],
+  "calendar-xmark": [
+    "calendar",
+    "xmark",
+    "cancel",
+    "remove",
+    "delete"
+  ],
+  "camera-alt": [
+    "camera",
+    "alternative",
+    "photo",
+    "picture",
+    "image"
+  ],
+  "camera-retro": [
+    "photo",
+    "camera",
+    "picture",
+    "vintage",
+    "retro"
+  ],
+  "camera-rotate": [
+    "photo",
+    "rotate",
+    "camera",
+    "picture",
+    "turn"
+  ],
+  "campground": [
+    "campground",
+    "tent",
+    "outdoor",
+    "camping",
+    "nature"
+  ],
+  "cancel": [
+    "remove",
+    "delete",
+    "stop",
+    "close",
+    "exit"
+  ],
+  "candy-cane": [
+    "candy",
+    "sweet",
+    "christmas",
+    "holiday",
+    "treat"
+  ],
+  "cannabis": [
+    "marijuana",
+    "weed",
+    "plant",
+    "leaf",
+    "drug"
+  ],
+  "capsules": [
+    "medicine",
+    "drug",
+    "health",
+    "pharmacy",
+    "pill"
+  ],
+  "car": [
+    "vehicle",
+    "drive",
+    "transport",
+    "auto",
+    "travel"
+  ],
+  "car-battery": [
+    "battery",
+    "car",
+    "power",
+    "energy",
+    "vehicle"
+  ],
+  "car-crash": [
+    "car",
+    "crash",
+    "accident",
+    "collision",
+    "damage"
+  ],
+  "car-on": [
+    "car",
+    "on",
+    "vehicle",
+    "driving",
+    "transport"
+  ],
+  "car-rear": [
+    "car",
+    "rear",
+    "vehicle",
+    "back",
+    "automobile"
+  ],
+  "car-side": [
+    "car",
+    "side",
+    "vehicle",
+    "auto",
+    "transport"
+  ],
+  "car-tunnel": [
+    "car",
+    "tunnel",
+    "vehicle",
+    "road",
+    "transport"
+  ],
+  "caravan": [
+    "caravan",
+    "trailer",
+    "travel",
+    "camping",
+    "vehicle"
+  ],
+  "caret-down": [
+    "dropdown",
+    "expand",
+    "more",
+    "menu",
+    "bottom"
+  ],
+  "caret-left": [
+    "caret",
+    "left",
+    "arrow",
+    "back",
+    "previous"
+  ],
+  "caret-right": [
+    "caret",
+    "right",
+    "arrow",
+    "next",
+    "forward"
+  ],
+  "caret-up": [
+    "arrow",
+    "up",
+    "collapse",
+    "expand",
+    "top"
+  ],
+  "carriage-baby": [
+    "carriage",
+    "baby",
+    "stroller",
+    "infant",
+    "transport"
+  ],
+  "carrot": [
+    "carrot",
+    "vegetable",
+    "food",
+    "plant",
+    "healthy"
+  ],
+  "cart-arrow-down": [
+    "cart",
+    "arrow",
+    "down",
+    "shopping",
+    "download"
+  ],
+  "cart-plus": [
+    "add",
+    "new",
+    "shopping",
+    "ecommerce",
+    "item"
+  ],
+  "cash-register": [
+    "cash",
+    "register",
+    "money",
+    "payment",
+    "sale"
+  ],
+  "cat": [
+    "animal",
+    "pet",
+    "feline",
+    "kitten",
+    "meow"
+  ],
+  "cedi-sign": [
+    "money",
+    "currency",
+    "ghana",
+    "cash",
+    "finance"
+  ],
+  "cent-sign": [
+    "cent",
+    "sign",
+    "money",
+    "currency",
+    "dollar"
+  ],
+  "certificate": [
+    "award",
+    "document",
+    "achievement",
+    "diploma",
+    "recognition"
+  ],
+  "chair": [
+    "furniture",
+    "seat",
+    "sit",
+    "office",
+    "home"
+  ],
+  "chalkboard": [
+    "board",
+    "education",
+    "school",
+    "write",
+    "teach"
+  ],
+  "chalkboard-user": [
+    "chalkboard",
+    "user",
+    "teacher",
+    "education",
+    "learning"
+  ],
+  "charging-station": [
+    "power",
+    "electric",
+    "charge",
+    "battery",
+    "energy"
+  ],
+  "chart-area": [
+    "graph",
+    "data",
+    "analytics",
+    "statistics",
+    "report"
+  ],
+  "chart-bar": [
+    "graph",
+    "analytics",
+    "statistics",
+    "report",
+    "data"
+  ],
+  "chart-column": [
+    "chart",
+    "column",
+    "graph",
+    "data",
+    "statistics"
+  ],
+  "chart-diagram": [
+    "chart",
+    "diagram",
+    "graph",
+    "analytics",
+    "data"
+  ],
+  "chart-gantt": [
+    "chart",
+    "gantt",
+    "project",
+    "schedule",
+    "timeline"
+  ],
+  "chart-simple": [
+    "graph",
+    "data",
+    "analytics",
+    "statistics",
+    "report"
+  ],
+  "check": [
+    "tick",
+    "success",
+    "confirm",
+    "done",
+    "yes"
+  ],
+  "check-double": [
+    "check",
+    "double",
+    "verify",
+    "confirm",
+    "validate"
+  ],
+  "cheese": [
+    "cheese",
+    "food",
+    "dairy",
+    "milk",
+    "product"
+  ],
+  "chess": [
+    "chess",
+    "game",
+    "board",
+    "strategy",
+    "king"
+  ],
+  "chess-bishop": [
+    "game",
+    "board",
+    "strategy",
+    "piece",
+    "diagonal"
+  ],
+  "chess-board": [
+    "game",
+    "board",
+    "strategy",
+    "checkers",
+    "squares"
+  ],
+  "chess-king": [
+    "chess",
+    "king",
+    "game",
+    "board",
+    "strategy"
+  ],
+  "chess-knight": [
+    "game",
+    "board",
+    "strategy",
+    "piece",
+    "horse"
+  ],
+  "chess-pawn": [
+    "chess",
+    "pawn",
+    "game",
+    "board",
+    "strategy"
+  ],
+  "chess-queen": [
+    "game",
+    "board",
+    "strategy",
+    "piece",
+    "king"
+  ],
+  "chess-rook": [
+    "chess",
+    "rook",
+    "game",
+    "board",
+    "strategy"
+  ],
+  "chevron-down": [
+    "arrow",
+    "expand",
+    "bottom",
+    "menu",
+    "dropdown"
+  ],
+  "chevron-left": [
+    "arrow",
+    "back",
+    "previous",
+    "west",
+    "return"
+  ],
+  "chevron-right": [
+    "arrow",
+    "forward",
+    "next",
+    "east",
+    "go"
+  ],
+  "chevron-up": [
+    "arrow",
+    "collapse",
+    "top",
+    "north",
+    "ascend"
+  ],
+  "child": [
+    "kid",
+    "young",
+    "baby",
+    "person",
+    "human"
+  ],
+  "child-dress": [
+    "child",
+    "dress",
+    "kid",
+    "girl",
+    "clothing"
+  ],
+  "child-reaching": [
+    "child",
+    "reaching",
+    "kid",
+    "baby",
+    "arms"
+  ],
+  "child-rifle": [
+    "child",
+    "rifle",
+    "weapon",
+    "military",
+    "gun"
+  ],
+  "children": [
+    "kids",
+    "family",
+    "people",
+    "young",
+    "child"
+  ],
+  "church": [
+    "religion",
+    "building",
+    "worship",
+    "prayer",
+    "faith"
+  ],
+  "circle": [
+    "round",
+    "shape",
+    "empty",
+    "outline",
+    "geometry"
+  ],
+  "circle-arrow-down": [
+    "arrow",
+    "down",
+    "download",
+    "direction",
+    "south"
+  ],
+  "circle-arrow-left": [
+    "arrow",
+    "left",
+    "back",
+    "direction",
+    "west"
+  ],
+  "circle-arrow-right": [
+    "arrow",
+    "right",
+    "forward",
+    "direction",
+    "east"
+  ],
+  "circle-arrow-up": [
+    "arrow",
+    "up",
+    "upload",
+    "direction",
+    "north"
+  ],
+  "circle-check": [
+    "check",
+    "success",
+    "confirm",
+    "done",
+    "round"
+  ],
+  "circle-chevron-down": [
+    "circle",
+    "chevron",
+    "down",
+    "round",
+    "shape"
+  ],
+  "circle-chevron-left": [
+    "circle",
+    "chevron",
+    "left",
+    "arrow",
+    "direction"
+  ],
+  "circle-chevron-right": [
+    "circle",
+    "chevron",
+    "right",
+    "round",
+    "shape"
+  ],
+  "circle-chevron-up": [
+    "arrow",
+    "up",
+    "collapse",
+    "expand",
+    "top"
+  ],
+  "circle-down": [
+    "circle",
+    "down",
+    "arrow",
+    "dropdown",
+    "select"
+  ],
+  "circle-half-stroke": [
+    "circle",
+    "half",
+    "stroke",
+    "adjust",
+    "contrast"
+  ],
+  "circle-left": [
+    "circle",
+    "left",
+    "arrow",
+    "back",
+    "direction"
+  ],
+  "circle-nodes": [
+    "circle",
+    "nodes",
+    "network",
+    "connection",
+    "graph"
+  ],
+  "circle-notch": [
+    "circle",
+    "notch",
+    "round",
+    "shape",
+    "dot"
+  ],
+  "circle-right": [
+    "arrow",
+    "right",
+    "forward",
+    "direction",
+    "east"
+  ],
+  "circle-up": [
+    "arrow",
+    "up",
+    "upload",
+    "direction",
+    "north"
+  ],
+  "city": [
+    "urban",
+    "buildings",
+    "downtown",
+    "metropolitan",
+    "skyline"
+  ],
+  "clapperboard": [
+    "clapperboard",
+    "film",
+    "movie",
+    "video",
+    "cinema"
+  ],
+  "clipboard": [
+    "copy",
+    "paste",
+    "board",
+    "task",
+    "checklist"
+  ],
+  "clipboard-check": [
+    "clipboard",
+    "check",
+    "done",
+    "complete",
+    "task"
+  ],
+  "clipboard-list": [
+    "clipboard",
+    "list",
+    "checklist",
+    "tasks",
+    "todo"
+  ],
+  "clipboard-question": [
+    "clipboard",
+    "question",
+    "help",
+    "inquiry",
+    "form"
+  ],
+  "clipboard-user": [
+    "clipboard",
+    "user",
+    "person",
+    "profile",
+    "form"
+  ],
+  "clock-four": [
+    "clock",
+    "four",
+    "time",
+    "hour",
+    "watch"
+  ],
+  "clone": [
+    "copy",
+    "duplicate",
+    "replicate",
+    "double",
+    "layers"
+  ],
+  "closed-captioning": [
+    "closed",
+    "captioning",
+    "subtitle",
+    "text",
+    "accessibility"
+  ],
+  "cloud": [
+    "weather",
+    "storage",
+    "server",
+    "data",
+    "sky"
+  ],
+  "cloud-download-alt": [
+    "download",
+    "cloud",
+    "sync",
+    "backup",
+    "save"
+  ],
+  "cloud-meatball": [
+    "cloud",
+    "meatball",
+    "weather",
+    "network",
+    "server"
+  ],
+  "cloud-moon": [
+    "cloud",
+    "moon",
+    "night",
+    "weather",
+    "sky"
+  ],
+  "cloud-moon-rain": [
+    "cloud",
+    "moon",
+    "rain",
+    "weather",
+    "night"
+  ],
+  "cloud-rain": [
+    "cloud",
+    "rain",
+    "weather",
+    "storm",
+    "precipitation"
+  ],
+  "cloud-showers-heavy": [
+    "cloud",
+    "showers",
+    "heavy",
+    "storage",
+    "server"
+  ],
+  "cloud-showers-water": [
+    "rain",
+    "weather",
+    "water",
+    "storm",
+    "shower"
+  ],
+  "cloud-sun": [
+    "cloud",
+    "sun",
+    "weather",
+    "partly",
+    "sunny"
+  ],
+  "cloud-sun-rain": [
+    "cloud",
+    "sun",
+    "rain",
+    "storage",
+    "server"
+  ],
+  "cloud-upload-alt": [
+    "upload",
+    "cloud",
+    "sync",
+    "backup",
+    "save"
+  ],
+  "clover": [
+    "clover",
+    "luck",
+    "irish",
+    "plant",
+    "shamrock"
+  ],
+  "code": [
+    "develop",
+    "program",
+    "syntax",
+    "html",
+    "brackets"
+  ],
+  "code-branch": [
+    "code",
+    "branch",
+    "git",
+    "version",
+    "merge"
+  ],
+  "code-commit": [
+    "code",
+    "commit",
+    "git",
+    "version",
+    "control"
+  ],
+  "code-compare": [
+    "code",
+    "compare",
+    "diff",
+    "development",
+    "programming"
+  ],
+  "code-fork": [
+    "code",
+    "branch",
+    "git",
+    "version",
+    "merge"
+  ],
+  "code-merge": [
+    "code",
+    "merge",
+    "git",
+    "version",
+    "control"
+  ],
+  "code-pull-request": [
+    "code",
+    "pull",
+    "request",
+    "develop",
+    "program"
+  ],
+  "coins": [
+    "coins",
+    "money",
+    "currency",
+    "cash",
+    "gold"
+  ],
+  "colon-sign": [
+    "money",
+    "currency",
+    "cash",
+    "finance",
+    "payment"
+  ],
+  "comment": [
+    "chat",
+    "message",
+    "bubble",
+    "talk",
+    "feedback"
+  ],
+  "comment-dollar": [
+    "comment",
+    "dollar",
+    "money",
+    "finance",
+    "discussion"
+  ],
+  "comment-medical": [
+    "comment",
+    "medical",
+    "health",
+    "note",
+    "doctor"
+  ],
+  "comment-nodes": [
+    "comment",
+    "nodes",
+    "chat",
+    "discussion",
+    "network"
+  ],
+  "comment-slash": [
+    "comment",
+    "slash",
+    "chat",
+    "message",
+    "discuss"
+  ],
+  "commenting": [
+    "comment",
+    "chat",
+    "message",
+    "discussion",
+    "talk"
+  ],
+  "comments": [
+    "comments",
+    "chat",
+    "discuss",
+    "messages",
+    "conversation"
+  ],
+  "comments-dollar": [
+    "comments",
+    "money",
+    "finance",
+    "discussion",
+    "payment"
+  ],
+  "compact-disc": [
+    "compact",
+    "disc",
+    "cd",
+    "music",
+    "media"
+  ],
+  "compass": [
+    "navigation",
+    "direction",
+    "explore",
+    "map",
+    "safari"
+  ],
+  "compress": [
+    "shrink",
+    "collapse",
+    "minimize",
+    "smaller",
+    "arrow"
+  ],
+  "computer": [
+    "device",
+    "pc",
+    "screen",
+    "monitor",
+    "tech"
+  ],
+  "concierge-bell": [
+    "concierge",
+    "bell",
+    "notification",
+    "alert",
+    "alarm"
+  ],
+  "contact-book": [
+    "contact",
+    "book",
+    "read",
+    "library",
+    "literature"
+  ],
+  "cookie": [
+    "cookie",
+    "food",
+    "sweet",
+    "dessert",
+    "biscuit"
+  ],
+  "cookie-bite": [
+    "cookie",
+    "bite",
+    "food",
+    "snack",
+    "sweet"
+  ],
+  "copy": [
+    "duplicate",
+    "clone",
+    "files",
+    "clipboard",
+    "replicate"
+  ],
+  "copyright": [
+    "copyright",
+    "right",
+    "legal",
+    "protect",
+    "symbol"
+  ],
+  "couch": [
+    "furniture",
+    "sofa",
+    "seat",
+    "living",
+    "comfort"
+  ],
+  "cow": [
+    "animal",
+    "farm",
+    "milk",
+    "cattle",
+    "livestock"
+  ],
+  "credit-card-alt": [
+    "credit",
+    "card",
+    "alternative",
+    "payment",
+    "money"
+  ],
+  "crop": [
+    "image",
+    "edit",
+    "trim",
+    "resize",
+    "photo"
+  ],
+  "crop-simple": [
+    "crop",
+    "simple",
+    "image",
+    "edit",
+    "resize"
+  ],
+  "cross": [
+    "religion",
+    "christian",
+    "plus",
+    "mark",
+    "symbol"
+  ],
+  "crosshairs": [
+    "aim",
+    "target",
+    "focus",
+    "center",
+    "sniper"
+  ],
+  "crow": [
+    "bird",
+    "black",
+    "animal",
+    "fly",
+    "nature"
+  ],
+  "crown": [
+    "king",
+    "royal",
+    "power",
+    "leader",
+    "jewel"
+  ],
+  "crutch": [
+    "medical",
+    "injury",
+    "support",
+    "walk",
+    "disability"
+  ],
+  "cruzeiro-sign": [
+    "money",
+    "currency",
+    "brazil",
+    "cash",
+    "finance"
+  ],
+  "cube": [
+    "box",
+    "shape",
+    "3d",
+    "block",
+    "geometry"
+  ],
+  "cubes": [
+    "cubes",
+    "blocks",
+    "3d",
+    "shapes",
+    "geometric"
+  ],
+  "cubes-stacked": [
+    "cubes",
+    "stack",
+    "blocks",
+    "organize",
+    "arrange"
+  ],
+  "d": [
+    "d",
+    "letter",
+    "character",
+    "text",
+    "alphabet"
+  ],
+  "database": [
+    "database",
+    "data",
+    "storage",
+    "server",
+    "information"
+  ],
+  "delete-left": [
+    "delete",
+    "left",
+    "backspace",
+    "remove",
+    "erase"
+  ],
+  "democrat": [
+    "politics",
+    "democracy",
+    "government",
+    "party",
+    "vote"
+  ],
+  "desktop-alt": [
+    "desktop",
+    "alternative",
+    "computer",
+    "monitor",
+    "screen"
+  ],
+  "dharmachakra": [
+    "dharmachakra",
+    "buddhism",
+    "wheel",
+    "religion",
+    "spiritual"
+  ],
+  "diagram-next": [
+    "diagram",
+    "next",
+    "flow",
+    "process",
+    "workflow"
+  ],
+  "diagram-predecessor": [
+    "diagram",
+    "predecessor",
+    "chart",
+    "flow",
+    "previous"
+  ],
+  "diagram-successor": [
+    "diagram",
+    "successor",
+    "chart",
+    "flow",
+    "process"
+  ],
+  "diamond": [
+    "diamond",
+    "gem",
+    "jewel",
+    "precious",
+    "stone"
+  ],
+  "dice": [
+    "dice",
+    "game",
+    "gamble",
+    "random",
+    "chance"
+  ],
+  "dice-d20": [
+    "dice",
+    "d20",
+    "game",
+    "roleplay",
+    "random"
+  ],
+  "dice-d6": [
+    "dice",
+    "d6",
+    "game",
+    "gambling",
+    "random"
+  ],
+  "dice-five": [
+    "game",
+    "random",
+    "chance",
+    "gamble",
+    "cube"
+  ],
+  "dice-four": [
+    "dice",
+    "four",
+    "game",
+    "gamble",
+    "random"
+  ],
+  "dice-one": [
+    "dice",
+    "one",
+    "game",
+    "gambling",
+    "random"
+  ],
+  "dice-six": [
+    "dice",
+    "six",
+    "game",
+    "gambling",
+    "random"
+  ],
+  "dice-three": [
+    "dice",
+    "three",
+    "game",
+    "roll",
+    "chance"
+  ],
+  "dice-two": [
+    "game",
+    "random",
+    "chance",
+    "gamble",
+    "cube"
+  ],
+  "directions": [
+    "navigation",
+    "direction",
+    "map",
+    "route",
+    "gps"
+  ],
+  "disease": [
+    "disease",
+    "illness",
+    "sick",
+    "medical",
+    "health"
+  ],
+  "display": [
+    "display",
+    "screen",
+    "monitor",
+    "show",
+    "visual"
+  ],
+  "divide": [
+    "divide",
+    "math",
+    "division",
+    "operator",
+    "slash"
+  ],
+  "dna": [
+    "dna",
+    "genetics",
+    "biology",
+    "helix",
+    "science"
+  ],
+  "dog": [
+    "dog",
+    "animal",
+    "pet",
+    "canine",
+    "mammal"
+  ],
+  "dolly-box": [
+    "cart",
+    "box",
+    "transport",
+    "move",
+    "heavy"
+  ],
+  "dolly-flatbed": [
+    "dolly",
+    "flatbed",
+    "cart",
+    "transport",
+    "move"
+  ],
+  "donate": [
+    "donate",
+    "give",
+    "charity",
+    "contribute",
+    "help"
+  ],
+  "dong-sign": [
+    "money",
+    "currency",
+    "vietnam",
+    "cash",
+    "finance"
+  ],
+  "door-closed": [
+    "door",
+    "closed",
+    "entrance",
+    "exit",
+    "access"
+  ],
+  "door-open": [
+    "door",
+    "open",
+    "entrance",
+    "exit",
+    "entry"
+  ],
+  "dot-circle": [
+    "dot",
+    "circle",
+    "round",
+    "shape",
+    "target"
+  ],
+  "dove": [
+    "dove",
+    "bird",
+    "peace",
+    "fly",
+    "animal"
+  ],
+  "down-left-and-up-right-to-center": [
+    "down",
+    "left",
+    "and",
+    "up",
+    "right"
+  ],
+  "download": [
+    "download",
+    "save",
+    "import",
+    "transfer",
+    "receive"
+  ],
+  "drafting-compass": [
+    "compass",
+    "draw",
+    "design",
+    "draft",
+    "circle"
+  ],
+  "dragon": [
+    "dragon",
+    "mythical",
+    "fantasy",
+    "creature",
+    "legend"
+  ],
+  "drum": [
+    "drum",
+    "music",
+    "instrument",
+    "percussion",
+    "beat"
+  ],
+  "drum-steelpan": [
+    "drum",
+    "steelpan",
+    "music",
+    "instrument",
+    "percussion"
+  ],
+  "drumstick-bite": [
+    "drumstick",
+    "bite",
+    "food",
+    "meat",
+    "chicken"
+  ],
+  "dumbbell": [
+    "dumbbell",
+    "fitness",
+    "exercise",
+    "gym",
+    "workout"
+  ],
+  "dumpster": [
+    "trash",
+    "garbage",
+    "waste",
+    "disposal",
+    "bin"
+  ],
+  "dumpster-fire": [
+    "fire",
+    "dumpster",
+    "disaster",
+    "trash",
+    "emergency"
+  ],
+  "dungeon": [
+    "dungeon",
+    "game",
+    "fantasy",
+    "adventure",
+    "underground"
+  ],
+  "e": [
+    "letter",
+    "character",
+    "text",
+    "font",
+    "alphabet"
+  ],
+  "ear-listen": [
+    "ear",
+    "listen",
+    "hearing",
+    "audio",
+    "sound"
+  ],
+  "egg": [
+    "egg",
+    "food",
+    "breakfast",
+    "chicken",
+    "oval"
+  ],
+  "eject": [
+    "eject",
+    "remove",
+    "exit",
+    "pop",
+    "out"
+  ],
+  "elevator": [
+    "elevator",
+    "lift",
+    "building",
+    "floor",
+    "transport"
+  ],
+  "ellipsis-h": [
+    "ellipsis",
+    "horizontal",
+    "dots",
+    "menu",
+    "options"
+  ],
+  "ellipsis-vertical": [
+    "ellipsis",
+    "vertical",
+    "dots",
+    "menu",
+    "options"
+  ],
+  "envelope": [
+    "envelope",
+    "email",
+    "mail",
+    "message",
+    "letter"
+  ],
+  "envelope-circle-check": [
+    "email",
+    "check",
+    "success",
+    "confirm",
+    "message"
+  ],
+  "envelope-open": [
+    "email",
+    "mail",
+    "open",
+    "message",
+    "letter"
+  ],
+  "envelope-open-text": [
+    "envelope",
+    "open",
+    "text",
+    "email",
+    "message"
+  ],
+  "equals": [
+    "equals",
+    "equal",
+    "math",
+    "symbol",
+    "operator"
+  ],
+  "eraser": [
+    "eraser",
+    "remove",
+    "delete",
+    "clean",
+    "rubber"
+  ],
+  "ethernet": [
+    "network",
+    "cable",
+    "internet",
+    "connection",
+    "wired"
+  ],
+  "euro-sign": [
+    "money",
+    "currency",
+    "europe",
+    "cash",
+    "finance"
+  ],
+  "exchange": [
+    "exchange",
+    "swap",
+    "trade",
+    "switch",
+    "interchange"
+  ],
+  "exclamation": [
+    "exclamation",
+    "alert",
+    "warning",
+    "attention",
+    "important"
+  ],
+  "exclamation-circle": [
+    "exclamation",
+    "circle",
+    "round",
+    "shape",
+    "dot"
+  ],
+  "expand": [
+    "expand",
+    "grow",
+    "enlarge",
+    "increase",
+    "bigger"
+  ],
+  "explosion": [
+    "explosion",
+    "blast",
+    "boom",
+    "burst",
+    "impact"
+  ],
+  "external-link": [
+    "external",
+    "link",
+    "share",
+    "new",
+    "window"
+  ],
+  "eye": [
+    "eye",
+    "see",
+    "view",
+    "look",
+    "vision"
+  ],
+  "eye-slash": [
+    "eye",
+    "slash",
+    "view",
+    "see",
+    "watch"
+  ],
+  "eyedropper": [
+    "eyedropper",
+    "color",
+    "pick",
+    "select",
+    "tool"
+  ],
+  "f": [
+    "letter",
+    "character",
+    "text",
+    "font",
+    "alphabet"
+  ],
+  "face-angry": [
+    "face",
+    "angry",
+    "mad",
+    "emotion",
+    "person"
+  ],
+  "face-dizzy": [
+    "face",
+    "dizzy",
+    "confused",
+    "spinning",
+    "dazed"
+  ],
+  "fan": [
+    "fan",
+    "cool",
+    "air",
+    "breeze",
+    "ventilation"
+  ],
+  "fast-backward": [
+    "rewind",
+    "fast",
+    "backward",
+    "media",
+    "music"
+  ],
+  "faucet": [
+    "faucet",
+    "water",
+    "tap",
+    "plumbing",
+    "sink"
+  ],
+  "faucet-drip": [
+    "faucet",
+    "drip",
+    "water",
+    "plumbing",
+    "leak"
+  ],
+  "fax": [
+    "fax",
+    "machine",
+    "document",
+    "transmit",
+    "communication"
+  ],
+  "feather": [
+    "feather",
+    "bird",
+    "light",
+    "quill",
+    "write"
+  ],
+  "feather-pointed": [
+    "feather",
+    "bird",
+    "light",
+    "write",
+    "quill"
+  ],
+  "ferry": [
+    "boat",
+    "water",
+    "transport",
+    "ship",
+    "travel"
+  ],
+  "file": [
+    "file",
+    "document",
+    "paper",
+    "data",
+    "storage"
+  ],
+  "file-audio": [
+    "audio",
+    "music",
+    "sound",
+    "file",
+    "media"
+  ],
+  "file-circle-check": [
+    "file",
+    "circle",
+    "check",
+    "verify",
+    "confirm"
+  ],
+  "file-circle-exclamation": [
+    "file",
+    "circle",
+    "exclamation",
+    "document",
+    "paper"
+  ],
+  "file-circle-minus": [
+    "file",
+    "remove",
+    "delete",
+    "minus",
+    "cancel"
+  ],
+  "file-circle-plus": [
+    "file",
+    "circle",
+    "plus",
+    "add",
+    "document"
+  ],
+  "file-circle-question": [
+    "file",
+    "circle",
+    "question",
+    "document",
+    "paper"
+  ],
+  "file-circle-xmark": [
+    "file",
+    "circle",
+    "xmark",
+    "delete",
+    "remove"
+  ],
+  "file-code": [
+    "file",
+    "code",
+    "programming",
+    "document",
+    "syntax"
+  ],
+  "file-contract": [
+    "contract",
+    "document",
+    "legal",
+    "agreement",
+    "file"
+  ],
+  "file-csv": [
+    "file",
+    "csv",
+    "document",
+    "paper",
+    "page"
+  ],
+  "file-download": [
+    "file",
+    "download",
+    "save",
+    "import",
+    "receive"
+  ],
+  "file-excel": [
+    "excel",
+    "spreadsheet",
+    "office",
+    "document",
+    "file"
+  ],
+  "file-export": [
+    "file",
+    "export",
+    "save",
+    "download",
+    "document"
+  ],
+  "file-fragment": [
+    "file",
+    "fragment",
+    "broken",
+    "document",
+    "piece"
+  ],
+  "file-half-dashed": [
+    "file",
+    "half",
+    "dashed",
+    "document",
+    "partial"
+  ],
+  "file-image": [
+    "image",
+    "photo",
+    "picture",
+    "graphic",
+    "visual"
+  ],
+  "file-import": [
+    "import",
+    "file",
+    "upload",
+    "save",
+    "document"
+  ],
+  "file-invoice": [
+    "file",
+    "invoice",
+    "document",
+    "billing",
+    "receipt"
+  ],
+  "file-invoice-dollar": [
+    "billing",
+    "invoice",
+    "money",
+    "payment",
+    "document"
+  ],
+  "file-medical": [
+    "file",
+    "medical",
+    "health",
+    "document",
+    "medicine"
+  ],
+  "file-pdf": [
+    "file",
+    "pdf",
+    "document",
+    "acrobat",
+    "reader"
+  ],
+  "file-pen": [
+    "file",
+    "pen",
+    "edit",
+    "document",
+    "write"
+  ],
+  "file-powerpoint": [
+    "document",
+    "powerpoint",
+    "office",
+    "presentation",
+    "file"
+  ],
+  "file-prescription": [
+    "medical",
+    "health",
+    "doctor",
+    "medicine",
+    "pharmacy"
+  ],
+  "file-shield": [
+    "file",
+    "shield",
+    "protect",
+    "security",
+    "document"
+  ],
+  "file-signature": [
+    "document",
+    "sign",
+    "signature",
+    "file",
+    "write"
+  ],
+  "file-text": [
+    "file",
+    "text",
+    "document",
+    "paper",
+    "page"
+  ],
+  "file-upload": [
+    "upload",
+    "export",
+    "send",
+    "save",
+    "sync"
+  ],
+  "file-video": [
+    "file",
+    "video",
+    "movie",
+    "media",
+    "film"
+  ],
+  "file-waveform": [
+    "medical",
+    "health",
+    "monitor",
+    "pulse",
+    "heart"
+  ],
+  "file-word": [
+    "document",
+    "word",
+    "office",
+    "text",
+    "file"
+  ],
+  "file-zipper": [
+    "compress",
+    "archive",
+    "zip",
+    "file",
+    "package"
+  ],
+  "fill": [
+    "fill",
+    "color",
+    "paint",
+    "solid",
+    "complete"
+  ],
+  "fill-drip": [
+    "fill",
+    "drip",
+    "paint",
+    "color",
+    "bucket"
+  ],
+  "film-simple": [
+    "film",
+    "simple",
+    "movie",
+    "video",
+    "cinema"
+  ],
+  "filter": [
+    "sort",
+    "filter",
+    "funnel",
+    "search",
+    "organize"
+  ],
+  "filter-circle-xmark": [
+    "filter",
+    "remove",
+    "delete",
+    "cancel",
+    "clear"
+  ],
+  "fingerprint": [
+    "fingerprint",
+    "identity",
+    "biometric",
+    "security",
+    "unique"
+  ],
+  "fire": [
+    "flame",
+    "hot",
+    "burn",
+    "heat",
+    "danger"
+  ],
+  "fire-burner": [
+    "fire",
+    "burner",
+    "stove",
+    "heat",
+    "cooking"
+  ],
+  "fire-extinguisher": [
+    "fire",
+    "safety",
+    "emergency",
+    "extinguish",
+    "danger"
+  ],
+  "fire-flame-curved": [
+    "fire",
+    "flame",
+    "curved",
+    "burn",
+    "heat"
+  ],
+  "fire-flame-simple": [
+    "fire",
+    "flame",
+    "burn",
+    "hot",
+    "heat"
+  ],
+  "fish": [
+    "fish",
+    "aquatic",
+    "seafood",
+    "animal",
+    "water"
+  ],
+  "fish-fins": [
+    "fish",
+    "fins",
+    "water",
+    "ocean",
+    "animal"
+  ],
+  "flag": [
+    "flag",
+    "mark",
+    "report",
+    "country",
+    "banner"
+  ],
+  "flag-checkered": [
+    "flag",
+    "checkered",
+    "mark",
+    "report",
+    "country"
+  ],
+  "flag-usa": [
+    "flag",
+    "usa",
+    "america",
+    "united",
+    "states"
+  ],
+  "flask": [
+    "flask",
+    "science",
+    "chemistry",
+    "laboratory",
+    "experiment"
+  ],
+  "flask-vial": [
+    "flask",
+    "vial",
+    "science",
+    "chemistry",
+    "lab"
+  ],
+  "florin-sign": [
+    "florin",
+    "sign",
+    "money",
+    "currency",
+    "aruba"
+  ],
+  "flushed": [
+    "flushed",
+    "embarrassed",
+    "face",
+    "red",
+    "shy"
+  ],
+  "folder-blank": [
+    "directory",
+    "file",
+    "storage",
+    "organize",
+    "document"
+  ],
+  "folder-closed": [
+    "directory",
+    "file",
+    "folder",
+    "storage",
+    "document"
+  ],
+  "folder-minus": [
+    "folder",
+    "minus",
+    "remove",
+    "delete",
+    "directory"
+  ],
+  "folder-open": [
+    "directory",
+    "file",
+    "open",
+    "storage",
+    "document"
+  ],
+  "folder-plus": [
+    "folder",
+    "plus",
+    "directory",
+    "storage",
+    "add"
+  ],
+  "folder-tree": [
+    "folder",
+    "tree",
+    "directory",
+    "structure",
+    "hierarchy"
+  ],
+  "font": [
+    "font",
+    "text",
+    "type",
+    "typography",
+    "writing"
+  ],
+  "football-ball": [
+    "football",
+    "ball",
+    "sport",
+    "game",
+    "american"
+  ],
+  "forward": [
+    "forward",
+    "next",
+    "right",
+    "send",
+    "share"
+  ],
+  "forward-fast": [
+    "forward",
+    "fast",
+    "next",
+    "skip",
+    "media"
+  ],
+  "franc-sign": [
+    "franc",
+    "sign",
+    "money",
+    "currency",
+    "france"
+  ],
+  "frog": [
+    "amphibian",
+    "animal",
+    "green",
+    "jump",
+    "nature"
+  ],
+  "frown": [
+    "emoji",
+    "frown",
+    "sad",
+    "emotion",
+    "face"
+  ],
+  "frown-open": [
+    "emoji",
+    "sad",
+    "unhappy",
+    "frown",
+    "face"
+  ],
+  "funnel-dollar": [
+    "filter",
+    "money",
+    "finance",
+    "dollar",
+    "sort"
+  ],
+  "g": [
+    "letter",
+    "character",
+    "text",
+    "font",
+    "alphabet"
+  ],
+  "gamepad": [
+    "gamepad",
+    "controller",
+    "gaming",
+    "console",
+    "play"
+  ],
+  "gas-pump": [
+    "gas",
+    "pump",
+    "fuel",
+    "station",
+    "petrol"
+  ],
+  "gear": [
+    "gear",
+    "settings",
+    "cog",
+    "config",
+    "wheel"
+  ],
+  "gears": [
+    "gears",
+    "settings",
+    "mechanical",
+    "cog",
+    "wheel"
+  ],
+  "gem": [
+    "jewel",
+    "diamond",
+    "precious",
+    "stone",
+    "sparkle"
+  ],
+  "genderless": [
+    "genderless",
+    "neutral",
+    "none",
+    "symbol",
+    "identity"
+  ],
+  "ghost": [
+    "ghost",
+    "spirit",
+    "halloween",
+    "spooky",
+    "phantom"
+  ],
+  "gift": [
+    "present",
+    "gift",
+    "package",
+    "surprise",
+    "celebration"
+  ],
+  "gifts": [
+    "gifts",
+    "present",
+    "package",
+    "surprise",
+    "celebration"
+  ],
+  "glass-cheers": [
+    "celebration",
+    "toast",
+    "drink",
+    "party",
+    "glass"
+  ],
+  "glass-water": [
+    "glass",
+    "water",
+    "drink",
+    "liquid",
+    "cup"
+  ],
+  "glass-water-droplet": [
+    "glass",
+    "water",
+    "droplet",
+    "drink",
+    "liquid"
+  ],
+  "glasses": [
+    "eyewear",
+    "vision",
+    "spectacles",
+    "eyes",
+    "goggles"
+  ],
+  "globe": [
+    "world",
+    "earth",
+    "global",
+    "planet",
+    "international"
+  ],
+  "globe-africa": [
+    "globe",
+    "africa",
+    "world",
+    "earth",
+    "international"
+  ],
+  "globe-americas": [
+    "globe",
+    "americas",
+    "world",
+    "earth",
+    "continent"
+  ],
+  "globe-asia": [
+    "globe",
+    "asia",
+    "earth",
+    "world",
+    "continent"
+  ],
+  "globe-europe": [
+    "globe",
+    "europe",
+    "earth",
+    "world",
+    "continent"
+  ],
+  "globe-oceania": [
+    "globe",
+    "oceania",
+    "earth",
+    "world",
+    "planet"
+  ],
+  "golf-ball-tee": [
+    "golf",
+    "ball",
+    "tee",
+    "sport",
+    "game"
+  ],
+  "gopuram": [
+    "gopuram",
+    "temple",
+    "architecture",
+    "tower",
+    "building"
+  ],
+  "greater-than": [
+    "greater",
+    "than",
+    "symbol",
+    "math",
+    "operator"
+  ],
+  "greater-than-equal": [
+    "math",
+    "inequality",
+    "symbol",
+    "operator",
+    "compare"
+  ],
+  "grimace": [
+    "grimace",
+    "face",
+    "expression",
+    "emotion",
+    "person"
+  ],
+  "grin": [
+    "emoji",
+    "grin",
+    "happy",
+    "smile",
+    "face"
+  ],
+  "grin-alt": [
+    "emoji",
+    "smile",
+    "happy",
+    "grin",
+    "face"
+  ],
+  "grin-beam": [
+    "emoji",
+    "happy",
+    "smile",
+    "grin",
+    "face"
+  ],
+  "grin-beam-sweat": [
+    "grin",
+    "beam",
+    "sweat",
+    "nervous",
+    "awkward"
+  ],
+  "grin-hearts": [
+    "grin",
+    "hearts",
+    "happy",
+    "love",
+    "smile"
+  ],
+  "grin-squint": [
+    "emoji",
+    "grin",
+    "squint",
+    "happy",
+    "face"
+  ],
+  "grin-squint-tears": [
+    "emoji",
+    "grin",
+    "squint",
+    "tears",
+    "happy"
+  ],
+  "grin-stars": [
+    "grin",
+    "stars",
+    "excited",
+    "happy",
+    "face"
+  ],
+  "grin-tears": [
+    "emoji",
+    "grin",
+    "tears",
+    "happy",
+    "face"
+  ],
+  "grin-tongue": [
+    "emoji",
+    "smile",
+    "happy",
+    "tongue",
+    "face"
+  ],
+  "grin-tongue-squint": [
+    "grin",
+    "tongue",
+    "squint",
+    "silly",
+    "face"
+  ],
+  "grin-tongue-wink": [
+    "grin",
+    "tongue",
+    "wink",
+    "playful",
+    "cheeky"
+  ],
+  "grin-wink": [
+    "emoji",
+    "smile",
+    "happy",
+    "wink",
+    "face"
+  ],
+  "grip-horizontal": [
+    "grip",
+    "horizontal",
+    "handle",
+    "drag",
+    "resize"
+  ],
+  "grip-lines": [
+    "grip",
+    "lines",
+    "handle",
+    "drag",
+    "move"
+  ],
+  "grip-lines-vertical": [
+    "handle",
+    "resize",
+    "vertical",
+    "grip",
+    "lines"
+  ],
+  "grip-vertical": [
+    "grip",
+    "vertical",
+    "handle",
+    "drag",
+    "move"
+  ],
+  "group-arrows-rotate": [
+    "rotate",
+    "arrows",
+    "refresh",
+    "sync",
+    "reload"
+  ],
+  "guarani-sign": [
+    "money",
+    "currency",
+    "paraguay",
+    "cash",
+    "finance"
+  ],
+  "guitar": [
+    "guitar",
+    "music",
+    "instrument",
+    "play",
+    "string"
+  ],
+  "gun": [
+    "gun",
+    "weapon",
+    "firearm",
+    "shoot",
+    "military"
+  ],
+  "h": [
+    "letter",
+    "character",
+    "text",
+    "font",
+    "alphabet"
+  ],
+  "hamburger": [
+    "burger",
+    "food",
+    "fast",
+    "meat",
+    "restaurant"
+  ],
+  "hammer": [
+    "hammer",
+    "tool",
+    "build",
+    "construct",
+    "work"
+  ],
+  "hamsa": [
+    "hamsa",
+    "hand",
+    "protection",
+    "evil",
+    "eye"
+  ],
+  "hand-dots": [
+    "hand",
+    "dots",
+    "gesture",
+    "touch",
+    "interface"
+  ],
+  "hand-fist": [
+    "hand",
+    "fist",
+    "punch",
+    "power",
+    "strong"
+  ],
+  "hand-holding": [
+    "hand",
+    "holding",
+    "support",
+    "help",
+    "care"
+  ],
+  "hand-holding-hand": [
+    "hand",
+    "holding",
+    "hand",
+    "support",
+    "care"
+  ],
+  "hand-holding-heart": [
+    "love",
+    "care",
+    "heart",
+    "hand",
+    "support"
+  ],
+  "hand-holding-medical": [
+    "hand",
+    "holding",
+    "medical",
+    "health",
+    "care"
+  ],
+  "hand-holding-usd": [
+    "hand",
+    "holding",
+    "usd",
+    "money",
+    "donate"
+  ],
+  "hand-holding-water": [
+    "hand",
+    "holding",
+    "water",
+    "droplet",
+    "care"
+  ],
+  "hand-lizard": [
+    "hand",
+    "lizard",
+    "gesture",
+    "animal",
+    "reptile"
+  ],
+  "hand-middle-finger": [
+    "hand",
+    "middle",
+    "finger",
+    "gesture",
+    "offensive"
+  ],
+  "hand-paper": [
+    "hand",
+    "paper",
+    "gesture",
+    "touch",
+    "point"
+  ],
+  "hand-peace": [
+    "hand",
+    "peace",
+    "gesture",
+    "victory",
+    "symbol"
+  ],
+  "hand-point-down": [
+    "direction",
+    "pointer",
+    "finger",
+    "down",
+    "select"
+  ],
+  "hand-point-left": [
+    "hand",
+    "point",
+    "left",
+    "direction",
+    "gesture"
+  ],
+  "hand-point-right": [
+    "hand",
+    "point",
+    "right",
+    "gesture",
+    "touch"
+  ],
+  "hand-point-up": [
+    "direction",
+    "pointer",
+    "finger",
+    "up",
+    "select"
+  ],
+  "hand-pointer": [
+    "hand",
+    "pointer",
+    "cursor",
+    "click",
+    "select"
+  ],
+  "hand-rock": [
+    "fist",
+    "punch",
+    "hand",
+    "power",
+    "strong"
+  ],
+  "hand-scissors": [
+    "hand",
+    "scissors",
+    "cut",
+    "gesture",
+    "rock"
+  ],
+  "hand-sparkles": [
+    "hand",
+    "sparkles",
+    "magic",
+    "clean",
+    "shine"
+  ],
+  "hand-spock": [
+    "vulcan",
+    "greeting",
+    "star",
+    "trek",
+    "hand"
+  ],
+  "handcuffs": [
+    "handcuffs",
+    "police",
+    "arrest",
+    "security",
+    "law"
+  ],
+  "hands-asl-interpreting": [
+    "hands",
+    "asl",
+    "interpreting",
+    "sign",
+    "language"
+  ],
+  "hands-bound": [
+    "tied",
+    "restrain",
+    "arrest",
+    "capture",
+    "rope"
+  ],
+  "hands-clapping": [
+    "hands",
+    "clapping",
+    "applause",
+    "praise",
+    "cheer"
+  ],
+  "hands-holding": [
+    "hands",
+    "holding",
+    "together",
+    "support",
+    "care"
+  ],
+  "hands-holding-child": [
+    "hands",
+    "holding",
+    "child",
+    "kid",
+    "young"
+  ],
+  "hands-holding-circle": [
+    "hands",
+    "holding",
+    "circle",
+    "support",
+    "care"
+  ],
+  "hands-wash": [
+    "wash",
+    "clean",
+    "soap",
+    "water",
+    "hygiene"
+  ],
+  "handshake-angle": [
+    "handshake",
+    "angle",
+    "agreement",
+    "deal",
+    "business"
+  ],
+  "handshake-simple": [
+    "handshake",
+    "simple",
+    "agreement",
+    "deal",
+    "greeting"
+  ],
+  "handshake-slash": [
+    "reject",
+    "cancel",
+    "handshake",
+    "no",
+    "forbidden"
+  ],
+  "hanukiah": [
+    "hanukiah",
+    "menorah",
+    "jewish",
+    "hanukkah",
+    "candles"
+  ],
+  "hard-of-hearing": [
+    "hearing",
+    "accessibility",
+    "sound",
+    "audio",
+    "impairment"
+  ],
+  "hashtag": [
+    "hashtag",
+    "hash",
+    "number",
+    "pound",
+    "symbol"
+  ],
+  "hat-cowboy": [
+    "cowboy",
+    "hat",
+    "western",
+    "style",
+    "fashion"
+  ],
+  "hat-cowboy-side": [
+    "hat",
+    "cowboy",
+    "side",
+    "western",
+    "fashion"
+  ],
+  "hat-wizard": [
+    "hat",
+    "wizard",
+    "magic",
+    "fantasy",
+    "spell"
+  ],
+  "haykal": [
+    "haykal",
+    "temple",
+    "religion",
+    "faith",
+    "spiritual"
+  ],
+  "hdd": [
+    "hdd",
+    "hard",
+    "drive",
+    "storage",
+    "disk"
+  ],
+  "head-side-cough": [
+    "head",
+    "side",
+    "cough",
+    "sick",
+    "medical"
+  ],
+  "head-side-cough-slash": [
+    "health",
+    "medical",
+    "sick",
+    "virus",
+    "mask"
+  ],
+  "head-side-mask": [
+    "mask",
+    "health",
+    "medical",
+    "face",
+    "protection"
+  ],
+  "head-side-virus": [
+    "head",
+    "side",
+    "virus",
+    "medical",
+    "health"
+  ],
+  "heading": [
+    "heading",
+    "title",
+    "header",
+    "text",
+    "format"
+  ],
+  "headphones-simple": [
+    "headphones",
+    "audio",
+    "music",
+    "listen",
+    "sound"
+  ],
+  "headset": [
+    "audio",
+    "headphones",
+    "microphone",
+    "call",
+    "support"
+  ],
+  "heart": [
+    "love",
+    "heart",
+    "emotion",
+    "care",
+    "affection"
+  ],
+  "heart-circle-bolt": [
+    "heart",
+    "circle",
+    "bolt",
+    "love",
+    "energy"
+  ],
+  "heart-circle-check": [
+    "love",
+    "check",
+    "health",
+    "medical",
+    "positive"
+  ],
+  "heart-circle-exclamation": [
+    "heart",
+    "circle",
+    "exclamation",
+    "love",
+    "warning"
+  ],
+  "heart-circle-minus": [
+    "heart",
+    "circle",
+    "minus",
+    "love",
+    "like"
+  ],
+  "heart-circle-plus": [
+    "love",
+    "add",
+    "health",
+    "medical",
+    "positive"
+  ],
+  "heart-circle-xmark": [
+    "heart",
+    "circle",
+    "xmark",
+    "remove",
+    "delete"
+  ],
+  "heart-crack": [
+    "heart",
+    "crack",
+    "love",
+    "like",
+    "favorite"
+  ],
+  "heartbeat": [
+    "health",
+    "medical",
+    "pulse",
+    "monitor",
+    "life"
+  ],
+  "helicopter": [
+    "helicopter",
+    "aircraft",
+    "fly",
+    "transport",
+    "aviation"
+  ],
+  "helicopter-symbol": [
+    "helicopter",
+    "fly",
+    "air",
+    "transport",
+    "vehicle"
+  ],
+  "helmet-safety": [
+    "helmet",
+    "safety",
+    "protection",
+    "construction",
+    "head"
+  ],
+  "helmet-un": [
+    "safety",
+    "protection",
+    "peace",
+    "military",
+    "blue"
+  ],
+  "hexagon": [
+    "hexagon",
+    "shape",
+    "polygon",
+    "six",
+    "geometric"
+  ],
+  "hexagon-nodes": [
+    "hexagon",
+    "nodes",
+    "network",
+    "connection",
+    "graph"
+  ],
+  "hexagon-nodes-bolt": [
+    "hexagon",
+    "nodes",
+    "bolt",
+    "network",
+    "connection"
+  ],
+  "highlighter": [
+    "mark",
+    "highlight",
+    "color",
+    "text",
+    "pen"
+  ],
+  "hill-avalanche": [
+    "avalanche",
+    "snow",
+    "mountain",
+    "danger",
+    "slide"
+  ],
+  "hill-rockslide": [
+    "hill",
+    "rockslide",
+    "landslide",
+    "mountain",
+    "disaster"
+  ],
+  "hippo": [
+    "hippo",
+    "animal",
+    "mammal",
+    "wildlife",
+    "africa"
+  ],
+  "history": [
+    "history",
+    "time",
+    "past",
+    "record",
+    "chronology"
+  ],
+  "hockey-puck": [
+    "hockey",
+    "puck",
+    "ice",
+    "sport",
+    "game"
+  ],
+  "holly-berry": [
+    "holly",
+    "berry",
+    "plant",
+    "christmas",
+    "decoration"
+  ],
+  "horse": [
+    "animal",
+    "ride",
+    "equine",
+    "gallop",
+    "stallion"
+  ],
+  "horse-head": [
+    "horse",
+    "head",
+    "animal",
+    "equine",
+    "mammal"
+  ],
+  "hospital-symbol": [
+    "hospital",
+    "symbol",
+    "medical",
+    "health",
+    "clinic"
+  ],
+  "hospital-user": [
+    "hospital",
+    "user",
+    "medical",
+    "health",
+    "clinic"
+  ],
+  "hospital-wide": [
+    "hospital",
+    "wide",
+    "medical",
+    "health",
+    "building"
+  ],
+  "hot-tub-person": [
+    "hot",
+    "tub",
+    "person",
+    "user",
+    "human"
+  ],
+  "hotdog": [
+    "hotdog",
+    "food",
+    "snack",
+    "fast",
+    "meat"
+  ],
+  "hotel": [
+    "hotel",
+    "building",
+    "accommodation",
+    "travel",
+    "lodging"
+  ],
+  "hourglass-empty": [
+    "hourglass",
+    "empty",
+    "time",
+    "waiting",
+    "clock"
+  ],
+  "hourglass-end": [
+    "hourglass",
+    "end",
+    "time",
+    "timer",
+    "finished"
+  ],
+  "hourglass-half": [
+    "hourglass",
+    "half",
+    "time",
+    "timer",
+    "waiting"
+  ],
+  "hourglass-start": [
+    "time",
+    "begin",
+    "timer",
+    "loading",
+    "progress"
+  ],
+  "house": [
+    "house",
+    "home",
+    "building",
+    "residence",
+    "dwelling"
+  ],
+  "house-chimney": [
+    "house",
+    "chimney",
+    "home",
+    "building",
+    "residence"
+  ],
+  "house-chimney-medical": [
+    "house",
+    "chimney",
+    "medical",
+    "health",
+    "clinic"
+  ],
+  "house-chimney-user": [
+    "home",
+    "house",
+    "user",
+    "family",
+    "residence"
+  ],
+  "house-chimney-window": [
+    "house",
+    "chimney",
+    "window",
+    "building",
+    "home"
+  ],
+  "house-circle-check": [
+    "house",
+    "circle",
+    "check",
+    "home",
+    "verified"
+  ],
+  "house-circle-exclamation": [
+    "warning",
+    "alert",
+    "home",
+    "danger",
+    "notice"
+  ],
+  "house-circle-xmark": [
+    "house",
+    "circle",
+    "xmark",
+    "home",
+    "residence"
+  ],
+  "house-crack": [
+    "damage",
+    "house",
+    "broken",
+    "crack",
+    "home"
+  ],
+  "house-damage": [
+    "damage",
+    "house",
+    "broken",
+    "destroy",
+    "home"
+  ],
+  "house-fire": [
+    "house",
+    "fire",
+    "home",
+    "residence",
+    "dwelling"
+  ],
+  "house-flag": [
+    "home",
+    "flag",
+    "banner",
+    "building",
+    "mark"
+  ],
+  "house-flood-water": [
+    "house",
+    "flood",
+    "water",
+    "home",
+    "residence"
+  ],
+  "house-flood-water-circle-arrow-right": [
+    "flood",
+    "water",
+    "house",
+    "emergency",
+    "disaster"
+  ],
+  "house-lock": [
+    "home",
+    "lock",
+    "secure",
+    "house",
+    "safety"
+  ],
+  "house-medical": [
+    "house",
+    "medical",
+    "health",
+    "hospital",
+    "clinic"
+  ],
+  "house-medical-circle-check": [
+    "house",
+    "medical",
+    "circle",
+    "check",
+    "health"
+  ],
+  "house-medical-circle-exclamation": [
+    "house",
+    "medical",
+    "circle",
+    "exclamation",
+    "emergency"
+  ],
+  "house-medical-circle-xmark": [
+    "house",
+    "medical",
+    "circle",
+    "xmark",
+    "home"
+  ],
+  "house-medical-flag": [
+    "house",
+    "medical",
+    "flag",
+    "health",
+    "clinic"
+  ],
+  "house-signal": [
+    "house",
+    "signal",
+    "home",
+    "wifi",
+    "network"
+  ],
+  "house-tsunami": [
+    "disaster",
+    "wave",
+    "flood",
+    "water",
+    "emergency"
+  ],
+  "house-user": [
+    "home",
+    "house",
+    "user",
+    "person",
+    "residence"
+  ],
+  "hryvnia-sign": [
+    "money",
+    "currency",
+    "ukraine",
+    "cash",
+    "finance"
+  ],
+  "hurricane": [
+    "hurricane",
+    "storm",
+    "weather",
+    "wind",
+    "disaster"
+  ],
+  "i": [
+    "letter",
+    "character",
+    "text",
+    "font",
+    "alphabet"
+  ],
+  "i-cursor": [
+    "text",
+    "typing",
+    "input",
+    "cursor",
+    "write"
+  ],
+  "ice-cream": [
+    "ice",
+    "cream",
+    "dessert",
+    "sweet",
+    "cold"
+  ],
+  "icicles": [
+    "ice",
+    "winter",
+    "cold",
+    "frozen",
+    "nature"
+  ],
+  "icons": [
+    "icons",
+    "symbols",
+    "images",
+    "graphics",
+    "ui"
+  ],
+  "id-badge": [
+    "identification",
+    "badge",
+    "card",
+    "id",
+    "profile"
+  ],
+  "id-card": [
+    "id",
+    "card",
+    "identification",
+    "badge",
+    "profile"
+  ],
+  "id-card-clip": [
+    "id",
+    "card",
+    "clip",
+    "identification",
+    "badge"
+  ],
+  "igloo": [
+    "house",
+    "ice",
+    "cold",
+    "winter",
+    "shelter"
+  ],
+  "image": [
+    "photo",
+    "picture",
+    "graphic",
+    "visual",
+    "art"
+  ],
+  "images": [
+    "images",
+    "photos",
+    "pictures",
+    "gallery",
+    "multimedia"
+  ],
+  "inbox": [
+    "inbox",
+    "email",
+    "messages",
+    "mailbox",
+    "receive"
+  ],
+  "indent": [
+    "indent",
+    "text",
+    "format",
+    "align",
+    "spacing"
+  ],
+  "industry": [
+    "industry",
+    "factory",
+    "manufacturing",
+    "production",
+    "business"
+  ],
+  "infinity": [
+    "infinity",
+    "endless",
+    "eternal",
+    "limitless",
+    "symbol"
+  ],
+  "info": [
+    "info",
+    "information",
+    "help",
+    "about",
+    "details"
+  ],
+  "info-circle": [
+    "info",
+    "circle",
+    "information",
+    "help",
+    "details"
+  ],
+  "inr": [
+    "inr",
+    "rupee",
+    "money",
+    "currency",
+    "india"
+  ],
+  "italic": [
+    "text",
+    "format",
+    "style",
+    "font",
+    "slant"
+  ],
+  "j": [
+    "letter",
+    "character",
+    "text",
+    "font",
+    "alphabet"
+  ],
+  "jar": [
+    "jar",
+    "container",
+    "storage",
+    "preserve",
+    "food"
+  ],
+  "jar-wheat": [
+    "jar",
+    "wheat",
+    "grain",
+    "food",
+    "storage"
+  ],
+  "jedi": [
+    "star",
+    "wars",
+    "force",
+    "lightsaber",
+    "master"
+  ],
+  "jet-fighter": [
+    "jet",
+    "fighter",
+    "military",
+    "aircraft",
+    "plane"
+  ],
+  "jet-fighter-up": [
+    "jet",
+    "fighter",
+    "up",
+    "airplane",
+    "military"
+  ],
+  "joint": [
+    "connect",
+    "articulation",
+    "body",
+    "medicine",
+    "bone"
+  ],
+  "journal-whills": [
+    "journal",
+    "whills",
+    "book",
+    "star",
+    "wars"
+  ],
+  "jug-detergent": [
+    "jug",
+    "detergent",
+    "cleaning",
+    "soap",
+    "liquid"
+  ],
+  "k": [
+    "k",
+    "letter",
+    "alphabet",
+    "character",
+    "text"
+  ],
+  "kaaba": [
+    "islam",
+    "mecca",
+    "mosque",
+    "pilgrimage",
+    "religion"
+  ],
+  "key": [
+    "lock",
+    "secure",
+    "password",
+    "access",
+    "open"
+  ],
+  "keyboard": [
+    "keyboard",
+    "typing",
+    "input",
+    "computer",
+    "keys"
+  ],
+  "khanda": [
+    "khanda",
+    "sikh",
+    "religion",
+    "symbol",
+    "weapon"
+  ],
+  "kip-sign": [
+    "kip",
+    "sign",
+    "currency",
+    "money",
+    "laos"
+  ],
+  "kiss": [
+    "love",
+    "lips",
+    "romance",
+    "affection",
+    "emotion"
+  ],
+  "kiss-beam": [
+    "kiss",
+    "beam",
+    "love",
+    "face",
+    "happy"
+  ],
+  "kiss-wink-heart": [
+    "emoji",
+    "love",
+    "kiss",
+    "wink",
+    "face"
+  ],
+  "kit-medical": [
+    "kit",
+    "medical",
+    "first-aid",
+    "health",
+    "emergency"
+  ],
+  "kitchen-set": [
+    "kitchen",
+    "cooking",
+    "utensils",
+    "food",
+    "prepare"
+  ],
+  "kiwi-bird": [
+    "kiwi",
+    "bird",
+    "animal",
+    "nature",
+    "flightless"
+  ],
+  "l": [
+    "letter",
+    "character",
+    "text",
+    "font",
+    "alphabet"
+  ],
+  "land-mine-on": [
+    "danger",
+    "explosive",
+    "weapon",
+    "trap",
+    "military"
+  ],
+  "landmark": [
+    "landmark",
+    "building",
+    "monument",
+    "historic",
+    "architecture"
+  ],
+  "landmark-dome": [
+    "landmark",
+    "dome",
+    "building",
+    "architecture",
+    "monument"
+  ],
+  "landmark-flag": [
+    "landmark",
+    "flag",
+    "mark",
+    "report",
+    "country"
+  ],
+  "language": [
+    "translate",
+    "text",
+    "speech",
+    "international",
+    "globe"
+  ],
+  "laptop": [
+    "laptop",
+    "computer",
+    "device",
+    "portable",
+    "notebook"
+  ],
+  "laptop-code": [
+    "laptop",
+    "code",
+    "develop",
+    "program",
+    "syntax"
+  ],
+  "laptop-file": [
+    "laptop",
+    "file",
+    "computer",
+    "document",
+    "work"
+  ],
+  "laptop-house": [
+    "home",
+    "laptop",
+    "computer",
+    "work",
+    "remote"
+  ],
+  "laptop-medical": [
+    "laptop",
+    "medical",
+    "health",
+    "computer",
+    "doctor"
+  ],
+  "lari-sign": [
+    "money",
+    "currency",
+    "georgia",
+    "cash",
+    "finance"
+  ],
+  "laugh": [
+    "emoji",
+    "happy",
+    "smile",
+    "joy",
+    "face"
+  ],
+  "laugh-beam": [
+    "emoji",
+    "happy",
+    "smile",
+    "laugh",
+    "face"
+  ],
+  "laugh-squint": [
+    "emoji",
+    "happy",
+    "smile",
+    "laugh",
+    "face"
+  ],
+  "laugh-wink": [
+    "emoji",
+    "laugh",
+    "wink",
+    "happy",
+    "face"
+  ],
+  "layer-group": [
+    "layers",
+    "group",
+    "stack",
+    "organize",
+    "arrange"
+  ],
+  "leaf": [
+    "nature",
+    "plant",
+    "green",
+    "tree",
+    "eco"
+  ],
+  "left-right": [
+    "arrows",
+    "horizontal",
+    "direction",
+    "width",
+    "resize"
+  ],
+  "legal": [
+    "legal",
+    "law",
+    "court",
+    "justice",
+    "gavel"
+  ],
+  "lemon": [
+    "fruit",
+    "citrus",
+    "yellow",
+    "sour",
+    "food"
+  ],
+  "less-than": [
+    "less",
+    "than",
+    "symbol",
+    "math",
+    "operator"
+  ],
+  "less-than-equal": [
+    "math",
+    "inequality",
+    "symbol",
+    "operator",
+    "compare"
+  ],
+  "level-down": [
+    "level",
+    "down",
+    "decrease",
+    "lower",
+    "reduce"
+  ],
+  "level-up": [
+    "level",
+    "up",
+    "increase",
+    "advance",
+    "promote"
+  ],
+  "life-ring": [
+    "life",
+    "ring",
+    "safety",
+    "rescue",
+    "water"
+  ],
+  "lightbulb": [
+    "lightbulb",
+    "idea",
+    "bright",
+    "light",
+    "innovation"
+  ],
+  "line-chart": [
+    "graph",
+    "line",
+    "analytics",
+    "statistics",
+    "data"
+  ],
+  "lines-leaning": [
+    "lines",
+    "leaning",
+    "slanted",
+    "diagonal",
+    "angle"
+  ],
+  "link": [
+    "link",
+    "chain",
+    "connect",
+    "url",
+    "hyperlink"
+  ],
+  "lira-sign": [
+    "lira",
+    "sign",
+    "money",
+    "currency",
+    "turkey"
+  ],
+  "list-ol": [
+    "list",
+    "numbered",
+    "ordered",
+    "items",
+    "bullets"
+  ],
+  "list-squares": [
+    "list",
+    "squares",
+    "items",
+    "checklist",
+    "bullets"
+  ],
+  "list-ul": [
+    "list",
+    "ul",
+    "unordered",
+    "bullet",
+    "menu"
+  ],
+  "litecoin-sign": [
+    "litecoin",
+    "sign",
+    "cryptocurrency",
+    "money",
+    "digital"
+  ],
+  "location-arrow": [
+    "gps",
+    "map",
+    "pin",
+    "location",
+    "direction"
+  ],
+  "location-crosshairs": [
+    "location",
+    "crosshairs",
+    "gps",
+    "target",
+    "pinpoint"
+  ],
+  "location-pin-lock": [
+    "location",
+    "pin",
+    "lock",
+    "secure",
+    "gps"
+  ],
+  "lock": [
+    "lock",
+    "security",
+    "private",
+    "protect",
+    "secure"
+  ],
+  "lock-open": [
+    "unlock",
+    "open",
+    "access",
+    "security",
+    "key"
+  ],
+  "locust": [
+    "insect",
+    "bug",
+    "pest",
+    "swarm",
+    "animal"
+  ],
+  "long-arrow-alt-down": [
+    "long",
+    "arrow",
+    "alternative",
+    "down",
+    "bottom"
+  ],
+  "long-arrow-alt-left": [
+    "long",
+    "arrow",
+    "alternative",
+    "left",
+    "back"
+  ],
+  "long-arrow-down": [
+    "arrow",
+    "down",
+    "long",
+    "direction",
+    "descend"
+  ],
+  "long-arrow-left": [
+    "long",
+    "arrow",
+    "left",
+    "back",
+    "direction"
+  ],
+  "long-arrow-right": [
+    "long",
+    "arrow",
+    "right",
+    "forward",
+    "direction"
+  ],
+  "long-arrow-up": [
+    "long",
+    "arrow",
+    "up",
+    "direction",
+    "navigate"
+  ],
+  "low-vision": [
+    "vision",
+    "sight",
+    "accessibility",
+    "impairment",
+    "eyes"
+  ],
+  "luggage-cart": [
+    "luggage",
+    "cart",
+    "travel",
+    "suitcase",
+    "transport"
+  ],
+  "lungs": [
+    "lungs",
+    "medical",
+    "health",
+    "breathing",
+    "organ"
+  ],
+  "lungs-virus": [
+    "lungs",
+    "virus",
+    "medical",
+    "health",
+    "covid"
+  ],
+  "m": [
+    "letter",
+    "character",
+    "text",
+    "font",
+    "alphabet"
+  ],
+  "magnet": [
+    "magnet",
+    "magnetic",
+    "attract",
+    "metal",
+    "physics"
+  ],
+  "magnifying-glass-arrow-right": [
+    "magnifying",
+    "glass",
+    "arrow",
+    "right",
+    "direction"
+  ],
+  "magnifying-glass-chart": [
+    "search",
+    "zoom",
+    "chart",
+    "analyze",
+    "inspect"
+  ],
+  "mail-bulk": [
+    "mail",
+    "bulk",
+    "email",
+    "mass",
+    "send"
+  ],
+  "manat-sign": [
+    "money",
+    "currency",
+    "azerbaijan",
+    "cash",
+    "finance"
+  ],
+  "map": [
+    "map",
+    "location",
+    "navigation",
+    "geography",
+    "direction"
+  ],
+  "map-marked": [
+    "map",
+    "marked",
+    "location",
+    "navigate",
+    "place"
+  ],
+  "map-marked-alt": [
+    "location",
+    "map",
+    "pin",
+    "gps",
+    "place"
+  ],
+  "map-marker": [
+    "location",
+    "pin",
+    "map",
+    "gps",
+    "place"
+  ],
+  "map-marker-alt": [
+    "map",
+    "marker",
+    "alternative",
+    "location",
+    "pin"
+  ],
+  "map-pin": [
+    "map",
+    "pin",
+    "location",
+    "marker",
+    "place"
+  ],
+  "marker": [
+    "pen",
+    "mark",
+    "highlight",
+    "draw",
+    "write"
+  ],
+  "mars": [
+    "mars",
+    "planet",
+    "space",
+    "male",
+    "gender"
+  ],
+  "mars-and-venus": [
+    "gender",
+    "male",
+    "female",
+    "symbol",
+    "relationship"
+  ],
+  "mars-and-venus-burst": [
+    "mars",
+    "venus",
+    "gender",
+    "burst",
+    "symbol"
+  ],
+  "mars-double": [
+    "mars",
+    "double",
+    "male",
+    "gender",
+    "symbol"
+  ],
+  "mars-stroke": [
+    "gender",
+    "male",
+    "symbol",
+    "man",
+    "person"
+  ],
+  "mars-stroke-right": [
+    "gender",
+    "male",
+    "symbol",
+    "man",
+    "person"
+  ],
+  "mars-stroke-v": [
+    "gender",
+    "male",
+    "symbol",
+    "man",
+    "person"
+  ],
+  "martini-glass": [
+    "drink",
+    "alcohol",
+    "cocktail",
+    "glass",
+    "bar"
+  ],
+  "martini-glass-citrus": [
+    "drink",
+    "cocktail",
+    "citrus",
+    "glass",
+    "bar"
+  ],
+  "martini-glass-empty": [
+    "drink",
+    "glass",
+    "empty",
+    "cocktail",
+    "bar"
+  ],
+  "mask": [
+    "mask",
+    "cover",
+    "protection",
+    "face",
+    "disguise"
+  ],
+  "mask-face": [
+    "mask",
+    "face",
+    "cover",
+    "protection",
+    "disguise"
+  ],
+  "mask-ventilator": [
+    "mask",
+    "medical",
+    "ventilator",
+    "health",
+    "breathing"
+  ],
+  "mattress-pillow": [
+    "bed",
+    "sleep",
+    "pillow",
+    "mattress",
+    "comfort"
+  ],
+  "maximize": [
+    "expand",
+    "full",
+    "screen",
+    "large",
+    "grow"
+  ],
+  "medal": [
+    "medal",
+    "award",
+    "trophy",
+    "honor",
+    "achievement"
+  ],
+  "meh": [
+    "emoji",
+    "meh",
+    "neutral",
+    "face",
+    "expression"
+  ],
+  "meh-blank": [
+    "emoji",
+    "meh",
+    "blank",
+    "expression",
+    "face"
+  ],
+  "meh-rolling-eyes": [
+    "emoji",
+    "eyes",
+    "roll",
+    "face",
+    "expression"
+  ],
+  "memory": [
+    "memory",
+    "ram",
+    "chip",
+    "hardware",
+    "computer"
+  ],
+  "menorah": [
+    "menorah",
+    "jewish",
+    "candles",
+    "hanukkah",
+    "religion"
+  ],
+  "mercury": [
+    "mercury",
+    "planet",
+    "space",
+    "solar",
+    "celestial"
+  ],
+  "message": [
+    "message",
+    "chat",
+    "text",
+    "communication",
+    "sms"
+  ],
+  "meteor": [
+    "meteor",
+    "space",
+    "rock",
+    "asteroid",
+    "shooting"
+  ],
+  "microchip": [
+    "technology",
+    "computer",
+    "chip",
+    "processor",
+    "hardware"
+  ],
+  "microphone": [
+    "audio",
+    "sound",
+    "voice",
+    "record",
+    "mic"
+  ],
+  "microphone-lines": [
+    "audio",
+    "sound",
+    "voice",
+    "record",
+    "mic"
+  ],
+  "microphone-lines-slash": [
+    "microphone",
+    "lines",
+    "mute",
+    "audio",
+    "silent"
+  ],
+  "microphone-slash": [
+    "microphone",
+    "slash",
+    "mute",
+    "audio",
+    "silent"
+  ],
+  "microscope": [
+    "microscope",
+    "science",
+    "lab",
+    "zoom",
+    "research"
+  ],
+  "mill-sign": [
+    "mill",
+    "sign",
+    "currency",
+    "money",
+    "turkey"
+  ],
+  "minimize": [
+    "shrink",
+    "small",
+    "reduce",
+    "collapse",
+    "window"
+  ],
+  "minus-circle": [
+    "minus",
+    "circle",
+    "subtract",
+    "remove",
+    "less"
+  ],
+  "mitten": [
+    "mitten",
+    "glove",
+    "winter",
+    "hand",
+    "warm"
+  ],
+  "mobile-button": [
+    "mobile",
+    "button",
+    "phone",
+    "device",
+    "touch"
+  ],
+  "mobile-phone": [
+    "mobile",
+    "phone",
+    "device",
+    "cellphone",
+    "smartphone"
+  ],
+  "mobile-retro": [
+    "phone",
+    "mobile",
+    "retro",
+    "old",
+    "vintage"
+  ],
+  "mobile-screen": [
+    "mobile",
+    "screen",
+    "phone",
+    "device",
+    "smartphone"
+  ],
+  "mobile-screen-button": [
+    "mobile",
+    "phone",
+    "screen",
+    "button",
+    "device"
+  ],
+  "mobile-vibrate": [
+    "mobile",
+    "vibrate",
+    "phone",
+    "ring",
+    "alert"
+  ],
+  "money-bill": [
+    "cash",
+    "currency",
+    "money",
+    "payment",
+    "finance"
+  ],
+  "money-bill-alt": [
+    "money",
+    "bill",
+    "alternative",
+    "cash",
+    "currency"
+  ],
+  "money-bill-transfer": [
+    "money",
+    "transfer",
+    "payment",
+    "finance",
+    "exchange"
+  ],
+  "money-bill-trend-up": [
+    "money",
+    "trend",
+    "up",
+    "finance",
+    "growth"
+  ],
+  "money-bill-wave": [
+    "cash",
+    "currency",
+    "money",
+    "payment",
+    "finance"
+  ],
+  "money-bill-wave-alt": [
+    "money",
+    "bill",
+    "wave",
+    "alternative",
+    "currency"
+  ],
+  "money-bill-wheat": [
+    "money",
+    "bill",
+    "wheat",
+    "agriculture",
+    "finance"
+  ],
+  "money-bills": [
+    "money",
+    "cash",
+    "currency",
+    "finance",
+    "payment"
+  ],
+  "money-check": [
+    "money",
+    "check",
+    "payment",
+    "finance",
+    "bank"
+  ],
+  "money-check-dollar": [
+    "money",
+    "check",
+    "payment",
+    "finance",
+    "dollar"
+  ],
+  "monument": [
+    "memorial",
+    "statue",
+    "history",
+    "landmark",
+    "tribute"
+  ],
+  "moon": [
+    "moon",
+    "night",
+    "space",
+    "celestial",
+    "dark"
+  ],
+  "mortar-board": [
+    "mortar",
+    "board",
+    "graduation",
+    "cap",
+    "education"
+  ],
+  "mortar-pestle": [
+    "grind",
+    "crush",
+    "pharmacy",
+    "medicine",
+    "mix"
+  ],
+  "mosque": [
+    "mosque",
+    "islam",
+    "religion",
+    "worship",
+    "prayer"
+  ],
+  "mosquito": [
+    "mosquito",
+    "insect",
+    "bug",
+    "pest",
+    "disease"
+  ],
+  "mosquito-net": [
+    "mosquito",
+    "net",
+    "insect",
+    "protection",
+    "bug"
+  ],
+  "motorcycle": [
+    "motorcycle",
+    "bike",
+    "vehicle",
+    "ride",
+    "transport"
+  ],
+  "mound": [
+    "mound",
+    "hill",
+    "earth",
+    "burial",
+    "archaeology"
+  ],
+  "mountain": [
+    "mountain",
+    "peak",
+    "nature",
+    "landscape",
+    "climb"
+  ],
+  "mountain-city": [
+    "mountain",
+    "city",
+    "landscape",
+    "urban",
+    "skyline"
+  ],
+  "mountain-sun": [
+    "mountain",
+    "sun",
+    "landscape",
+    "nature",
+    "outdoor"
+  ],
+  "mouse": [
+    "click",
+    "pointer",
+    "cursor",
+    "device",
+    "input"
+  ],
+  "mouse-pointer": [
+    "cursor",
+    "arrow",
+    "pointer",
+    "click",
+    "select"
+  ],
+  "mug-hot": [
+    "coffee",
+    "drink",
+    "hot",
+    "beverage",
+    "warm"
+  ],
+  "mug-saucer": [
+    "mug",
+    "saucer",
+    "coffee",
+    "drink",
+    "beverage"
+  ],
+  "music": [
+    "music",
+    "sound",
+    "audio",
+    "note",
+    "song"
+  ],
+  "n": [
+    "letter",
+    "character",
+    "text",
+    "font",
+    "alphabet"
+  ],
+  "naira-sign": [
+    "naira",
+    "sign",
+    "money",
+    "currency",
+    "nigeria"
+  ],
+  "navicon": [
+    "navicon",
+    "menu",
+    "hamburger",
+    "navigation",
+    "bars"
+  ],
+  "network-wired": [
+    "network",
+    "wired",
+    "connection",
+    "ethernet",
+    "cable"
+  ],
+  "neuter": [
+    "gender",
+    "neutral",
+    "symbol",
+    "sex",
+    "identity"
+  ],
+  "newspaper": [
+    "news",
+    "paper",
+    "media",
+    "article",
+    "press"
+  ],
+  "non-binary": [
+    "non",
+    "binary",
+    "gender",
+    "identity",
+    "inclusive"
+  ],
+  "not-equal": [
+    "math",
+    "inequality",
+    "symbol",
+    "different",
+    "operator"
+  ],
+  "notdef": [
+    "notdef",
+    "undefined",
+    "missing",
+    "error",
+    "symbol"
+  ],
+  "notes-medical": [
+    "health",
+    "medical",
+    "record",
+    "doctor",
+    "prescription"
+  ],
+  "o": [
+    "letter",
+    "character",
+    "text",
+    "font",
+    "alphabet"
+  ],
+  "object-group": [
+    "group",
+    "object",
+    "combine",
+    "merge",
+    "organize"
+  ],
+  "object-ungroup": [
+    "ungroup",
+    "separate",
+    "object",
+    "scatter",
+    "expand"
+  ],
+  "octagon": [
+    "octagon",
+    "shape",
+    "polygon",
+    "eight",
+    "stop"
+  ],
+  "oil-can": [
+    "oil",
+    "can",
+    "lubricant",
+    "mechanic",
+    "tool"
+  ],
+  "oil-well": [
+    "oil",
+    "well",
+    "petroleum",
+    "energy",
+    "drilling"
+  ],
+  "om": [
+    "om",
+    "spiritual",
+    "hindu",
+    "meditation",
+    "symbol"
+  ],
+  "otter": [
+    "otter",
+    "animal",
+    "mammal",
+    "cute",
+    "water"
+  ],
+  "outdent": [
+    "outdent",
+    "text",
+    "format",
+    "align",
+    "spacing"
+  ],
+  "p": [
+    "letter",
+    "character",
+    "text",
+    "font",
+    "alphabet"
+  ],
+  "pager": [
+    "pager",
+    "beeper",
+    "message",
+    "device",
+    "communication"
+  ],
+  "paint-roller": [
+    "paint",
+    "roller",
+    "painting",
+    "color",
+    "wall"
+  ],
+  "paintbrush": [
+    "paintbrush",
+    "art",
+    "paint",
+    "draw",
+    "design"
+  ],
+  "palette": [
+    "color",
+    "art",
+    "paint",
+    "design",
+    "creative"
+  ],
+  "pallet": [
+    "pallet",
+    "shipping",
+    "warehouse",
+    "cargo",
+    "logistics"
+  ],
+  "panorama": [
+    "panorama",
+    "wide",
+    "view",
+    "landscape",
+    "photo"
+  ],
+  "paper-plane": [
+    "paper",
+    "plane",
+    "send",
+    "mail",
+    "message"
+  ],
+  "paperclip": [
+    "paperclip",
+    "clip",
+    "attach",
+    "paper",
+    "office"
+  ],
+  "parachute-box": [
+    "parachute",
+    "box",
+    "delivery",
+    "airdrop",
+    "cargo"
+  ],
+  "paragraph": [
+    "paragraph",
+    "text",
+    "format",
+    "writing",
+    "content"
+  ],
+  "passport": [
+    "travel",
+    "document",
+    "identity",
+    "country",
+    "visa"
+  ],
+  "paste": [
+    "paste",
+    "clipboard",
+    "copy",
+    "insert",
+    "text"
+  ],
+  "pause": [
+    "stop",
+    "halt",
+    "media",
+    "music",
+    "video"
+  ],
+  "pause-circle": [
+    "pause",
+    "stop",
+    "media",
+    "round",
+    "music"
+  ],
+  "paw": [
+    "paw",
+    "animal",
+    "pet",
+    "dog",
+    "cat"
+  ],
+  "peace": [
+    "peace",
+    "calm",
+    "quiet",
+    "harmony",
+    "tranquil"
+  ],
+  "pen": [
+    "pen",
+    "write",
+    "draw",
+    "ink",
+    "tool"
+  ],
+  "pen-clip": [
+    "write",
+    "edit",
+    "pen",
+    "clip",
+    "attach"
+  ],
+  "pen-fancy": [
+    "pen",
+    "fancy",
+    "write",
+    "elegant",
+    "quill"
+  ],
+  "pen-nib": [
+    "pen",
+    "nib",
+    "write",
+    "draw",
+    "ink"
+  ],
+  "pen-to-square": [
+    "pen",
+    "to",
+    "square",
+    "box",
+    "shape"
+  ],
+  "pencil-alt": [
+    "pencil",
+    "edit",
+    "write",
+    "draw",
+    "modify"
+  ],
+  "pencil-ruler": [
+    "pencil",
+    "ruler",
+    "design",
+    "draw",
+    "measure"
+  ],
+  "pentagon": [
+    "pentagon",
+    "shape",
+    "polygon",
+    "five",
+    "geometric"
+  ],
+  "people-arrows-left-right": [
+    "people",
+    "arrows",
+    "left",
+    "right",
+    "users"
+  ],
+  "people-carry-box": [
+    "team",
+    "work",
+    "lift",
+    "collaborate",
+    "cargo"
+  ],
+  "people-group": [
+    "people",
+    "group",
+    "users",
+    "team",
+    "crowd"
+  ],
+  "people-line": [
+    "people",
+    "line",
+    "users",
+    "group",
+    "team"
+  ],
+  "people-pulling": [
+    "people",
+    "pulling",
+    "team",
+    "collaboration",
+    "group"
+  ],
+  "people-robbery": [
+    "people",
+    "robbery",
+    "users",
+    "group",
+    "team"
+  ],
+  "people-roof": [
+    "people",
+    "roof",
+    "users",
+    "group",
+    "team"
+  ],
+  "pepper-hot": [
+    "spicy",
+    "hot",
+    "food",
+    "chili",
+    "heat"
+  ],
+  "percentage": [
+    "percentage",
+    "percent",
+    "math",
+    "symbol",
+    "calculation"
+  ],
+  "person": [
+    "person",
+    "user",
+    "human",
+    "individual",
+    "profile"
+  ],
+  "person-arrow-down-to-line": [
+    "person",
+    "arrow",
+    "down",
+    "line",
+    "exit"
+  ],
+  "person-arrow-up-from-line": [
+    "person",
+    "arrow",
+    "up",
+    "from",
+    "line"
+  ],
+  "person-biking": [
+    "person",
+    "biking",
+    "cycle",
+    "sport",
+    "exercise"
+  ],
+  "person-booth": [
+    "person",
+    "booth",
+    "photo",
+    "picture",
+    "portrait"
+  ],
+  "person-breastfeeding": [
+    "baby",
+    "mother",
+    "milk",
+    "infant",
+    "family"
+  ],
+  "person-burst": [
+    "person",
+    "burst",
+    "explode",
+    "energy",
+    "power"
+  ],
+  "person-cane": [
+    "person",
+    "cane",
+    "walking",
+    "support",
+    "elderly"
+  ],
+  "person-chalkboard": [
+    "teacher",
+    "education",
+    "board",
+    "school",
+    "learning"
+  ],
+  "person-circle-check": [
+    "person",
+    "circle",
+    "check",
+    "verify",
+    "confirm"
+  ],
+  "person-circle-exclamation": [
+    "person",
+    "circle",
+    "exclamation",
+    "warning",
+    "alert"
+  ],
+  "person-circle-minus": [
+    "remove",
+    "delete",
+    "user",
+    "person",
+    "negative"
+  ],
+  "person-circle-plus": [
+    "add",
+    "user",
+    "person",
+    "positive",
+    "new"
+  ],
+  "person-circle-question": [
+    "question",
+    "help",
+    "person",
+    "user",
+    "inquiry"
+  ],
+  "person-circle-xmark": [
+    "person",
+    "circle",
+    "xmark",
+    "remove",
+    "delete"
+  ],
+  "person-digging": [
+    "person",
+    "digging",
+    "work",
+    "labor",
+    "excavate"
+  ],
+  "person-dots-from-line": [
+    "person",
+    "dots",
+    "line",
+    "queue",
+    "waiting"
+  ],
+  "person-dress": [
+    "person",
+    "dress",
+    "clothing",
+    "fashion",
+    "woman"
+  ],
+  "person-dress-burst": [
+    "person",
+    "dress",
+    "burst",
+    "explode",
+    "fashion"
+  ],
+  "person-drowning": [
+    "person",
+    "drowning",
+    "user",
+    "human",
+    "individual"
+  ],
+  "person-falling": [
+    "person",
+    "falling",
+    "accident",
+    "drop",
+    "fall"
+  ],
+  "person-falling-burst": [
+    "person",
+    "falling",
+    "burst",
+    "accident",
+    "drop"
+  ],
+  "person-half-dress": [
+    "clothing",
+    "outfit",
+    "person",
+    "fashion",
+    "wear"
+  ],
+  "person-harassing": [
+    "person",
+    "harassing",
+    "bullying",
+    "abuse",
+    "harassment"
+  ],
+  "person-hiking": [
+    "person",
+    "hiking",
+    "walking",
+    "nature",
+    "outdoor"
+  ],
+  "person-military-pointing": [
+    "person",
+    "military",
+    "pointing",
+    "direction",
+    "soldier"
+  ],
+  "person-military-rifle": [
+    "person",
+    "military",
+    "rifle",
+    "soldier",
+    "army"
+  ],
+  "person-military-to-person": [
+    "person",
+    "military",
+    "service",
+    "army",
+    "soldier"
+  ],
+  "person-pregnant": [
+    "person",
+    "pregnant",
+    "baby",
+    "mother",
+    "family"
+  ],
+  "person-rays": [
+    "person",
+    "rays",
+    "user",
+    "human",
+    "individual"
+  ],
+  "person-rifle": [
+    "person",
+    "rifle",
+    "military",
+    "soldier",
+    "weapon"
+  ],
+  "person-shelter": [
+    "shelter",
+    "protection",
+    "safety",
+    "home",
+    "refuge"
+  ],
+  "person-through-window": [
+    "person",
+    "through",
+    "window",
+    "break",
+    "escape"
+  ],
+  "person-walking-arrow-loop-left": [
+    "person",
+    "walking",
+    "arrow",
+    "loop",
+    "left"
+  ],
+  "person-walking-arrow-right": [
+    "person",
+    "walking",
+    "arrow",
+    "right",
+    "direction"
+  ],
+  "person-walking-dashed-line-arrow-right": [
+    "walk",
+    "person",
+    "direction",
+    "arrow",
+    "movement"
+  ],
+  "person-walking-luggage": [
+    "person",
+    "walking",
+    "luggage",
+    "travel",
+    "suitcase"
+  ],
+  "person-walking-with-cane": [
+    "person",
+    "walking",
+    "cane",
+    "support",
+    "elderly"
+  ],
+  "peseta-sign": [
+    "peseta",
+    "sign",
+    "currency",
+    "money",
+    "spain"
+  ],
+  "peso-sign": [
+    "peso",
+    "sign",
+    "money",
+    "currency",
+    "philippines"
+  ],
+  "phone": [
+    "phone",
+    "call",
+    "telephone",
+    "mobile",
+    "device"
+  ],
+  "phone-flip": [
+    "phone",
+    "mobile",
+    "flip",
+    "device",
+    "call"
+  ],
+  "phone-slash": [
+    "phone",
+    "slash",
+    "disconnect",
+    "call",
+    "mute"
+  ],
+  "photo-video": [
+    "photo",
+    "video",
+    "camera",
+    "multimedia",
+    "media"
+  ],
+  "pie-chart": [
+    "graph",
+    "analytics",
+    "ratio",
+    "statistics",
+    "data"
+  ],
+  "piggy-bank": [
+    "piggy",
+    "bank",
+    "money",
+    "savings",
+    "coin"
+  ],
+  "pills": [
+    "medicine",
+    "drug",
+    "health",
+    "pharmacy",
+    "tablet"
+  ],
+  "pizza-slice": [
+    "food",
+    "slice",
+    "italian",
+    "cheese",
+    "restaurant"
+  ],
+  "place-of-worship": [
+    "place",
+    "worship",
+    "religion",
+    "temple",
+    "church"
+  ],
+  "plane": [
+    "plane",
+    "airplane",
+    "flight",
+    "travel",
+    "aviation"
+  ],
+  "plane-arrival": [
+    "plane",
+    "arrival",
+    "landing",
+    "airport",
+    "travel"
+  ],
+  "plane-circle-check": [
+    "check",
+    "success",
+    "plane",
+    "flight",
+    "confirm"
+  ],
+  "plane-circle-exclamation": [
+    "warning",
+    "alert",
+    "travel",
+    "flight",
+    "danger"
+  ],
+  "plane-circle-xmark": [
+    "plane",
+    "circle",
+    "xmark",
+    "cancel",
+    "flight"
+  ],
+  "plane-departure": [
+    "plane",
+    "departure",
+    "flight",
+    "travel",
+    "airport"
+  ],
+  "plane-lock": [
+    "plane",
+    "lock",
+    "secure",
+    "flight",
+    "travel"
+  ],
+  "plane-slash": [
+    "remove",
+    "delete",
+    "plane",
+    "flight",
+    "forbidden"
+  ],
+  "plane-up": [
+    "plane",
+    "up",
+    "flight",
+    "travel",
+    "airplane"
+  ],
+  "plant-wilt": [
+    "plant",
+    "wilt",
+    "die",
+    "nature",
+    "dead"
+  ],
+  "plate-wheat": [
+    "food",
+    "grain",
+    "wheat",
+    "farm",
+    "bread"
+  ],
+  "play": [
+    "play",
+    "start",
+    "begin",
+    "music",
+    "video"
+  ],
+  "play-circle": [
+    "play",
+    "start",
+    "video",
+    "music",
+    "media"
+  ],
+  "plug": [
+    "plug",
+    "electric",
+    "power",
+    "connect",
+    "socket"
+  ],
+  "plug-circle-bolt": [
+    "plug",
+    "electric",
+    "power",
+    "bolt",
+    "energy"
+  ],
+  "plug-circle-check": [
+    "plug",
+    "circle",
+    "check",
+    "connect",
+    "power"
+  ],
+  "plug-circle-exclamation": [
+    "plug",
+    "circle",
+    "exclamation",
+    "warning",
+    "electric"
+  ],
+  "plug-circle-minus": [
+    "plug",
+    "circle",
+    "minus",
+    "disconnect",
+    "remove"
+  ],
+  "plug-circle-plus": [
+    "plug",
+    "circle",
+    "plus",
+    "connect",
+    "add"
+  ],
+  "plug-circle-xmark": [
+    "plug",
+    "circle",
+    "xmark",
+    "disconnect",
+    "power"
+  ],
+  "plus": [
+    "plus",
+    "add",
+    "positive",
+    "increase",
+    "math"
+  ],
+  "plus-circle": [
+    "plus",
+    "circle",
+    "add",
+    "increase",
+    "positive"
+  ],
+  "plus-minus": [
+    "plus",
+    "minus",
+    "math",
+    "add",
+    "subtract"
+  ],
+  "podcast": [
+    "podcast",
+    "audio",
+    "radio",
+    "broadcast",
+    "streaming"
+  ],
+  "poo": [
+    "poo",
+    "waste",
+    "toilet",
+    "disgusting",
+    "gross"
+  ],
+  "poo-storm": [
+    "mess",
+    "disaster",
+    "toilet",
+    "waste",
+    "gross"
+  ],
+  "poop": [
+    "waste",
+    "toilet",
+    "bathroom",
+    "disgusting",
+    "gross"
+  ],
+  "portrait": [
+    "portrait",
+    "photo",
+    "picture",
+    "image",
+    "face"
+  ],
+  "power-off": [
+    "power",
+    "off",
+    "shutdown",
+    "turn",
+    "switch"
+  ],
+  "pray": [
+    "pray",
+    "prayer",
+    "religion",
+    "faith",
+    "spiritual"
+  ],
+  "praying-hands": [
+    "hands",
+    "praying",
+    "pray",
+    "religious",
+    "worship"
+  ],
+  "prescription": [
+    "prescription",
+    "medical",
+    "medicine",
+    "doctor",
+    "health"
+  ],
+  "prescription-bottle": [
+    "prescription",
+    "bottle",
+    "medicine",
+    "pharmacy",
+    "drugs"
+  ],
+  "prescription-bottle-medical": [
+    "prescription",
+    "bottle",
+    "medical",
+    "medicine",
+    "health"
+  ],
+  "print": [
+    "print",
+    "printer",
+    "document",
+    "paper",
+    "output"
+  ],
+  "procedures": [
+    "medical",
+    "process",
+    "steps",
+    "hospital",
+    "clinic"
+  ],
+  "project-diagram": [
+    "project",
+    "diagram",
+    "chart",
+    "flow",
+    "structure"
+  ],
+  "pump-medical": [
+    "pump",
+    "medical",
+    "hospital",
+    "health",
+    "sanitizer"
+  ],
+  "pump-soap": [
+    "pump",
+    "soap",
+    "clean",
+    "wash",
+    "sanitizer"
+  ],
+  "puzzle-piece": [
+    "puzzle",
+    "game",
+    "piece",
+    "solve",
+    "fit"
+  ],
+  "q": [
+    "letter",
+    "character",
+    "text",
+    "font",
+    "alphabet"
+  ],
+  "qrcode": [
+    "qrcode",
+    "qr",
+    "code",
+    "scan",
+    "mobile"
+  ],
+  "question": [
+    "help",
+    "query",
+    "faq",
+    "support",
+    "inquiry"
+  ],
+  "question-circle": [
+    "question",
+    "help",
+    "inquiry",
+    "support",
+    "faq"
+  ],
+  "quidditch-broom-ball": [
+    "quidditch",
+    "broom",
+    "harry",
+    "potter",
+    "sport"
+  ],
+  "quote-left-alt": [
+    "quote",
+    "left",
+    "alternative",
+    "quotation",
+    "text"
+  ],
+  "quote-right-alt": [
+    "quote",
+    "right",
+    "alternative",
+    "text",
+    "quotation"
+  ],
+  "quran": [
+    "quran",
+    "religion",
+    "islam",
+    "holy",
+    "book"
+  ],
+  "r": [
+    "letter",
+    "character",
+    "text",
+    "font",
+    "alphabet"
+  ],
+  "radiation": [
+    "nuclear",
+    "danger",
+    "energy",
+    "warning",
+    "atomic"
+  ],
+  "radiation-alt": [
+    "radiation",
+    "alternative",
+    "nuclear",
+    "warning",
+    "danger"
+  ],
+  "radio": [
+    "radio",
+    "audio",
+    "music",
+    "broadcast",
+    "communication"
+  ],
+  "rainbow": [
+    "rainbow",
+    "colors",
+    "arc",
+    "lgbtq",
+    "sky"
+  ],
+  "ranking-star": [
+    "ranking",
+    "star",
+    "rating",
+    "score",
+    "leaderboard"
+  ],
+  "receipt": [
+    "receipt",
+    "payment",
+    "proof",
+    "document",
+    "transaction"
+  ],
+  "record-vinyl": [
+    "record",
+    "vinyl",
+    "music",
+    "audio",
+    "disc"
+  ],
+  "rectangle-ad": [
+    "advertisement",
+    "ad",
+    "marketing",
+    "banner",
+    "promo"
+  ],
+  "rectangle-list": [
+    "rectangle",
+    "list",
+    "menu",
+    "items",
+    "options"
+  ],
+  "recycle": [
+    "recycle",
+    "environment",
+    "green",
+    "sustainability",
+    "reuse"
+  ],
+  "redo": [
+    "redo",
+    "repeat",
+    "forward",
+    "again",
+    "restore"
+  ],
+  "registered": [
+    "trademark",
+    "registered",
+    "symbol",
+    "mark",
+    "legal"
+  ],
+  "repeat": [
+    "loop",
+    "again",
+    "refresh",
+    "replay",
+    "cycle"
+  ],
+  "reply": [
+    "reply",
+    "respond",
+    "answer",
+    "return",
+    "back"
+  ],
+  "reply-all": [
+    "email",
+    "reply",
+    "all",
+    "respond",
+    "message"
+  ],
+  "republican": [
+    "republican",
+    "politics",
+    "party",
+    "government",
+    "elephant"
+  ],
+  "restroom": [
+    "restroom",
+    "bathroom",
+    "toilet",
+    "wc",
+    "facilities"
+  ],
+  "retweet": [
+    "retweet",
+    "share",
+    "twitter",
+    "social",
+    "repeat"
+  ],
+  "ribbon": [
+    "ribbon",
+    "award",
+    "badge",
+    "prize",
+    "medal"
+  ],
+  "right-left": [
+    "right",
+    "left",
+    "arrows",
+    "direction",
+    "horizontal"
+  ],
+  "right-long": [
+    "right",
+    "long",
+    "arrow",
+    "forward",
+    "direction"
+  ],
+  "ring": [
+    "ring",
+    "jewelry",
+    "wedding",
+    "circle",
+    "band"
+  ],
+  "road": [
+    "street",
+    "path",
+    "highway",
+    "route",
+    "drive"
+  ],
+  "road-barrier": [
+    "block",
+    "stop",
+    "traffic",
+    "construction",
+    "detour"
+  ],
+  "road-bridge": [
+    "travel",
+    "structure",
+    "crossing",
+    "highway",
+    "overpass"
+  ],
+  "road-circle-check": [
+    "confirm",
+    "success",
+    "travel",
+    "route",
+    "path"
+  ],
+  "road-circle-exclamation": [
+    "road",
+    "circle",
+    "exclamation",
+    "warning",
+    "traffic"
+  ],
+  "road-circle-xmark": [
+    "close",
+    "remove",
+    "delete",
+    "travel",
+    "path"
+  ],
+  "road-lock": [
+    "lock",
+    "road",
+    "secure",
+    "block",
+    "traffic"
+  ],
+  "road-spikes": [
+    "road",
+    "spikes",
+    "barrier",
+    "security",
+    "stop"
+  ],
+  "robot": [
+    "robot",
+    "machine",
+    "automaton",
+    "technology",
+    "ai"
+  ],
+  "rocket": [
+    "rocket",
+    "space",
+    "launch",
+    "flight",
+    "spacecraft"
+  ],
+  "rotate-right": [
+    "rotate",
+    "right",
+    "refresh",
+    "sync",
+    "reload"
+  ],
+  "route": [
+    "route",
+    "path",
+    "direction",
+    "navigation",
+    "way"
+  ],
+  "rss": [
+    "rss",
+    "feed",
+    "syndication",
+    "xml",
+    "subscribe"
+  ],
+  "ruble-sign": [
+    "ruble",
+    "sign",
+    "money",
+    "currency",
+    "russia"
+  ],
+  "rug": [
+    "rug",
+    "carpet",
+    "floor",
+    "home",
+    "decoration"
+  ],
+  "ruler": [
+    "ruler",
+    "measure",
+    "length",
+    "size",
+    "tool"
+  ],
+  "ruler-combined": [
+    "ruler",
+    "combined",
+    "measure",
+    "length",
+    "size"
+  ],
+  "ruler-horizontal": [
+    "ruler",
+    "horizontal",
+    "measure",
+    "length",
+    "size"
+  ],
+  "ruler-vertical": [
+    "ruler",
+    "vertical",
+    "measure",
+    "length",
+    "tool"
+  ],
+  "running": [
+    "exercise",
+    "fitness",
+    "sport",
+    "athlete",
+    "marathon"
+  ],
+  "rupee-sign": [
+    "money",
+    "currency",
+    "india",
+    "cash",
+    "finance"
+  ],
+  "rupiah-sign": [
+    "rupiah",
+    "sign",
+    "money",
+    "currency",
+    "indonesia"
+  ],
+  "s": [
+    "letter",
+    "character",
+    "text",
+    "font",
+    "alphabet"
+  ],
+  "sack-dollar": [
+    "sack",
+    "dollar",
+    "money",
+    "bag",
+    "cash"
+  ],
+  "sack-xmark": [
+    "remove",
+    "delete",
+    "money",
+    "sack",
+    "cancel"
+  ],
+  "sad-cry": [
+    "emoji",
+    "sad",
+    "cry",
+    "emotion",
+    "face"
+  ],
+  "sad-tear": [
+    "sad",
+    "tear",
+    "emotion",
+    "cry",
+    "unhappy"
+  ],
+  "sailboat": [
+    "boat",
+    "sailing",
+    "water",
+    "wind",
+    "sea"
+  ],
+  "satellite": [
+    "satellite",
+    "space",
+    "orbit",
+    "communication",
+    "signal"
+  ],
+  "satellite-dish": [
+    "satellite",
+    "dish",
+    "antenna",
+    "signal",
+    "communication"
+  ],
+  "save": [
+    "save",
+    "store",
+    "disk",
+    "floppy",
+    "backup"
+  ],
+  "scale-balanced": [
+    "scale",
+    "balanced",
+    "justice",
+    "weight",
+    "balance"
+  ],
+  "scale-unbalanced": [
+    "scale",
+    "unbalanced",
+    "weight",
+    "justice",
+    "measure"
+  ],
+  "scale-unbalanced-flip": [
+    "balance",
+    "scale",
+    "weight",
+    "justice",
+    "unequal"
+  ],
+  "school": [
+    "education",
+    "learn",
+    "study",
+    "academic",
+    "knowledge"
+  ],
+  "school-circle-check": [
+    "education",
+    "confirm",
+    "success",
+    "academic",
+    "learn"
+  ],
+  "school-circle-exclamation": [
+    "school",
+    "circle",
+    "exclamation",
+    "education",
+    "learn"
+  ],
+  "school-circle-xmark": [
+    "school",
+    "circle",
+    "xmark",
+    "education",
+    "learn"
+  ],
+  "school-flag": [
+    "school",
+    "flag",
+    "education",
+    "learning",
+    "institution"
+  ],
+  "school-lock": [
+    "school",
+    "lock",
+    "education",
+    "secure",
+    "learning"
+  ],
+  "scissors": [
+    "scissors",
+    "cut",
+    "trim",
+    "snip",
+    "tool"
+  ],
+  "screwdriver": [
+    "tool",
+    "repair",
+    "fix",
+    "build",
+    "hardware"
+  ],
+  "scroll": [
+    "document",
+    "paper",
+    "ancient",
+    "history",
+    "text"
+  ],
+  "sd-card": [
+    "sd",
+    "card",
+    "memory",
+    "storage",
+    "digital"
+  ],
+  "search": [
+    "search",
+    "find",
+    "magnifying",
+    "glass",
+    "query"
+  ],
+  "search-dollar": [
+    "search",
+    "dollar",
+    "money",
+    "find",
+    "currency"
+  ],
+  "search-location": [
+    "search",
+    "location",
+    "find",
+    "magnify",
+    "lookup"
+  ],
+  "search-minus": [
+    "search",
+    "minus",
+    "zoom",
+    "magnify",
+    "reduce"
+  ],
+  "search-plus": [
+    "search",
+    "plus",
+    "zoom",
+    "magnify",
+    "enlarge"
+  ],
+  "section": [
+    "section",
+    "divide",
+    "separator",
+    "split",
+    "group"
+  ],
+  "septagon": [
+    "septagon",
+    "shape",
+    "polygon",
+    "seven",
+    "geometric"
+  ],
+  "server": [
+    "computer",
+    "network",
+    "data",
+    "host",
+    "cloud"
+  ],
+  "share": [
+    "share",
+    "social",
+    "network",
+    "connect",
+    "distribute"
+  ],
+  "share-nodes": [
+    "share",
+    "nodes",
+    "send",
+    "social",
+    "distribute"
+  ],
+  "share-square": [
+    "share",
+    "square",
+    "export",
+    "send",
+    "social"
+  ],
+  "sheet-plastic": [
+    "sheet",
+    "plastic",
+    "cover",
+    "wrap",
+    "material"
+  ],
+  "sheqel-sign": [
+    "sheqel",
+    "sign",
+    "money",
+    "currency",
+    "israel"
+  ],
+  "shield-blank": [
+    "shield",
+    "blank",
+    "protection",
+    "security",
+    "defense"
+  ],
+  "shield-cat": [
+    "shield",
+    "cat",
+    "protection",
+    "animal",
+    "pet"
+  ],
+  "shield-dog": [
+    "shield",
+    "dog",
+    "protection",
+    "security",
+    "pet"
+  ],
+  "shield-halved": [
+    "shield",
+    "protection",
+    "security",
+    "defense",
+    "safe"
+  ],
+  "shield-heart": [
+    "shield",
+    "heart",
+    "love",
+    "protection",
+    "care"
+  ],
+  "shield-virus": [
+    "shield",
+    "virus",
+    "protection",
+    "medical",
+    "health"
+  ],
+  "ship": [
+    "ship",
+    "boat",
+    "sailing",
+    "transport",
+    "water"
+  ],
+  "shoe-prints": [
+    "shoe",
+    "prints",
+    "footprints",
+    "walk",
+    "steps"
+  ],
+  "shop-lock": [
+    "secure",
+    "store",
+    "retail",
+    "closed",
+    "shopping"
+  ],
+  "shopping-bag": [
+    "shopping",
+    "bag",
+    "store",
+    "retail",
+    "purchase"
+  ],
+  "shopping-basket": [
+    "basket",
+    "shopping",
+    "cart",
+    "store",
+    "buy"
+  ],
+  "shopping-cart": [
+    "shopping",
+    "cart",
+    "buy",
+    "store",
+    "purchase"
+  ],
+  "shower": [
+    "shower",
+    "water",
+    "bath",
+    "clean",
+    "wash"
+  ],
+  "shrimp": [
+    "shrimp",
+    "seafood",
+    "food",
+    "crustacean",
+    "aquatic"
+  ],
+  "shuffle": [
+    "random",
+    "mix",
+    "music",
+    "cards",
+    "reorder"
+  ],
+  "sign-hanging": [
+    "sign",
+    "hanging",
+    "display",
+    "board",
+    "notice"
+  ],
+  "sign-in": [
+    "login",
+    "enter",
+    "signin",
+    "access",
+    "authenticate"
+  ],
+  "sign-in-alt": [
+    "login",
+    "enter",
+    "signin",
+    "access",
+    "authenticate"
+  ],
+  "sign-out": [
+    "sign",
+    "out",
+    "logout",
+    "exit",
+    "leave"
+  ],
+  "sign-out-alt": [
+    "sign",
+    "out",
+    "logout",
+    "exit",
+    "leave"
+  ],
+  "signal-perfect": [
+    "signal",
+    "perfect",
+    "wifi",
+    "network",
+    "connection"
+  ],
+  "signature": [
+    "sign",
+    "write",
+    "autograph",
+    "name",
+    "document"
+  ],
+  "signing": [
+    "signing",
+    "sign",
+    "language",
+    "deaf",
+    "communication"
+  ],
+  "signs-post": [
+    "sign",
+    "post",
+    "direction",
+    "road",
+    "navigation"
+  ],
+  "sim-card": [
+    "sim",
+    "card",
+    "mobile",
+    "phone",
+    "chip"
+  ],
+  "single-quote-left": [
+    "single",
+    "quote",
+    "left",
+    "text",
+    "punctuation"
+  ],
+  "single-quote-right": [
+    "single",
+    "quote",
+    "right",
+    "text",
+    "punctuation"
+  ],
+  "sink": [
+    "sink",
+    "wash",
+    "water",
+    "basin",
+    "bathroom"
+  ],
+  "sitemap": [
+    "sitemap",
+    "structure",
+    "hierarchy",
+    "map",
+    "organization"
+  ],
+  "skating": [
+    "skate",
+    "ice",
+    "sport",
+    "winter",
+    "recreation"
+  ],
+  "skiing": [
+    "ski",
+    "winter",
+    "sport",
+    "snow",
+    "recreation"
+  ],
+  "skiing-nordic": [
+    "skiing",
+    "nordic",
+    "winter",
+    "sport",
+    "snow"
+  ],
+  "skull": [
+    "skull",
+    "death",
+    "bone",
+    "skeleton",
+    "danger"
+  ],
+  "skull-crossbones": [
+    "skull",
+    "crossbones",
+    "death",
+    "danger",
+    "poison"
+  ],
+  "slash": [
+    "divide",
+    "cut",
+    "remove",
+    "delete",
+    "cancel"
+  ],
+  "sleigh": [
+    "sleigh",
+    "winter",
+    "snow",
+    "christmas",
+    "reindeer"
+  ],
+  "sliders-h": [
+    "sliders",
+    "horizontal",
+    "controls",
+    "settings",
+    "adjust"
+  ],
+  "smile": [
+    "smile",
+    "happy",
+    "face",
+    "emotion",
+    "joy"
+  ],
+  "smile-beam": [
+    "smile",
+    "beam",
+    "happy",
+    "face",
+    "joy"
+  ],
+  "smile-wink": [
+    "emoji",
+    "happy",
+    "smile",
+    "wink",
+    "face"
+  ],
+  "smog": [
+    "pollution",
+    "smoke",
+    "environment",
+    "air",
+    "fog"
+  ],
+  "smoking": [
+    "cigarette",
+    "smoke",
+    "tobacco",
+    "health",
+    "danger"
+  ],
+  "smoking-ban": [
+    "ban",
+    "smoking",
+    "no",
+    "forbidden",
+    "health"
+  ],
+  "sms": [
+    "sms",
+    "text",
+    "message",
+    "phone",
+    "mobile"
+  ],
+  "snowboarding": [
+    "snowboarding",
+    "sport",
+    "winter",
+    "snow",
+    "extreme"
+  ],
+  "snowflake": [
+    "winter",
+    "snow",
+    "cold",
+    "frozen",
+    "ice"
+  ],
+  "snowman": [
+    "winter",
+    "cold",
+    "snow",
+    "holiday",
+    "frozen"
+  ],
+  "snowplow": [
+    "snow",
+    "plow",
+    "winter",
+    "clear",
+    "vehicle"
+  ],
+  "soap": [
+    "soap",
+    "wash",
+    "clean",
+    "hygiene",
+    "bubble"
+  ],
+  "soccer-ball": [
+    "soccer",
+    "ball",
+    "football",
+    "sport",
+    "game"
+  ],
+  "socks": [
+    "socks",
+    "clothing",
+    "footwear",
+    "pair",
+    "wear"
+  ],
+  "solar-panel": [
+    "solar",
+    "energy",
+    "panel",
+    "sun",
+    "power"
+  ],
+  "sort-alpha-down": [
+    "sort",
+    "alpha",
+    "down",
+    "descending",
+    "alphabet"
+  ],
+  "sort-alpha-down-alt": [
+    "sort",
+    "alpha",
+    "down",
+    "alt",
+    "order"
+  ],
+  "sort-alpha-up": [
+    "sort",
+    "alphabet",
+    "order",
+    "ascending",
+    "filter"
+  ],
+  "sort-alpha-up-alt": [
+    "sort",
+    "alpha",
+    "up",
+    "alternative",
+    "alphabet"
+  ],
+  "sort-amount-down": [
+    "sort",
+    "filter",
+    "descending",
+    "list",
+    "order"
+  ],
+  "sort-amount-down-alt": [
+    "sort",
+    "amount",
+    "down",
+    "alternative",
+    "descending"
+  ],
+  "sort-amount-up": [
+    "sort",
+    "amount",
+    "up",
+    "ascending",
+    "order"
+  ],
+  "sort-amount-up-alt": [
+    "sort",
+    "amount",
+    "up",
+    "alternative",
+    "order"
+  ],
+  "sort-down": [
+    "sort",
+    "down",
+    "order",
+    "arrange",
+    "organize"
+  ],
+  "sort-numeric-down": [
+    "sort",
+    "numeric",
+    "down",
+    "descending",
+    "order"
+  ],
+  "sort-numeric-down-alt": [
+    "sort",
+    "numeric",
+    "down",
+    "alt",
+    "order"
+  ],
+  "sort-numeric-up": [
+    "sort",
+    "numeric",
+    "up",
+    "ascending",
+    "order"
+  ],
+  "sort-numeric-up-alt": [
+    "sort",
+    "numeric",
+    "up",
+    "ascending",
+    "alternative"
+  ],
+  "sort-up": [
+    "sort",
+    "up",
+    "ascending",
+    "order",
+    "arrange"
+  ],
+  "spa": [
+    "relax",
+    "wellness",
+    "massage",
+    "health",
+    "beauty"
+  ],
+  "space-shuttle": [
+    "space",
+    "rocket",
+    "nasa",
+    "launch",
+    "astronaut"
+  ],
+  "spaghetti-monster-flying": [
+    "spaghetti",
+    "monster",
+    "pastafarian",
+    "religion",
+    "parody"
+  ],
+  "spell-check": [
+    "grammar",
+    "text",
+    "writing",
+    "proofread",
+    "language"
+  ],
+  "spider": [
+    "insect",
+    "arachnid",
+    "web",
+    "bug",
+    "creepy"
+  ],
+  "spinner": [
+    "spinner",
+    "loading",
+    "spinning",
+    "progress",
+    "animation"
+  ],
+  "spiral": [
+    "spiral",
+    "swirl",
+    "twist",
+    "rotate",
+    "coil"
+  ],
+  "splotch": [
+    "splotch",
+    "stain",
+    "spot",
+    "mark",
+    "blot"
+  ],
+  "spray-can": [
+    "spray",
+    "can",
+    "paint",
+    "aerosol",
+    "graffiti"
+  ],
+  "spray-can-sparkles": [
+    "spray",
+    "sparkle",
+    "paint",
+    "can",
+    "clean"
+  ],
+  "sprout": [
+    "plant",
+    "grow",
+    "nature",
+    "green",
+    "seedling"
+  ],
+  "square": [
+    "shape",
+    "box",
+    "geometric",
+    "form",
+    "block"
+  ],
+  "square-arrow-up-right": [
+    "external",
+    "link",
+    "share",
+    "new",
+    "window"
+  ],
+  "square-binary": [
+    "binary",
+    "code",
+    "computer",
+    "digital",
+    "programming"
+  ],
+  "square-caret-down": [
+    "square",
+    "caret",
+    "down",
+    "box",
+    "shape"
+  ],
+  "square-caret-left": [
+    "arrow",
+    "back",
+    "previous",
+    "direction",
+    "return"
+  ],
+  "square-caret-right": [
+    "square",
+    "caret",
+    "right",
+    "box",
+    "shape"
+  ],
+  "square-caret-up": [
+    "arrow",
+    "up",
+    "collapse",
+    "expand",
+    "top"
+  ],
+  "square-check": [
+    "square",
+    "check",
+    "box",
+    "shape",
+    "rectangle"
+  ],
+  "square-envelope": [
+    "square",
+    "envelope",
+    "mail",
+    "message",
+    "email"
+  ],
+  "square-full": [
+    "square",
+    "full",
+    "shape",
+    "geometric",
+    "form"
+  ],
+  "square-h": [
+    "square",
+    "h",
+    "letter",
+    "shape",
+    "hospital"
+  ],
+  "square-minus": [
+    "square",
+    "minus",
+    "box",
+    "shape",
+    "rectangle"
+  ],
+  "square-nfi": [
+    "symbol",
+    "icon",
+    "logo",
+    "brand",
+    "mark"
+  ],
+  "square-parking": [
+    "parking",
+    "square",
+    "car",
+    "spot",
+    "vehicle"
+  ],
+  "square-pen": [
+    "square",
+    "pen",
+    "edit",
+    "write",
+    "modify"
+  ],
+  "square-person-confined": [
+    "person",
+    "quarantine",
+    "isolate",
+    "confined",
+    "square"
+  ],
+  "square-phone": [
+    "square",
+    "phone",
+    "call",
+    "telephone",
+    "device"
+  ],
+  "square-phone-flip": [
+    "square",
+    "phone",
+    "flip",
+    "box",
+    "shape"
+  ],
+  "square-plus": [
+    "add",
+    "new",
+    "plus",
+    "create",
+    "positive"
+  ],
+  "square-poll-horizontal": [
+    "poll",
+    "survey",
+    "vote",
+    "chart",
+    "statistics"
+  ],
+  "square-poll-vertical": [
+    "poll",
+    "survey",
+    "vote",
+    "chart",
+    "statistics"
+  ],
+  "square-root-variable": [
+    "square",
+    "root",
+    "variable",
+    "math",
+    "equation"
+  ],
+  "square-rss": [
+    "feed",
+    "subscribe",
+    "news",
+    "blog",
+    "syndication"
+  ],
+  "square-share-nodes": [
+    "square",
+    "share",
+    "nodes",
+    "network",
+    "social"
+  ],
+  "square-up-right": [
+    "square",
+    "up",
+    "right",
+    "box",
+    "shape"
+  ],
+  "square-virus": [
+    "square",
+    "virus",
+    "medical",
+    "health",
+    "coronavirus"
+  ],
+  "staff-snake": [
+    "medical",
+    "health",
+    "symbol",
+    "caduceus",
+    "heal"
+  ],
+  "stairs": [
+    "steps",
+    "climb",
+    "building",
+    "floor",
+    "ascend"
+  ],
+  "stamp": [
+    "mail",
+    "post",
+    "mark",
+    "letter",
+    "seal"
+  ],
+  "stapler": [
+    "stapler",
+    "office",
+    "paper",
+    "bind",
+    "tool"
+  ],
+  "star": [
+    "favorite",
+    "rating",
+    "shape",
+    "celebrity",
+    "bright"
+  ],
+  "star-and-crescent": [
+    "star",
+    "and",
+    "crescent",
+    "rating",
+    "favorite"
+  ],
+  "star-half": [
+    "star",
+    "half",
+    "rating",
+    "review",
+    "score"
+  ],
+  "star-half-stroke": [
+    "star",
+    "half",
+    "rating",
+    "partial",
+    "score"
+  ],
+  "star-of-david": [
+    "star",
+    "david",
+    "jewish",
+    "religion",
+    "symbol"
+  ],
+  "star-of-life": [
+    "star",
+    "life",
+    "medical",
+    "emergency",
+    "health"
+  ],
+  "step-backward": [
+    "step",
+    "backward",
+    "previous",
+    "rewind",
+    "back"
+  ],
+  "step-forward": [
+    "step",
+    "forward",
+    "next",
+    "skip",
+    "advance"
+  ],
+  "sterling-sign": [
+    "money",
+    "currency",
+    "uk",
+    "pound",
+    "finance"
+  ],
+  "stethoscope": [
+    "stethoscope",
+    "medical",
+    "doctor",
+    "health",
+    "hospital"
+  ],
+  "sticky-note": [
+    "sticky",
+    "note",
+    "memo",
+    "reminder",
+    "paper"
+  ],
+  "stop": [
+    "stop",
+    "halt",
+    "pause",
+    "end",
+    "terminate"
+  ],
+  "stop-circle": [
+    "stop",
+    "pause",
+    "halt",
+    "round",
+    "media"
+  ],
+  "stopwatch": [
+    "timer",
+    "chronometer",
+    "time",
+    "stop",
+    "watch"
+  ],
+  "stopwatch-20": [
+    "stopwatch",
+    "timer",
+    "time",
+    "measure",
+    "seconds"
+  ],
+  "store": [
+    "store",
+    "shop",
+    "retail",
+    "business",
+    "commerce"
+  ],
+  "store-alt": [
+    "store",
+    "alternative",
+    "shop",
+    "retail",
+    "commerce"
+  ],
+  "store-alt-slash": [
+    "close",
+    "forbidden",
+    "store",
+    "retail",
+    "shopping"
+  ],
+  "store-slash": [
+    "close",
+    "forbidden",
+    "store",
+    "retail",
+    "shopping"
+  ],
+  "stream": [
+    "stream",
+    "flow",
+    "data",
+    "continuous",
+    "live"
+  ],
+  "street-view": [
+    "street",
+    "view",
+    "map",
+    "location",
+    "panorama"
+  ],
+  "strikethrough": [
+    "strikethrough",
+    "text",
+    "format",
+    "delete",
+    "cross"
+  ],
+  "stroopwafel": [
+    "food",
+    "cookie",
+    "sweet",
+    "dessert",
+    "treat"
+  ],
+  "subscript": [
+    "text",
+    "format",
+    "font",
+    "writing",
+    "math"
+  ],
+  "subtract": [
+    "subtract",
+    "minus",
+    "remove",
+    "delete",
+    "negative"
+  ],
+  "suitcase": [
+    "travel",
+    "business",
+    "luggage",
+    "work",
+    "trip"
+  ],
+  "suitcase-medical": [
+    "suitcase",
+    "medical",
+    "health",
+    "doctor",
+    "emergency"
+  ],
+  "suitcase-rolling": [
+    "suitcase",
+    "rolling",
+    "travel",
+    "luggage",
+    "bag"
+  ],
+  "sun": [
+    "sun",
+    "solar",
+    "light",
+    "day",
+    "weather"
+  ],
+  "sun-plant-wilt": [
+    "sun",
+    "plant",
+    "wilt",
+    "light",
+    "day"
+  ],
+  "superscript": [
+    "superscript",
+    "text",
+    "format",
+    "power",
+    "math"
+  ],
+  "surprise": [
+    "emoji",
+    "surprise",
+    "shock",
+    "amazed",
+    "face"
+  ],
+  "swatchbook": [
+    "swatchbook",
+    "colors",
+    "palette",
+    "design",
+    "samples"
+  ],
+  "swimmer": [
+    "swimmer",
+    "swimming",
+    "water",
+    "sport",
+    "athlete"
+  ],
+  "synagogue": [
+    "jewish",
+    "temple",
+    "religion",
+    "worship",
+    "prayer"
+  ],
+  "sync": [
+    "rotate",
+    "arrows",
+    "refresh",
+    "sync",
+    "reload"
+  ],
+  "sync-alt": [
+    "sync",
+    "alternative",
+    "refresh",
+    "update",
+    "reload"
+  ],
+  "syringe": [
+    "syringe",
+    "medical",
+    "needle",
+    "injection",
+    "health"
+  ],
+  "t": [
+    "letter",
+    "character",
+    "text",
+    "font",
+    "alphabet"
+  ],
+  "table": [
+    "table",
+    "data",
+    "grid",
+    "rows",
+    "columns"
+  ],
+  "table-cells-column-lock": [
+    "table",
+    "cells",
+    "column",
+    "lock",
+    "secure"
+  ],
+  "table-cells-row-lock": [
+    "table",
+    "cells",
+    "row",
+    "lock",
+    "secure"
+  ],
+  "table-cells-row-unlock": [
+    "table",
+    "cells",
+    "row",
+    "unlock",
+    "grid"
+  ],
+  "table-columns": [
+    "table",
+    "columns",
+    "grid",
+    "layout",
+    "data"
+  ],
+  "table-tennis-paddle-ball": [
+    "table",
+    "tennis",
+    "paddle",
+    "ball",
+    "sport"
+  ],
+  "tablet-android": [
+    "tablet",
+    "android",
+    "device",
+    "mobile",
+    "google"
+  ],
+  "tablet-button": [
+    "device",
+    "screen",
+    "tablet",
+    "button",
+    "touch"
+  ],
+  "tablet-screen-button": [
+    "tablet",
+    "screen",
+    "device",
+    "mobile",
+    "ipad"
+  ],
+  "tablets": [
+    "medicine",
+    "pill",
+    "health",
+    "drug",
+    "pharmacy"
+  ],
+  "tachograph-digital": [
+    "tachograph",
+    "digital",
+    "speed",
+    "record",
+    "driving"
+  ],
+  "tachometer-alt-average": [
+    "speed",
+    "meter",
+    "gauge",
+    "measure",
+    "average"
+  ],
+  "tachometer-alt-fast": [
+    "tachometer",
+    "alternative",
+    "fast",
+    "speed",
+    "gauge"
+  ],
+  "tachometer-average": [
+    "tachometer",
+    "average",
+    "speed",
+    "meter",
+    "gauge"
+  ],
+  "tachometer-fast": [
+    "tachometer",
+    "fast",
+    "speed",
+    "gauge",
+    "quick"
+  ],
+  "tag": [
+    "tag",
+    "label",
+    "marker",
+    "badge",
+    "category"
+  ],
+  "tags": [
+    "tag",
+    "label",
+    "category",
+    "marker",
+    "badge"
+  ],
+  "tanakh": [
+    "tanakh",
+    "book",
+    "religion",
+    "holy",
+    "scripture"
+  ],
+  "tape": [
+    "tape",
+    "adhesive",
+    "sticky",
+    "bind",
+    "seal"
+  ],
+  "tarp": [
+    "cover",
+    "tarp",
+    "protect",
+    "waterproof",
+    "canvas"
+  ],
+  "tarp-droplet": [
+    "tarp",
+    "droplet",
+    "water",
+    "cover",
+    "protection"
+  ],
+  "tasks": [
+    "tasks",
+    "todo",
+    "list",
+    "items",
+    "checklist"
+  ],
+  "tasks-alt": [
+    "tasks",
+    "list",
+    "checklist",
+    "todo",
+    "items"
+  ],
+  "taxi": [
+    "car",
+    "transport",
+    "vehicle",
+    "cab",
+    "ride"
+  ],
+  "teeth": [
+    "teeth",
+    "dental",
+    "mouth",
+    "smile",
+    "health"
+  ],
+  "teeth-open": [
+    "teeth",
+    "mouth",
+    "dental",
+    "health",
+    "smile"
+  ],
+  "temperature-down": [
+    "temperature",
+    "down",
+    "cold",
+    "thermometer",
+    "weather"
+  ],
+  "temperature-high": [
+    "weather",
+    "hot",
+    "warm",
+    "climate",
+    "thermometer"
+  ],
+  "temperature-low": [
+    "temperature",
+    "low",
+    "cold",
+    "cool",
+    "thermometer"
+  ],
+  "temperature-up": [
+    "temperature",
+    "up",
+    "hot",
+    "thermometer",
+    "warm"
+  ],
+  "tenge-sign": [
+    "tenge",
+    "sign",
+    "money",
+    "currency",
+    "kazakhstan"
+  ],
+  "tent": [
+    "tent",
+    "camping",
+    "outdoor",
+    "shelter",
+    "nature"
+  ],
+  "tent-arrow-down-to-line": [
+    "camp",
+    "tent",
+    "arrow",
+    "down",
+    "outdoors"
+  ],
+  "tent-arrow-left-right": [
+    "tent",
+    "arrow",
+    "left",
+    "right",
+    "direction"
+  ],
+  "tent-arrow-turn-left": [
+    "tent",
+    "arrow",
+    "turn",
+    "left",
+    "camping"
+  ],
+  "tent-arrows-down": [
+    "tent",
+    "arrows",
+    "down",
+    "camping",
+    "collapse"
+  ],
+  "tents": [
+    "tents",
+    "camping",
+    "outdoor",
+    "shelter",
+    "nature"
+  ],
+  "terminal": [
+    "terminal",
+    "command",
+    "console",
+    "code",
+    "computer"
+  ],
+  "text-height": [
+    "text",
+    "height",
+    "size",
+    "font",
+    "format"
+  ],
+  "text-slash": [
+    "text",
+    "format",
+    "remove",
+    "delete",
+    "strikethrough"
+  ],
+  "text-width": [
+    "text",
+    "width",
+    "format",
+    "size",
+    "typography"
+  ],
+  "th": [
+    "letter",
+    "character",
+    "text",
+    "font",
+    "alphabet"
+  ],
+  "th-large": [
+    "letter",
+    "character",
+    "text",
+    "font",
+    "alphabet"
+  ],
+  "th-list": [
+    "th",
+    "list",
+    "table",
+    "data",
+    "grid"
+  ],
+  "theater-masks": [
+    "theater",
+    "masks",
+    "drama",
+    "performance",
+    "art"
+  ],
+  "thermometer": [
+    "thermometer",
+    "temperature",
+    "hot",
+    "cold",
+    "measure"
+  ],
+  "thermometer-empty": [
+    "temperature",
+    "cold",
+    "empty",
+    "thermometer",
+    "weather"
+  ],
+  "thermometer-full": [
+    "thermometer",
+    "full",
+    "temperature",
+    "hot",
+    "warm"
+  ],
+  "thermometer-half": [
+    "weather",
+    "hot",
+    "cold",
+    "temperature",
+    "climate"
+  ],
+  "thermometer-quarter": [
+    "temperature",
+    "warm",
+    "thermometer",
+    "weather",
+    "heat"
+  ],
+  "thermometer-three-quarters": [
+    "thermometer",
+    "three",
+    "quarters",
+    "temperature",
+    "warm"
+  ],
+  "thumbs-down": [
+    "thumbs",
+    "down",
+    "dislike",
+    "negative",
+    "bad"
+  ],
+  "thumbs-up": [
+    "thumbs",
+    "up",
+    "like",
+    "approve",
+    "good"
+  ],
+  "thumbtack": [
+    "thumbtack",
+    "pin",
+    "tack",
+    "attach",
+    "note"
+  ],
+  "thumbtack-slash": [
+    "remove",
+    "pin",
+    "delete",
+    "unpin",
+    "detach"
+  ],
+  "thunderstorm": [
+    "lightning",
+    "storm",
+    "weather",
+    "thunder",
+    "rain"
+  ],
+  "ticket": [
+    "ticket",
+    "entry",
+    "pass",
+    "admission",
+    "coupon"
+  ],
+  "ticket-simple": [
+    "ticket",
+    "simple",
+    "entry",
+    "pass",
+    "admission"
+  ],
+  "timeline": [
+    "timeline",
+    "schedule",
+    "history",
+    "events",
+    "chronology"
+  ],
+  "tint": [
+    "tint",
+    "water",
+    "drop",
+    "liquid",
+    "moisture"
+  ],
+  "tint-slash": [
+    "tint",
+    "slash",
+    "water",
+    "remove",
+    "delete"
+  ],
+  "tired": [
+    "emoji",
+    "tired",
+    "sleepy",
+    "exhausted",
+    "face"
+  ],
+  "toggle-off": [
+    "toggle",
+    "off",
+    "switch",
+    "disable",
+    "inactive"
+  ],
+  "toggle-on": [
+    "switch",
+    "on",
+    "enable",
+    "activate",
+    "power"
+  ],
+  "toilet": [
+    "toilet",
+    "bathroom",
+    "restroom",
+    "wc",
+    "facilities"
+  ],
+  "toilet-paper-blank": [
+    "toilet",
+    "paper",
+    "bathroom",
+    "hygiene",
+    "roll"
+  ],
+  "toilet-paper-slash": [
+    "remove",
+    "delete",
+    "toilet",
+    "paper",
+    "forbidden"
+  ],
+  "toilet-portable": [
+    "toilet",
+    "portable",
+    "restroom",
+    "bathroom",
+    "wc"
+  ],
+  "toilets-portable": [
+    "toilets",
+    "portable",
+    "outdoor",
+    "restroom",
+    "temporary"
+  ],
+  "toolbox": [
+    "toolbox",
+    "tools",
+    "repair",
+    "maintenance",
+    "work"
+  ],
+  "tools": [
+    "tools",
+    "repair",
+    "fix",
+    "hardware",
+    "maintenance"
+  ],
+  "tooth": [
+    "dental",
+    "health",
+    "mouth",
+    "smile",
+    "medical"
+  ],
+  "torah": [
+    "torah",
+    "jewish",
+    "religion",
+    "scroll",
+    "hebrew"
+  ],
+  "torii-gate": [
+    "japanese",
+    "gate",
+    "temple",
+    "shrine",
+    "asia"
+  ],
+  "tornado": [
+    "tornado",
+    "storm",
+    "wind",
+    "weather",
+    "disaster"
+  ],
+  "tower-broadcast": [
+    "tower",
+    "broadcast",
+    "signal",
+    "transmission",
+    "radio"
+  ],
+  "tower-cell": [
+    "tower",
+    "cell",
+    "signal",
+    "mobile",
+    "network"
+  ],
+  "tower-observation": [
+    "tower",
+    "observation",
+    "watch",
+    "monitor",
+    "lookout"
+  ],
+  "tractor": [
+    "tractor",
+    "farm",
+    "agriculture",
+    "vehicle",
+    "machine"
+  ],
+  "trademark": [
+    "trademark",
+    "legal",
+    "symbol",
+    "mark",
+    "brand"
+  ],
+  "traffic-light": [
+    "traffic",
+    "light",
+    "signal",
+    "stop",
+    "go"
+  ],
+  "trailer": [
+    "trailer",
+    "vehicle",
+    "transport",
+    "cargo",
+    "truck"
+  ],
+  "train": [
+    "transport",
+    "railway",
+    "railroad",
+    "locomotive",
+    "travel"
+  ],
+  "train-subway": [
+    "train",
+    "subway",
+    "transport",
+    "railway",
+    "metro"
+  ],
+  "train-tram": [
+    "train",
+    "tram",
+    "transport",
+    "rail",
+    "public"
+  ],
+  "tram": [
+    "tram",
+    "train",
+    "transport",
+    "railway",
+    "metro"
+  ],
+  "transgender-alt": [
+    "transgender",
+    "alternative",
+    "gender",
+    "identity",
+    "pride"
+  ],
+  "trash": [
+    "trash",
+    "garbage",
+    "delete",
+    "remove",
+    "bin"
+  ],
+  "trash-can": [
+    "trash",
+    "can",
+    "delete",
+    "remove",
+    "garbage"
+  ],
+  "trash-restore": [
+    "trash",
+    "restore",
+    "recover",
+    "undo",
+    "recycle"
+  ],
+  "trash-restore-alt": [
+    "trash",
+    "restore",
+    "alternative",
+    "undo",
+    "recover"
+  ],
+  "tree": [
+    "tree",
+    "nature",
+    "plant",
+    "forest",
+    "wood"
+  ],
+  "tree-city": [
+    "tree",
+    "city",
+    "urban",
+    "nature",
+    "environment"
+  ],
+  "triangle-circle-square": [
+    "shapes",
+    "geometry",
+    "form",
+    "pattern",
+    "design"
+  ],
+  "trophy": [
+    "trophy",
+    "award",
+    "win",
+    "prize",
+    "achievement"
+  ],
+  "trowel": [
+    "trowel",
+    "tool",
+    "garden",
+    "dig",
+    "construction"
+  ],
+  "trowel-bricks": [
+    "trowel",
+    "bricks",
+    "build",
+    "construction",
+    "masonry"
+  ],
+  "truck": [
+    "truck",
+    "vehicle",
+    "transport",
+    "delivery",
+    "cargo"
+  ],
+  "truck-arrow-right": [
+    "truck",
+    "arrow",
+    "right",
+    "delivery",
+    "transport"
+  ],
+  "truck-droplet": [
+    "truck",
+    "droplet",
+    "water",
+    "delivery",
+    "transport"
+  ],
+  "truck-fast": [
+    "truck",
+    "fast",
+    "delivery",
+    "shipping",
+    "transport"
+  ],
+  "truck-field": [
+    "truck",
+    "vehicle",
+    "transport",
+    "delivery",
+    "field"
+  ],
+  "truck-field-un": [
+    "truck",
+    "field",
+    "un",
+    "vehicle",
+    "transport"
+  ],
+  "truck-front": [
+    "truck",
+    "vehicle",
+    "transport",
+    "delivery",
+    "front"
+  ],
+  "truck-medical": [
+    "ambulance",
+    "emergency",
+    "medical",
+    "health",
+    "vehicle"
+  ],
+  "truck-monster": [
+    "truck",
+    "monster",
+    "delivery",
+    "transport",
+    "vehicle"
+  ],
+  "truck-moving": [
+    "truck",
+    "moving",
+    "transport",
+    "delivery",
+    "vehicle"
+  ],
+  "truck-pickup": [
+    "truck",
+    "pickup",
+    "vehicle",
+    "transport",
+    "cargo"
+  ],
+  "truck-plane": [
+    "truck",
+    "plane",
+    "delivery",
+    "transport",
+    "vehicle"
+  ],
+  "truck-ramp-box": [
+    "truck",
+    "ramp",
+    "box",
+    "delivery",
+    "transport"
+  ],
+  "tshirt": [
+    "shirt",
+    "t-shirt",
+    "clothing",
+    "apparel",
+    "casual"
+  ],
+  "tty": [
+    "tty",
+    "terminal",
+    "computer",
+    "text",
+    "console"
+  ],
+  "turkish-lira-sign": [
+    "turkish",
+    "lira",
+    "sign",
+    "currency",
+    "money"
+  ],
+  "turn-down": [
+    "turn",
+    "down",
+    "arrow",
+    "direction",
+    "rotate"
+  ],
+  "turn-up": [
+    "turn",
+    "up",
+    "arrow",
+    "direction",
+    "rotate"
+  ],
+  "tv-alt": [
+    "tv",
+    "alternative",
+    "television",
+    "screen",
+    "display"
+  ],
+  "u": [
+    "letter",
+    "character",
+    "text",
+    "font",
+    "alphabet"
+  ],
+  "umbrella": [
+    "umbrella",
+    "rain",
+    "protection",
+    "weather",
+    "cover"
+  ],
+  "umbrella-beach": [
+    "vacation",
+    "summer",
+    "sun",
+    "relax",
+    "tropical"
+  ],
+  "underline": [
+    "text",
+    "format",
+    "style",
+    "font",
+    "decoration"
+  ],
+  "undo": [
+    "undo",
+    "back",
+    "reverse",
+    "restore",
+    "cancel"
+  ],
+  "undo-alt": [
+    "undo",
+    "back",
+    "reverse",
+    "restore",
+    "return"
+  ],
+  "universal-access": [
+    "accessibility",
+    "wheelchair",
+    "disability",
+    "access",
+    "inclusive"
+  ],
+  "university": [
+    "university",
+    "education",
+    "college",
+    "school",
+    "academic"
+  ],
+  "unlink": [
+    "unlink",
+    "disconnect",
+    "remove",
+    "break",
+    "separate"
+  ],
+  "unlock": [
+    "open",
+    "access",
+    "password",
+    "login",
+    "secure"
+  ],
+  "unlock-keyhole": [
+    "unlock",
+    "keyhole",
+    "open",
+    "security",
+    "access"
+  ],
+  "unsorted": [
+    "filter",
+    "order",
+    "list",
+    "arrange",
+    "organize"
+  ],
+  "up-down": [
+    "up",
+    "down",
+    "arrows",
+    "direction",
+    "vertical"
+  ],
+  "up-down-left-right": [
+    "arrows",
+    "direction",
+    "move",
+    "resize",
+    "expand"
+  ],
+  "up-long": [
+    "up",
+    "long",
+    "arrow",
+    "top",
+    "direction"
+  ],
+  "up-right-and-down-left-from-center": [
+    "up",
+    "right",
+    "down",
+    "left",
+    "center"
+  ],
+  "up-right-from-square": [
+    "up",
+    "right",
+    "square",
+    "external",
+    "link"
+  ],
+  "upload": [
+    "upload",
+    "send",
+    "transfer",
+    "share",
+    "publish"
+  ],
+  "usd": [
+    "usd",
+    "dollar",
+    "currency",
+    "money",
+    "american"
+  ],
+  "user-astronaut": [
+    "astronaut",
+    "space",
+    "user",
+    "person",
+    "nasa"
+  ],
+  "user-check": [
+    "user",
+    "check",
+    "person",
+    "account",
+    "profile"
+  ],
+  "user-circle": [
+    "user",
+    "circle",
+    "person",
+    "profile",
+    "avatar"
+  ],
+  "user-clock": [
+    "user",
+    "clock",
+    "time",
+    "schedule",
+    "person"
+  ],
+  "user-gear": [
+    "user",
+    "gear",
+    "settings",
+    "profile",
+    "cog"
+  ],
+  "user-graduate": [
+    "user",
+    "graduate",
+    "education",
+    "student",
+    "cap"
+  ],
+  "user-group": [
+    "team",
+    "people",
+    "group",
+    "members",
+    "crowd"
+  ],
+  "user-injured": [
+    "user",
+    "injured",
+    "hurt",
+    "accident",
+    "medical"
+  ],
+  "user-large": [
+    "user",
+    "large",
+    "person",
+    "profile",
+    "account"
+  ],
+  "user-lock": [
+    "user",
+    "lock",
+    "secure",
+    "account",
+    "profile"
+  ],
+  "user-md": [
+    "user",
+    "md",
+    "doctor",
+    "medical",
+    "physician"
+  ],
+  "user-minus": [
+    "remove",
+    "delete",
+    "person",
+    "negative",
+    "subtract"
+  ],
+  "user-ninja": [
+    "user",
+    "ninja",
+    "person",
+    "account",
+    "profile"
+  ],
+  "user-nurse": [
+    "user",
+    "nurse",
+    "medical",
+    "health",
+    "professional"
+  ],
+  "user-pen": [
+    "edit",
+    "write",
+    "user",
+    "profile",
+    "modify"
+  ],
+  "user-plus": [
+    "user",
+    "plus",
+    "add",
+    "person",
+    "invite"
+  ],
+  "user-secret": [
+    "user",
+    "secret",
+    "privacy",
+    "anonymous",
+    "hidden"
+  ],
+  "user-shield": [
+    "user",
+    "shield",
+    "protection",
+    "security",
+    "privacy"
+  ],
+  "user-slash": [
+    "remove",
+    "delete",
+    "user",
+    "person",
+    "negative"
+  ],
+  "user-tag": [
+    "user",
+    "tag",
+    "person",
+    "label",
+    "identify"
+  ],
+  "user-tie": [
+    "business",
+    "formal",
+    "professional",
+    "suit",
+    "user"
+  ],
+  "user-xmark": [
+    "user",
+    "xmark",
+    "person",
+    "account",
+    "profile"
+  ],
+  "users": [
+    "users",
+    "people",
+    "group",
+    "team",
+    "members"
+  ],
+  "users-between-lines": [
+    "users",
+    "between",
+    "lines",
+    "people",
+    "group"
+  ],
+  "users-gear": [
+    "users",
+    "gear",
+    "settings",
+    "people",
+    "configure"
+  ],
+  "users-line": [
+    "users",
+    "line",
+    "people",
+    "group",
+    "team"
+  ],
+  "users-rays": [
+    "users",
+    "rays",
+    "people",
+    "group",
+    "radiation"
+  ],
+  "users-rectangle": [
+    "users",
+    "rectangle",
+    "group",
+    "people",
+    "team"
+  ],
+  "users-slash": [
+    "users",
+    "slash",
+    "disabled",
+    "blocked",
+    "removed"
+  ],
+  "users-viewfinder": [
+    "users",
+    "viewfinder",
+    "camera",
+    "photo",
+    "group"
+  ],
+  "utensil-spoon": [
+    "utensil",
+    "spoon",
+    "eat",
+    "food",
+    "dining"
+  ],
+  "utensils": [
+    "utensils",
+    "fork",
+    "spoon",
+    "cutlery",
+    "dining"
+  ],
+  "v": [
+    "letter",
+    "character",
+    "text",
+    "font",
+    "alphabet"
+  ],
+  "van-shuttle": [
+    "transport",
+    "vehicle",
+    "shuttle",
+    "van",
+    "travel"
+  ],
+  "vault": [
+    "vault",
+    "secure",
+    "safe",
+    "bank",
+    "storage"
+  ],
+  "vcard": [
+    "profile",
+    "id",
+    "contact",
+    "info",
+    "user"
+  ],
+  "vector-polygon": [
+    "vector",
+    "polygon",
+    "shape",
+    "draw",
+    "design"
+  ],
+  "venus": [
+    "female",
+    "gender",
+    "woman",
+    "symbol",
+    "planet"
+  ],
+  "venus-double": [
+    "venus",
+    "double",
+    "female",
+    "gender",
+    "women"
+  ],
+  "venus-mars": [
+    "gender",
+    "male",
+    "female",
+    "symbol",
+    "relationship"
+  ],
+  "vest": [
+    "clothing",
+    "safety",
+    "work",
+    "vest",
+    "protection"
+  ],
+  "vest-patches": [
+    "vest",
+    "patches",
+    "clothing",
+    "uniform",
+    "work"
+  ],
+  "vial": [
+    "medicine",
+    "liquid",
+    "lab",
+    "science",
+    "chemical"
+  ],
+  "vial-circle-check": [
+    "vial",
+    "circle",
+    "check",
+    "test",
+    "medical"
+  ],
+  "vial-virus": [
+    "vial",
+    "virus",
+    "disease",
+    "germ",
+    "pathogen"
+  ],
+  "vials": [
+    "vials",
+    "medical",
+    "test",
+    "laboratory",
+    "science"
+  ],
+  "video-camera": [
+    "video",
+    "camera",
+    "film",
+    "multimedia",
+    "record"
+  ],
+  "video-slash": [
+    "video",
+    "slash",
+    "mute",
+    "disable",
+    "media"
+  ],
+  "vihara": [
+    "vihara",
+    "temple",
+    "buddhist",
+    "monastery",
+    "religion"
+  ],
+  "virus": [
+    "medical",
+    "health",
+    "sickness",
+    "contagion",
+    "disease"
+  ],
+  "virus-covid": [
+    "virus",
+    "covid",
+    "medical",
+    "health",
+    "pandemic"
+  ],
+  "virus-covid-slash": [
+    "health",
+    "medical",
+    "coronavirus",
+    "pandemic",
+    "mask"
+  ],
+  "virus-slash": [
+    "virus",
+    "slash",
+    "medical",
+    "health",
+    "protection"
+  ],
+  "viruses": [
+    "virus",
+    "medical",
+    "health",
+    "sickness",
+    "contagion"
+  ],
+  "voicemail": [
+    "voice",
+    "mail",
+    "message",
+    "phone",
+    "communication"
+  ],
+  "volcano": [
+    "mountain",
+    "lava",
+    "eruption",
+    "fire",
+    "nature"
+  ],
+  "volleyball-ball": [
+    "volleyball",
+    "ball",
+    "sport",
+    "game",
+    "beach"
+  ],
+  "volume-control-phone": [
+    "volume",
+    "control",
+    "phone",
+    "call",
+    "telephone"
+  ],
+  "volume-low": [
+    "volume",
+    "low",
+    "sound",
+    "audio",
+    "quiet"
+  ],
+  "volume-off": [
+    "volume",
+    "off",
+    "mute",
+    "sound",
+    "audio"
+  ],
+  "volume-up": [
+    "volume",
+    "high",
+    "audio",
+    "sound",
+    "loud"
+  ],
+  "volume-xmark": [
+    "volume",
+    "xmark",
+    "mute",
+    "sound",
+    "audio"
+  ],
+  "vote-yea": [
+    "vote",
+    "yea",
+    "yes",
+    "approve",
+    "election"
+  ],
+  "vr-cardboard": [
+    "vr",
+    "cardboard",
+    "virtual",
+    "reality",
+    "headset"
+  ],
+  "w": [
+    "w",
+    "letter",
+    "alphabet",
+    "character",
+    "text"
+  ],
+  "walkie-talkie": [
+    "walkie",
+    "talkie",
+    "radio",
+    "communication",
+    "device"
+  ],
+  "walking": [
+    "walk",
+    "exercise",
+    "movement",
+    "hike",
+    "person"
+  ],
+  "wallet": [
+    "money",
+    "wallet",
+    "cash",
+    "finance",
+    "payment"
+  ],
+  "wand-magic": [
+    "wand",
+    "magic",
+    "spell",
+    "wizard",
+    "fantasy"
+  ],
+  "wand-magic-sparkles": [
+    "magic",
+    "sparkle",
+    "wand",
+    "fantasy",
+    "spell"
+  ],
+  "wand-sparkles": [
+    "wand",
+    "sparkles",
+    "magic",
+    "spell",
+    "fantasy"
+  ],
+  "warehouse": [
+    "warehouse",
+    "storage",
+    "building",
+    "inventory",
+    "facility"
+  ],
+  "warning": [
+    "warning",
+    "alert",
+    "caution",
+    "danger",
+    "notice"
+  ],
+  "water": [
+    "water",
+    "liquid",
+    "drink",
+    "fluid",
+    "wet"
+  ],
+  "water-ladder": [
+    "water",
+    "ladder",
+    "pool",
+    "swim",
+    "recreation"
+  ],
+  "wave-square": [
+    "wave",
+    "square",
+    "box",
+    "shape",
+    "rectangle"
+  ],
+  "weight-hanging": [
+    "heavy",
+    "mass",
+    "lift",
+    "strength",
+    "scale"
+  ],
+  "weight-scale": [
+    "weight",
+    "mass",
+    "measure",
+    "scale",
+    "balance"
+  ],
+  "wheat-awn": [
+    "wheat",
+    "awn",
+    "grain",
+    "crop",
+    "harvest"
+  ],
+  "wheat-awn-circle-exclamation": [
+    "warning",
+    "alert",
+    "farm",
+    "grain",
+    "danger"
+  ],
+  "wheelchair": [
+    "disability",
+    "accessibility",
+    "mobility",
+    "chair",
+    "handicap"
+  ],
+  "wheelchair-move": [
+    "wheelchair",
+    "move",
+    "mobility",
+    "accessibility",
+    "disability"
+  ],
+  "whiskey-glass": [
+    "drink",
+    "glass",
+    "whiskey",
+    "alcohol",
+    "bar"
+  ],
+  "wifi-strong": [
+    "network",
+    "wireless",
+    "internet",
+    "connection",
+    "signal"
+  ],
+  "wind": [
+    "wind",
+    "air",
+    "weather",
+    "breeze",
+    "flow"
+  ],
+  "window-close": [
+    "window",
+    "close",
+    "cancel",
+    "exit",
+    "quit"
+  ],
+  "window-maximize": [
+    "window",
+    "maximize",
+    "expand",
+    "fullscreen",
+    "desktop"
+  ],
+  "window-minimize": [
+    "window",
+    "minimize",
+    "reduce",
+    "shrink",
+    "smaller"
+  ],
+  "window-restore": [
+    "window",
+    "restore",
+    "screen",
+    "desktop",
+    "interface"
+  ],
+  "wine-bottle": [
+    "wine",
+    "bottle",
+    "alcohol",
+    "drink",
+    "beverage"
+  ],
+  "wine-glass": [
+    "wine",
+    "glass",
+    "drink",
+    "alcohol",
+    "beverage"
+  ],
+  "wine-glass-empty": [
+    "wine",
+    "glass",
+    "empty",
+    "drink",
+    "beverage"
+  ],
+  "won-sign": [
+    "money",
+    "currency",
+    "korea",
+    "cash",
+    "finance"
+  ],
+  "worm": [
+    "worm",
+    "bug",
+    "insect",
+    "crawl",
+    "animal"
+  ],
+  "wrench": [
+    "tool",
+    "repair",
+    "fix",
+    "hardware",
+    "maintenance"
+  ],
+  "x": [
+    "x",
+    "letter",
+    "character",
+    "text",
+    "alphabet"
+  ],
+  "x-ray": [
+    "medical",
+    "scan",
+    "health",
+    "bones",
+    "hospital"
+  ],
+  "xmark": [
+    "xmark",
+    "close",
+    "cancel",
+    "remove",
+    "delete"
+  ],
+  "xmark-circle": [
+    "xmark",
+    "circle",
+    "close",
+    "cancel",
+    "remove"
+  ],
+  "xmark-square": [
+    "xmark",
+    "square",
+    "close",
+    "cancel",
+    "remove"
+  ],
+  "xmarks-lines": [
+    "close",
+    "remove",
+    "delete",
+    "cancel",
+    "exit"
+  ],
+  "y": [
+    "letter",
+    "character",
+    "text",
+    "font",
+    "alphabet"
+  ],
+  "yen-sign": [
+    "yen",
+    "sign",
+    "money",
+    "currency",
+    "japan"
+  ],
+  "yin-yang": [
+    "yin",
+    "yang",
+    "balance",
+    "harmony",
+    "symbol"
+  ],
+  "z": [
+    "letter",
+    "character",
+    "text",
+    "font",
+    "alphabet"
+  ],
+  "zap": [
+    "zap",
+    "lightning",
+    "electricity",
+    "power",
+    "energy"
+  ]
+}

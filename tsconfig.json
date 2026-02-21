@@ -11,5 +11,9 @@
 		"strict": true,
 		"skipLibCheck": true,
 		"noUncheckedIndexedAccess": true
-	}
+	},
+	"exclude": [
+		"tools",
+		"node_modules"
+	]
 }

@@ -4,33 +4,45 @@
   const CONFIG = {
     BATCH_SIZE: 200,
     ANIMATION_DELAY: 150,
-    PACK_DISPLAY_NAMES: {
-      all: 'All Packs',
-      codicons: 'Codicons',
-      fontawesome: 'Font Awesome Free',
-      'fontawesome-brands': 'Font Awesome Brands',
-      primeicons: 'Prime Icons',
-      bootstrap: 'Bootstrap Icons',
-      'material-symbols': 'Material Symbols'
-    }
+    PACK_DISPLAY_NAMES: {},
+    PACK_VERSIONS: {}
   };
+  const HEROICONS_SVG_VERSION = '2.2.0';
 
-  const faRenderer = (cls) => name => `<i class="${cls} ${name.startsWith('fa-') ? name : 'fa-' + name}"></i>`;
+  const getHeroiconsSvgUrl = name => {
+    return `https://unpkg.com/heroicons@${HEROICONS_SVG_VERSION}/24/outline/${encodeURIComponent(name)}.svg`;
+  };
 
   const RENDERERS = {
     codicons: name => `<i class="codicon codicon-${name}"></i>`,
     primeicons: name => `<i class="pi pi-${name}"></i>`,
-    fontawesome: faRenderer('fa-solid'),
-    'fontawesome-brands': faRenderer('fa-brands'),
+    fontawesome: name => `<i class="fa-solid ${name.startsWith('fa-') ? name : 'fa-' + name}"></i>`,
+    fabrands: name => `<i class="fa-brands ${name.startsWith('fa-') ? name : 'fa-' + name}"></i>`,
     bootstrap: name => `<i class="bi bi-${name}"></i>`,
-    'material-symbols': name => `<span class="material-symbols-outlined">${name === 'cross' ? 'close' : name}</span>`
+    material: name => `<span class="material-symbols-outlined">${name === 'cross' ? 'close' : name}</span>`,
+    heroicons: name => {
+      const iconUrl = getHeroiconsSvgUrl(name);
+      return `<div style="-webkit-mask: url(${iconUrl}) no-repeat center / contain; mask: url(${iconUrl}) no-repeat center / contain; background-color: var(--vscode-editor-foreground); width: 24px; height: 24px; margin: auto;"></div>`;
+    },
+    lucide: name => `<i class="icon icon-${name}"></i>`,
+    feather: name => `<i class="ft ft-${name}"></i>`,
+    tabler: name => `<i class="ti ti-${name}"></i>`,
+    remixicon: name => `<i class="ri-${name}"></i>`,
+    lineicons: name => `<i class="lni lni-${name}"></i>`,
+    simpleicons: name => `<div style="-webkit-mask: url(https://cdn.simpleicons.org/${name}) no-repeat center / contain; mask: url(https://cdn.simpleicons.org/${name}) no-repeat center / contain; background-color: var(--vscode-editor-foreground); width: 24px; height: 24px; margin: auto;"></div>`,
+    eva: name => `<i class="eva eva-${name}"></i>`,
+    boxicons: name => `<i class="bx ${name.startsWith('bx-') ? name : 'bx-' + name}"></i>`,
+    iconoir: name => `<i class="iconoir-${name}"></i>`,
+    phosphor: name => `<i class="ph ph-${name}"></i>`
   };
+
+  const pastState = vscode.getState() || {};
 
   const state = {
     iconsByPack: {},
     flatIconIndex: [],
-    currentQuery: '',
-    currentPackFilter: 'all',
+    currentQuery: pastState.currentQuery || '',
+    currentPackFilter: pastState.currentPackFilter || 'all',
     filteredIcons: [],
     displayedCount: 0,
     isLoadingMore: false,
@@ -41,6 +53,7 @@
     grid: document.getElementById('icons-grid'),
     settingsBtn: document.getElementById('settings-btn'),
     searchInput: document.getElementById('search-input'),
+    clearSearch: document.getElementById('clear-search'),
     loading: document.getElementById('loading'),
     emptyState: document.getElementById('empty-state'),
     dropdownWrapper: document.getElementById('pack-dropdown'),
@@ -51,17 +64,49 @@
   };
 
   function init() {
-    loadData();
-    setupDropdown();
-    setupEventListeners();
+    try {
+      const rawConfig = window.initialConfig;
+      const config = typeof rawConfig === 'string' ? JSON.parse(rawConfig) : (rawConfig || {});
+      if (config.packDisplayNames) {
+        CONFIG.PACK_DISPLAY_NAMES = config.packDisplayNames;
+      }
+      if (config.packVersions) {
+        CONFIG.PACK_VERSIONS = config.packVersions;
+      }
+    } catch (e) {
+      vscode.postMessage({ type: 'error', message: 'Failed to parse config: ' + (e?.message || String(e)) });
+    }
 
-    if (ui.loading) { ui.loading.style.display = 'none'; }
-    renderIcons();
+    setTimeout(() => {
+      loadData();
+      setupDropdown();
+      setupEventListeners();
 
-    requestAnimationFrame(() => {
-      document.body.classList.remove('preload');
-      ui.searchInput?.focus();
-    });
+      if (ui.searchInput) {
+        ui.searchInput.value = state.currentQuery;
+      }
+      const activeOption = ui.dropdownMenu.querySelector(`[data-value="${state.currentPackFilter}"]`);
+      if (activeOption && ui.dropdownLabel) {
+        ui.dropdownLabel.textContent = activeOption.querySelector('span').textContent;
+        ui.dropdownMenu.querySelectorAll('.dropdown-option').forEach(opt => {
+          const isSelected = opt.dataset.value === state.currentPackFilter;
+          opt.classList.toggle('selected', isSelected);
+          opt.setAttribute('aria-selected', isSelected);
+        });
+      }
+
+      renderIcons();
+
+      if (ui.loading) { ui.loading.style.display = 'none'; }
+
+      requestAnimationFrame(() => {
+        document.body.classList.remove('preload');
+        if (ui.searchInput) {
+          ui.searchInput.focus();
+          ui.clearSearch?.classList.toggle('visible', !!ui.searchInput.value);
+        }
+      });
+    }, 50);
   }
 
   function loadData() {
@@ -74,7 +119,8 @@
     try {
       const raw = window.initialIconData;
       rawData = typeof raw === 'string' ? JSON.parse(raw) : (raw || {});
-    } catch {
+    } catch (e) {
+      vscode.postMessage({ type: 'error', message: 'Failed to parse icon data: ' + (e?.message || String(e)) });
       rawData = {};
     }
 
@@ -124,6 +170,11 @@
   function renderPackDropdown() {
     const packs = Object.keys(state.iconsByPack);
 
+    const allOption = ui.dropdownMenu.querySelector('[data-value="all"]');
+    if (allOption) {
+      allOption.innerHTML = `<span>All Packs</span><span class="pack-count">${state.flatIconIndex.length}</span>`;
+    }
+
     packs.forEach(pack => {
       const option = document.createElement('div');
       option.className = 'dropdown-option';
@@ -132,7 +183,9 @@
       option.ariaSelected = 'false';
 
       const displayName = CONFIG.PACK_DISPLAY_NAMES[pack] || pack;
-      option.innerHTML = `<span>${displayName}</span>`;
+      const version = CONFIG.PACK_VERSIONS?.[pack] ? ` <span style="opacity: 0.5; font-size: 0.9em;">(v${CONFIG.PACK_VERSIONS[pack]})</span>` : '';
+      const count = state.iconsByPack[pack].length;
+      option.innerHTML = `<span>${displayName}${version}</span><span class="pack-count">${count}</span>`;
       ui.dropdownMenu.appendChild(option);
     });
   }
@@ -140,6 +193,7 @@
   function renderIcons(query = state.currentQuery, packFilter = state.currentPackFilter) {
     state.currentQuery = query;
     state.currentPackFilter = packFilter;
+    vscode.setState({ currentQuery: query, currentPackFilter: packFilter });
     state.filteredIcons = getFilteredIcons(query, packFilter);
     state.displayedCount = 0;
 
@@ -173,25 +227,57 @@
     state.isLoadingMore = false;
   }
 
+  function escapeHtml(unsafe) {
+    if (!unsafe) { return ''; }
+    return unsafe
+      .replace(/&/g, "&amp;")
+      .replace(/</g, "&lt;")
+      .replace(/>/g, "&gt;")
+      .replace(/"/g, "&quot;")
+      .replace(/'/g, "&#039;");
+  }
+
   function createIconElement(icon) {
     const renderer = RENDERERS[icon.pack] || (() => '<i>?</i>');
     const packDisplayName = CONFIG.PACK_DISPLAY_NAMES[icon.pack] || icon.pack;
+    const safeName = escapeHtml(icon.name);
 
     const item = document.createElement('div');
-    item.className = 'icon-item';
+    item.className = 'grid-item';
     item.dataset.pack = icon.pack;
-    item.dataset.name = icon.name;
-    item.title = `${packDisplayName}: ${icon.name}\nTags: ${icon.tags.join(', ')}`;
-    item.innerHTML = `${renderer(icon.name)}<span class="icon-name">${icon.name}</span>`;
+    item.dataset.name = safeName;
+    item.title = `${packDisplayName}: ${safeName}\nTags: ${icon.tags.join(', ')}`;
+    item.innerHTML = `${renderer(safeName)}<span class="item-label">${safeName}</span>`;
 
     return item;
   }
 
   function setupDropdown() {
+    const preventDefault = (e) => {
+      e.preventDefault();
+    };
+
+    const preventKeys = (e) => {
+      if (['ArrowUp', 'ArrowDown', 'Space', 'PageUp', 'PageDown', 'Home', 'End'].includes(e.code)) {
+        e.preventDefault();
+      }
+    };
+
     const toggleDropdown = (forceState) => {
       const isOpen = ui.dropdownWrapper.classList.toggle('open', forceState);
+      document.body.classList.toggle('dropdown-active', isOpen);
       ui.dropdownToggle.setAttribute('aria-expanded', isOpen);
-      if (!isOpen) { ui.searchInput?.focus(); }
+
+      if (isOpen) {
+        ui.grid.addEventListener('wheel', preventDefault, { passive: false });
+        ui.grid.addEventListener('touchmove', preventDefault, { passive: false });
+        window.addEventListener('keydown', preventKeys, { passive: false });
+      } else {
+        ui.grid.removeEventListener('wheel', preventDefault);
+        ui.grid.removeEventListener('touchmove', preventDefault);
+        window.removeEventListener('keydown', preventKeys);
+        ui.searchInput?.focus();
+      }
     };
 
     ui.dropdownToggle.addEventListener('click', () => toggleDropdown());
@@ -208,7 +294,7 @@
       if (!option) { return; }
 
       const newPack = option.dataset.value;
-      ui.dropdownLabel.textContent = option.querySelector('span:last-child').textContent;
+      ui.dropdownLabel.textContent = option.querySelector('span').textContent;
 
       ui.dropdownMenu.querySelectorAll('.dropdown-option').forEach(opt => {
         const isSelected = opt.dataset.value === newPack;
@@ -218,6 +304,7 @@
 
       toggleDropdown(false);
       renderIcons(ui.searchInput.value, newPack);
+      ui.grid.scrollTo({ top: 0, behavior: 'instant' });
     });
 
     document.addEventListener('click', e => {
@@ -225,14 +312,30 @@
         toggleDropdown(false);
       }
     });
+
+    window.addEventListener('blur', () => {
+      if (ui.dropdownWrapper.classList.contains('open')) {
+        toggleDropdown(false);
+      }
+    });
   }
 
   function setupEventListeners() {
     ui.searchInput?.addEventListener('input', e => {
+      ui.clearSearch?.classList.toggle('visible', !!e.target.value);
       clearTimeout(state.debounceTimer);
       state.debounceTimer = setTimeout(() => {
         renderIcons(e.target.value, state.currentPackFilter);
       }, CONFIG.ANIMATION_DELAY);
+    });
+
+    ui.clearSearch?.addEventListener('click', () => {
+      if (ui.searchInput) {
+        ui.searchInput.value = '';
+        ui.clearSearch.classList.remove('visible');
+        renderIcons('', state.currentPackFilter);
+        ui.searchInput.focus();
+      }
     });
 
     ui.settingsBtn?.addEventListener('click', () => {
@@ -240,7 +343,7 @@
     });
 
     ui.grid.addEventListener('click', e => {
-      const item = e.target.closest('.icon-item');
+      const item = e.target.closest('.grid-item');
       if (!item) { return; }
       vscode.postMessage({
         type: 'iconSelected',
@@ -249,13 +352,14 @@
       });
     });
 
-    window.addEventListener('scroll', () => {
-      const { scrollY, innerHeight } = window;
-      const { scrollHeight } = document.documentElement;
-      if (scrollY + innerHeight >= scrollHeight - 100) {
+    ui.grid.addEventListener('scroll', () => {
+      const { scrollTop, clientHeight, scrollHeight } = ui.grid;
+      if (scrollTop + clientHeight >= scrollHeight - 100) {
         loadMoreIcons();
       }
     });
+
   }
+
   init();
 })();

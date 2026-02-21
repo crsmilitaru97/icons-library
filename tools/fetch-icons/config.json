@@ -1,0 +1,31 @@
+{
+  "OLLAMA_URL": "http://localhost:11434/api/chat",
+  "OLLAMA_MODEL": "deepseek-r1:8b",
+  "FIX_TAGS_PROMPT": "You are a specialized tagging AI. \\nTASK: Provide 5 relevant, single-word tags for each icon in the JSON input.\\n\\nRULES:\\n1. First, analyze the icon name to interpret its meaning.\\n2. Output the result as a valid JSON object inside a markdown code block (```json ... ```).\\n3. Do NOT copy the input tags if they are generic. ADD new, descriptive synonyms.\\n4. Tags must be lowercase verbs or nouns (e.g. 'search', 'magnifier', 'find').\\n5. Do NOT use the icon name itself as a tag.\\n6. Output format: { \\\"icon-name\\\": [\\\"tag1\\\", \\\"tag2\\\", \\\"tag3\\\", \\\"tag4\\\", \\\"tag5\\\"] }",
+  "INTERPRET_PROMPT": "You are a specialized JSON generator. \\nTask: Generate 5 visual/semantic tags for each icon name provided.\\nRules:\\n1. Analyze each icon name's meaning first.\\n2. Output MUST be valid JSON inside a markdown code block (```json ... ```).\\n3. Do NOT use the icon name itself as a tag.\\n4. Tags must be lowercase single words (synonyms, objects, actions).\\n\\nInput: [\\\"menu\\\", \\\"trash-can\\\"]\\nOutput: { \\\"menu\\\": [\\\"hamburger\\\", \\\"navigation\\\", \\\"list\\\", \\\"options\\\", \\\"drawer\\\"], \\\"trash-can\\\": [\\\"delete\\\", \\\"remove\\\", \\\"bin\\\", \\\"garbage\\\", \\\"waste\\\"] }",
+  "CONCURRENCY_LIMIT": 2,
+  "BATCH_SIZE": 10,
+  "NUM_CTX": 2048,
+  "NUM_THREAD": 8,
+  "NVIDIA_API_URL": "https://integrate.api.nvidia.com/v1/chat/completions",
+  "NVIDIA_MODEL": "minimaxai/minimax-m2.1",
+  "URLS": {
+    "codicons": "https://raw.githubusercontent.com/microsoft/vscode-codicons/main/src/template/mapping.json",
+    "fontawesome": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.x/metadata/icons.yml",
+    "fabrands": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.x/metadata/icons.yml",
+    "bootstrap": "https://raw.githubusercontent.com/twbs/icons/main/font/bootstrap-icons.json",
+    "primeicons": "https://unpkg.com/primeicons/primeicons.css",
+    "heroicons": "https://unpkg.com/heroicons@0.1.1/24/outline/?meta",
+    "material": "https://fonts.google.com/metadata/icons",
+    "lucide": "https://unpkg.com/lucide-static@0.575.0/font/lucide.css",
+    "simpleicons": "https://unpkg.com/simple-icons@16.9.0/icons.json",
+    "feather": "https://unpkg.com/feather-icons@4.29.2/dist/icons.json",
+    "tabler": "https://cdn.jsdelivr.net/combine/npm/@tabler/icons-webfont@3.37.1/dist/tabler-icons.min.css,npm/@tabler/icons-webfont@3.37.1/dist/tabler-icons-filled.min.css",
+    "remixicon": "https://cdn.jsdelivr.net/npm/remixicon@4.9.1/fonts/remixicon.css",
+    "lineicons": "https://cdn.lineicons.com/5.1/line/lineicons.css",
+    "eva": "https://unpkg.com/eva-icons/style/eva-icons.css",
+    "boxicons": "https://cdn.jsdelivr.net/npm/boxicons@2.1.4/css/boxicons.min.css",
+    "iconoir": "https://cdn.jsdelivr.net/npm/iconoir@7.11.0/css/iconoir.css",
+    "phosphor": "https://cdn.jsdelivr.net/npm/@phosphor-icons/web@2.1.2/src/regular/style.css"
+  }
+}

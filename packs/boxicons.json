@@ -1,0 +1,11212 @@
+{
+  "bx-abacus": [
+    "calculator",
+    "counting",
+    "mathematics",
+    "numbers",
+    "history"
+  ],
+  "bx-accessibility": [
+    "access",
+    "inclusion",
+    "equality",
+    "disability",
+    "rights"
+  ],
+  "bx-add-to-queue": [
+    "list",
+    "collection",
+    "playlist",
+    "music",
+    "addition"
+  ],
+  "bx-adjust": [
+    "modify",
+    "change",
+    "fine-tune",
+    "improve",
+    "adjustment"
+  ],
+  "bx-alarm": [
+    "warning",
+    "notification",
+    "alert",
+    "emergency",
+    "alertness"
+  ],
+  "bx-alarm-add": [
+    "increment",
+    "increase",
+    "boost",
+    "enhance",
+    "addition"
+  ],
+  "bx-alarm-exclamation": [
+    "warning",
+    "alert",
+    "notice",
+    "signal",
+    "attention"
+  ],
+  "bx-alarm-off": [
+    "disable",
+    "deactivate",
+    "stop",
+    "pause",
+    "termination"
+  ],
+  "bx-alarm-snooze": [
+    "delay",
+    "postpone",
+    "defer",
+    "put-off",
+    "suspension"
+  ],
+  "bx-album": [
+    "collection",
+    "music",
+    "photo",
+    "picture",
+    "set"
+  ],
+  "bx-align-justify": [
+    "arrange",
+    "organize",
+    "format",
+    "justification"
+  ],
+  "bx-align-left": [
+    "justify",
+    "center",
+    "horizontal",
+    "leftside",
+    "alignment"
+  ],
+  "bx-align-middle": [
+    "center",
+    "align-center",
+    "vertically-center",
+    "horizontally-center",
+    "symmetry"
+  ],
+  "bx-align-right": [
+    "right-aligned",
+    "side-by-side",
+    "horizontal",
+    "aligned",
+    "positioned"
+  ],
+  "bx-analyse": [
+    "analyze",
+    "examine",
+    "evaluate",
+    "decode",
+    "interpret"
+  ],
+  "bx-anchor": [
+    "fix",
+    "secure",
+    "tie-down",
+    "fasten",
+    "attached"
+  ],
+  "bx-angry": [
+    "furious",
+    "irritated",
+    "upset",
+    "indignant",
+    "enraged"
+  ],
+  "bx-aperture": [
+    "opening",
+    "hole",
+    "gap",
+    "window",
+    "accessibility"
+  ],
+  "bx-arch": [
+    "bridge",
+    "structure",
+    "framework",
+    "infrastructure",
+    "support"
+  ],
+  "bx-archive": [
+    "storage",
+    "repository",
+    "collection",
+    "library"
+  ],
+  "bx-archive-in": [
+    "inside",
+    "within",
+    "enclosed",
+    "contained",
+    "internal"
+  ],
+  "bx-archive-out": [
+    "outside",
+    "released",
+    "distributed",
+    "dispersed",
+    "public"
+  ],
+  "bx-area": [
+    "region",
+    "zone",
+    "space",
+    "territory"
+  ],
+  "bx-arrow-back": [
+    "previous",
+    "retrograde",
+    "reversed",
+    "in-reverse",
+    "prior"
+  ],
+  "bx-arrow-from-bottom": [
+    "lower",
+    "downward",
+    "descending",
+    "decreasing",
+    "below"
+  ],
+  "bx-arrow-from-left": [
+    "side",
+    "lateral",
+    "horizontal",
+    "sideways",
+    "direction"
+  ],
+  "bx-arrow-from-right": [
+    "side",
+    "lateral",
+    "horizontal",
+    "sideways",
+    "direction"
+  ],
+  "bx-arrow-from-top": [
+    "upward",
+    "ascend",
+    "rise",
+    "elevate",
+    "above"
+  ],
+  "bx-arrow-to-bottom": [
+    "downward",
+    "descend",
+    "fall",
+    "decrease",
+    "drop"
+  ],
+  "bx-arrow-to-left": [
+    "leftward",
+    "west",
+    "moveleft",
+    "withdraw",
+    "retract"
+  ],
+  "bx-arrow-to-right": [
+    "rightward",
+    "east",
+    "moveright",
+    "advance",
+    "extend"
+  ],
+  "bx-arrow-to-top": [
+    "upward",
+    "ascend",
+    "rise",
+    "elevate",
+    "lift"
+  ],
+  "bx-at": [
+    "location",
+    "spot",
+    "position",
+    "place",
+    "address"
+  ],
+  "bx-atom": [
+    "element",
+    "molecule",
+    "particle",
+    "unit",
+    "cell"
+  ],
+  "bx-award": [
+    "prize",
+    "trophy",
+    "medal",
+    "honor",
+    "recognition"
+  ],
+  "bx-badge": [
+    "label",
+    "mark",
+    "sign",
+    "marker",
+    "identification"
+  ],
+  "bx-badge-check": [
+    "checkmark",
+    "tick",
+    "verify",
+    "confirm",
+    "validate"
+  ],
+  "bx-baguette": [
+    "sandwich",
+    "loaf",
+    "bread",
+    "pastry",
+    "bagel"
+  ],
+  "bx-ball": [
+    "sphere",
+    "globe",
+    "orb",
+    "cylinder",
+    "round"
+  ],
+  "bx-band-aid": [
+    "bandage",
+    "strip",
+    "pad",
+    "patch",
+    "tourniquet"
+  ],
+  "bx-bar-chart": [
+    "graph",
+    "diagram",
+    "table",
+    "plot"
+  ],
+  "bx-bar-chart-alt": [
+    "barchart",
+    "linegraph",
+    "histogram",
+    "candlestick",
+    "scatter"
+  ],
+  "bx-bar-chart-alt-2": [
+    "graph",
+    "data",
+    "analysis",
+    "report",
+    "summary"
+  ],
+  "bx-bar-chart-square": [
+    "graph",
+    "diagram",
+    "table",
+    "plot"
+  ],
+  "bx-barcode": [
+    "scanner",
+    "reader",
+    "label",
+    "code"
+  ],
+  "bx-barcode-reader": [
+    "scanner",
+    "identifier",
+    "recognizer",
+    "detector",
+    "decoder"
+  ],
+  "bx-baseball": [
+    "ball",
+    "pitch",
+    "game",
+    "field",
+    "player"
+  ],
+  "bx-basket": [
+    "container",
+    "holder",
+    "receptacle",
+    "wicker"
+  ],
+  "bx-basketball": [
+    "hoop",
+    "court",
+    "game",
+    "sport",
+    "leisure"
+  ],
+  "bx-bath": [
+    "bathroom",
+    "shower",
+    "sink",
+    "toilet",
+    "facilities"
+  ],
+  "bx-battery": [
+    "power",
+    "cell",
+    "pack",
+    "source",
+    "energy"
+  ],
+  "bx-bed": [
+    "sleeping",
+    "rest",
+    "relaxation",
+    "restroom",
+    "bedroom"
+  ],
+  "bx-been-here": [
+    "map",
+    "location",
+    "spot",
+    "mark",
+    "marker"
+  ],
+  "bx-beer": [
+    "brewery",
+    "pub",
+    "tap",
+    "glass",
+    "beverage"
+  ],
+  "bx-bell": [
+    "alarm",
+    "notification",
+    "signal",
+    "warning",
+    "alert"
+  ],
+  "bx-bell-minus": [
+    "decrease",
+    "reduce",
+    "subtract",
+    "deduct"
+  ],
+  "bx-bell-off": [
+    "stop",
+    "disable",
+    "deactivate",
+    "shut"
+  ],
+  "bx-bell-plus": [
+    "increase",
+    "add",
+    "enhance",
+    "amplify",
+    "boost"
+  ],
+  "bx-bible": [
+    "scripture",
+    "religion",
+    "book",
+    "manuscript",
+    "biblia"
+  ],
+  "bx-bitcoin": [
+    "currency",
+    "cryptocurrency",
+    "money",
+    "finance",
+    "digital"
+  ],
+  "bx-blanket": [
+    "bedding",
+    "quilt",
+    "throw",
+    "cover"
+  ],
+  "bx-block": [
+    "building",
+    "structure",
+    "pillar",
+    "column",
+    "foundation"
+  ],
+  "bx-bluetooth": [
+    "wireless",
+    "radio",
+    "communication",
+    "signal",
+    "technology"
+  ],
+  "bx-body": [
+    "human",
+    "physical",
+    "form",
+    "shape"
+  ],
+  "bx-bold": [
+    "strong",
+    "heavy",
+    "dramatic",
+    "emphatic",
+    "powerful"
+  ],
+  "bx-bolt-circle": [
+    "energy",
+    "power",
+    "motion",
+    "speed",
+    "movement"
+  ],
+  "bx-bomb": [
+    "explosion",
+    "bombardment",
+    "warhead",
+    "detonation",
+    "destruction"
+  ],
+  "bx-bone": [
+    "skeleton",
+    "marrow",
+    "cartilage",
+    "vertebrae"
+  ],
+  "bx-bong": [
+    "pipe",
+    "smoking",
+    "cannabis",
+    "herb",
+    "tobacco"
+  ],
+  "bx-book": [
+    "volume",
+    "page",
+    "document",
+    "manuscript"
+  ],
+  "bx-book-add": [
+    "addition",
+    "appendix",
+    "supplement",
+    "extension",
+    "enlargement"
+  ],
+  "bx-book-alt": [
+    "alternative",
+    "variant",
+    "edition",
+    "revision",
+    "adaptation"
+  ],
+  "bx-book-bookmark": [
+    "note",
+    "label",
+    "annotation",
+    "reference",
+    "mark"
+  ],
+  "bx-book-content": [
+    "article",
+    "document",
+    "paper",
+    "text"
+  ],
+  "bx-book-heart": [
+    "favorite",
+    "love",
+    "like",
+    "affinity",
+    "taste"
+  ],
+  "bx-book-open": [
+    "reveal",
+    "disclose",
+    "unseal",
+    "unfold",
+    "expose"
+  ],
+  "bx-book-reader": [
+    "browser",
+    "viewer",
+    "interpreter",
+    "translator"
+  ],
+  "bx-bookmark": [
+    "save",
+    "record",
+    "label",
+    "mark"
+  ],
+  "bx-bookmark-alt": [
+    "edit",
+    "modify",
+    "update",
+    "change",
+    "alter"
+  ],
+  "bx-bookmark-alt-minus": [
+    "subtract",
+    "reduce",
+    "decrease",
+    "deduct",
+    "cut"
+  ],
+  "bx-bookmark-alt-plus": [
+    "addition",
+    "augment",
+    "increase",
+    "enhance",
+    "expansion"
+  ],
+  "bx-bookmark-heart": [
+    "affinity",
+    "favorite",
+    "love",
+    "tenderness",
+    "attachment"
+  ],
+  "bx-bookmark-minus": [
+    "decrease",
+    "deduct",
+    "reduce",
+    "subtract",
+    "abatement"
+  ],
+  "bx-bookmark-plus": [
+    "addition",
+    "augment",
+    "increase",
+    "enhance",
+    "expansion"
+  ],
+  "bx-bookmarks": [
+    "collection",
+    "set",
+    "list",
+    "registry",
+    "catalog"
+  ],
+  "bx-border-all": [
+    "edge",
+    "frame",
+    "boundary",
+    "perimeter"
+  ],
+  "bx-border-bottom": [
+    "base",
+    "foot",
+    "sole",
+    "underlay",
+    "foundation"
+  ],
+  "bx-border-inner": [
+    "center",
+    "middle",
+    "within",
+    "enclosure",
+    "interior"
+  ],
+  "bx-border-left": [
+    "edge",
+    "frame",
+    "side",
+    "margin"
+  ],
+  "bx-border-none": [
+    "empty",
+    "clear",
+    "void",
+    "null",
+    "absence"
+  ],
+  "bx-border-outer": [
+    "perimeter",
+    "circumference",
+    "boundaries",
+    "edges",
+    "surrounds"
+  ],
+  "bx-border-radius": [
+    "round",
+    "circular",
+    "curved",
+    "smooth",
+    "rounded"
+  ],
+  "bx-border-right": [
+    "edge",
+    "frame",
+    "side",
+    "margin"
+  ],
+  "bx-border-top": [
+    "base",
+    "foot",
+    "sole",
+    "underlay",
+    "foundation"
+  ],
+  "bx-bot": [
+    "bottom",
+    "base",
+    "foot",
+    "ground",
+    "sole"
+  ],
+  "bx-bowl-hot": [
+    "soup",
+    "noodle",
+    "ricebowl",
+    "hotpot",
+    "stew"
+  ],
+  "bx-bowl-rice": [
+    "plate",
+    "container",
+    "ricedish",
+    "serving",
+    "dish"
+  ],
+  "bx-bowling-ball": [
+    "sphere",
+    "globe",
+    "orb",
+    "cylinder"
+  ],
+  "bx-box": [
+    "crate",
+    "container",
+    "package",
+    "envelope"
+  ],
+  "bx-bracket": [
+    "frame",
+    "border",
+    "edge",
+    "framing",
+    "bracelet"
+  ],
+  "bx-braille": [
+    "tactile",
+    "touch",
+    "feel",
+    "read",
+    "perception"
+  ],
+  "bx-brain": [
+    "mind",
+    "thought",
+    "idea",
+    "insight",
+    "cognition"
+  ],
+  "bx-briefcase": [
+    "bag",
+    "suitcase",
+    "luggage",
+    "pack",
+    "container"
+  ],
+  "bx-briefcase-alt": [
+    "office",
+    "work",
+    "brief",
+    "document",
+    "file"
+  ],
+  "bx-briefcase-alt-2": [
+    "file",
+    "document",
+    "office",
+    "work",
+    "paperwork"
+  ],
+  "bx-brightness": [
+    "light",
+    "sun",
+    "glow",
+    "radiance",
+    "illumination"
+  ],
+  "bx-brightness-half": [
+    "dim",
+    "partial",
+    "moderate",
+    "intermediate",
+    "medium"
+  ],
+  "bx-broadcast": [
+    "transmit",
+    "relay",
+    "send",
+    "communicate",
+    "share"
+  ],
+  "bx-brush": [
+    "paint",
+    "draw",
+    "color",
+    "create",
+    "art"
+  ],
+  "bx-brush-alt": [
+    "edit",
+    "modify",
+    "update",
+    "change",
+    "alter"
+  ],
+  "bx-bug": [
+    "insect",
+    "pest",
+    "crawling",
+    "small",
+    "minuscule"
+  ],
+  "bx-bug-alt": [
+    "infestation",
+    "plague",
+    "epidemic",
+    "outbreak",
+    "swarm"
+  ],
+  "bx-building": [
+    "structure",
+    "edifice",
+    "complex",
+    "architecture",
+    "design"
+  ],
+  "bx-building-house": [
+    "residence",
+    "dwelling",
+    "home",
+    "abode",
+    "nucleus"
+  ],
+  "bx-buildings": [
+    "complexity",
+    "multiplicity",
+    "agglomeration",
+    "accumulation",
+    "concentration"
+  ],
+  "bx-bulb": [
+    "light",
+    "illumination",
+    "radiance",
+    "glow",
+    "luminosity"
+  ],
+  "bx-bullseye": [
+    "target",
+    "focus",
+    "precision",
+    "aim",
+    "directedness"
+  ],
+  "bx-buoy": [
+    "marker",
+    "indicator",
+    "signal",
+    "flag",
+    "signifier"
+  ],
+  "bx-bus": [
+    "vehicle",
+    "transportation",
+    "movement",
+    "travel",
+    "journey"
+  ],
+  "bx-bus-school": [
+    "education",
+    "learning",
+    "schooling",
+    "institution",
+    "academy"
+  ],
+  "bx-cabinet": [
+    "pantry",
+    "storage",
+    "cupboard",
+    "shelf",
+    "container"
+  ],
+  "bx-cable-car": [
+    "train",
+    "elevator",
+    "lift",
+    "cableway",
+    "tram"
+  ],
+  "bx-cake": [
+    "dessert",
+    "pastry",
+    "treat",
+    "baked-goods",
+    "sweetness"
+  ],
+  "bx-calculator": [
+    "math",
+    "numbers",
+    "counting",
+    "stats",
+    "calculation"
+  ],
+  "bx-calendar": [
+    "schedule",
+    "date",
+    "time",
+    "planner"
+  ],
+  "bx-calendar-alt": [
+    "alternative",
+    "variant",
+    "substitute",
+    "replacement",
+    "surrogate"
+  ],
+  "bx-calendar-check": [
+    "checkmark",
+    "tick",
+    "approval",
+    "validation",
+    "verification"
+  ],
+  "bx-calendar-edit": [
+    "modify",
+    "update",
+    "change",
+    "alter"
+  ],
+  "bx-calendar-event": [
+    "appointment",
+    "scheduling",
+    "booking",
+    "reservation"
+  ],
+  "bx-calendar-exclamation": [
+    "warning",
+    "alert",
+    "notification",
+    "signal",
+    "flag"
+  ],
+  "bx-calendar-heart": [
+    "love",
+    "affection",
+    "passion",
+    "romance"
+  ],
+  "bx-calendar-minus": [
+    "decrease",
+    "reduce",
+    "subtract",
+    "deduct",
+    "lessen"
+  ],
+  "bx-calendar-plus": [
+    "increase",
+    "add",
+    "enhance",
+    "augment",
+    "expand"
+  ],
+  "bx-calendar-star": [
+    "rating",
+    "review",
+    "evaluation",
+    "assessment"
+  ],
+  "bx-calendar-week": [
+    "period",
+    "cycle",
+    "rotation",
+    "sequence"
+  ],
+  "bx-calendar-x": [
+    "schedule",
+    "date",
+    "appointment",
+    "event"
+  ],
+  "bx-camera": [
+    "lens",
+    "viewfinder",
+    "frame",
+    "focus",
+    "zoom"
+  ],
+  "bx-camera-home": [
+    "screen",
+    "display",
+    "picture",
+    "image"
+  ],
+  "bx-camera-movie": [
+    "film",
+    "video",
+    "recording",
+    "capture"
+  ],
+  "bx-camera-off": [
+    "stop",
+    "pause",
+    "shutter",
+    "still",
+    "shutdown"
+  ],
+  "bx-candles": [
+    "light",
+    "flame",
+    "wick",
+    "torch",
+    "lantern"
+  ],
+  "bx-capsule": [
+    "container",
+    "box",
+    "package",
+    "storage",
+    "holding"
+  ],
+  "bx-captions": [
+    "text",
+    "subtitles",
+    "description",
+    "annotation",
+    "label"
+  ],
+  "bx-car": [
+    "vehicle",
+    "carriage",
+    "transport",
+    "travel",
+    "journey"
+  ],
+  "bx-card": [
+    "document",
+    "record",
+    "information",
+    "data",
+    "file"
+  ],
+  "bx-caret-down": [
+    "arrow",
+    "pointer",
+    "indicator",
+    "cursor",
+    "selector"
+  ],
+  "bx-caret-down-circle": [
+    "ring",
+    "dot",
+    "point",
+    "target",
+    "focus"
+  ],
+  "bx-caret-down-square": [
+    "rectangle",
+    "box",
+    "frame",
+    "border",
+    "container"
+  ],
+  "bx-caret-left": [
+    "arrow",
+    "pointer",
+    "indicator",
+    "cursor",
+    "selector"
+  ],
+  "bx-caret-left-circle": [
+    "ring",
+    "dot",
+    "point",
+    "target",
+    "arrow"
+  ],
+  "bx-caret-left-square": [
+    "rectangle",
+    "box",
+    "frame",
+    "border",
+    "shape"
+  ],
+  "bx-caret-right": [
+    "arrow",
+    "pointer",
+    "indicator",
+    "cursor",
+    "selector"
+  ],
+  "bx-caret-right-circle": [
+    "arrow",
+    "pointer",
+    "indicator",
+    "tip",
+    "cursor"
+  ],
+  "bx-caret-right-square": [
+    "arrowhead",
+    "triangle",
+    "corner",
+    "end",
+    "terminus"
+  ],
+  "bx-caret-up": [
+    "upward",
+    "ascendant",
+    "ascending",
+    "rise",
+    "elevate"
+  ],
+  "bx-caret-up-circle": [
+    "ring",
+    "disc",
+    "round",
+    "circular"
+  ],
+  "bx-caret-up-square": [
+    "rectangle",
+    "box",
+    "block",
+    "grid"
+  ],
+  "bx-carousel": [
+    "slide",
+    "rotation",
+    "revolve",
+    "turn",
+    "spiral"
+  ],
+  "bx-cart": [
+    "shopping",
+    "basket",
+    "purchase",
+    "buy",
+    "acquire"
+  ],
+  "bx-cart-add": [
+    "shopping",
+    "purchase",
+    "add-to-cart",
+    "order",
+    "delivery"
+  ],
+  "bx-cart-alt": [
+    "alternative",
+    "substitute",
+    "replacement",
+    "surrogate",
+    "proxy"
+  ],
+  "bx-cart-download": [
+    "save",
+    "retrieve",
+    "fetch",
+    "export"
+  ],
+  "bx-cast": [
+    "theater",
+    "stage",
+    "performance",
+    "drama",
+    "play"
+  ],
+  "bx-category": [
+    "classification",
+    "label",
+    "tagging",
+    "taxonomy"
+  ],
+  "bx-category-alt": [
+    "alternative",
+    "substitute",
+    "replacement",
+    "surrogate",
+    "proxy"
+  ],
+  "bx-cctv": [
+    "camera",
+    "monitor",
+    "surveillance",
+    "watchful",
+    "observe"
+  ],
+  "bx-certification": [
+    "certify",
+    "authenticate",
+    "validate",
+    "verify",
+    "endorse"
+  ],
+  "bx-chair": [
+    "seat",
+    "sofa",
+    "couch",
+    "resting",
+    "relaxation"
+  ],
+  "bx-chalkboard": [
+    "blackboard",
+    "whiteboard",
+    "board",
+    "surface",
+    "medium"
+  ],
+  "bx-chart": [
+    "graph",
+    "diagram",
+    "plot",
+    "table"
+  ],
+  "bx-chat": [
+    "conversation",
+    "dialogue",
+    "message",
+    "talk",
+    "chatroom"
+  ],
+  "bx-check": [
+    "mark",
+    "tick",
+    "checkmark",
+    "verify",
+    "validate"
+  ],
+  "bx-check-circle": [
+    "ring",
+    "dot",
+    "point",
+    "checkmark",
+    "approval"
+  ],
+  "bx-check-double": [
+    "dual",
+    "twice",
+    "repeated",
+    "duped",
+    "mirrored"
+  ],
+  "bx-check-shield": [
+    "protection",
+    "defense",
+    "safety",
+    "security",
+    "guard"
+  ],
+  "bx-check-square": [
+    "rectangle",
+    "box",
+    "container",
+    "cell",
+    "shape"
+  ],
+  "bx-checkbox": [
+    "toggle",
+    "switch",
+    "option",
+    "choice",
+    "decision"
+  ],
+  "bx-checkbox-checked": [
+    "selected",
+    "active",
+    "enabled",
+    "activated",
+    "chosen"
+  ],
+  "bx-checkbox-minus": [
+    "decrease",
+    "reduce",
+    "subtract",
+    "deduct",
+    "lessen"
+  ],
+  "bx-checkbox-square": [
+    "rectangle",
+    "box",
+    "container",
+    "cell"
+  ],
+  "bx-cheese": [
+    "dairy",
+    "food",
+    "gouda",
+    "muenster"
+  ],
+  "bx-chevron-down": [
+    "descending",
+    "decreasing",
+    "falling",
+    "dropping",
+    "sliding"
+  ],
+  "bx-chevron-down-circle": [
+    "ring",
+    "dot",
+    "point",
+    "center",
+    "drop"
+  ],
+  "bx-chevron-down-square": [
+    "rectangle",
+    "box",
+    "container",
+    "cell",
+    "shape"
+  ],
+  "bx-chevron-left": [
+    "moving",
+    "decreasing",
+    "falling",
+    "retreating",
+    "departing"
+  ],
+  "bx-chevron-left-circle": [
+    "arrow",
+    "pointer",
+    "direction",
+    "move",
+    "path"
+  ],
+  "bx-chevron-left-square": [
+    "arrow",
+    "pointing",
+    "direction",
+    "way",
+    "route"
+  ],
+  "bx-chevron-right": [
+    "arrow",
+    "pointer",
+    "direction",
+    "move",
+    "journey"
+  ],
+  "bx-chevron-right-circle": [
+    "pointer",
+    "direction",
+    "move",
+    "path",
+    "navigation"
+  ],
+  "bx-chevron-right-square": [
+    "pointer",
+    "direction",
+    "way",
+    "route",
+    "path"
+  ],
+  "bx-chevron-up": [
+    "arrow",
+    "pointer",
+    "direction",
+    "move",
+    "upward"
+  ],
+  "bx-chevron-up-circle": [
+    "pointer",
+    "direction",
+    "move",
+    "ring",
+    "arrow"
+  ],
+  "bx-chevron-up-square": [
+    "pointer",
+    "direction",
+    "move",
+    "shape"
+  ],
+  "bx-chevrons-down": [
+    "chevron",
+    "arrow",
+    "direction",
+    "move",
+    "downward"
+  ],
+  "bx-chevrons-left": [
+    "chevron",
+    "arrow",
+    "direction",
+    "move",
+    "leftward"
+  ],
+  "bx-chevrons-right": [
+    "chevron",
+    "arrow",
+    "direction",
+    "move",
+    "rightward"
+  ],
+  "bx-chevrons-up": [
+    "chevron",
+    "arrow",
+    "direction",
+    "move",
+    "upward"
+  ],
+  "bx-child": [
+    "minority",
+    "youngster",
+    "infant",
+    "youth",
+    "childhood"
+  ],
+  "bx-chip": [
+    "token",
+    "fragment",
+    "piece",
+    "part",
+    "component"
+  ],
+  "bx-church": [
+    "building",
+    "structure",
+    "place",
+    "location",
+    "establishment"
+  ],
+  "bx-circle": [
+    "ring",
+    "disc",
+    "shape",
+    "form"
+  ],
+  "bx-circle-half": [
+    "halfmoon",
+    "semicircle",
+    "circleslice",
+    "halo",
+    "ring"
+  ],
+  "bx-circle-quarter": [
+    "quartercircle",
+    "crescent",
+    "moonphase",
+    "slice",
+    "segment"
+  ],
+  "bx-circle-three-quarter": [
+    "threequartercircle",
+    "trisect",
+    "thirds",
+    "triangle",
+    "sector"
+  ],
+  "bx-clinic": [
+    "hospital",
+    "medical",
+    "doctor",
+    "nurse",
+    "pharmacy"
+  ],
+  "bx-clipboard": [
+    "copy",
+    "paste",
+    "transfer",
+    "save",
+    "upload"
+  ],
+  "bx-closet": [
+    "wardrobe",
+    "clothing",
+    "fashion",
+    "storage",
+    "organize"
+  ],
+  "bx-cloud": [
+    "weather",
+    "sun",
+    "rain",
+    "snow",
+    "storm"
+  ],
+  "bx-cloud-download": [
+    "fetch",
+    "retrieve",
+    "transfer",
+    "receive"
+  ],
+  "bx-cloud-drizzle": [
+    "mist",
+    "fog",
+    "clouds",
+    "precipitation",
+    "rain"
+  ],
+  "bx-cloud-light-rain": [
+    "rainy",
+    "wet",
+    "damp",
+    "moisture",
+    "humidity"
+  ],
+  "bx-cloud-lightning": [
+    "thunder",
+    "storm",
+    "electricity",
+    "power",
+    "weather"
+  ],
+  "bx-cloud-rain": [
+    "rainfall",
+    "precipitation",
+    "waterfall",
+    "storm",
+    "deluge"
+  ],
+  "bx-cloud-snow": [
+    "snowfall",
+    "winter",
+    "cold",
+    "ice",
+    "frost"
+  ],
+  "bx-cloud-upload": [
+    "send",
+    "transmit",
+    "transfer",
+    "deliver",
+    "communication"
+  ],
+  "bx-code": [
+    "program",
+    "software",
+    "algorithm",
+    "script",
+    "development"
+  ],
+  "bx-code-alt": [
+    "alternative",
+    "variant",
+    "style",
+    "design",
+    "layout"
+  ],
+  "bx-code-block": [
+    "module",
+    "component",
+    "section",
+    "segment"
+  ],
+  "bx-code-curly": [
+    "brackets",
+    "parentheses",
+    "notation",
+    "formatting",
+    "syntax"
+  ],
+  "bx-coffee": [
+    "beverage",
+    "cup",
+    "brew",
+    "latte"
+  ],
+  "bx-coffee-togo": [
+    "beverage",
+    "travel",
+    "container",
+    "bag",
+    "transportation"
+  ],
+  "bx-cog": [
+    "gear",
+    "wheel",
+    "machine",
+    "device",
+    "control"
+  ],
+  "bx-coin": [
+    "currency",
+    "money",
+    "bitcoin",
+    "investment",
+    "wallet"
+  ],
+  "bx-coin-stack": [
+    "wallet",
+    "bankroll",
+    "funds",
+    "cash",
+    "investment"
+  ],
+  "bx-collapse": [
+    "fold",
+    "hide",
+    "contract",
+    "shrink",
+    "hiding"
+  ],
+  "bx-collapse-alt": [
+    "fold",
+    "hide",
+    "compact",
+    "minimize",
+    "condensing"
+  ],
+  "bx-collapse-horizontal": [
+    "expand",
+    "contract",
+    "slide",
+    "move",
+    "motion"
+  ],
+  "bx-collapse-vertical": [
+    "fold",
+    "shrink",
+    "compress",
+    "reducing",
+    "constriction"
+  ],
+  "bx-collection": [
+    "set",
+    "group",
+    "bundle",
+    "pack"
+  ],
+  "bx-color": [
+    "paint",
+    "brush",
+    "palette",
+    "tint"
+  ],
+  "bx-color-fill": [
+    "hue",
+    "shade",
+    "tint",
+    "dye",
+    "pigment"
+  ],
+  "bx-columns": [
+    "grid",
+    "layout",
+    "structure",
+    "arrangement",
+    "pattern"
+  ],
+  "bx-command": [
+    "control",
+    "instruction",
+    "order",
+    "directive"
+  ],
+  "bx-comment": [
+    "note",
+    "message",
+    "remark",
+    "commentary",
+    "annotation"
+  ],
+  "bx-comment-add": [
+    "like",
+    "share",
+    "post",
+    "feedback"
+  ],
+  "bx-comment-check": [
+    "verify",
+    "validate",
+    "checkmark",
+    "approval",
+    "endorse"
+  ],
+  "bx-comment-detail": [
+    "note",
+    "feedback",
+    "response",
+    "quote",
+    "remark"
+  ],
+  "bx-comment-dots": [
+    "bullets",
+    "punctuation",
+    "periods",
+    "commas"
+  ],
+  "bx-comment-edit": [
+    "modify",
+    "update",
+    "change",
+    "alter"
+  ],
+  "bx-comment-error": [
+    "mistake",
+    "fault",
+    "flaw",
+    "defect"
+  ],
+  "bx-comment-minus": [
+    "decrease",
+    "reduce",
+    "lessen",
+    "diminish",
+    "subtract"
+  ],
+  "bx-comment-x": [
+    "delete",
+    "remove",
+    "erase",
+    "eliminate",
+    "discard"
+  ],
+  "bx-compass": [
+    "direction",
+    "course",
+    "bearing",
+    "orientation",
+    "compassion"
+  ],
+  "bx-confused": [
+    "perplexed",
+    "baffled",
+    "flummoxed",
+    "puzzled"
+  ],
+  "bx-conversation": [
+    "dialogue",
+    "talk",
+    "discussion",
+    "exchange",
+    "chat"
+  ],
+  "bx-cookie": [
+    "treat",
+    "snack",
+    "morsel",
+    "bite"
+  ],
+  "bx-cool": [
+    "refreshing",
+    "chill",
+    "calm",
+    "serene",
+    "coolant"
+  ],
+  "bx-copy": [
+    "duplicate",
+    "clone",
+    "replicate",
+    "mirror",
+    "copycat"
+  ],
+  "bx-copy-alt": [
+    "duplicate",
+    "clone",
+    "replicate",
+    "mirror",
+    "echo"
+  ],
+  "bx-copyright": [
+    "ownership",
+    "patent",
+    "protection",
+    "rights",
+    "license"
+  ],
+  "bx-credit-card": [
+    "payment",
+    "transaction",
+    "charge",
+    "debit",
+    "finance"
+  ],
+  "bx-credit-card-alt": [
+    "payment",
+    "transaction",
+    "charge",
+    "debit"
+  ],
+  "bx-credit-card-front": [
+    "face",
+    "side",
+    "aspect",
+    "frontview"
+  ],
+  "bx-cricket-ball": [
+    "sports",
+    "pitcher",
+    "batting",
+    "fielding"
+  ],
+  "bx-crop": [
+    "scissors",
+    "cutting",
+    "snipping",
+    "trimming",
+    "editing"
+  ],
+  "bx-cross": [
+    "crisscross",
+    "intersect",
+    "oblique",
+    "grid",
+    "pattern"
+  ],
+  "bx-crosshair": [
+    "target",
+    "aiming",
+    "focusing",
+    "tracking",
+    "aligning"
+  ],
+  "bx-crown": [
+    "royalty",
+    "regalia",
+    "jewelry",
+    "adornment",
+    "crownpiece"
+  ],
+  "bx-cube": [
+    "geometry",
+    "shape",
+    "model",
+    "structure"
+  ],
+  "bx-cube-alt": [
+    "alternative",
+    "variant",
+    "substitute",
+    "equivalent",
+    "copy"
+  ],
+  "bx-cuboid": [
+    "boxy",
+    "rectangular",
+    "prism",
+    "polyhedron",
+    "container"
+  ],
+  "bx-current-location": [
+    "position",
+    "spot",
+    "place",
+    "address"
+  ],
+  "bx-customize": [
+    "customization",
+    "personalization",
+    "modification",
+    "adjustment",
+    "tweaking"
+  ],
+  "bx-cut": [
+    "cutting",
+    "trimming",
+    "editing",
+    "reducing",
+    "shortening"
+  ],
+  "bx-cycling": [
+    "pedaling",
+    "moving",
+    "transporting",
+    "traveling",
+    "journey"
+  ],
+  "bx-cylinder": [
+    "cone",
+    "torus",
+    "doughnut",
+    "ring",
+    "sphere"
+  ],
+  "bx-data": [
+    "database",
+    "datastore",
+    "storage",
+    "information",
+    "record"
+  ],
+  "bx-desktop": [
+    "computer",
+    "screen",
+    "monitor",
+    "workspace",
+    "office"
+  ],
+  "bx-detail": [
+    "information",
+    "details",
+    "data",
+    "record",
+    "content"
+  ],
+  "bx-devices": [
+    "computer",
+    "device",
+    "machine",
+    "system",
+    "hardware"
+  ],
+  "bx-dialpad": [
+    "keyboard",
+    "calculator",
+    "phone",
+    "piano",
+    "clock"
+  ],
+  "bx-dialpad-alt": [
+    "alternative",
+    "substitute",
+    "replace",
+    "modify",
+    "adjust"
+  ],
+  "bx-diamond": [
+    "gemstone",
+    "jewel",
+    "sparkle",
+    "glow",
+    "precious"
+  ],
+  "bx-dice-1": [
+    "number",
+    "digit",
+    "roll",
+    "chance",
+    "luck"
+  ],
+  "bx-dice-2": [
+    "number",
+    "digit",
+    "roll",
+    "chance",
+    "probability"
+  ],
+  "bx-dice-3": [
+    "number",
+    "digit",
+    "roll",
+    "chance",
+    "luck"
+  ],
+  "bx-dice-4": [
+    "number",
+    "digit",
+    "roll",
+    "chance",
+    "probability"
+  ],
+  "bx-dice-5": [
+    "number",
+    "digit",
+    "roll",
+    "chance",
+    "probability"
+  ],
+  "bx-dice-6": [
+    "number",
+    "digit",
+    "roll",
+    "chance",
+    "probability"
+  ],
+  "bx-directions": [
+    "route",
+    "path",
+    "course",
+    "direction",
+    "way"
+  ],
+  "bx-disc": [
+    "circle",
+    "ring",
+    "plate",
+    "disk",
+    "discoid"
+  ],
+  "bx-dish": [
+    "plate",
+    "bowl",
+    "cup",
+    "container",
+    "utensil"
+  ],
+  "bx-dislike": [
+    "disapprove",
+    "reject",
+    "oppose",
+    "hate",
+    "disgust"
+  ],
+  "bx-dizzy": [
+    "spinning",
+    "whirlpool",
+    "twist",
+    "turn",
+    "rotation"
+  ],
+  "bx-dna": [
+    "genetic",
+    "sequence",
+    "code",
+    "information",
+    "biology"
+  ],
+  "bx-dock-bottom": [
+    "footer",
+    "bar",
+    "panel",
+    "tab",
+    "sidebar"
+  ],
+  "bx-dock-left": [
+    "side",
+    "column",
+    "pane",
+    "section",
+    "wing"
+  ],
+  "bx-dock-right": [
+    "side",
+    "column",
+    "pane",
+    "section",
+    "wing"
+  ],
+  "bx-dock-top": [
+    "header",
+    "bar",
+    "panel",
+    "tab",
+    "topbar"
+  ],
+  "bx-dollar": [
+    "money",
+    "currency",
+    "price",
+    "cost",
+    "value"
+  ],
+  "bx-dollar-circle": [
+    "coin",
+    "round",
+    "circular",
+    "disc",
+    "currency"
+  ],
+  "bx-donate-blood": [
+    "organ",
+    "donation",
+    "charity",
+    "altruism",
+    "humanity"
+  ],
+  "bx-donate-heart": [
+    "love",
+    "compassion",
+    "empathy",
+    "kindness",
+    "affection"
+  ],
+  "bx-door-open": [
+    "entrance",
+    "gate",
+    "threshold",
+    "entry",
+    "accessibility"
+  ],
+  "bx-dots-horizontal": [
+    "stripes",
+    "lines",
+    "grid",
+    "pattern",
+    "arrangement"
+  ],
+  "bx-dots-horizontal-rounded": [
+    "roundeddots",
+    "circulardots",
+    "roundlines",
+    "curvedgrid",
+    "smoothpattern"
+  ],
+  "bx-dots-vertical": [
+    "strikes",
+    "ticks",
+    "grid",
+    "pattern",
+    "arrangement"
+  ],
+  "bx-dots-vertical-rounded": [
+    "roundeddots",
+    "circularticks",
+    "curvedgrid",
+    "smoothpattern",
+    "stripes"
+  ],
+  "bx-doughnut-chart": [
+    "pie",
+    "ring",
+    "circle",
+    "disc",
+    "sector"
+  ],
+  "bx-down-arrow": [
+    "drop",
+    "fall",
+    "descend",
+    "move",
+    "transition"
+  ],
+  "bx-down-arrow-alt": [
+    "chevron",
+    "pointer",
+    "triangle",
+    "direction",
+    "orientation"
+  ],
+  "bx-down-arrow-circle": [
+    "dot",
+    "ring",
+    "target",
+    "focus",
+    "emphasis"
+  ],
+  "bx-download": [
+    "cloud",
+    "file",
+    "document",
+    "package",
+    "record"
+  ],
+  "bx-downvote": [
+    "arrow",
+    "down",
+    "minus",
+    "rating",
+    "star"
+  ],
+  "bx-drink": [
+    "beverage",
+    "glass",
+    "liquid",
+    "mug",
+    "tumbler"
+  ],
+  "bx-droplet": [
+    "drop",
+    "rain",
+    "water",
+    "wave",
+    "drip"
+  ],
+  "bx-dumbbell": [
+    "weight",
+    "barbell",
+    "exercise",
+    "gym",
+    "muscle"
+  ],
+  "bx-duplicate": [
+    "copy",
+    "image",
+    "mirror",
+    "repeat",
+    "duplication"
+  ],
+  "bx-edit": [
+    "pen",
+    "pencil",
+    "redact",
+    "rewrite"
+  ],
+  "bx-edit-alt": [
+    "modify",
+    "update",
+    "alter",
+    "change",
+    "revision"
+  ],
+  "bx-envelope": [
+    "email",
+    "letter",
+    "message",
+    "note",
+    "postcard"
+  ],
+  "bx-envelope-open": [
+    "mail",
+    "package",
+    "post",
+    "letterhead",
+    "communication"
+  ],
+  "bx-equalizer": [
+    "balance",
+    "level",
+    "scale",
+    "set",
+    "adjust"
+  ],
+  "bx-eraser": [
+    "erase",
+    "delete",
+    "remove",
+    "scratch",
+    "scrape"
+  ],
+  "bx-error": [
+    "alert",
+    "warning",
+    "notification",
+    "alert-box"
+  ],
+  "bx-error-alt": [
+    "alert",
+    "warning",
+    "notification",
+    "dismiss",
+    "dismissal"
+  ],
+  "bx-error-circle": [
+    "dot",
+    "mark",
+    "flag",
+    "alert",
+    "warning"
+  ],
+  "bx-euro": [
+    "currency",
+    "money",
+    "coin",
+    "exchange",
+    "finance"
+  ],
+  "bx-exclude": [
+    "remove",
+    "delete",
+    "deny",
+    "reject"
+  ],
+  "bx-exit": [
+    "leave",
+    "depart",
+    "quit",
+    "abandon"
+  ],
+  "bx-exit-fullscreen": [
+    "full-screen",
+    "maximize",
+    "expand",
+    "enlarge"
+  ],
+  "bx-expand": [
+    "increase",
+    "grow",
+    "enlarge",
+    "augment",
+    "expansion"
+  ],
+  "bx-expand-alt": [
+    "alternative",
+    "variant",
+    "style",
+    "design",
+    "modification"
+  ],
+  "bx-expand-horizontal": [
+    "grow",
+    "increase",
+    "enlarge",
+    "extension"
+  ],
+  "bx-expand-vertical": [
+    "rise",
+    "increase",
+    "elevate",
+    "growth"
+  ],
+  "bx-export": [
+    "download",
+    "save",
+    "transfer",
+    "transmit",
+    "exportation"
+  ],
+  "bx-extension": [
+    "addon",
+    "module",
+    "component",
+    "plugin",
+    "add-on"
+  ],
+  "bx-face": [
+    "person",
+    "human",
+    "portrait",
+    "profile"
+  ],
+  "bx-fast-forward": [
+    "fast-forward",
+    "skip",
+    "jump",
+    "accelerate",
+    "speed-up"
+  ],
+  "bx-fast-forward-circle": [
+    "dot",
+    "mark",
+    "marker",
+    "arrow"
+  ],
+  "bx-female": [
+    "woman",
+    "person",
+    "human",
+    "goddess",
+    "femininity"
+  ],
+  "bx-female-sign": [
+    "venus",
+    "feminine",
+    "girl",
+    "femininity"
+  ],
+  "bx-file": [
+    "document",
+    "record",
+    "archive",
+    "data"
+  ],
+  "bx-file-blank": [
+    "mark",
+    "placeholder",
+    "empty",
+    "space",
+    "void"
+  ],
+  "bx-file-find": [
+    "seek",
+    "hunt",
+    "query",
+    "browse",
+    "scan"
+  ],
+  "bx-film": [
+    "movie",
+    "cinema",
+    "screen",
+    "projection",
+    "reel"
+  ],
+  "bx-filter": [
+    "sort",
+    "rank",
+    "classify",
+    "separate",
+    "categorize"
+  ],
+  "bx-filter-alt": [
+    "sorter",
+    "classifier",
+    "separator",
+    "divider"
+  ],
+  "bx-fingerprint": [
+    "identification",
+    "signature",
+    "mark",
+    "print",
+    "impression"
+  ],
+  "bx-first-aid": [
+    "medical",
+    "health",
+    "first-responder",
+    "emergency",
+    "care"
+  ],
+  "bx-first-page": [
+    "beginning",
+    "start",
+    "initial",
+    "opening"
+  ],
+  "bx-flag": [
+    "pennant",
+    "signal",
+    "marker",
+    "country",
+    "nation"
+  ],
+  "bx-folder": [
+    "container",
+    "box",
+    "directory",
+    "organizer",
+    "repository"
+  ],
+  "bx-folder-minus": [
+    "decrease",
+    "reduce",
+    "remove",
+    "delete",
+    "discard"
+  ],
+  "bx-folder-open": [
+    "reveal",
+    "expand",
+    "show",
+    "display",
+    "unhide"
+  ],
+  "bx-folder-plus": [
+    "increase",
+    "add",
+    "append",
+    "extend",
+    "augment"
+  ],
+  "bx-font": [
+    "typeface",
+    "style",
+    "character",
+    "letter",
+    "script"
+  ],
+  "bx-font-color": [
+    "red",
+    "blue",
+    "green",
+    "purple",
+    "orange"
+  ],
+  "bx-font-family": [
+    "arial",
+    "times-new-roman",
+    "calibri",
+    "helvetica",
+    "segoe-ui"
+  ],
+  "bx-font-size": [
+    "small",
+    "medium",
+    "large",
+    "extra-large",
+    "gigantic"
+  ],
+  "bx-food-menu": [
+    "burger",
+    "pizza",
+    "sushi",
+    "tacos",
+    "salad"
+  ],
+  "bx-food-tag": [
+    "label",
+    "tagline",
+    "description",
+    "caption",
+    "title"
+  ],
+  "bx-football": [
+    "soccer",
+    "rugby",
+    "basketball",
+    "tennis",
+    "athletics"
+  ],
+  "bx-fork": [
+    "spoon",
+    "prong",
+    "tine",
+    "twist",
+    "protrusion"
+  ],
+  "bx-fridge": [
+    "refrigerator",
+    "chiller",
+    "freezer",
+    "icebox",
+    "pantry"
+  ],
+  "bx-fullscreen": [
+    "full-screen",
+    "maximize",
+    "expand",
+    "enlarge",
+    "zoom-in"
+  ],
+  "bx-game": [
+    "video-game",
+    "puzzle",
+    "board-game",
+    "card-game",
+    "role-playing"
+  ],
+  "bx-gas-pump": [
+    "gas-station",
+    "fuel-pump",
+    "petrol-station",
+    "diesel-pump",
+    "gasoline"
+  ],
+  "bx-ghost": [
+    "specter",
+    "phantom",
+    "spirit",
+    "apparition",
+    "wraith"
+  ],
+  "bx-gift": [
+    "present",
+    "gift-box",
+    "package",
+    "envelope",
+    "wrapping"
+  ],
+  "bx-git-branch": [
+    "fork",
+    "split",
+    "merge",
+    "divergent",
+    "separate"
+  ],
+  "bx-git-commit": [
+    "update",
+    "push",
+    "pull",
+    "revision",
+    "modification"
+  ],
+  "bx-git-compare": [
+    "contrast",
+    "difference",
+    "dissimilar",
+    "comparative"
+  ],
+  "bx-git-merge": [
+    "commit",
+    "branch",
+    "pull",
+    "sync",
+    "unify"
+  ],
+  "bx-git-pull-request": [
+    "issue",
+    "submit",
+    "review",
+    "proposition"
+  ],
+  "bx-git-repo-forked": [
+    "clone",
+    "mirror",
+    "copy",
+    "duplicate",
+    "branch"
+  ],
+  "bx-glasses": [
+    "spectacles",
+    "goggles",
+    "visor",
+    "shield",
+    "frame"
+  ],
+  "bx-glasses-alt": [
+    "sunglasses",
+    "shades",
+    "lenses",
+    "mask",
+    "visor"
+  ],
+  "bx-globe": [
+    "earth",
+    "world",
+    "map",
+    "planet",
+    "atmosphere"
+  ],
+  "bx-globe-alt": [
+    "sun",
+    "sky",
+    "cloud",
+    "weather",
+    "climate"
+  ],
+  "bx-grid": [
+    "layout",
+    "structure",
+    "pattern",
+    "arrangement",
+    "design"
+  ],
+  "bx-grid-alt": [
+    "cell",
+    "square",
+    "block",
+    "module",
+    "element"
+  ],
+  "bx-grid-horizontal": [
+    "row",
+    "column",
+    "alignment",
+    "orientation",
+    "layout"
+  ],
+  "bx-grid-small": [
+    "mini",
+    "compact",
+    "tiny",
+    "micro",
+    "condensed"
+  ],
+  "bx-grid-vertical": [
+    "stack",
+    "pile",
+    "column",
+    "tower",
+    "stacked"
+  ],
+  "bx-group": [
+    "team",
+    "cluster",
+    "set",
+    "collection",
+    "grouping"
+  ],
+  "bx-handicap": [
+    "disability",
+    "impairment",
+    "accessibility",
+    "inclusion",
+    "equality"
+  ],
+  "bx-happy": [
+    "smile",
+    "joy",
+    "happiness",
+    "cheerful",
+    "ecstatic"
+  ],
+  "bx-happy-alt": [
+    "smile",
+    "cheer",
+    "grin",
+    "joy",
+    "glee"
+  ],
+  "bx-happy-beaming": [
+    "laugh",
+    "tear",
+    "gasp",
+    "excitement",
+    "thrill"
+  ],
+  "bx-happy-heart-eyes": [
+    "love",
+    "adore",
+    "infatuate",
+    "smitten",
+    "enchanted"
+  ],
+  "bx-hard-hat": [
+    "safety-goggles",
+    "construction",
+    "hard-hat",
+    "protection",
+    "worksite"
+  ],
+  "bx-hash": [
+    "code",
+    "algorithm",
+    "cipher",
+    "encryption",
+    "key"
+  ],
+  "bx-hdd": [
+    "drive",
+    "transport",
+    "vehicle",
+    "car",
+    "motorcycle"
+  ],
+  "bx-heading": [
+    "title",
+    "label",
+    "subtitle",
+    "caption"
+  ],
+  "bx-headphone": [
+    "phone",
+    "audio",
+    "speaker",
+    "listen",
+    "hear"
+  ],
+  "bx-health": [
+    "wellness",
+    "fitness",
+    "exercise",
+    "nutrition",
+    "meditation"
+  ],
+  "bx-heart": [
+    "love",
+    "affection",
+    "tenderness",
+    "caring",
+    "devotion"
+  ],
+  "bx-heart-circle": [
+    "love",
+    "valentine",
+    "romance",
+    "badge"
+  ],
+  "bx-heart-square": [
+    "shape",
+    "form",
+    "rectangle",
+    "geometric",
+    "symmetry"
+  ],
+  "bx-help-circle": [
+    "support",
+    "assistance",
+    "guide",
+    "consult",
+    "advice"
+  ],
+  "bx-hide": [
+    "conceal",
+    "cover",
+    "mask",
+    "obscure",
+    "hideaway"
+  ],
+  "bx-highlight": [
+    "emphasize",
+    "accentuate",
+    "shine",
+    "glimmer",
+    "illuminate"
+  ],
+  "bx-history": [
+    "record",
+    "archive",
+    "document",
+    "memory",
+    "legacy"
+  ],
+  "bx-hive": [
+    "beehive",
+    "nest",
+    "colony",
+    "honeycomb",
+    "community"
+  ],
+  "bx-home": [
+    "house",
+    "dwelling",
+    "abode",
+    "residence",
+    "domicile"
+  ],
+  "bx-home-alt": [
+    "alternative",
+    "substitute",
+    "surrogate",
+    "replica",
+    "duplicate"
+  ],
+  "bx-home-alt-2": [
+    "house",
+    "dwelling",
+    "residence",
+    "abode",
+    "haven"
+  ],
+  "bx-home-circle": [
+    "ring",
+    "disk",
+    "disc",
+    "circular"
+  ],
+  "bx-home-heart": [
+    "love",
+    "affection",
+    "passion",
+    "tenderness",
+    "romance"
+  ],
+  "bx-home-smile": [
+    "grin",
+    "laughter",
+    "joy",
+    "happiness",
+    "cheerfulness"
+  ],
+  "bx-horizontal-center": [
+    "middle",
+    "balance",
+    "equilibrium",
+    "symmetry",
+    "centered"
+  ],
+  "bx-horizontal-left": [
+    "west",
+    "east",
+    "right",
+    "side",
+    "direction"
+  ],
+  "bx-horizontal-right": [
+    "east",
+    "west",
+    "left",
+    "side",
+    "direction"
+  ],
+  "bx-hotel": [
+    "inn",
+    "lodging",
+    "accommodation",
+    "resort"
+  ],
+  "bx-hourglass": [
+    "glass",
+    "container",
+    "vessel",
+    "funnel",
+    "flow"
+  ],
+  "bx-id-card": [
+    "identification",
+    "document",
+    "passport",
+    "credentials",
+    "record"
+  ],
+  "bx-image": [
+    "picture",
+    "photograph",
+    "graph",
+    "representation"
+  ],
+  "bx-image-add": [
+    "addition",
+    "appendage",
+    "extension",
+    "supplement",
+    "augmentation"
+  ],
+  "bx-image-alt": [
+    "alternative",
+    "substitute",
+    "replica",
+    "duplicate",
+    "variant"
+  ],
+  "bx-images": [
+    "photographs",
+    "pictures",
+    "representations",
+    "depictions",
+    "visuals"
+  ],
+  "bx-import": [
+    "inclusion",
+    "addition",
+    "incorporation",
+    "admission",
+    "entry"
+  ],
+  "bx-infinite": [
+    "endless",
+    "cycle",
+    "loop",
+    "infinity",
+    "boundless"
+  ],
+  "bx-info-circle": [
+    "notification",
+    "alert",
+    "warning",
+    "message",
+    "information"
+  ],
+  "bx-info-square": [
+    "notification",
+    "alert",
+    "warning",
+    "data",
+    "information"
+  ],
+  "bx-injection": [
+    "inject",
+    "pump",
+    "flow",
+    "stream",
+    "transfer"
+  ],
+  "bx-intersect": [
+    "cross",
+    "meet",
+    "overlap",
+    "crash",
+    "intersection"
+  ],
+  "bx-italic": [
+    "slant",
+    "oblique",
+    "tilt",
+    "lean",
+    "slope"
+  ],
+  "bx-joystick": [
+    "controller",
+    "gamepad",
+    "stick",
+    "lever",
+    "grip"
+  ],
+  "bx-joystick-alt": [
+    "controller",
+    "gamepad",
+    "stick",
+    "lever",
+    "grip"
+  ],
+  "bx-joystick-button": [
+    "switch",
+    "toggle",
+    "click",
+    "press"
+  ],
+  "bx-key": [
+    "code",
+    "password",
+    "cipher",
+    "secret",
+    "encryption"
+  ],
+  "bx-knife": [
+    "blade",
+    "cuttingtool",
+    "edge",
+    "scimitar",
+    "weapon"
+  ],
+  "bx-label": [
+    "name",
+    "title",
+    "description",
+    "identifier"
+  ],
+  "bx-landscape": [
+    "panorama",
+    "scene",
+    "horizon",
+    "skyline"
+  ],
+  "bx-laptop": [
+    "computer",
+    "machine",
+    "device",
+    "keyboard",
+    "screen"
+  ],
+  "bx-last-page": [
+    "final",
+    "ending",
+    "termination",
+    "conclusion",
+    "endpoint"
+  ],
+  "bx-laugh": [
+    "laughter",
+    "smile",
+    "grin",
+    "amusement",
+    "joy"
+  ],
+  "bx-layer": [
+    "background",
+    "screen",
+    "overlay",
+    "canvas",
+    "plane"
+  ],
+  "bx-layer-minus": [
+    "subtract",
+    "reduce",
+    "decrease",
+    "minimize",
+    "eliminate"
+  ],
+  "bx-layer-plus": [
+    "add",
+    "increase",
+    "enhance",
+    "expand",
+    "augment"
+  ],
+  "bx-layout": [
+    "design",
+    "configuration",
+    "template",
+    "structure",
+    "arrangement"
+  ],
+  "bx-leaf": [
+    "tree",
+    "green",
+    "nature",
+    "growth",
+    "flora"
+  ],
+  "bx-left-arrow": [
+    "previous",
+    "prior",
+    "before",
+    "leftward",
+    "anterior"
+  ],
+  "bx-left-arrow-alt": [
+    "previous",
+    "prior",
+    "before",
+    "leftward",
+    "anterior"
+  ],
+  "bx-left-arrow-circle": [
+    "direction",
+    "previous",
+    "left-turn",
+    "retrograde",
+    "movement"
+  ],
+  "bx-left-down-arrow-circle": [
+    "downward",
+    "descending",
+    "lowering",
+    "falling",
+    "decreasing"
+  ],
+  "bx-left-indent": [
+    "align",
+    "position",
+    "locate",
+    "place",
+    "arrangement"
+  ],
+  "bx-left-top-arrow-circle": [
+    "topward",
+    "ascending",
+    "rising",
+    "increasing",
+    "elevating"
+  ],
+  "bx-lemon": [
+    "citrus",
+    "fruit",
+    "juice",
+    "sour",
+    "acid"
+  ],
+  "bx-library": [
+    "collection",
+    "repository",
+    "archive",
+    "database",
+    "storage"
+  ],
+  "bx-like": [
+    "similar",
+    "alike",
+    "equivalent",
+    "comparable",
+    "analogous"
+  ],
+  "bx-line-chart": [
+    "graph",
+    "diagram",
+    "plot",
+    "table",
+    "data"
+  ],
+  "bx-line-chart-down": [
+    "decreasing",
+    "falling",
+    "lowering",
+    "descending",
+    "dropping"
+  ],
+  "bx-link": [
+    "connection",
+    "linkage",
+    "relation",
+    "association",
+    "binding"
+  ],
+  "bx-link-alt": [
+    "alternative",
+    "substitute",
+    "replacement",
+    "complement",
+    "extension"
+  ],
+  "bx-link-external": [
+    "url",
+    "connection",
+    "route",
+    "gateway",
+    "network"
+  ],
+  "bx-lira": [
+    "currency",
+    "money",
+    "coin",
+    "value",
+    "price"
+  ],
+  "bx-list-check": [
+    "checkbox",
+    "radio",
+    "option",
+    "choice",
+    "select"
+  ],
+  "bx-list-minus": [
+    "decrease",
+    "reduce",
+    "subtract",
+    "deduct",
+    "dismiss"
+  ],
+  "bx-list-ol": [
+    "ordered",
+    "sequence",
+    "series",
+    "catalog"
+  ],
+  "bx-list-plus": [
+    "increase",
+    "add",
+    "enhance",
+    "augment",
+    "growth"
+  ],
+  "bx-list-ul": [
+    "unordered",
+    "unsorted",
+    "disorderly",
+    "random",
+    "chaotic"
+  ],
+  "bx-loader": [
+    "spinner",
+    "indicator",
+    "progress",
+    "animation",
+    "motion"
+  ],
+  "bx-loader-alt": [
+    "loading",
+    "active",
+    "in-progress",
+    "on-hold",
+    "paused"
+  ],
+  "bx-loader-circle": [
+    "ring",
+    "wheel",
+    "circular",
+    "round",
+    "rotation"
+  ],
+  "bx-location-plus": [
+    "place",
+    "spot",
+    "site",
+    "destination",
+    "address"
+  ],
+  "bx-lock": [
+    "secure",
+    "restricted",
+    "access-controlled",
+    "encrypted",
+    "protection"
+  ],
+  "bx-lock-alt": [
+    "unlock",
+    "open",
+    "unlocked",
+    "accessible",
+    "permitted"
+  ],
+  "bx-lock-open": [
+    "accessible",
+    "permitted",
+    "visible",
+    "exposed",
+    "unlock"
+  ],
+  "bx-lock-open-alt": [
+    "unlocked",
+    "unrestricted",
+    "free",
+    "available",
+    "public"
+  ],
+  "bx-log-in": [
+    "login",
+    "entry",
+    "access",
+    "credentials",
+    "account"
+  ],
+  "bx-log-in-circle": [
+    "ring",
+    "badge",
+    "login",
+    "entry",
+    "admission"
+  ],
+  "bx-log-out": [
+    "logout",
+    "exit",
+    "leave",
+    "remove",
+    "delete"
+  ],
+  "bx-log-out-circle": [
+    "ring",
+    "badge",
+    "logout",
+    "exit",
+    "departure"
+  ],
+  "bx-low-vision": [
+    "sight",
+    "blindness",
+    "disability",
+    "accessibility",
+    "sensory"
+  ],
+  "bx-magnet": [
+    "attractant",
+    "lens",
+    "focus",
+    "attraction",
+    "magnetism",
+    "pull"
+  ],
+  "bx-mail-send": [
+    "email",
+    "message",
+    "transmit",
+    "communication",
+    "post"
+  ],
+  "bx-male": [
+    "man",
+    "person",
+    "guy",
+    "manhood",
+    "masculinity"
+  ],
+  "bx-male-female": [
+    "person",
+    "human",
+    "being",
+    "individual",
+    "entity"
+  ],
+  "bx-male-sign": [
+    "gender",
+    "masculine",
+    "identity",
+    "person"
+  ],
+  "bx-map": [
+    "location",
+    "directions",
+    "route",
+    "navigation",
+    "path"
+  ],
+  "bx-map-alt": [
+    "alternative",
+    "substitute",
+    "replacement",
+    "variant",
+    "option"
+  ],
+  "bx-map-pin": [
+    "marker",
+    "location",
+    "spot",
+    "landmark",
+    "point"
+  ],
+  "bx-mask": [
+    "cover",
+    "hide",
+    "conceal",
+    "obscure",
+    "block"
+  ],
+  "bx-math": [
+    "equation",
+    "formula",
+    "calculation",
+    "numbers",
+    "science"
+  ],
+  "bx-medal": [
+    "award",
+    "prize",
+    "honor",
+    "recognition",
+    "achievement"
+  ],
+  "bx-meh": [
+    "expression",
+    "face",
+    "mood",
+    "attitude",
+    "shrug"
+  ],
+  "bx-meh-alt": [
+    "error",
+    "warning",
+    "alert",
+    "notification",
+    "caution"
+  ],
+  "bx-meh-blank": [
+    "empty",
+    "null",
+    "zero",
+    "void",
+    "space"
+  ],
+  "bx-memory-card": [
+    "record",
+    "data",
+    "file",
+    "document",
+    "information"
+  ],
+  "bx-menu": [
+    "hamburger",
+    "navigation",
+    "list",
+    "options",
+    "drawer"
+  ],
+  "bx-menu-alt-left": [
+    "previous",
+    "back",
+    "exit",
+    "dismiss",
+    "retreat"
+  ],
+  "bx-menu-alt-right": [
+    "next",
+    "forward",
+    "enter",
+    "confirm",
+    "proceed"
+  ],
+  "bx-merge": [
+    "combine",
+    "unite",
+    "join",
+    "link",
+    "connect"
+  ],
+  "bx-message": [
+    "notification",
+    "alert",
+    "warning",
+    "error"
+  ],
+  "bx-message-add": [
+    "append",
+    "insert",
+    "extend",
+    "augment",
+    "addition"
+  ],
+  "bx-message-alt": [
+    "alternative",
+    "variant",
+    "style",
+    "theme",
+    "tone"
+  ],
+  "bx-message-alt-add": [
+    "additional",
+    "extra",
+    "supplemental",
+    "auxiliary",
+    "complementary"
+  ],
+  "bx-message-alt-check": [
+    "checkmark",
+    "verified",
+    "confirmed",
+    "approved",
+    "validated"
+  ],
+  "bx-message-alt-detail": [
+    "description",
+    "info",
+    "information",
+    "explanation",
+    "content"
+  ],
+  "bx-message-alt-dots": [
+    "dots-dot",
+    "dots-dash",
+    "dots-ellipsis",
+    "dots-trail",
+    "dot"
+  ],
+  "bx-message-alt-edit": [
+    "modify",
+    "update",
+    "change",
+    "revise",
+    "adjust"
+  ],
+  "bx-message-alt-error": [
+    "alert-danger",
+    "warning-danger",
+    "danger",
+    "alert-error",
+    "issue"
+  ],
+  "bx-message-alt-minus": [
+    "decrease",
+    "subtract",
+    "reduce",
+    "deduct",
+    "lessen"
+  ],
+  "bx-message-alt-x": [
+    "cancel",
+    "delete",
+    "remove",
+    "discard",
+    "terminate"
+  ],
+  "bx-message-check": [
+    "confirm",
+    "accept",
+    "verify",
+    "validate",
+    "approve"
+  ],
+  "bx-message-detail": [
+    "description",
+    "details",
+    "info",
+    "information",
+    "explanation"
+  ],
+  "bx-message-dots": [
+    "dots-circle",
+    "dots-dot",
+    "dots-small",
+    "dots-icon",
+    "dot"
+  ],
+  "bx-message-edit": [
+    "modify",
+    "update",
+    "change",
+    "redact",
+    "alter"
+  ],
+  "bx-message-error": [
+    "alert-danger",
+    "warning-danger",
+    "danger",
+    "alert-error",
+    "error-box"
+  ],
+  "bx-message-minus": [
+    "decrease",
+    "subtract",
+    "reduce",
+    "deduct",
+    "diminish"
+  ],
+  "bx-message-rounded": [
+    "circle",
+    "square",
+    "rectangle",
+    "oval",
+    "round"
+  ],
+  "bx-message-rounded-add": [
+    "increase",
+    "addition",
+    "increment",
+    "augment",
+    "boost"
+  ],
+  "bx-message-rounded-check": [
+    "verify",
+    "validate",
+    "confirm",
+    "approve",
+    "authenticate"
+  ],
+  "bx-message-rounded-detail": [
+    "description",
+    "details",
+    "info",
+    "information",
+    "explanation"
+  ],
+  "bx-message-rounded-dots": [
+    "dots-circle",
+    "dots-dot",
+    "dots-small",
+    "dots-icon",
+    "dot"
+  ],
+  "bx-message-rounded-edit": [
+    "modify",
+    "update",
+    "change",
+    "redact"
+  ],
+  "bx-message-rounded-error": [
+    "alert",
+    "warning",
+    "notification",
+    "issue",
+    "concern"
+  ],
+  "bx-message-rounded-minus": [
+    "decrease",
+    "reduce",
+    "subtract",
+    "remove",
+    "dismiss"
+  ],
+  "bx-message-rounded-x": [
+    "cross",
+    "cancel",
+    "delete",
+    "discard",
+    "exit"
+  ],
+  "bx-message-square": [
+    "box",
+    "container",
+    "panel",
+    "space",
+    "area"
+  ],
+  "bx-message-square-add": [
+    "increment",
+    "increase",
+    "plus",
+    "expand",
+    "addition"
+  ],
+  "bx-message-square-check": [
+    "checkmark",
+    "verify",
+    "confirm",
+    "validate",
+    "approve"
+  ],
+  "bx-message-square-detail": [
+    "details",
+    "info",
+    "description",
+    "content",
+    "information"
+  ],
+  "bx-message-square-dots": [
+    "dots-circle",
+    "dots-dot",
+    "dots-small",
+    "dots-icon",
+    "pattern"
+  ],
+  "bx-message-square-edit": [
+    "update",
+    "modify",
+    "change",
+    "improve",
+    "revision"
+  ],
+  "bx-message-square-error": [
+    "warning",
+    "alert",
+    "notification",
+    "issue",
+    "problem"
+  ],
+  "bx-message-square-minus": [
+    "decrease",
+    "reduce",
+    "subtract",
+    "remove",
+    "dismiss"
+  ],
+  "bx-message-square-x": [
+    "cross",
+    "cancel",
+    "delete",
+    "discard",
+    "exit"
+  ],
+  "bx-message-x": [
+    "close",
+    "dismiss",
+    "quit",
+    "terminate",
+    "exit"
+  ],
+  "bx-meteor": [
+    "asteroid",
+    "rock",
+    "boulder",
+    "rocks",
+    "space"
+  ],
+  "bx-microchip": [
+    "chip",
+    "component",
+    "module",
+    "device",
+    "part"
+  ],
+  "bx-microphone": [
+    "recorder",
+    "speaker",
+    "audio",
+    "voice",
+    "talk"
+  ],
+  "bx-microphone-off": [
+    "mute",
+    "silence",
+    "stop",
+    "quiet",
+    "muted"
+  ],
+  "bx-minus": [
+    "delete",
+    "remove",
+    "subtract",
+    "reduce",
+    "cut"
+  ],
+  "bx-minus-back": [
+    "reverse",
+    "undo",
+    "revert",
+    "backstep",
+    "retreat"
+  ],
+  "bx-minus-circle": [
+    "ring",
+    "dot",
+    "point",
+    "center",
+    "focus"
+  ],
+  "bx-minus-front": [
+    "face",
+    "side",
+    "edge",
+    "exterior",
+    "surface"
+  ],
+  "bx-mobile": [
+    "phone",
+    "cell",
+    "device",
+    "screen"
+  ],
+  "bx-mobile-alt": [
+    "alternative",
+    "variant",
+    "different",
+    "other",
+    "substitute"
+  ],
+  "bx-mobile-landscape": [
+    "orientation",
+    "angle",
+    "aspect",
+    "proportion",
+    "layout"
+  ],
+  "bx-mobile-vibration": [
+    "vibrate",
+    "buzz",
+    "hum",
+    "tremble",
+    "quake"
+  ],
+  "bx-money": [
+    "currency",
+    "coin",
+    "dollar",
+    "euro",
+    "moneybag"
+  ],
+  "bx-money-withdraw": [
+    "withdrawal",
+    "deduction",
+    "payment",
+    "extraction",
+    "remittance"
+  ],
+  "bx-moon": [
+    "lunar",
+    "night",
+    "darkness",
+    "silvery",
+    "moonlight"
+  ],
+  "bx-mouse": [
+    "pointer",
+    "cursor",
+    "trackball",
+    "clicker",
+    "tactile"
+  ],
+  "bx-mouse-alt": [
+    "alternative",
+    "variant",
+    "different",
+    "other",
+    "substitute"
+  ],
+  "bx-move": [
+    "drag",
+    "slide",
+    "shift",
+    "transport",
+    "movement"
+  ],
+  "bx-move-horizontal": [
+    "slide",
+    "drag",
+    "transport",
+    "shift",
+    "motion"
+  ],
+  "bx-move-vertical": [
+    "rise",
+    "fall",
+    "ascend",
+    "descend",
+    "lift"
+  ],
+  "bx-movie": [
+    "film",
+    "cinema",
+    "screen",
+    "projector",
+    "projection"
+  ],
+  "bx-movie-play": [
+    "record",
+    "recording",
+    "perform",
+    "display",
+    "showcase"
+  ],
+  "bx-music": [
+    "song",
+    "melody",
+    "harmony",
+    "rhythm",
+    "tune"
+  ],
+  "bx-navigation": [
+    "route",
+    "path",
+    "direction",
+    "course",
+    "way"
+  ],
+  "bx-network-chart": [
+    "graph",
+    "map",
+    "diagram",
+    "connection",
+    "link"
+  ],
+  "bx-news": [
+    "article",
+    "report",
+    "story",
+    "paper",
+    "press"
+  ],
+  "bx-no-entry": [
+    "block",
+    "barrier",
+    "obstacle",
+    "hurdle",
+    "roadblock"
+  ],
+  "bx-no-signal": [
+    "no-service",
+    "no-internet",
+    "disconnected",
+    "offline",
+    "unavailable"
+  ],
+  "bx-note": [
+    "notebook",
+    "pad",
+    "sheet",
+    "document",
+    "record"
+  ],
+  "bx-notepad": [
+    "notebook",
+    "pad",
+    "sheet",
+    "document",
+    "note"
+  ],
+  "bx-notification": [
+    "alert",
+    "message",
+    "warning",
+    "reminder"
+  ],
+  "bx-notification-off": [
+    "disabled",
+    "inactive",
+    "muted",
+    "silenced",
+    "hidden"
+  ],
+  "bx-objects-horizontal-center": [
+    "middle",
+    "balance",
+    "equilibrium",
+    "median",
+    "centering"
+  ],
+  "bx-objects-horizontal-left": [
+    "west",
+    "east",
+    "right",
+    "side",
+    "leftward"
+  ],
+  "bx-objects-horizontal-right": [
+    "east",
+    "west",
+    "left",
+    "side",
+    "rightward"
+  ],
+  "bx-objects-vertical-bottom": [
+    "lower",
+    "inferior",
+    "underneath",
+    "below",
+    "lowered"
+  ],
+  "bx-objects-vertical-center": [
+    "middle",
+    "balance",
+    "equilibrium",
+    "median",
+    "alignment"
+  ],
+  "bx-objects-vertical-top": [
+    "upper",
+    "superior",
+    "above",
+    "higher",
+    "topology"
+  ],
+  "bx-outline": [
+    "border",
+    "frame",
+    "edge",
+    "shape",
+    "boundary"
+  ],
+  "bx-package": [
+    "box",
+    "container",
+    "bundle",
+    "set"
+  ],
+  "bx-paint": [
+    "brush",
+    "color",
+    "canvas",
+    "art",
+    "painting"
+  ],
+  "bx-paint-roll": [
+    "roller",
+    "texture",
+    "pattern",
+    "design",
+    "imprint"
+  ],
+  "bx-palette": [
+    "colors",
+    "hue",
+    "tint",
+    "shade",
+    "mix"
+  ],
+  "bx-paper-plane": [
+    "letter",
+    "mail",
+    "package",
+    "delivery",
+    "post"
+  ],
+  "bx-paperclip": [
+    "note",
+    "record",
+    "document",
+    "file",
+    "paper"
+  ],
+  "bx-paragraph": [
+    "text",
+    "sentence",
+    "phrase",
+    "block",
+    "content"
+  ],
+  "bx-party": [
+    "celebration",
+    "event",
+    "gathering",
+    "social"
+  ],
+  "bx-paste": [
+    "copy",
+    "transfer",
+    "move",
+    "insert",
+    "duplicate"
+  ],
+  "bx-pause": [
+    "stop",
+    "hold",
+    "wait",
+    "delay"
+  ],
+  "bx-pause-circle": [
+    "break",
+    "interrupt",
+    "halt",
+    "freeze",
+    "block"
+  ],
+  "bx-pen": [
+    "write",
+    "draw",
+    "create",
+    "sign",
+    "mark"
+  ],
+  "bx-pencil": [
+    "edit",
+    "correct",
+    "revise",
+    "update",
+    "modify"
+  ],
+  "bx-phone": [
+    "call",
+    "talk",
+    "communicate",
+    "connect",
+    "link"
+  ],
+  "bx-phone-call": [
+    "conversation",
+    "dialogue",
+    "chat",
+    "exchange",
+    "discuss"
+  ],
+  "bx-phone-incoming": [
+    "ring",
+    "signal",
+    "alert",
+    "notification",
+    "message"
+  ],
+  "bx-phone-off": [
+    "disable",
+    "deactivate",
+    "turnoff",
+    "stop",
+    "shut"
+  ],
+  "bx-phone-outgoing": [
+    "call",
+    "dial",
+    "communication",
+    "connection",
+    "voice"
+  ],
+  "bx-photo-album": [
+    "gallery",
+    "collection",
+    "picture",
+    "image",
+    "portfolio"
+  ],
+  "bx-pie-chart": [
+    "graph",
+    "diagram",
+    "data",
+    "statistics"
+  ],
+  "bx-pie-chart-alt": [
+    "graph",
+    "diagram",
+    "data",
+    "statistics",
+    "alternative"
+  ],
+  "bx-pie-chart-alt-2": [
+    "graph",
+    "diagram",
+    "data",
+    "statistics",
+    "pie-chart"
+  ],
+  "bx-pin": [
+    "location",
+    "map",
+    "position",
+    "spot",
+    "coordinate"
+  ],
+  "bx-planet": [
+    "world",
+    "earth",
+    "globe",
+    "space",
+    "universe"
+  ],
+  "bx-play": [
+    "music",
+    "video",
+    "movie",
+    "performance",
+    "entertainment"
+  ],
+  "bx-play-circle": [
+    "music",
+    "video",
+    "movie",
+    "performance",
+    "entertainment"
+  ],
+  "bx-plug": [
+    "power",
+    "electricity",
+    "battery",
+    "device",
+    "charger"
+  ],
+  "bx-plus": [
+    "addition",
+    "growth",
+    "increase",
+    "expansion",
+    "enhancement"
+  ],
+  "bx-plus-circle": [
+    "addition",
+    "growth",
+    "increase",
+    "expansion",
+    "enhancement"
+  ],
+  "bx-plus-medical": [
+    "treatment",
+    "medicine",
+    "health",
+    "wellness",
+    "therapy"
+  ],
+  "bx-podcast": [
+    "show",
+    "episode",
+    "audio",
+    "record",
+    "broadcast"
+  ],
+  "bx-pointer": [
+    "cursor",
+    "mouse",
+    "target",
+    "focus"
+  ],
+  "bx-poll": [
+    "vote",
+    "survey",
+    "question",
+    "option",
+    "ballot"
+  ],
+  "bx-polygon": [
+    "triangle",
+    "shape",
+    "figure",
+    "geometry",
+    "polygone"
+  ],
+  "bx-popsicle": [
+    "popcorn",
+    "icecream",
+    "lollipop",
+    "sucker",
+    "treat"
+  ],
+  "bx-pound": [
+    "money",
+    "currency",
+    "coin",
+    "price",
+    "value"
+  ],
+  "bx-power-off": [
+    "shutdown",
+    "stop",
+    "disable",
+    "deactivate",
+    "powerdown"
+  ],
+  "bx-printer": [
+    "document",
+    "paper",
+    "print",
+    "copy",
+    "scan"
+  ],
+  "bx-pulse": [
+    "heart",
+    "beat",
+    "rhythm",
+    "vibration"
+  ],
+  "bx-purchase-tag": [
+    "sell",
+    "price",
+    "discount",
+    "sale"
+  ],
+  "bx-purchase-tag-alt": [
+    "alternative",
+    "variant",
+    "option",
+    "choice",
+    "tag-alternative"
+  ],
+  "bx-pyramid": [
+    "triangle",
+    "geometry",
+    "shape",
+    "structure",
+    "polyhedron"
+  ],
+  "bx-qr": [
+    "barcode",
+    "scanner",
+    "code",
+    "scan",
+    "reader"
+  ],
+  "bx-qr-scan": [
+    "read",
+    "decode",
+    "interpret",
+    "analyze"
+  ],
+  "bx-question-mark": [
+    "query",
+    "inquiry",
+    "doubt",
+    "investigate",
+    "examine"
+  ],
+  "bx-radar": [
+    "detect",
+    "track",
+    "monitor",
+    "surveillance",
+    "scan"
+  ],
+  "bx-radio": [
+    "station",
+    "wave",
+    "frequency",
+    "broadcast",
+    "signal"
+  ],
+  "bx-radio-circle": [
+    "ring",
+    "disk",
+    "wheel",
+    "circular"
+  ],
+  "bx-radio-circle-marked": [
+    "checkmark",
+    "toggle",
+    "switch",
+    "option",
+    "selected"
+  ],
+  "bx-receipt": [
+    "invoice",
+    "bill",
+    "payment",
+    "document",
+    "record"
+  ],
+  "bx-rectangle": [
+    "square",
+    "box",
+    "bar",
+    "grid",
+    "cell"
+  ],
+  "bx-recycle": [
+    "waste",
+    "bin",
+    "dispose",
+    "sort"
+  ],
+  "bx-redo": [
+    "revert",
+    "undo",
+    "reverse",
+    "retry",
+    "cancel"
+  ],
+  "bx-reflect-horizontal": [
+    "mirror",
+    "reflection",
+    "image",
+    "symmetry",
+    "glow"
+  ],
+  "bx-reflect-vertical": [
+    "mirror",
+    "reflection",
+    "image",
+    "symmetry",
+    "glow"
+  ],
+  "bx-refresh": [
+    "update",
+    "reload",
+    "restart",
+    "revive"
+  ],
+  "bx-registered": [
+    "verified",
+    "confirmed",
+    "approved",
+    "validated",
+    "authenticated"
+  ],
+  "bx-rename": [
+    "edit",
+    "modify",
+    "update",
+    "renumber"
+  ],
+  "bx-repeat": [
+    "cycle",
+    "loop",
+    "iterate",
+    "reduplicate"
+  ],
+  "bx-reply": [
+    "response",
+    "answer",
+    "message",
+    "comment"
+  ],
+  "bx-reply-all": [
+    "forward",
+    "share",
+    "transmit",
+    "broadcast",
+    "notify"
+  ],
+  "bx-repost": [
+    "share",
+    "forward",
+    "transmit",
+    "relay",
+    "post"
+  ],
+  "bx-reset": [
+    "clear",
+    "refresh",
+    "renew",
+    "invalidate"
+  ],
+  "bx-restaurant": [
+    "dining",
+    "eatery",
+    "cafe",
+    "food-court",
+    "bistro"
+  ],
+  "bx-revision": [
+    "update",
+    "edit",
+    "change",
+    "modify"
+  ],
+  "bx-rewind": [
+    "pause",
+    "stop",
+    "reset",
+    "undo",
+    "replay"
+  ],
+  "bx-rewind-circle": [
+    "cycle",
+    "loop",
+    "repeat",
+    "rotate",
+    "turn"
+  ],
+  "bx-rfid": [
+    "radio-frequency",
+    "identification",
+    "scanner",
+    "technology",
+    "system"
+  ],
+  "bx-right-arrow": [
+    "forward",
+    "next",
+    "lead",
+    "advance",
+    "direction"
+  ],
+  "bx-right-arrow-alt": [
+    "alternate",
+    "variant",
+    "different",
+    "other",
+    "substitute"
+  ],
+  "bx-right-arrow-circle": [
+    "direction",
+    "forward",
+    "move",
+    "point",
+    "guidance"
+  ],
+  "bx-right-down-arrow-circle": [
+    "below",
+    "lower",
+    "decrease",
+    "fall",
+    "descend"
+  ],
+  "bx-right-indent": [
+    "align",
+    "position",
+    "place",
+    "arrange",
+    "format"
+  ],
+  "bx-right-top-arrow-circle": [
+    "above",
+    "upper",
+    "higher",
+    "ascend",
+    "elevation"
+  ],
+  "bx-rocket": [
+    "launch",
+    "blast",
+    "explosion",
+    "explosive",
+    "powerful"
+  ],
+  "bx-rotate-left": [
+    "turn",
+    "revolve",
+    "twist",
+    "pivot",
+    "rotation"
+  ],
+  "bx-rotate-right": [
+    "turn",
+    "revolve",
+    "twist",
+    "pivot",
+    "rotation"
+  ],
+  "bx-rss": [
+    "feed",
+    "update",
+    "refresh",
+    "renew",
+    "repost"
+  ],
+  "bx-ruble": [
+    "currency",
+    "money",
+    "finance",
+    "wealth",
+    "value"
+  ],
+  "bx-ruler": [
+    "rule",
+    "standard",
+    "norm",
+    "regulation",
+    "guideline"
+  ],
+  "bx-run": [
+    "move",
+    "speed",
+    "velocity",
+    "journey",
+    "travel"
+  ],
+  "bx-rupee": [
+    "money",
+    "currency",
+    "finance",
+    "payment",
+    "bank"
+  ],
+  "bx-sad": [
+    "sadness",
+    "disappointment",
+    "grief",
+    "sorrow",
+    "melancholy"
+  ],
+  "bx-save": [
+    "preserve",
+    "conservation",
+    "protect",
+    "reserve",
+    "safeguard"
+  ],
+  "bx-scan": [
+    "inspect",
+    "examine",
+    "analyze",
+    "detect"
+  ],
+  "bx-scatter-chart": [
+    "graph",
+    "diagram",
+    "plot",
+    "visualization"
+  ],
+  "bx-screenshot": [
+    "capture",
+    "record",
+    "image",
+    "picture",
+    "snapshot"
+  ],
+  "bx-search": [
+    "find",
+    "locate",
+    "discover",
+    "identify",
+    "query"
+  ],
+  "bx-search-alt": [
+    "alternative",
+    "substitute",
+    "replace",
+    "update",
+    "modify"
+  ],
+  "bx-search-alt-2": [
+    "advanced",
+    "enhanced",
+    "pro",
+    "expert",
+    "specialized"
+  ],
+  "bx-select-multiple": [
+    "many",
+    "several",
+    "various",
+    "collection",
+    "assortment"
+  ],
+  "bx-selection": [
+    "choose",
+    "select",
+    "pick",
+    "opt",
+    "picking"
+  ],
+  "bx-send": [
+    "transmit",
+    "deliver",
+    "dispatch",
+    "forward",
+    "transport"
+  ],
+  "bx-server": [
+    "computer",
+    "machine",
+    "host",
+    "datacenter",
+    "system"
+  ],
+  "bx-shape-circle": [
+    "ring",
+    "disk",
+    "disc",
+    "circular"
+  ],
+  "bx-shape-polygon": [
+    "polyhedron",
+    "form",
+    "geometry",
+    "figure",
+    "polygone"
+  ],
+  "bx-shape-square": [
+    "rectangle",
+    "box",
+    "bar",
+    "rectangular"
+  ],
+  "bx-shape-triangle": [
+    "polygon",
+    "geometric",
+    "angular",
+    "triangular"
+  ],
+  "bx-share": [
+    "social",
+    "communicate",
+    "transmit",
+    "exchange",
+    "network"
+  ],
+  "bx-share-alt": [
+    "share-alt",
+    "alternate",
+    "secondary",
+    "supplement",
+    "extension"
+  ],
+  "bx-shekel": [
+    "money",
+    "currency",
+    "coin",
+    "value",
+    "price"
+  ],
+  "bx-shield": [
+    "protection",
+    "defense",
+    "security",
+    "safety",
+    "guard"
+  ],
+  "bx-shield-alt": [
+    "shield-alt",
+    "alternative",
+    "variant",
+    "substitute",
+    "replacement"
+  ],
+  "bx-shield-alt-2": [
+    "shield-alt-2",
+    "modified",
+    "altered",
+    "changed",
+    "updated"
+  ],
+  "bx-shield-minus": [
+    "negative",
+    "opposite",
+    "reversal",
+    "negation"
+  ],
+  "bx-shield-plus": [
+    "positive",
+    "addition",
+    "affirmation",
+    "endorsement"
+  ],
+  "bx-shield-quarter": [
+    "part",
+    "fraction",
+    "segment",
+    "slice",
+    "portion"
+  ],
+  "bx-shield-x": [
+    "x-mark",
+    "cross",
+    "cancel",
+    "delete",
+    "remove"
+  ],
+  "bx-shocked": [
+    "shock",
+    "surprise",
+    "alarm",
+    "alert",
+    "warning"
+  ],
+  "bx-shopping-bag": [
+    "retail",
+    "commerce",
+    "purchase",
+    "market"
+  ],
+  "bx-show": [
+    "display",
+    "reveal",
+    "expose",
+    "manifest",
+    "disclose"
+  ],
+  "bx-show-alt": [
+    "show-alt",
+    "alternative",
+    "variant",
+    "substitute",
+    "replacement"
+  ],
+  "bx-shower": [
+    "bath",
+    "cleaning",
+    "hygiene",
+    "purification"
+  ],
+  "bx-shuffle": [
+    "mix",
+    "randomize",
+    "arrange",
+    "reorder"
+  ],
+  "bx-sidebar": [
+    "panel",
+    "container",
+    "frame",
+    "border",
+    "layout"
+  ],
+  "bx-signal-1": [
+    "signal-strength",
+    "strength",
+    "power",
+    "connection",
+    "frequency"
+  ],
+  "bx-signal-2": [
+    "signal-strength",
+    "strength",
+    "power",
+    "connection",
+    "transmission"
+  ],
+  "bx-signal-3": [
+    "signal-strength",
+    "strength",
+    "power",
+    "connection"
+  ],
+  "bx-signal-4": [
+    "signal-strength",
+    "strength",
+    "power",
+    "connection",
+    "waveform"
+  ],
+  "bx-signal-5": [
+    "signal-strength",
+    "strength",
+    "power",
+    "connection",
+    "bandwidth"
+  ],
+  "bx-sitemap": [
+    "map",
+    "chart",
+    "diagram",
+    "graph",
+    "plan"
+  ],
+  "bx-skip-next": [
+    "continue",
+    "forward",
+    "proceed",
+    "step",
+    "navigate"
+  ],
+  "bx-skip-next-circle": [
+    "forward",
+    "continue",
+    "jump",
+    "move",
+    "transition"
+  ],
+  "bx-skip-previous": [
+    "back",
+    "before",
+    "retrograde",
+    "undo",
+    "revert"
+  ],
+  "bx-skip-previous-circle": [
+    "back",
+    "navigate",
+    "rewind",
+    "return",
+    "goback"
+  ],
+  "bx-sleepy": [
+    "sleep",
+    "drowsy",
+    "dozing",
+    "lulled",
+    "somnolent"
+  ],
+  "bx-slider": [
+    "scroll",
+    "slide",
+    "swipe",
+    "track",
+    "glide"
+  ],
+  "bx-slider-alt": [
+    "alternative",
+    "variant",
+    "version",
+    "wrapper",
+    "adaptation"
+  ],
+  "bx-slideshow": [
+    "gallery",
+    "image",
+    "picture",
+    "sequence",
+    "display"
+  ],
+  "bx-smile": [
+    "grin",
+    "laugh",
+    "merry",
+    "cheerful",
+    "joy"
+  ],
+  "bx-sort": [
+    "arrange",
+    "classify",
+    "organize",
+    "prioritize"
+  ],
+  "bx-sort-a-z": [
+    "alphabetical",
+    "ascending",
+    "descending",
+    "ordered",
+    "sequential"
+  ],
+  "bx-sort-alt-2": [
+    "alternative",
+    "variant",
+    "version",
+    "wrapper",
+    "arrangement"
+  ],
+  "bx-sort-down": [
+    "decreasing",
+    "falling",
+    "lowering",
+    "receding",
+    "descent"
+  ],
+  "bx-sort-up": [
+    "increasing",
+    "rising",
+    "ascendant",
+    "ascending",
+    "ascension"
+  ],
+  "bx-sort-z-a": [
+    "alphabetize",
+    "arrange",
+    "classify",
+    "organize",
+    "prioritize"
+  ],
+  "bx-spa": [
+    "beach",
+    "garden",
+    "outdoor",
+    "park",
+    "resort"
+  ],
+  "bx-space-bar": [
+    "keyboard",
+    "mouse",
+    "pad",
+    "pointer",
+    "trackpad"
+  ],
+  "bx-speaker": [
+    "audio",
+    "loudspeaker",
+    "microphone",
+    "music",
+    "sound"
+  ],
+  "bx-spray-can": [
+    "paint",
+    "painted",
+    "spraying",
+    "watercolor",
+    "artistic"
+  ],
+  "bx-spreadsheet": [
+    "chart",
+    "document",
+    "table",
+    "worksheet",
+    "xls"
+  ],
+  "bx-square": [
+    "block",
+    "box",
+    "cube",
+    "rectangle",
+    "geometry"
+  ],
+  "bx-square-rounded": [
+    "circle",
+    "shape",
+    "smooth",
+    "curved"
+  ],
+  "bx-star": [
+    "award",
+    "celebration",
+    "rating",
+    "recognition",
+    "prize"
+  ],
+  "bx-station": [
+    "airport",
+    "bus",
+    "depot",
+    "railway",
+    "transportation"
+  ],
+  "bx-stats": [
+    "chart",
+    "graph",
+    "numbers",
+    "report",
+    "table"
+  ],
+  "bx-sticker": [
+    "label",
+    "note",
+    "post-it",
+    "stickers",
+    "annotation"
+  ],
+  "bx-stop": [
+    "halt",
+    "pause",
+    "suspend",
+    "terminate",
+    "cessation"
+  ],
+  "bx-stop-circle": [
+    "halts",
+    "stops",
+    "traffic",
+    "wheel",
+    "obstruction"
+  ],
+  "bx-stopwatch": [
+    "timer",
+    "clock",
+    "pause",
+    "reset",
+    "duration"
+  ],
+  "bx-store": [
+    "retail",
+    "market",
+    "shop",
+    "storefront",
+    "mall"
+  ],
+  "bx-store-alt": [
+    "alternative",
+    "variant",
+    "substitute",
+    "replacement",
+    "duplicate"
+  ],
+  "bx-street-view": [
+    "panorama",
+    "viewpoint",
+    "landscape",
+    "outdoor",
+    "skyline"
+  ],
+  "bx-strikethrough": [
+    "strike",
+    "crossout",
+    "cancel",
+    "delete",
+    "remove"
+  ],
+  "bx-subdirectory-left": [
+    "sub",
+    "branch",
+    "division",
+    "section",
+    "folder"
+  ],
+  "bx-subdirectory-right": [
+    "sub",
+    "branch",
+    "division",
+    "section",
+    "folder"
+  ],
+  "bx-sun": [
+    "solar",
+    "daylight",
+    "radiant",
+    "bright",
+    "sunlight"
+  ],
+  "bx-support": [
+    "help",
+    "assistance",
+    "service",
+    "maintenance",
+    "repair"
+  ],
+  "bx-sushi": [
+    "rice",
+    "fish",
+    "japanese",
+    "cuisine",
+    "food"
+  ],
+  "bx-swim": [
+    "swimming",
+    "pool",
+    "beach",
+    "water",
+    "aquatic"
+  ],
+  "bx-sync": [
+    "synchronize",
+    "match",
+    "coordinate",
+    "align",
+    "harmony"
+  ],
+  "bx-tab": [
+    "panel",
+    "section",
+    "division",
+    "segment",
+    "container"
+  ],
+  "bx-table": [
+    "grid",
+    "list",
+    "data",
+    "chart"
+  ],
+  "bx-tachometer": [
+    "speed",
+    "rate",
+    "meter",
+    "gauge",
+    "indicator"
+  ],
+  "bx-tag": [
+    "label",
+    "tagline",
+    "description",
+    "annotation",
+    "note"
+  ],
+  "bx-tag-alt": [
+    "variant",
+    "alternative",
+    "substitute",
+    "replacement",
+    "duplicate"
+  ],
+  "bx-target-lock": [
+    "key",
+    "safe",
+    "secure",
+    "shield",
+    "protection"
+  ],
+  "bx-task": [
+    "assignment",
+    "job",
+    "project",
+    "mission"
+  ],
+  "bx-task-x": [
+    "cross",
+    "cancel",
+    "delete",
+    "remove",
+    "discard"
+  ],
+  "bx-taxi": [
+    "car",
+    "vehicle",
+    "ride",
+    "transport",
+    "journey"
+  ],
+  "bx-tennis-ball": [
+    "sport",
+    "game",
+    "racket",
+    "volleyball"
+  ],
+  "bx-terminal": [
+    "computer",
+    "machine",
+    "server",
+    "console",
+    "system"
+  ],
+  "bx-test-tube": [
+    "lab",
+    "experiment",
+    "trial",
+    "research",
+    "science"
+  ],
+  "bx-text": [
+    "word",
+    "letter",
+    "document",
+    "article",
+    "content"
+  ],
+  "bx-time": [
+    "clock",
+    "hour",
+    "minute",
+    "second",
+    "schedule"
+  ],
+  "bx-time-five": [
+    "number",
+    "digit",
+    "count",
+    "quantity",
+    "amount"
+  ],
+  "bx-timer": [
+    "clock",
+    "watch",
+    "counter",
+    "chrono",
+    "time"
+  ],
+  "bx-tired": [
+    "sleepy",
+    "fatigued",
+    "weary",
+    "exhausted",
+    "drained"
+  ],
+  "bx-toggle-left": [
+    "flip",
+    "slide",
+    "select",
+    "west",
+    "reverse"
+  ],
+  "bx-toggle-right": [
+    "flip",
+    "slide",
+    "select",
+    "east",
+    "forward"
+  ],
+  "bx-tone": [
+    "color",
+    "style",
+    "theme",
+    "palette",
+    "scheme"
+  ],
+  "bx-traffic-cone": [
+    "signal",
+    "warning",
+    "alert",
+    "flag",
+    "sign"
+  ],
+  "bx-train": [
+    "railway",
+    "track",
+    "carriage",
+    "locomotive",
+    "transport"
+  ],
+  "bx-transfer": [
+    "move",
+    "shift",
+    "exchange",
+    "swap"
+  ],
+  "bx-transfer-alt": [
+    "replace",
+    "substitute",
+    "alternate",
+    "update",
+    "modify"
+  ],
+  "bx-trash": [
+    "waste",
+    "recycle",
+    "discard",
+    "dispose",
+    "destruction"
+  ],
+  "bx-trash-alt": [
+    "remove",
+    "delete",
+    "erase",
+    "eliminate",
+    "abandon"
+  ],
+  "bx-trending-down": [
+    "decline",
+    "fall",
+    "drop",
+    "decrease",
+    "downtrend"
+  ],
+  "bx-trending-up": [
+    "rise",
+    "increase",
+    "grow",
+    "upward",
+    "uptrend"
+  ],
+  "bx-trim": [
+    "cut",
+    "clip",
+    "edit",
+    "refine",
+    "manipulate"
+  ],
+  "bx-trip": [
+    "journey",
+    "travel",
+    "adventure",
+    "excursion",
+    "explore"
+  ],
+  "bx-trophy": [
+    "prize",
+    "award",
+    "crown",
+    "medal",
+    "champion"
+  ],
+  "bx-tv": [
+    "screen",
+    "monitor",
+    "display",
+    "video",
+    "broadcast"
+  ],
+  "bx-underline": [
+    "emphasize",
+    "highlight",
+    "accentuate",
+    "prominence",
+    "notice"
+  ],
+  "bx-undo": [
+    "revert",
+    "reverse",
+    "cancel",
+    "nullify",
+    "rescind"
+  ],
+  "bx-unite": [
+    "merge",
+    "combine",
+    "join",
+    "coalesce",
+    "unify"
+  ],
+  "bx-universal-access": [
+    "accessibility",
+    "inclusion",
+    "equality",
+    "diversity",
+    "universalism"
+  ],
+  "bx-unlink": [
+    "disconnect",
+    "remove",
+    "delete",
+    "dissociate",
+    "separate"
+  ],
+  "bx-up-arrow": [
+    "ascend",
+    "rise",
+    "increase",
+    "elevate",
+    "ascendancy"
+  ],
+  "bx-up-arrow-alt": [
+    "increment",
+    "boost",
+    "enhance",
+    "improve",
+    "augment"
+  ],
+  "bx-up-arrow-circle": [
+    "circleup",
+    "rotate",
+    "turn",
+    "revolve",
+    "pivot"
+  ],
+  "bx-upload": [
+    "transmit",
+    "send",
+    "transfer",
+    "deposit"
+  ],
+  "bx-upside-down": [
+    "reverse",
+    "invert",
+    "flip",
+    "reversal",
+    "mirroring"
+  ],
+  "bx-upvote": [
+    "approve",
+    "endorse",
+    "support",
+    "affirm",
+    "validate"
+  ],
+  "bx-usb": [
+    "connect",
+    "link",
+    "attach",
+    "plug"
+  ],
+  "bx-user": [
+    "person",
+    "individual",
+    "human",
+    "customer"
+  ],
+  "bx-user-check": [
+    "verify",
+    "authenticate",
+    "confirm",
+    "validate",
+    "authorize"
+  ],
+  "bx-user-circle": [
+    "circleperson",
+    "roundface",
+    "faceshape",
+    "profile",
+    "avatar"
+  ],
+  "bx-user-minus": [
+    "subtract",
+    "reduce",
+    "decrease",
+    "diminish",
+    "lessen"
+  ],
+  "bx-user-pin": [
+    "stick",
+    "attach",
+    "affix",
+    "fasten",
+    "secure"
+  ],
+  "bx-user-plus": [
+    "add",
+    "increase",
+    "enhance",
+    "augment",
+    "expand"
+  ],
+  "bx-user-voice": [
+    "avatar",
+    "profile",
+    "speaker",
+    "feedback",
+    "comment"
+  ],
+  "bx-user-x": [
+    "person",
+    "account",
+    "profile",
+    "avatar",
+    "identity"
+  ],
+  "bx-vector": [
+    "shape",
+    "form",
+    "image",
+    "picture"
+  ],
+  "bx-vertical-bottom": [
+    "footer",
+    "bar",
+    "panel",
+    "sidebar",
+    "container"
+  ],
+  "bx-vertical-center": [
+    "align",
+    "position",
+    "place",
+    "space"
+  ],
+  "bx-vertical-top": [
+    "header",
+    "nav",
+    "menu",
+    "toolbar"
+  ],
+  "bx-vial": [
+    "bottle",
+    "container",
+    "vessel",
+    "jar",
+    "cylinder"
+  ],
+  "bx-video": [
+    "movie",
+    "film",
+    "screen",
+    "player",
+    "media"
+  ],
+  "bx-video-off": [
+    "pause",
+    "stop",
+    "mute",
+    "disabled",
+    "inactive"
+  ],
+  "bx-video-plus": [
+    "play",
+    "start",
+    "record",
+    "recording",
+    "loop"
+  ],
+  "bx-video-recording": [
+    "record",
+    "audio",
+    "capture",
+    "recorder",
+    "film"
+  ],
+  "bx-voicemail": [
+    "message",
+    "call",
+    "notification",
+    "alert",
+    "communication"
+  ],
+  "bx-volume": [
+    "sound",
+    "audio",
+    "music",
+    "level",
+    "tone"
+  ],
+  "bx-volume-full": [
+    "max",
+    "maximum",
+    "complete",
+    "100"
+  ],
+  "bx-volume-low": [
+    "min",
+    "minimum",
+    "small",
+    "muted"
+  ],
+  "bx-volume-mute": [
+    "silent",
+    "muted",
+    "quiet",
+    "off",
+    "silenced"
+  ],
+  "bx-walk": [
+    "person",
+    "walker",
+    "pedestrian",
+    "foot",
+    "step"
+  ],
+  "bx-wallet": [
+    "payment",
+    "card",
+    "finance",
+    "account",
+    "transfer"
+  ],
+  "bx-wallet-alt": [
+    "payment",
+    "card",
+    "money",
+    "bank",
+    "credit"
+  ],
+  "bx-water": [
+    "ocean",
+    "lake",
+    "river",
+    "sea",
+    "wave"
+  ],
+  "bx-webcam": [
+    "camera",
+    "video",
+    "recording",
+    "capture",
+    "screen"
+  ],
+  "bx-wifi": [
+    "internet",
+    "network",
+    "connection",
+    "router",
+    "signal"
+  ],
+  "bx-wifi-0": [
+    "none",
+    "off",
+    "disabled",
+    "zero",
+    "empty"
+  ],
+  "bx-wifi-1": [
+    "one",
+    "single",
+    "alone",
+    "just",
+    "only"
+  ],
+  "bx-wifi-2": [
+    "two",
+    "double",
+    "pair",
+    "both",
+    "together"
+  ],
+  "bx-wifi-off": [
+    "disabled",
+    "none",
+    "zero",
+    "inactive",
+    "offline"
+  ],
+  "bx-wind": [
+    "storm",
+    "weather",
+    "blow",
+    "gust",
+    "tempest"
+  ],
+  "bx-window": [
+    "door",
+    "entrance",
+    "entry",
+    "opening",
+    "exit"
+  ],
+  "bx-window-alt": [
+    "alternative",
+    "substitute",
+    "replacement",
+    "surrogate",
+    "duplicate"
+  ],
+  "bx-window-close": [
+    "shut",
+    "stop",
+    "terminate",
+    "exit"
+  ],
+  "bx-window-open": [
+    "reveal",
+    "uncover",
+    "display",
+    "show"
+  ],
+  "bx-windows": [
+    "panes",
+    "screens",
+    "views",
+    "scenes",
+    "layouts"
+  ],
+  "bx-wine": [
+    "drink",
+    "alcohol",
+    "liquor",
+    "spirits",
+    "beverage"
+  ],
+  "bx-wink-smile": [
+    "grin",
+    "giggle",
+    "laugh",
+    "tease"
+  ],
+  "bx-wink-tongue": [
+    "lipstick",
+    "pout",
+    "scowl",
+    "sneer",
+    "expression"
+  ],
+  "bx-won": [
+    "win",
+    "victory",
+    "success",
+    "triumph",
+    "acheive"
+  ],
+  "bx-world": [
+    "earth",
+    "planet",
+    "globe",
+    "map"
+  ],
+  "bx-wrench": [
+    "tool",
+    "machine",
+    "engine",
+    "gear",
+    "device"
+  ],
+  "bx-x": [
+    "cross",
+    "cancel",
+    "delete",
+    "remove",
+    "exit"
+  ],
+  "bx-x-circle": [
+    "ring",
+    "disk",
+    "wheel",
+    "sphere"
+  ],
+  "bx-yen": [
+    "money",
+    "currency",
+    "coin",
+    "banknote",
+    "finance"
+  ],
+  "bx-zoom-in": [
+    "expand",
+    "increase",
+    "enlarge",
+    "magnify",
+    "grow"
+  ],
+  "bx-zoom-out": [
+    "contract",
+    "decrease",
+    "shrink",
+    "minimize",
+    "reduce"
+  ],
+  "bxl-500px": [
+    "photography",
+    "image",
+    "picture",
+    "camera",
+    "studio"
+  ],
+  "bxl-99designs": [
+    "design",
+    "company",
+    "creative",
+    "artwork",
+    "branding"
+  ],
+  "bxl-adobe": [
+    "software",
+    "company",
+    "creation",
+    "editor",
+    "designer"
+  ],
+  "bxl-airbnb": [
+    "travel",
+    "accommodation",
+    "hotel",
+    "vacation",
+    "rental"
+  ],
+  "bxl-algolia": [
+    "engine",
+    "database",
+    "indexing",
+    "optimization"
+  ],
+  "bxl-amazon": [
+    "retail",
+    "company",
+    "online",
+    "shopping",
+    "inventory"
+  ],
+  "bxl-android": [
+    "operatingsystem",
+    "mobile",
+    "device",
+    "software",
+    "app"
+  ],
+  "bxl-angular": [
+    "framework",
+    "web",
+    "development",
+    "application",
+    "server"
+  ],
+  "bxl-apple": [
+    "technology",
+    "company",
+    "computer",
+    "hardware",
+    "software"
+  ],
+  "bxl-audible": [
+    "audio",
+    "music",
+    "podcast",
+    "book",
+    "listener"
+  ],
+  "bxl-aws": [
+    "cloud",
+    "computing",
+    "infrastructure",
+    "security",
+    "storage"
+  ],
+  "bxl-baidu": [
+    "engine",
+    "google",
+    "internet",
+    "query"
+  ],
+  "bxl-behance": [
+    "designer",
+    "portfolio",
+    "photography",
+    "creative",
+    "studio"
+  ],
+  "bxl-bing": [
+    "engine",
+    "microsoft",
+    "computer",
+    "web",
+    "browser"
+  ],
+  "bxl-bitcoin": [
+    "currency",
+    "cryptocurrency",
+    "blockchain",
+    "finance",
+    "investment"
+  ],
+  "bxl-blender": [
+    "software",
+    "3d-modeling",
+    "animation",
+    "game",
+    "designer"
+  ],
+  "bxl-blogger": [
+    "blog",
+    "writer",
+    "publisher",
+    "content",
+    "media"
+  ],
+  "bxl-bootstrap": [
+    "framework",
+    "css",
+    "html",
+    "development",
+    "web"
+  ],
+  "bxl-c-plus-plus": [
+    "programming",
+    "language",
+    "software",
+    "development",
+    "engineer"
+  ],
+  "bxl-chrome": [
+    "browser",
+    "software",
+    "google",
+    "internet",
+    "computer"
+  ],
+  "bxl-codepen": [
+    "code",
+    "editor",
+    "designer",
+    "development",
+    "web"
+  ],
+  "bxl-creative-commons": [
+    "license",
+    "media",
+    "art",
+    "music",
+    "culture"
+  ],
+  "bxl-css3": [
+    "css",
+    "designer",
+    "web",
+    "style",
+    "layout"
+  ],
+  "bxl-dailymotion": [
+    "video",
+    "sharing",
+    "social",
+    "internet",
+    "media"
+  ],
+  "bxl-deezer": [
+    "music",
+    "song",
+    "playlist",
+    "radio",
+    "stream"
+  ],
+  "bxl-dev-to": [
+    "blog",
+    "developer",
+    "software",
+    "engineering",
+    "tech"
+  ],
+  "bxl-deviantart": [
+    "art",
+    "designer",
+    "community",
+    "creative",
+    "portfolio"
+  ],
+  "bxl-digg": [
+    "social",
+    "media",
+    "news",
+    "feed",
+    "blog"
+  ],
+  "bxl-digitalocean": [
+    "cloud",
+    "server",
+    "hosting",
+    "compute",
+    "storage"
+  ],
+  "bxl-discord": [
+    "chat",
+    "communication",
+    "community",
+    "server",
+    "guild"
+  ],
+  "bxl-discord-alt": [
+    "emoji",
+    "character",
+    "message",
+    "chat"
+  ],
+  "bxl-discourse": [
+    "forum",
+    "discussion",
+    "board",
+    "thread",
+    "topic"
+  ],
+  "bxl-django": [
+    "web",
+    "development",
+    "python",
+    "framework",
+    "code"
+  ],
+  "bxl-docker": [
+    "container",
+    "orchestration",
+    "image",
+    "build",
+    "deployment"
+  ],
+  "bxl-dribbble": [
+    "design",
+    "art",
+    "visual",
+    "creative",
+    "aesthetic"
+  ],
+  "bxl-dropbox": [
+    "cloud",
+    "storage",
+    "file",
+    "share",
+    "sync"
+  ],
+  "bxl-drupal": [
+    "web",
+    "content",
+    "management",
+    "site",
+    "cms"
+  ],
+  "bxl-ebay": [
+    "marketplace",
+    "auction",
+    "shop",
+    "product",
+    "seller"
+  ],
+  "bxl-edge": [
+    "browser",
+    "engine",
+    "rendering",
+    "core",
+    "update"
+  ],
+  "bxl-etsy": [
+    "marketplace",
+    "craft",
+    "handmade",
+    "unique",
+    "shop"
+  ],
+  "bxl-facebook": [
+    "social",
+    "network",
+    "profile",
+    "page",
+    "feed"
+  ],
+  "bxl-facebook-circle": [
+    "social",
+    "media",
+    "network",
+    "connect",
+    "share"
+  ],
+  "bxl-facebook-square": [
+    "social",
+    "media",
+    "network",
+    "profile",
+    "avatar"
+  ],
+  "bxl-figma": [
+    "designer",
+    "software",
+    "editor",
+    "sketch",
+    "artist"
+  ],
+  "bxl-firebase": [
+    "cloud",
+    "storage",
+    "database",
+    "security",
+    "firewall"
+  ],
+  "bxl-firefox": [
+    "browser",
+    "engine",
+    "navigator",
+    "tab",
+    "computer"
+  ],
+  "bxl-flask": [
+    "framework",
+    "web",
+    "development",
+    "application",
+    "server"
+  ],
+  "bxl-flickr": [
+    "camera",
+    "photography",
+    "image",
+    "picture",
+    "album"
+  ],
+  "bxl-flickr-square": [
+    "camera",
+    "photography",
+    "image",
+    "picture",
+    "visual"
+  ],
+  "bxl-flutter": [
+    "framework",
+    "mobile",
+    "app",
+    "engine",
+    "development"
+  ],
+  "bxl-foursquare": [
+    "location",
+    "map",
+    "directions",
+    "navigator",
+    "venue"
+  ],
+  "bxl-git": [
+    "version",
+    "control",
+    "repository",
+    "code",
+    "management"
+  ],
+  "bxl-github": [
+    "software",
+    "community",
+    "development",
+    "project",
+    "collaboration"
+  ],
+  "bxl-gitlab": [
+    "software",
+    "company",
+    "engineering",
+    "development",
+    "technology"
+  ],
+  "bxl-gmail": [
+    "email",
+    "message",
+    "communication",
+    "network",
+    "account"
+  ],
+  "bxl-go-lang": [
+    "language",
+    "code",
+    "program",
+    "script",
+    "compiler"
+  ],
+  "bxl-google": [
+    "engine",
+    "browser",
+    "cloud",
+    "compute",
+    "technology"
+  ],
+  "bxl-google-cloud": [
+    "storage",
+    "database",
+    "security",
+    "infrastructure",
+    "data"
+  ],
+  "bxl-google-plus": [
+    "social",
+    "media",
+    "network",
+    "profile",
+    "circle"
+  ],
+  "bxl-google-plus-circle": [
+    "social",
+    "media",
+    "network",
+    "profile",
+    "community"
+  ],
+  "bxl-graphql": [
+    "database",
+    "schema",
+    "query",
+    "mutation",
+    "api"
+  ],
+  "bxl-heroku": [
+    "cloud",
+    "server",
+    "database",
+    "host",
+    "storage"
+  ],
+  "bxl-html5": [
+    "browser",
+    "editor",
+    "code",
+    "designer",
+    "engine"
+  ],
+  "bxl-imdb": [
+    "database",
+    "film",
+    "movie",
+    "rating",
+    "review"
+  ],
+  "bxl-instagram": [
+    "camera",
+    "filter",
+    "image",
+    "media",
+    "photo"
+  ],
+  "bxl-instagram-alt": [
+    "alternative",
+    "camera",
+    "filter",
+    "image",
+    "photo"
+  ],
+  "bxl-internet-explorer": [
+    "browser",
+    "computer",
+    "machine",
+    "software",
+    "technology"
+  ],
+  "bxl-invision": [
+    "designer",
+    "editor",
+    "engine",
+    "software",
+    "creative"
+  ],
+  "bxl-java": [
+    "language",
+    "code",
+    "program",
+    "software",
+    "development"
+  ],
+  "bxl-javascript": [
+    "code",
+    "computer",
+    "language",
+    "script",
+    "software"
+  ],
+  "bxl-joomla": [
+    "content",
+    "designer",
+    "engine",
+    "framework",
+    "website"
+  ],
+  "bxl-jquery": [
+    "animation",
+    "code",
+    "library",
+    "script",
+    "software"
+  ],
+  "bxl-jsfiddle": [
+    "code",
+    "editor",
+    "engine",
+    "online",
+    "software"
+  ],
+  "bxl-kickstarter": [
+    "campaign",
+    "funding",
+    "project",
+    "reward",
+    "venture"
+  ],
+  "bxl-kubernetes": [
+    "cloud",
+    "container",
+    "engine",
+    "framework",
+    "orchestration"
+  ],
+  "bxl-less": [
+    "code",
+    "designer",
+    "editor",
+    "engine",
+    "stylesheet"
+  ],
+  "bxl-linkedin": [
+    "connection",
+    "network",
+    "profile",
+    "relationship",
+    "social"
+  ],
+  "bxl-linkedin-square": [
+    "badge",
+    "connection",
+    "profile",
+    "network",
+    "link"
+  ],
+  "bxl-magento": [
+    "ecommerce",
+    "shop",
+    "store",
+    "marketplace",
+    "retail"
+  ],
+  "bxl-mailchimp": [
+    "email",
+    "marketing",
+    "newsletter",
+    "campaign",
+    "list"
+  ],
+  "bxl-markdown": [
+    "text",
+    "editor",
+    "formatting",
+    "content",
+    "writer"
+  ],
+  "bxl-mastercard": [
+    "payment",
+    "credit",
+    "card",
+    "finance",
+    "bank"
+  ],
+  "bxl-mastodon": [
+    "social",
+    "network",
+    "community",
+    "microblog",
+    "forum"
+  ],
+  "bxl-medium": [
+    "image",
+    "photography",
+    "picture",
+    "design",
+    "visual"
+  ],
+  "bxl-medium-old": [
+    "font",
+    "typography",
+    "style",
+    "classic",
+    "traditional"
+  ],
+  "bxl-medium-square": [
+    "graphics",
+    "shape",
+    "illustration",
+    "image",
+    "picture"
+  ],
+  "bxl-messenger": [
+    "chat",
+    "communication",
+    "social",
+    "app",
+    "service"
+  ],
+  "bxl-meta": [
+    "meta-data",
+    "information",
+    "details",
+    "description",
+    "content"
+  ],
+  "bxl-microsoft": [
+    "software",
+    "technology",
+    "office",
+    "productivity",
+    "computer"
+  ],
+  "bxl-microsoft-teams": [
+    "collaboration",
+    "teamwork",
+    "communication",
+    "software",
+    "platform"
+  ],
+  "bxl-mongodb": [
+    "database",
+    "schema",
+    "query",
+    "mutation",
+    "api"
+  ],
+  "bxl-netlify": [
+    "website",
+    "host",
+    "server",
+    "cloud",
+    "build"
+  ],
+  "bxl-nodejs": [
+    "programming",
+    "development",
+    "code",
+    "language",
+    "engine"
+  ],
+  "bxl-ok-ru": [
+    "flag",
+    "country",
+    "russia",
+    "emblem",
+    "approval"
+  ],
+  "bxl-opera": [
+    "browser",
+    "internet",
+    "software",
+    "navigation",
+    "web"
+  ],
+  "bxl-patreon": [
+    "donation",
+    "support",
+    "funding",
+    "membership",
+    "subscription"
+  ],
+  "bxl-paypal": [
+    "credit-card",
+    "payment",
+    "bank",
+    "transfer",
+    "money"
+  ],
+  "bxl-periscope": [
+    "telescope",
+    "camera",
+    "live-stream",
+    "broadcast",
+    "video"
+  ],
+  "bxl-php": [
+    "code",
+    "programming",
+    "language",
+    "editor",
+    "script"
+  ],
+  "bxl-pinterest": [
+    "share",
+    "social",
+    "network",
+    "feed",
+    "post"
+  ],
+  "bxl-pinterest-alt": [
+    "image",
+    "picture",
+    "share",
+    "post",
+    "social"
+  ],
+  "bxl-play-store": [
+    "app",
+    "download",
+    "buy",
+    "purchase",
+    "software"
+  ],
+  "bxl-pocket": [
+    "book",
+    "reader",
+    "page",
+    "document",
+    "library"
+  ],
+  "bxl-postgresql": [
+    "database",
+    "schema",
+    "query",
+    "mutation",
+    "api"
+  ],
+  "bxl-product-hunt": [
+    "find",
+    "discover",
+    "shop",
+    "market"
+  ],
+  "bxl-python": [
+    "snake",
+    "language",
+    "code",
+    "script",
+    "development"
+  ],
+  "bxl-quora": [
+    "question",
+    "answer",
+    "forum",
+    "discussion",
+    "expert"
+  ],
+  "bxl-react": [
+    "tree",
+    "component",
+    "building-block",
+    "framework",
+    "development"
+  ],
+  "bxl-redbubble": [
+    "image",
+    "design",
+    "print",
+    "product",
+    "merch"
+  ],
+  "bxl-reddit": [
+    "community",
+    "forum",
+    "news",
+    "share",
+    "vote"
+  ],
+  "bxl-redux": [
+    "store",
+    "manager",
+    "framework",
+    "architecture",
+    "system"
+  ],
+  "bxl-sass": [
+    "screwdriver",
+    "tool",
+    "style",
+    "css",
+    "design"
+  ],
+  "bxl-shopify": [
+    "e-commerce",
+    "online-store",
+    "retail",
+    "marketplace",
+    "storefront"
+  ],
+  "bxl-sketch": [
+    "drawing",
+    "designer",
+    "editor",
+    "creative",
+    "visual"
+  ],
+  "bxl-skype": [
+    "video-call",
+    "chat",
+    "conference",
+    "phone",
+    "communication"
+  ],
+  "bxl-slack": [
+    "team-chat",
+    "collaboration",
+    "workspace",
+    "channel",
+    "messaging"
+  ],
+  "bxl-slack-old": [
+    "team-talk",
+    "irc",
+    "chat-room",
+    "forum",
+    "discussion"
+  ],
+  "bxl-snapchat": [
+    "social-media",
+    "story",
+    "photo",
+    "video",
+    "filter"
+  ],
+  "bxl-soundcloud": [
+    "music-streaming",
+    "audio",
+    "mixtape",
+    "playlist",
+    "streaming"
+  ],
+  "bxl-spotify": [
+    "music-streaming",
+    "streaming",
+    "radio",
+    "podcast",
+    "library"
+  ],
+  "bxl-spring-boot": [
+    "framework",
+    "java",
+    "development",
+    "application",
+    "server"
+  ],
+  "bxl-squarespace": [
+    "website-builder",
+    "designer",
+    "template",
+    "hosting",
+    "cms"
+  ],
+  "bxl-stack-overflow": [
+    "programming",
+    "question",
+    "answer",
+    "community",
+    "forum"
+  ],
+  "bxl-steam": [
+    "gaming",
+    "console",
+    "game",
+    "player",
+    "server"
+  ],
+  "bxl-stripe": [
+    "payment",
+    "gateway",
+    "transaction",
+    "credit-card",
+    "online"
+  ],
+  "bxl-tailwind-css": [
+    "css-framework",
+    "designer",
+    "utility",
+    "style",
+    "layout"
+  ],
+  "bxl-telegram": [
+    "messaging",
+    "chat",
+    "bot",
+    "channel",
+    "communication"
+  ],
+  "bxl-tiktok": [
+    "video",
+    "social",
+    "streaming",
+    "community",
+    "live"
+  ],
+  "bxl-trello": [
+    "board",
+    "organization",
+    "project",
+    "management",
+    "team"
+  ],
+  "bxl-trip-advisor": [
+    "travel",
+    "hotel",
+    "reservation",
+    "guide",
+    "destination"
+  ],
+  "bxl-tumblr": [
+    "blog",
+    "publishing",
+    "design",
+    "art",
+    "style"
+  ],
+  "bxl-tux": [
+    "sailor",
+    "uniform",
+    "navy",
+    "formal",
+    "ceremony"
+  ],
+  "bxl-twitch": [
+    "gaming",
+    "streamer",
+    "entertainment",
+    "audience",
+    "live"
+  ],
+  "bxl-twitter": [
+    "social",
+    "media",
+    "news",
+    "update",
+    "share"
+  ],
+  "bxl-typescript": [
+    "language",
+    "code",
+    "script",
+    "program",
+    "editor"
+  ],
+  "bxl-unity": [
+    "game",
+    "engine",
+    "development",
+    "software",
+    "design"
+  ],
+  "bxl-unsplash": [
+    "photography",
+    "image",
+    "stock",
+    "art",
+    "visuals"
+  ],
+  "bxl-upwork": [
+    "job",
+    "work",
+    "contract",
+    "hire",
+    "employee"
+  ],
+  "bxl-venmo": [
+    "money",
+    "payment",
+    "transfer",
+    "finance",
+    "bank"
+  ],
+  "bxl-vimeo": [
+    "video",
+    "platform",
+    "sharing",
+    "community",
+    "creative"
+  ],
+  "bxl-visa": [
+    "card",
+    "payment",
+    "travel",
+    "finance",
+    "document"
+  ],
+  "bxl-visual-studio": [
+    "software",
+    "development",
+    "editor",
+    "code",
+    "design"
+  ],
+  "bxl-vk": [
+    "social",
+    "network",
+    "community",
+    "friendship",
+    "chat"
+  ],
+  "bxl-vuejs": [
+    "framework",
+    "web",
+    "development",
+    "javascript",
+    "build"
+  ],
+  "bxl-whatsapp": [
+    "messaging",
+    "phone",
+    "communication",
+    "text",
+    "message"
+  ],
+  "bxl-whatsapp-square": [
+    "messenger",
+    "communication",
+    "phone",
+    "text",
+    "chat"
+  ],
+  "bxl-wikipedia": [
+    "encyclopedia",
+    "knowledge",
+    "information",
+    "article",
+    "wiki"
+  ],
+  "bxl-windows": [
+    "operating-system",
+    "computer",
+    "software",
+    "hardware",
+    "system"
+  ],
+  "bxl-wix": [
+    "website",
+    "designer",
+    "builder",
+    "online",
+    "editor"
+  ],
+  "bxl-wordpress": [
+    "blog",
+    "content",
+    "management",
+    "platform",
+    "publisher"
+  ],
+  "bxl-xing": [
+    "red-circle",
+    "stop",
+    "halt",
+    "block",
+    "obstruction"
+  ],
+  "bxl-yahoo": [
+    "engine",
+    "internet",
+    "news",
+    "media",
+    "information"
+  ],
+  "bxl-yelp": [
+    "review",
+    "rating",
+    "business",
+    "restaurant",
+    "service"
+  ],
+  "bxl-youtube": [
+    "video",
+    "streaming",
+    "channel",
+    "content",
+    "network"
+  ],
+  "bxl-zoom": [
+    "camera",
+    "photography",
+    "image",
+    "explore"
+  ],
+  "bxs-add-to-queue": [
+    "enqueue",
+    "list",
+    "append",
+    "sequence",
+    "addition"
+  ],
+  "bxs-adjust": [
+    "modify",
+    "tweak",
+    "fine-tune",
+    "calibrate",
+    "adjustment"
+  ],
+  "bxs-adjust-alt": [
+    "alter",
+    "change",
+    "edit",
+    "update",
+    "redesign"
+  ],
+  "bxs-alarm": [
+    "warning",
+    "alert",
+    "notification",
+    "signal",
+    "alertness"
+  ],
+  "bxs-alarm-add": [
+    "addalarm",
+    "setreminder",
+    "schedule",
+    "notify",
+    "alert"
+  ],
+  "bxs-alarm-exclamation": [
+    "warning",
+    "alert",
+    "caution",
+    "notice",
+    "urgency"
+  ],
+  "bxs-alarm-off": [
+    "disable",
+    "deactivate",
+    "turnoff",
+    "stop",
+    "mute"
+  ],
+  "bxs-alarm-snooze": [
+    "pause",
+    "delay",
+    "postpone",
+    "defer",
+    "snoozing"
+  ],
+  "bxs-album": [
+    "collection",
+    "set",
+    "record",
+    "disc",
+    "music"
+  ],
+  "bxs-ambulance": [
+    "emergency",
+    "rescue",
+    "medical",
+    "urgent",
+    "help"
+  ],
+  "bxs-analyse": [
+    "analyze",
+    "study",
+    "examine",
+    "evaluate",
+    "decode"
+  ],
+  "bxs-angry": [
+    "furious",
+    "irritated",
+    "upset",
+    "indignant",
+    "anger"
+  ],
+  "bxs-arch": [
+    "building",
+    "structure",
+    "architecture",
+    "design",
+    "framework"
+  ],
+  "bxs-archive": [
+    "file",
+    "storage",
+    "record",
+    "document",
+    "vault"
+  ],
+  "bxs-archive-in": [
+    "add",
+    "import",
+    "receive",
+    "upload",
+    "deposit"
+  ],
+  "bxs-archive-out": [
+    "remove",
+    "export",
+    "send",
+    "withdrawal",
+    "release"
+  ],
+  "bxs-area": [
+    "space",
+    "region",
+    "zone",
+    "territory",
+    "location"
+  ],
+  "bxs-arrow-from-bottom": [
+    "down",
+    "descend",
+    "fall",
+    "drop",
+    "decrease"
+  ],
+  "bxs-arrow-from-left": [
+    "move",
+    "shift",
+    "transfer",
+    "withdraw",
+    "relocate"
+  ],
+  "bxs-arrow-from-right": [
+    "move",
+    "shift",
+    "transfer",
+    "withdraw",
+    "relocate"
+  ],
+  "bxs-arrow-from-top": [
+    "ascend",
+    "rise",
+    "increase",
+    "boost",
+    "elevate",
+    "elevated"
+  ],
+  "bxs-arrow-to-bottom": [
+    "down",
+    "descend",
+    "fall",
+    "drop",
+    "decrease"
+  ],
+  "bxs-arrow-to-left": [
+    "move",
+    "shift",
+    "transfer",
+    "withdraw",
+    "retreat",
+    "recede"
+  ],
+  "bxs-arrow-to-right": [
+    "move",
+    "shift",
+    "transfer",
+    "withdraw",
+    "transport",
+    "transferred"
+  ],
+  "bxs-arrow-to-top": [
+    "ascend",
+    "rise",
+    "increase",
+    "boost",
+    "elevate",
+    "elevated"
+  ],
+  "bxs-award": [
+    "prize",
+    "reward",
+    "honour",
+    "recognition",
+    "acknowledgement"
+  ],
+  "bxs-baby-carriage": [
+    "stroller",
+    "child",
+    "infant",
+    "cot",
+    "pram",
+    "babycarriage"
+  ],
+  "bxs-backpack": [
+    "bag",
+    "luggage",
+    "pack",
+    "satchel",
+    "rucksack"
+  ],
+  "bxs-badge": [
+    "medal",
+    "award",
+    "token",
+    "credential",
+    "certification",
+    "recognition"
+  ],
+  "bxs-badge-check": [
+    "checkmark",
+    "tick",
+    "verify",
+    "confirm",
+    "approved"
+  ],
+  "bxs-badge-dollar": [
+    "dollar-sign",
+    "money",
+    "currency",
+    "price",
+    "value"
+  ],
+  "bxs-baguette": [
+    "sandwich",
+    "loaf",
+    "bread",
+    "pastry",
+    "bagel"
+  ],
+  "bxs-ball": [
+    "sphere",
+    "globe",
+    "circle",
+    "orb",
+    "ballerina",
+    "gymnast"
+  ],
+  "bxs-balloon": [
+    "airbag",
+    "parachute",
+    "helium",
+    "bubble",
+    "inflatable",
+    "balloons"
+  ],
+  "bxs-band-aid": [
+    "bandage",
+    "stripes",
+    "patch",
+    "treatment",
+    "salve"
+  ],
+  "bxs-bank": [
+    "moneybox",
+    "vault",
+    "safe",
+    "treasury",
+    "banking",
+    "finance"
+  ],
+  "bxs-bar-chart-alt-2": [
+    "graph",
+    "diagram",
+    "table",
+    "data",
+    "visualization"
+  ],
+  "bxs-bar-chart-square": [
+    "grid",
+    "matrix",
+    "array",
+    "list",
+    "layout",
+    "organization"
+  ],
+  "bxs-barcode": [
+    "scanner",
+    "reader",
+    "label",
+    "identification",
+    "coding"
+  ],
+  "bxs-baseball": [
+    "pitcher",
+    "bat",
+    "field",
+    "game",
+    "sports",
+    "athletics"
+  ],
+  "bxs-basket": [
+    "wicker",
+    "container",
+    "holder",
+    "bag",
+    "basketball",
+    "cornucopia"
+  ],
+  "bxs-basketball": [
+    "hoop",
+    "court",
+    "arena",
+    "gym",
+    "sport"
+  ],
+  "bxs-bath": [
+    "bathroom",
+    "shower",
+    "toilet",
+    "sink",
+    "facilities"
+  ],
+  "bxs-battery": [
+    "power",
+    "electricity",
+    "fuel",
+    "energy",
+    "source"
+  ],
+  "bxs-battery-charging": [
+    "recharge",
+    "powering",
+    "energizing",
+    "reviving",
+    "refresh"
+  ],
+  "bxs-battery-full": [
+    "charger",
+    "power",
+    "fuel",
+    "electricity",
+    "supply"
+  ],
+  "bxs-battery-low": [
+    "drain",
+    "deplete",
+    "empty",
+    "exhaust",
+    "deficit"
+  ],
+  "bxs-bed": [
+    "bedroom",
+    "sleep",
+    "rest",
+    "relaxation",
+    "dream"
+  ],
+  "bxs-been-here": [
+    "visit",
+    "arrive",
+    "presence",
+    "location",
+    "spot"
+  ],
+  "bxs-beer": [
+    "drink",
+    "alcohol",
+    "brewery",
+    "tap",
+    "glass"
+  ],
+  "bxs-bell": [
+    "alarm",
+    "warning",
+    "notification",
+    "signal",
+    "alert"
+  ],
+  "bxs-bell-minus": [
+    "decrease",
+    "reduce",
+    "lessen",
+    "diminish",
+    "shrink"
+  ],
+  "bxs-bell-off": [
+    "disable",
+    "stop",
+    "cease",
+    "quieten",
+    "mute"
+  ],
+  "bxs-bell-plus": [
+    "increase",
+    "add",
+    "more",
+    "enhance",
+    "augment"
+  ],
+  "bxs-bell-ring": [
+    "tone",
+    "sound",
+    "alert",
+    "notification",
+    "signal"
+  ],
+  "bxs-bible": [
+    "scripture",
+    "book",
+    "study",
+    "faith",
+    "spirituality"
+  ],
+  "bxs-binoculars": [
+    "glasses",
+    "spectacles",
+    "observe",
+    "watch",
+    "inspect"
+  ],
+  "bxs-blanket": [
+    "bedding",
+    "warmth",
+    "comfort",
+    "cozy",
+    "relaxation"
+  ],
+  "bxs-bolt": [
+    "fasten",
+    "secure",
+    "anchor",
+    "tie",
+    "bind"
+  ],
+  "bxs-bolt-circle": [
+    "ring",
+    "round",
+    "circular",
+    "shape"
+  ],
+  "bxs-bomb": [
+    "explosion",
+    "danger",
+    "threat",
+    "alert",
+    "warning"
+  ],
+  "bxs-bone": [
+    "skeleton",
+    "skull",
+    "marrow",
+    "cartilage",
+    "structure"
+  ],
+  "bxs-bong": [
+    "pipe",
+    "tubing",
+    "cannabis",
+    "joint",
+    "smoke"
+  ],
+  "bxs-book": [
+    "document",
+    "paper",
+    "reading",
+    "knowledge",
+    "information"
+  ],
+  "bxs-book-add": [
+    "addition",
+    "append",
+    "increment",
+    "update",
+    "edit"
+  ],
+  "bxs-book-alt": [
+    "alternative",
+    "variant",
+    "substitute",
+    "replacement",
+    "surrogate"
+  ],
+  "bxs-book-bookmark": [
+    "favorite",
+    "saved",
+    "marked",
+    "highlighted",
+    "favorited"
+  ],
+  "bxs-book-content": [
+    "text",
+    "material",
+    "information",
+    "data"
+  ],
+  "bxs-book-heart": [
+    "love",
+    "affection",
+    "passion",
+    "emotions",
+    "romance"
+  ],
+  "bxs-book-open": [
+    "document",
+    "file",
+    "paper",
+    "page",
+    "folder"
+  ],
+  "bxs-book-reader": [
+    "novel",
+    "story",
+    "text",
+    "reading",
+    "literature"
+  ],
+  "bxs-bookmark": [
+    "favorite",
+    "save",
+    "record",
+    "note",
+    "remember"
+  ],
+  "bxs-bookmark-alt": [
+    "favorite",
+    "save",
+    "record",
+    "note",
+    "remember"
+  ],
+  "bxs-bookmark-alt-minus": [
+    "decrease",
+    "reduce",
+    "subtract",
+    "deduct",
+    "lessen"
+  ],
+  "bxs-bookmark-alt-plus": [
+    "increase",
+    "add",
+    "augment",
+    "enhance",
+    "boost"
+  ],
+  "bxs-bookmark-heart": [
+    "love",
+    "affection",
+    "passion",
+    "emotions",
+    "desire"
+  ],
+  "bxs-bookmark-minus": [
+    "decrease",
+    "reduce",
+    "subtract",
+    "deduct",
+    "lessen"
+  ],
+  "bxs-bookmark-plus": [
+    "favorite",
+    "save",
+    "add",
+    "record",
+    "store"
+  ],
+  "bxs-bookmark-star": [
+    "rating",
+    "review",
+    "vote",
+    "like",
+    "favorited"
+  ],
+  "bxs-bookmarks": [
+    "collection",
+    "list",
+    "library",
+    "archive",
+    "catalog"
+  ],
+  "bxs-bot": [
+    "robot",
+    "machine",
+    "automaton",
+    "device",
+    "computer"
+  ],
+  "bxs-bowl-hot": [
+    "soup",
+    "noodle",
+    "rice",
+    "steaming",
+    "boiling"
+  ],
+  "bxs-bowl-rice": [
+    "noodle",
+    "grain",
+    "plate",
+    "dinner",
+    "meal"
+  ],
+  "bxs-bowling-ball": [
+    "game",
+    "sport",
+    "pin",
+    "roll",
+    "leisure"
+  ],
+  "bxs-box": [
+    "container",
+    "crate",
+    "package",
+    "storage",
+    "boxy"
+  ],
+  "bxs-brain": [
+    "idea",
+    "thought",
+    "concept",
+    "mind",
+    "cerebral"
+  ],
+  "bxs-briefcase": [
+    "bag",
+    "pack",
+    "suitcase",
+    "portfolio",
+    "work"
+  ],
+  "bxs-briefcase-alt": [
+    "laptop",
+    "computer",
+    "notebook",
+    "tablet",
+    "stationery"
+  ],
+  "bxs-briefcase-alt-2": [
+    "office",
+    "work",
+    "desk",
+    "chair",
+    "workspace"
+  ],
+  "bxs-brightness": [
+    "light",
+    "sun",
+    "day",
+    "illumination",
+    "radiance"
+  ],
+  "bxs-brightness-half": [
+    "dim",
+    "shade",
+    "dusk",
+    "partial",
+    "moderate"
+  ],
+  "bxs-brush": [
+    "paint",
+    "color",
+    "art",
+    "stroke",
+    "create"
+  ],
+  "bxs-brush-alt": [
+    "paint",
+    "art",
+    "color",
+    "canvas",
+    "draw"
+  ],
+  "bxs-bug": [
+    "insect",
+    "pest",
+    "crawling",
+    "buggy",
+    "infestation"
+  ],
+  "bxs-bug-alt": [
+    "crawly",
+    "small",
+    "tiny",
+    "minuscule",
+    "insect"
+  ],
+  "bxs-building": [
+    "structure",
+    "skyscraper",
+    "architectural",
+    "building-blocks",
+    "foundation"
+  ],
+  "bxs-building-house": [
+    "residence",
+    "dwelling",
+    "home",
+    "abode",
+    "family"
+  ],
+  "bxs-buildings": [
+    "complex",
+    "development",
+    "urban",
+    "multi-story",
+    "high-rise"
+  ],
+  "bxs-bulb": [
+    "light",
+    "illumination",
+    "glow",
+    "radiant",
+    "electric"
+  ],
+  "bxs-bullseye": [
+    "target",
+    "aim",
+    "focus",
+    "precision",
+    "accuracy"
+  ],
+  "bxs-buoy": [
+    "marker",
+    "float",
+    "buoys",
+    "anchorage",
+    "nautical"
+  ],
+  "bxs-bus": [
+    "vehicle",
+    "transportation",
+    "route",
+    "schedule",
+    "commute"
+  ],
+  "bxs-bus-school": [
+    "education",
+    "schoolbus",
+    "pupil",
+    "learning",
+    "academy"
+  ],
+  "bxs-business": [
+    "corporate",
+    "office",
+    "workplace",
+    "entrepreneurial",
+    "commercial"
+  ],
+  "bxs-cabinet": [
+    "storage",
+    "furniture",
+    "wardrobe",
+    "organization",
+    "arrangement"
+  ],
+  "bxs-cable-car": [
+    "train",
+    "railway",
+    "track",
+    "transport",
+    "journey"
+  ],
+  "bxs-cake": [
+    "treat",
+    "dessert",
+    "sweet",
+    "celebration",
+    "birthday"
+  ],
+  "bxs-calculator": [
+    "math",
+    "numbers",
+    "compute",
+    "addition",
+    "calculation"
+  ],
+  "bxs-calendar": [
+    "schedule",
+    "appointment",
+    "event",
+    "date"
+  ],
+  "bxs-calendar-alt": [
+    "variant",
+    "alternative",
+    "substitute",
+    "replacement",
+    "duplicate"
+  ],
+  "bxs-calendar-check": [
+    "checkmark",
+    "verified",
+    "approved",
+    "confirmed",
+    "validated"
+  ],
+  "bxs-calendar-edit": [
+    "modify",
+    "update",
+    "change",
+    "alter",
+    "adjust"
+  ],
+  "bxs-calendar-event": [
+    "appointment",
+    "scheduling",
+    "booking",
+    "reservation",
+    "engagement"
+  ],
+  "bxs-calendar-exclamation": [
+    "warning",
+    "alert",
+    "notification",
+    "caution",
+    "reminder"
+  ],
+  "bxs-calendar-heart": [
+    "love",
+    "affection",
+    "appreciation",
+    "admiration",
+    "adoration"
+  ],
+  "bxs-calendar-minus": [
+    "decrease",
+    "reduce",
+    "subtract",
+    "eliminate",
+    "remove"
+  ],
+  "bxs-calendar-plus": [
+    "increase",
+    "add",
+    "enhance",
+    "augment",
+    "expand"
+  ],
+  "bxs-calendar-star": [
+    "rating",
+    "evaluation",
+    "assessment",
+    "review",
+    "feedback"
+  ],
+  "bxs-calendar-week": [
+    "period",
+    "cycle",
+    "rotation",
+    "repetition"
+  ],
+  "bxs-calendar-x": [
+    "cancel",
+    "reject",
+    "dismiss",
+    "terminate",
+    "abandon"
+  ],
+  "bxs-camera": [
+    "photograph",
+    "picture",
+    "image",
+    "capture",
+    "record"
+  ],
+  "bxs-camera-home": [
+    "house",
+    "dwelling",
+    "residence",
+    "abode",
+    "building"
+  ],
+  "bxs-camera-movie": [
+    "film",
+    "cinema",
+    "screening",
+    "projection",
+    "display"
+  ],
+  "bxs-camera-off": [
+    "shutter",
+    "stop",
+    "pause",
+    "disable",
+    "block"
+  ],
+  "bxs-camera-plus": [
+    "zoom",
+    "enhance",
+    "increase",
+    "expand",
+    "boost"
+  ],
+  "bxs-capsule": [
+    "pill",
+    "tablet",
+    "container",
+    "package",
+    "vessel"
+  ],
+  "bxs-captions": [
+    "subtitles",
+    "description",
+    "text",
+    "notes",
+    "annotation"
+  ],
+  "bxs-car": [
+    "vehicle",
+    "carriage",
+    "transport",
+    "travel",
+    "journey"
+  ],
+  "bxs-car-battery": [
+    "power",
+    "energy",
+    "fuel",
+    "charge",
+    "recharge"
+  ],
+  "bxs-car-crash": [
+    "accident",
+    "collision",
+    "impact",
+    "shock"
+  ],
+  "bxs-car-garage": [
+    "parking",
+    "service",
+    "maintenance",
+    "repair",
+    "storage"
+  ],
+  "bxs-car-mechanic": [
+    "engineer",
+    "technician",
+    "workshop",
+    "tool",
+    "fabricate"
+  ],
+  "bxs-car-wash": [
+    "cleaning",
+    "maintenance",
+    "service",
+    "refresh",
+    "renew"
+  ],
+  "bxs-card": [
+    "document",
+    "record",
+    "file",
+    "data",
+    "information"
+  ],
+  "bxs-caret-down-circle": [
+    "lower",
+    "decrease",
+    "reduce",
+    "diminish",
+    "drop"
+  ],
+  "bxs-caret-down-square": [
+    "lower",
+    "decrease",
+    "reduce",
+    "diminish",
+    "fall"
+  ],
+  "bxs-caret-left-circle": [
+    "prioritize",
+    "preference",
+    "order",
+    "sequence",
+    "rank"
+  ],
+  "bxs-caret-left-square": [
+    "prioritize",
+    "preference",
+    "order",
+    "sequence",
+    "position"
+  ],
+  "bxs-caret-right-circle": [
+    "prioritize",
+    "preference",
+    "order",
+    "sequence",
+    "rank"
+  ],
+  "bxs-caret-right-square": [
+    "prioritize",
+    "preference",
+    "order",
+    "sequence",
+    "arrangement"
+  ],
+  "bxs-caret-up-circle": [
+    "increase",
+    "enhance",
+    "boost",
+    "expansion",
+    "growth"
+  ],
+  "bxs-caret-up-square": [
+    "arrow",
+    "upward",
+    "growth",
+    "progress",
+    "ascend"
+  ],
+  "bxs-carousel": [
+    "slide",
+    "rotation",
+    "cycle",
+    "sequence",
+    "loop"
+  ],
+  "bxs-cart": [
+    "shopping",
+    "purchase",
+    "order",
+    "delivery",
+    "shipment"
+  ],
+  "bxs-cart-add": [
+    "addition",
+    "increment",
+    "increase",
+    "sum",
+    "total"
+  ],
+  "bxs-cart-alt": [
+    "alternative",
+    "variant",
+    "option",
+    "choice",
+    "selection"
+  ],
+  "bxs-cart-download": [
+    "transfer",
+    "export",
+    "save",
+    "retrieve",
+    "shipment"
+  ],
+  "bxs-castle": [
+    "fortress",
+    "stronghold",
+    "mansion",
+    "palace",
+    "structure"
+  ],
+  "bxs-cat": [
+    "animal",
+    "pet",
+    "creature",
+    "beast",
+    "living-being"
+  ],
+  "bxs-category": [
+    "classification",
+    "division",
+    "group",
+    "subset"
+  ],
+  "bxs-category-alt": [
+    "subcategory",
+    "variant",
+    "option",
+    "branch",
+    "alternative"
+  ],
+  "bxs-cctv": [
+    "surveillance",
+    "monitoring",
+    "security",
+    "watchful",
+    "observe"
+  ],
+  "bxs-certification": [
+    "certify",
+    "validate",
+    "authenticate",
+    "verify",
+    "endorse"
+  ],
+  "bxs-chalkboard": [
+    "blackboard",
+    "whiteboard",
+    "notebook",
+    "paper",
+    "sketch"
+  ],
+  "bxs-chart": [
+    "graph",
+    "diagram",
+    "plot",
+    "analysis",
+    "representation"
+  ],
+  "bxs-chat": [
+    "messaging",
+    "conversation",
+    "dialogue",
+    "communication",
+    "talk"
+  ],
+  "bxs-check-circle": [
+    "tick-mark",
+    "approval",
+    "validation",
+    "certification",
+    "endorsement"
+  ],
+  "bxs-check-shield": [
+    "protection",
+    "safety",
+    "security",
+    "defense",
+    "guardian"
+  ],
+  "bxs-check-square": [
+    "box",
+    "mark",
+    "verify",
+    "signature",
+    "authentication"
+  ],
+  "bxs-checkbox": [
+    "checkmark",
+    "tick",
+    "square",
+    "box",
+    "mark"
+  ],
+  "bxs-checkbox-checked": [
+    "verified",
+    "approved",
+    "confirmed",
+    "accepted",
+    "validated"
+  ],
+  "bxs-checkbox-minus": [
+    "cross",
+    "cancel",
+    "delete",
+    "remove",
+    "erasure"
+  ],
+  "bxs-cheese": [
+    "dairy",
+    "food",
+    "snack",
+    "treat",
+    "commodity"
+  ],
+  "bxs-chess": [
+    "chessboard",
+    "game",
+    "strategy",
+    "tactics",
+    "competition"
+  ],
+  "bxs-chevron-down": [
+    "downarrow",
+    "descending",
+    "decreasing",
+    "falling",
+    "dropping"
+  ],
+  "bxs-chevron-down-circle": [
+    "circledown",
+    "downarrow",
+    "descendingcircle",
+    "fallingcircle",
+    "droppingcircle"
+  ],
+  "bxs-chevron-down-square": [
+    "squaredown",
+    "downsquare",
+    "descendingsquare",
+    "fallingsquare",
+    "droppingsquare"
+  ],
+  "bxs-chevron-left": [
+    "leftarrow",
+    "leftturn",
+    "turnleft",
+    "moveleft",
+    "shiftleft"
+  ],
+  "bxs-chevron-left-circle": [
+    "circleleft",
+    "leftarrow",
+    "leftcircle",
+    "turningleft",
+    "movingleft"
+  ],
+  "bxs-chevron-left-square": [
+    "squareleft",
+    "leftsquare",
+    "turningleftsquare",
+    "movingleftsquare",
+    "shiftingleft"
+  ],
+  "bxs-chevron-right": [
+    "rightarrow",
+    "rightturn",
+    "turnright",
+    "moveright",
+    "shiftright"
+  ],
+  "bxs-chevron-right-circle": [
+    "arrow",
+    "direction",
+    "pointer",
+    "indicator",
+    "guide"
+  ],
+  "bxs-chevron-right-square": [
+    "arrow",
+    "direction",
+    "pointer",
+    "indicator",
+    "guide"
+  ],
+  "bxs-chevron-up": [
+    "arrow",
+    "direction",
+    "upward",
+    "ascend",
+    "point"
+  ],
+  "bxs-chevron-up-circle": [
+    "arrow",
+    "direction",
+    "upward",
+    "ascend",
+    "pointingup"
+  ],
+  "bxs-chevron-up-square": [
+    "arrow",
+    "direction",
+    "upward",
+    "ascend",
+    "pointingup"
+  ],
+  "bxs-chevrons-down": [
+    "arrow",
+    "direction",
+    "downward",
+    "descend",
+    "fall"
+  ],
+  "bxs-chevrons-left": [
+    "arrow",
+    "direction",
+    "leftward",
+    "move",
+    "shift"
+  ],
+  "bxs-chevrons-right": [
+    "arrow",
+    "direction",
+    "rightward",
+    "move",
+    "shift"
+  ],
+  "bxs-chevrons-up": [
+    "arrow",
+    "direction",
+    "upward",
+    "ascend",
+    "rise"
+  ],
+  "bxs-chip": [
+    "token",
+    "fragment",
+    "piece",
+    "component",
+    "part"
+  ],
+  "bxs-church": [
+    "building",
+    "place",
+    "location",
+    "structure"
+  ],
+  "bxs-circle": [
+    "ring",
+    "disc",
+    "roundness",
+    "shape"
+  ],
+  "bxs-circle-half": [
+    "curve",
+    "section",
+    "fraction",
+    "crescent"
+  ],
+  "bxs-circle-quarter": [
+    "sector",
+    "slice",
+    "fraction",
+    "part"
+  ],
+  "bxs-circle-three-quarter": [
+    "three-quarters",
+    "segment",
+    "portion",
+    "fraction",
+    "trio"
+  ],
+  "bxs-city": [
+    "town",
+    "urban",
+    "metropolis",
+    "area"
+  ],
+  "bxs-clinic": [
+    "hospital",
+    "medical",
+    "healthcare",
+    "facility",
+    "care"
+  ],
+  "bxs-cloud": [
+    "weather",
+    "atmosphere",
+    "sky",
+    "condition"
+  ],
+  "bxs-cloud-download": [
+    "file",
+    "transfer",
+    "upload",
+    "stream"
+  ],
+  "bxs-cloud-lightning": [
+    "storm",
+    "thunder",
+    "electricity",
+    "bolt"
+  ],
+  "bxs-cloud-rain": [
+    "water",
+    "precipitation",
+    "weather",
+    "storm"
+  ],
+  "bxs-cloud-upload": [
+    "file",
+    "transfer",
+    "send",
+    "transmit"
+  ],
+  "bxs-coffee": [
+    "beverage",
+    "drink",
+    "caffeine",
+    "latte",
+    "cup"
+  ],
+  "bxs-coffee-alt": [
+    "beverage",
+    "drink",
+    "alternative",
+    "substitute",
+    "option"
+  ],
+  "bxs-coffee-bean": [
+    "cappuccino",
+    "latte",
+    "espresso",
+    "roast",
+    "grind"
+  ],
+  "bxs-coffee-togo": [
+    "beverage",
+    "travel",
+    "transport",
+    "container",
+    "packaging"
+  ],
+  "bxs-cog": [
+    "gear",
+    "machine",
+    "device",
+    "mechanism",
+    "system"
+  ],
+  "bxs-coin": [
+    "money",
+    "currency",
+    "finance",
+    "payment",
+    "value"
+  ],
+  "bxs-coin-stack": [
+    "money",
+    "currency",
+    "finance",
+    "pile",
+    "wealth"
+  ],
+  "bxs-collection": [
+    "set",
+    "group",
+    "assembly",
+    "aggregation"
+  ],
+  "bxs-color": [
+    "paint",
+    "brush",
+    "palette",
+    "tint"
+  ],
+  "bxs-color-fill": [
+    "paint",
+    "hue",
+    "shade",
+    "tint"
+  ],
+  "bxs-comment": [
+    "note",
+    "remark",
+    "feedback",
+    "response"
+  ],
+  "bxs-comment-add": [
+    "note",
+    "remark",
+    "addition",
+    "extension",
+    "update"
+  ],
+  "bxs-comment-check": [
+    "note",
+    "remark",
+    "approval",
+    "verify",
+    "validate"
+  ],
+  "bxs-comment-detail": [
+    "note",
+    "feedback",
+    "response",
+    "remark",
+    "description"
+  ],
+  "bxs-comment-dots": [
+    "bullet",
+    "marker",
+    "point",
+    "indicator",
+    "list"
+  ],
+  "bxs-comment-edit": [
+    "modify",
+    "update",
+    "change",
+    "revise",
+    "alter"
+  ],
+  "bxs-comment-error": [
+    "warning",
+    "alert",
+    "problem",
+    "issue",
+    "flaw"
+  ],
+  "bxs-comment-minus": [
+    "decrease",
+    "reduce",
+    "subtract",
+    "remove",
+    "lessen"
+  ],
+  "bxs-comment-x": [
+    "delete",
+    "discard",
+    "reject",
+    "cancel",
+    "terminate"
+  ],
+  "bxs-compass": [
+    "map",
+    "directions",
+    "location",
+    "route",
+    "waypoint"
+  ],
+  "bxs-component": [
+    "part",
+    "element",
+    "piece",
+    "unit",
+    "module"
+  ],
+  "bxs-confused": [
+    "uncertain",
+    "doubtful",
+    "questioning",
+    "insecure"
+  ],
+  "bxs-contact": [
+    "person",
+    "individual",
+    "customer",
+    "client",
+    "contactee"
+  ],
+  "bxs-conversation": [
+    "chat",
+    "dialogue",
+    "discussion",
+    "exchange",
+    "interaction"
+  ],
+  "bxs-cookie": [
+    "token",
+    "credential",
+    "data",
+    "record",
+    "document"
+  ],
+  "bxs-cool": [
+    "fashionable",
+    "stylish",
+    "trendy",
+    "sophisticated",
+    "modern"
+  ],
+  "bxs-copy": [
+    "duplicate",
+    "clone",
+    "replicate",
+    "mirror"
+  ],
+  "bxs-copy-alt": [
+    "copy-alt",
+    "duplicate-alt",
+    "clone-alt",
+    "replicate-alt",
+    "mirror-alt"
+  ],
+  "bxs-copyright": [
+    "license",
+    "protection",
+    "rights",
+    "law",
+    "regulation"
+  ],
+  "bxs-coupon": [
+    "discount",
+    "voucher",
+    "reward",
+    "incentive",
+    "savings"
+  ],
+  "bxs-credit-card": [
+    "payment",
+    "transaction",
+    "finance",
+    "money",
+    "currency"
+  ],
+  "bxs-credit-card-alt": [
+    "alternative",
+    "substitute",
+    "replacement",
+    "surrogate",
+    "proxy"
+  ],
+  "bxs-credit-card-front": [
+    "face",
+    "surface",
+    "exterior",
+    "frontside"
+  ],
+  "bxs-cricket-ball": [
+    "sport",
+    "game",
+    "play",
+    "competition",
+    "match"
+  ],
+  "bxs-crop": [
+    "cutting",
+    "trimming",
+    "editing",
+    "manipulation",
+    "modification"
+  ],
+  "bxs-crown": [
+    "king",
+    "royalty",
+    "monarch",
+    "sovereign"
+  ],
+  "bxs-cube": [
+    "three-dimensional",
+    "geometry",
+    "shape",
+    "form",
+    "polyhedron"
+  ],
+  "bxs-cube-alt": [
+    "alternative",
+    "substitute",
+    "replacement",
+    "surrogate",
+    "proxy"
+  ],
+  "bxs-cuboid": [
+    "boxy",
+    "rectangular",
+    "prism",
+    "polyhedron",
+    "cube"
+  ],
+  "bxs-customize": [
+    "personalization",
+    "modification",
+    "adjustment",
+    "alteration",
+    "tweaking"
+  ],
+  "bxs-cylinder": [
+    "round",
+    "curved",
+    "torus",
+    "doughnut",
+    "circle"
+  ],
+  "bxs-dashboard": [
+    "controlpanel",
+    "console",
+    "monitor",
+    "system"
+  ],
+  "bxs-data": [
+    "information",
+    "facts",
+    "statistics",
+    "figures"
+  ],
+  "bxs-detail": [
+    "description",
+    "information",
+    "specifics",
+    "particulars",
+    "details"
+  ],
+  "bxs-devices": [
+    "computer",
+    "gadget",
+    "machine",
+    "device",
+    "equipment"
+  ],
+  "bxs-diamond": [
+    "gemstone",
+    "jewel",
+    "precious-stone",
+    "treasure",
+    "prize"
+  ],
+  "bxs-dice-1": [
+    "die",
+    "cube",
+    "ball",
+    "coin",
+    "chance"
+  ],
+  "bxs-dice-2": [
+    "die",
+    "cube",
+    "ball",
+    "coin",
+    "chance"
+  ],
+  "bxs-dice-3": [
+    "die",
+    "cube",
+    "ball",
+    "coin",
+    "chance"
+  ],
+  "bxs-dice-4": [
+    "die",
+    "cube",
+    "ball",
+    "coin",
+    "chance"
+  ],
+  "bxs-dice-5": [
+    "die",
+    "cube",
+    "ball",
+    "coin",
+    "chance"
+  ],
+  "bxs-dice-6": [
+    "die",
+    "cube",
+    "ball",
+    "coin",
+    "chance"
+  ],
+  "bxs-direction-left": [
+    "west",
+    "back",
+    "reverse",
+    "return",
+    "retreat"
+  ],
+  "bxs-direction-right": [
+    "backward",
+    "west",
+    "move",
+    "journey"
+  ],
+  "bxs-directions": [
+    "route",
+    "path",
+    "course",
+    "way",
+    "journey"
+  ],
+  "bxs-disc": [
+    "circle",
+    "ring",
+    "plate",
+    "medal",
+    "discipline"
+  ],
+  "bxs-discount": [
+    "sale",
+    "promotion",
+    "offer",
+    "deal"
+  ],
+  "bxs-dish": [
+    "meal",
+    "food",
+    "course",
+    "plate",
+    "nourishment"
+  ],
+  "bxs-dislike": [
+    "hate",
+    "detest",
+    "disgust",
+    "repel",
+    "disapproval"
+  ],
+  "bxs-dizzy": [
+    "spinning",
+    "unstable",
+    "turbulent",
+    "chaotic",
+    "whirlpool"
+  ],
+  "bxs-dock-bottom": [
+    "base",
+    "foundation",
+    "support",
+    "anchor",
+    "substance"
+  ],
+  "bxs-dock-left": [
+    "side",
+    "edge",
+    "border",
+    "margin",
+    "perimeter"
+  ],
+  "bxs-dock-right": [
+    "opposite",
+    "reverse",
+    "counterpart",
+    "opposing",
+    "antithesis"
+  ],
+  "bxs-dock-top": [
+    "upper",
+    "head",
+    "summit",
+    "apex",
+    "extremity"
+  ],
+  "bxs-dog": [
+    "animal",
+    "pet",
+    "creature",
+    "beast",
+    "livingbeing"
+  ],
+  "bxs-dollar-circle": [
+    "money",
+    "currency",
+    "finance",
+    "wealth",
+    "prosperity"
+  ],
+  "bxs-donate-blood": [
+    "organ",
+    "tissue",
+    "donation",
+    "altruism",
+    "generosity"
+  ],
+  "bxs-donate-heart": [
+    "love",
+    "compassion",
+    "empathy",
+    "charity",
+    "affection"
+  ],
+  "bxs-door-open": [
+    "accessible",
+    "visible",
+    "transparent",
+    "inclusive",
+    "openness"
+  ],
+  "bxs-doughnut-chart": [
+    "pie",
+    "circle",
+    "ring",
+    "segment",
+    "sector"
+  ],
+  "bxs-down-arrow": [
+    "decreasing",
+    "descending",
+    "falling",
+    "declining",
+    "dropping"
+  ],
+  "bxs-down-arrow-alt": [
+    "alternative",
+    "variant",
+    "substitute",
+    "replacement",
+    "surrogate"
+  ],
+  "bxs-down-arrow-circle": [
+    "ring",
+    "round",
+    "circular",
+    "symmetrical"
+  ],
+  "bxs-down-arrow-square": [
+    "angular",
+    "geometric",
+    "diagonal",
+    "triangular"
+  ],
+  "bxs-download": [
+    "transfer",
+    "receive",
+    "acquire",
+    "obtain",
+    "fetch"
+  ],
+  "bxs-downvote": [
+    "dislike",
+    "veto",
+    "reject",
+    "oppose",
+    "dissent"
+  ],
+  "bxs-drink": [
+    "beverage",
+    "liquid",
+    "water",
+    "hydration",
+    "refreshment"
+  ],
+  "bxs-droplet": [
+    "drop",
+    "liquid",
+    "water",
+    "fluid",
+    "precipitation"
+  ],
+  "bxs-droplet-half": [
+    "fraction",
+    "split",
+    "divide",
+    "portion",
+    "share"
+  ],
+  "bxs-dryer": [
+    "dry",
+    "heat",
+    "oven",
+    "drying",
+    "sterilize"
+  ],
+  "bxs-duplicate": [
+    "copy",
+    "clone",
+    "repeat",
+    "mirror"
+  ],
+  "bxs-edit": [
+    "modify",
+    "change",
+    "update",
+    "alter",
+    "improve"
+  ],
+  "bxs-edit-alt": [
+    "update",
+    "revise",
+    "amend",
+    "redact",
+    "modify"
+  ],
+  "bxs-edit-location": [
+    "locate",
+    "position",
+    "place",
+    "situate",
+    "positioning"
+  ],
+  "bxs-eject": [
+    "expel",
+    "remove",
+    "kick",
+    "evict",
+    "dismiss"
+  ],
+  "bxs-envelope": [
+    "letter",
+    "mail",
+    "communication",
+    "message",
+    "postal"
+  ],
+  "bxs-envelope-open": [
+    "reveal",
+    "disclose",
+    "unseal",
+    "expose"
+  ],
+  "bxs-eraser": [
+    "erase",
+    "delete",
+    "remove",
+    "cancel",
+    "obliterate"
+  ],
+  "bxs-error": [
+    "fault",
+    "failure",
+    "mistake",
+    "flaw"
+  ],
+  "bxs-error-alt": [
+    "alert",
+    "warning",
+    "caution",
+    "signal",
+    "indication"
+  ],
+  "bxs-error-circle": [
+    "ring",
+    "warning",
+    "alert",
+    "notification",
+    "caution"
+  ],
+  "bxs-ev-station": [
+    "depot",
+    "terminal",
+    "hub",
+    "facility"
+  ],
+  "bxs-exit": [
+    "door",
+    "gate",
+    "wayout",
+    "departure"
+  ],
+  "bxs-extension": [
+    "addition",
+    "add-on",
+    "module",
+    "addon",
+    "expansion"
+  ],
+  "bxs-eyedropper": [
+    "paintbrush",
+    "pencil",
+    "marker",
+    "eraser",
+    "corrector"
+  ],
+  "bxs-face": [
+    "person",
+    "human",
+    "countenance",
+    "visage"
+  ],
+  "bxs-face-mask": [
+    "facemask",
+    "disguise",
+    "concealment",
+    "veil",
+    "masking"
+  ],
+  "bxs-factory": [
+    "plant",
+    "works",
+    "workshop",
+    "mill"
+  ],
+  "bxs-fast-forward-circle": [
+    "fastforward",
+    "accelerate",
+    "speedup",
+    "rush",
+    "hurry"
+  ],
+  "bxs-file": [
+    "document",
+    "record",
+    "paper",
+    "data",
+    "information"
+  ],
+  "bxs-file-archive": [
+    "storage",
+    "repository",
+    "collection",
+    "vault"
+  ],
+  "bxs-file-blank": [
+    "empty",
+    "null",
+    "void",
+    "vacant",
+    "space"
+  ],
+  "bxs-file-css": [
+    "style",
+    "design",
+    "template",
+    "layout",
+    "aesthetics"
+  ],
+  "bxs-file-doc": [
+    "document",
+    "record",
+    "paper",
+    "data",
+    "information"
+  ],
+  "bxs-file-export": [
+    "transfer",
+    "send",
+    "transmit",
+    "dispatch",
+    "output"
+  ],
+  "bxs-file-find": [
+    "locate",
+    "discover",
+    "identify",
+    "track",
+    "findable"
+  ],
+  "bxs-file-gif": [
+    "video",
+    "animation",
+    "upload",
+    "stream",
+    "media"
+  ],
+  "bxs-file-html": [
+    "code",
+    "document",
+    "page",
+    "template",
+    "editor"
+  ],
+  "bxs-file-image": [
+    "picture",
+    "photo",
+    "graph",
+    "visual"
+  ],
+  "bxs-file-import": [
+    "download",
+    "transfer",
+    "receive",
+    "upload",
+    "input"
+  ],
+  "bxs-file-jpg": [
+    "picture",
+    "photo",
+    "image",
+    "jpeg",
+    "camera"
+  ],
+  "bxs-file-js": [
+    "code",
+    "script",
+    "program",
+    "software",
+    "engine"
+  ],
+  "bxs-file-json": [
+    "data",
+    "document",
+    "format",
+    "encoding",
+    "code"
+  ],
+  "bxs-file-md": [
+    "document",
+    "text",
+    "markdown",
+    "editor",
+    "writer"
+  ],
+  "bxs-file-pdf": [
+    "document",
+    "paper",
+    "print",
+    "download",
+    "reader"
+  ],
+  "bxs-file-plus": [
+    "add",
+    "increase",
+    "expand",
+    "enhance",
+    "upgrade"
+  ],
+  "bxs-file-png": [
+    "picture",
+    "photo",
+    "image",
+    "graph",
+    "visual"
+  ],
+  "bxs-file-txt": [
+    "text",
+    "document",
+    "editor",
+    "writer",
+    "content"
+  ],
+  "bxs-film": [
+    "movie",
+    "video",
+    "show",
+    "screen",
+    "cinema"
+  ],
+  "bxs-filter-alt": [
+    "sort",
+    "rank",
+    "classify",
+    "separate"
+  ],
+  "bxs-first-aid": [
+    "medical",
+    "health",
+    "firstaid",
+    "emergency",
+    "care"
+  ],
+  "bxs-flag": [
+    "country",
+    "nation",
+    "emblem",
+    "sovereignty",
+    "territory"
+  ],
+  "bxs-flag-alt": [
+    "variant",
+    "alternative",
+    "substitute",
+    "surrogate",
+    "duplicate"
+  ],
+  "bxs-flag-checkered": [
+    "pattern",
+    "design",
+    "motif",
+    "texture",
+    "checkers"
+  ],
+  "bxs-flame": [
+    "fire",
+    "blaze",
+    "burn",
+    "ignite",
+    "flames"
+  ],
+  "bxs-flask": [
+    "container",
+    "vessel",
+    "bottle",
+    "jug",
+    "storage"
+  ],
+  "bxs-florist": [
+    "garden",
+    "flower",
+    "plant",
+    "bloom",
+    "growth"
+  ],
+  "bxs-folder": [
+    "file",
+    "document",
+    "paper",
+    "record",
+    "archive"
+  ],
+  "bxs-folder-minus": [
+    "decrease",
+    "reduce",
+    "lessen",
+    "shrink",
+    "compact"
+  ],
+  "bxs-folder-open": [
+    "increase",
+    "expand",
+    "reveal",
+    "display",
+    "accessibility"
+  ],
+  "bxs-folder-plus": [
+    "add",
+    "increase",
+    "augment",
+    "enhance",
+    "supplement"
+  ],
+  "bxs-food-menu": [
+    "options",
+    "choices",
+    "selections",
+    "alternatives",
+    "menuing"
+  ],
+  "bxs-fridge": [
+    "refrigerator",
+    "chiller",
+    "cooler",
+    "storage",
+    "preservation"
+  ],
+  "bxs-game": [
+    "play",
+    "amusement",
+    "entertainment",
+    "leisure",
+    "fun"
+  ],
+  "bxs-gas-pump": [
+    "fuel",
+    "gasoline",
+    "petrol",
+    "energy",
+    "power"
+  ],
+  "bxs-ghost": [
+    "spirit",
+    "soul",
+    "phantom",
+    "specter",
+    "apparition"
+  ],
+  "bxs-gift": [
+    "present",
+    "package",
+    "treasure",
+    "surprise",
+    "gifted"
+  ],
+  "bxs-graduation": [
+    "diploma",
+    "degree",
+    "award",
+    "certification",
+    "education"
+  ],
+  "bxs-grid": [
+    "layout",
+    "pattern",
+    "structure",
+    "matrix",
+    "arrangement"
+  ],
+  "bxs-grid-alt": [
+    "alternating",
+    "swapped",
+    "reversed",
+    "inverted",
+    "mirrored"
+  ],
+  "bxs-group": [
+    "team",
+    "community",
+    "association",
+    "coalition",
+    "grouping"
+  ],
+  "bxs-guitar-amp": [
+    "music",
+    "amplifier",
+    "sound",
+    "instrument",
+    "audio"
+  ],
+  "bxs-hand": [
+    "finger",
+    "gesture",
+    "motion",
+    "movement",
+    "manipulation"
+  ],
+  "bxs-hand-down": [
+    "downward",
+    "lowering",
+    "descending",
+    "falling",
+    "dropping"
+  ],
+  "bxs-hand-left": [
+    "leftward",
+    "movingleft",
+    "sideways",
+    "oblique",
+    "asymmetric"
+  ],
+  "bxs-hand-right": [
+    "rightward",
+    "movingright",
+    "sideways",
+    "oblique",
+    "symmetric"
+  ],
+  "bxs-hand-up": [
+    "upward",
+    "rising",
+    "ascending",
+    "lifting",
+    "elevating"
+  ],
+  "bxs-happy": [
+    "joyful",
+    "cheerful",
+    "smiling",
+    "ecstatic",
+    "happiness"
+  ],
+  "bxs-happy-alt": [
+    "extremelyhappy",
+    "overjoyed",
+    "thrilled",
+    "elated",
+    "ecstatic"
+  ],
+  "bxs-happy-beaming": [
+    "glowing",
+    "radiant",
+    "shining",
+    "illuminated"
+  ],
+  "bxs-happy-heart-eyes": [
+    "hearteyes",
+    "cute",
+    "adorable",
+    "lovable",
+    "charming"
+  ],
+  "bxs-hard-hat": [
+    "safety-helmet",
+    "construction",
+    "hard-hat",
+    "protection",
+    "gear"
+  ],
+  "bxs-hdd": [
+    "drive",
+    "storage",
+    "computer",
+    "disk",
+    "server"
+  ],
+  "bxs-heart": [
+    "love",
+    "passion",
+    "affection",
+    "romance",
+    "devotion"
+  ],
+  "bxs-heart-circle": [
+    "ring",
+    "crown",
+    "halo",
+    "aura",
+    "circularity"
+  ],
+  "bxs-heart-square": [
+    "block",
+    "cube",
+    "rectangle",
+    "shape",
+    "geometry"
+  ],
+  "bxs-help-circle": [
+    "support",
+    "guide",
+    "assist",
+    "consult",
+    "advice"
+  ],
+  "bxs-hide": [
+    "conceal",
+    "cover",
+    "mask",
+    "obscure"
+  ],
+  "bxs-home": [
+    "house",
+    "dwelling",
+    "abode",
+    "residence",
+    "address"
+  ],
+  "bxs-home-alt-2": [
+    "house",
+    "dwelling",
+    "abode",
+    "residence",
+    "haven"
+  ],
+  "bxs-home-circle": [
+    "ring",
+    "crown",
+    "halo",
+    "aura"
+  ],
+  "bxs-home-heart": [
+    "love",
+    "affection",
+    "passion",
+    "romance"
+  ],
+  "bxs-home-smile": [
+    "grin",
+    "laugh",
+    "joy",
+    "happiness"
+  ],
+  "bxs-hot": [
+    "fire",
+    "flame",
+    "burning",
+    "blazing",
+    "heat"
+  ],
+  "bxs-hotel": [
+    "inn",
+    "lodging",
+    "accommodation",
+    "resort",
+    "guesthouse"
+  ],
+  "bxs-hourglass": [
+    "time",
+    "clock",
+    "calendar",
+    "schedule",
+    "deadline"
+  ],
+  "bxs-hourglass-bottom": [
+    "lower",
+    "downward",
+    "ending",
+    "termination",
+    "completion"
+  ],
+  "bxs-hourglass-top": [
+    "upper",
+    "beginning",
+    "start",
+    "commencement",
+    "initiation"
+  ],
+  "bxs-id-card": [
+    "identification",
+    "document",
+    "passport",
+    "credentials",
+    "record"
+  ],
+  "bxs-image": [
+    "picture",
+    "photo",
+    "photograph",
+    "snapshot"
+  ],
+  "bxs-image-add": [
+    "increment",
+    "increase",
+    "enhance",
+    "amplify",
+    "addition"
+  ],
+  "bxs-image-alt": [
+    "alternative",
+    "substitute",
+    "replace",
+    "supplement",
+    "complement"
+  ],
+  "bxs-inbox": [
+    "mail",
+    "email",
+    "letter",
+    "message",
+    "note"
+  ],
+  "bxs-info-circle": [
+    "information",
+    "data",
+    "facts",
+    "knowledge",
+    "insight"
+  ],
+  "bxs-info-square": [
+    "statistics",
+    "figures",
+    "data",
+    "numbers",
+    "charts"
+  ],
+  "bxs-injection": [
+    "shot",
+    "dose",
+    "medication",
+    "vaccine"
+  ],
+  "bxs-institution": [
+    "organization",
+    "company",
+    "firm",
+    "business",
+    "institute"
+  ],
+  "bxs-invader": [
+    "alien",
+    "space",
+    "warrior",
+    "fighter"
+  ],
+  "bxs-joystick": [
+    "controller",
+    "steeringwheel",
+    "grip",
+    "handle",
+    "lever"
+  ],
+  "bxs-joystick-alt": [
+    "alternative",
+    "substitute",
+    "replace",
+    "supplement",
+    "complement"
+  ],
+  "bxs-joystick-button": [
+    "switch",
+    "toggle",
+    "click",
+    "activate"
+  ],
+  "bxs-key": [
+    "code",
+    "password",
+    "cipher",
+    "decipher"
+  ],
+  "bxs-keyboard": [
+    "typing",
+    "input",
+    "entry",
+    "composition"
+  ],
+  "bxs-label": [
+    "sticker",
+    "badge",
+    "mark",
+    "sign"
+  ],
+  "bxs-landmark": [
+    "location",
+    "site",
+    "place",
+    "spot",
+    "marker"
+  ],
+  "bxs-landscape": [
+    "map",
+    "outdoor",
+    "nature",
+    "skyline",
+    "landscapes"
+  ],
+  "bxs-laugh": [
+    "smile",
+    "grin",
+    "laughter",
+    "amusement",
+    "joy"
+  ],
+  "bxs-layer": [
+    "screen",
+    "display",
+    "surface",
+    "layering",
+    "level"
+  ],
+  "bxs-layer-minus": [
+    "decrease",
+    "reduce",
+    "subtract",
+    "minimize",
+    "diminish"
+  ],
+  "bxs-layer-plus": [
+    "increase",
+    "add",
+    "enhance",
+    "augment",
+    "expand"
+  ],
+  "bxs-layout": [
+    "design",
+    "arrangement",
+    "configuration",
+    "organization",
+    "structure"
+  ],
+  "bxs-leaf": [
+    "tree",
+    "plant",
+    "greenery",
+    "nature",
+    "growth"
+  ],
+  "bxs-left-arrow": [
+    "forward",
+    "prior",
+    "previous",
+    "before"
+  ],
+  "bxs-left-arrow-alt": [
+    "alternative",
+    "substitute",
+    "replace",
+    "swap",
+    "exchange"
+  ],
+  "bxs-left-arrow-circle": [
+    "ring",
+    "round",
+    "circular",
+    "loop"
+  ],
+  "bxs-left-arrow-square": [
+    "direction",
+    "navigate",
+    "move",
+    "point"
+  ],
+  "bxs-left-down-arrow-circle": [
+    "below",
+    "under",
+    "lower",
+    "descend"
+  ],
+  "bxs-left-top-arrow-circle": [
+    "above",
+    "higher",
+    "upper",
+    "ascend",
+    "elevation"
+  ],
+  "bxs-lemon": [
+    "citrus",
+    "fruit",
+    "juice",
+    "sour",
+    "acid"
+  ],
+  "bxs-like": [
+    "enjoy",
+    "appreciate",
+    "admire",
+    "favor"
+  ],
+  "bxs-location-plus": [
+    "add",
+    "insert",
+    "locate",
+    "position",
+    "situate"
+  ],
+  "bxs-lock": [
+    "secure",
+    "protect",
+    "confine",
+    "restrain",
+    "safety"
+  ],
+  "bxs-lock-alt": [
+    "alternative",
+    "substitute",
+    "replace",
+    "swap",
+    "exchange"
+  ],
+  "bxs-lock-open": [
+    "key",
+    "unlock",
+    "security",
+    "protection",
+    "safe"
+  ],
+  "bxs-lock-open-alt": [
+    "key2",
+    "unlock-alt",
+    "access",
+    "entry",
+    "gate"
+  ],
+  "bxs-log-in": [
+    "login",
+    "enter",
+    "authenticate",
+    "register",
+    "account"
+  ],
+  "bxs-log-in-circle": [
+    "login-circle",
+    "entry-point",
+    "credentials",
+    "identity",
+    "profile"
+  ],
+  "bxs-log-out": [
+    "logout",
+    "exit",
+    "deactivate",
+    "remove",
+    "delete"
+  ],
+  "bxs-log-out-circle": [
+    "logout-circle",
+    "exit-alt",
+    "disconnection",
+    "termination",
+    "cessation"
+  ],
+  "bxs-low-vision": [
+    "vision-impaired",
+    "blindness",
+    "sight-loss",
+    "disability",
+    "accessibility"
+  ],
+  "bxs-magic-wand": [
+    "illusion",
+    "fantasy",
+    "dream",
+    "imagination",
+    "mythology"
+  ],
+  "bxs-magnet": [
+    "magnetic",
+    "attract",
+    "draw",
+    "pull",
+    "latch"
+  ],
+  "bxs-map": [
+    "location",
+    "directions",
+    "route",
+    "navigation",
+    "position"
+  ],
+  "bxs-map-alt": [
+    "map-alt",
+    "alternative-location",
+    "substitute",
+    "redirect",
+    "reroute"
+  ],
+  "bxs-map-pin": [
+    "pinpoint",
+    "locate",
+    "position",
+    "fix",
+    "anchor"
+  ],
+  "bxs-mask": [
+    "masking",
+    "conceal",
+    "hide",
+    "obscure",
+    "cover"
+  ],
+  "bxs-medal": [
+    "award",
+    "honor",
+    "recognition",
+    "prize",
+    "achievement"
+  ],
+  "bxs-megaphone": [
+    "amplify",
+    "enlarge",
+    "boost",
+    "enhance",
+    "loudness"
+  ],
+  "bxs-meh": [
+    "frown",
+    "disappointment",
+    "sadness",
+    "gloom",
+    "sorrow"
+  ],
+  "bxs-meh-alt": [
+    "smile",
+    "smiling",
+    "grin",
+    "cheerful",
+    "happiness"
+  ],
+  "bxs-meh-blank": [
+    "empty",
+    "void",
+    "space",
+    "silence",
+    "emptiness"
+  ],
+  "bxs-memory-card": [
+    "record",
+    "recording",
+    "tape",
+    "file",
+    "archive"
+  ],
+  "bxs-message": [
+    "note",
+    "notification",
+    "alert",
+    "warning",
+    "communication"
+  ],
+  "bxs-message-add": [
+    "addition",
+    "increase",
+    "growth",
+    "expansion",
+    "enhancement"
+  ],
+  "bxs-message-alt": [
+    "alternative",
+    "variant",
+    "substitute",
+    "replacement",
+    "surrogate"
+  ],
+  "bxs-message-alt-add": [
+    "augmentation",
+    "extension",
+    "add-on",
+    "supplement",
+    "complement"
+  ],
+  "bxs-message-alt-check": [
+    "verification",
+    "validation",
+    "approval",
+    "certification",
+    "endorsement"
+  ],
+  "bxs-message-alt-detail": [
+    "information",
+    "data",
+    "facts",
+    "insights",
+    "knowledge"
+  ],
+  "bxs-message-alt-dots": [
+    "points",
+    "symbols",
+    "icons",
+    "glyphs",
+    "representations"
+  ],
+  "bxs-message-alt-edit": [
+    "editing",
+    "revision",
+    "update",
+    "modification",
+    "alteration"
+  ],
+  "bxs-message-alt-error": [
+    "mistake",
+    "fault",
+    "flaw",
+    "defect"
+  ],
+  "bxs-message-alt-minus": [
+    "deletion",
+    "removal",
+    "erasure",
+    "cancellation",
+    "dismissal"
+  ],
+  "bxs-message-alt-x": [
+    "termination",
+    "cessation",
+    "stoppage",
+    "abandonment",
+    "extinction"
+  ],
+  "bxs-message-check": [
+    "approval",
+    "notification",
+    "alert",
+    "verify",
+    "confirm"
+  ],
+  "bxs-message-detail": [
+    "information",
+    "details",
+    "description",
+    "data",
+    "content"
+  ],
+  "bxs-message-dots": [
+    "dots-circle",
+    "dots-square",
+    "dots-dot",
+    "dots-ellipse",
+    "circles"
+  ],
+  "bxs-message-edit": [
+    "update",
+    "modify",
+    "change",
+    "alter",
+    "revision"
+  ],
+  "bxs-message-error": [
+    "warning",
+    "alert",
+    "caution",
+    "danger",
+    "hazard"
+  ],
+  "bxs-message-minus": [
+    "decrease",
+    "reduce",
+    "subtract",
+    "remove",
+    "diminish"
+  ],
+  "bxs-message-rounded": [
+    "circle",
+    "square",
+    "ellipse",
+    "oval",
+    "shape"
+  ],
+  "bxs-message-rounded-add": [
+    "increase",
+    "enhance",
+    "augment",
+    "boost",
+    "growth"
+  ],
+  "bxs-message-rounded-check": [
+    "checkmark",
+    "tick",
+    "verify",
+    "confirm",
+    "approved"
+  ],
+  "bxs-message-rounded-detail": [
+    "description",
+    "data",
+    "content",
+    "information",
+    "details"
+  ],
+  "bxs-message-rounded-dots": [
+    "dots-circle",
+    "dots-square",
+    "dots-dot",
+    "dots-ellipse",
+    "pattern"
+  ],
+  "bxs-message-rounded-edit": [
+    "update",
+    "modify",
+    "change",
+    "alter",
+    "revision"
+  ],
+  "bxs-message-rounded-error": [
+    "warning",
+    "alert",
+    "caution",
+    "danger",
+    "alertness"
+  ],
+  "bxs-message-rounded-minus": [
+    "decrease",
+    "reduce",
+    "subtract",
+    "remove",
+    "reduction"
+  ],
+  "bxs-message-rounded-x": [
+    "cross",
+    "cancel",
+    "delete",
+    "discard",
+    "termination"
+  ],
+  "bxs-message-square": [
+    "alert",
+    "notification",
+    "dialogue",
+    "popup"
+  ],
+  "bxs-message-square-add": [
+    "increment",
+    "update",
+    "expand",
+    "enhance",
+    "growth"
+  ],
+  "bxs-message-square-check": [
+    "verify",
+    "validate",
+    "confirm",
+    "approve",
+    "accept"
+  ],
+  "bxs-message-square-detail": [
+    "details",
+    "information",
+    "data",
+    "record",
+    "log"
+  ],
+  "bxs-message-square-dots": [
+    "dots-circle",
+    "dots-dot",
+    "dots-ellipsis",
+    "dots-triangle",
+    "pattern"
+  ],
+  "bxs-message-square-edit": [
+    "modify",
+    "update",
+    "change",
+    "alter",
+    "revision"
+  ],
+  "bxs-message-square-error": [
+    "warning",
+    "alert",
+    "notification",
+    "exception",
+    "errorness"
+  ],
+  "bxs-message-square-minus": [
+    "delete",
+    "remove",
+    "discard",
+    "cancel",
+    "reject"
+  ],
+  "bxs-message-square-x": [
+    "dismiss",
+    "close",
+    "terminate",
+    "stop",
+    "abort"
+  ],
+  "bxs-message-x": [
+    "cross",
+    "cancel",
+    "refuse",
+    "deny",
+    "oppose"
+  ],
+  "bxs-meteor": [
+    "explosion",
+    "blast",
+    "impact",
+    "crash",
+    "collide"
+  ],
+  "bxs-microchip": [
+    "micro",
+    "chip",
+    "token",
+    "card",
+    "key"
+  ],
+  "bxs-microphone": [
+    "listen",
+    "hear",
+    "sound",
+    "audio",
+    "voice"
+  ],
+  "bxs-microphone-alt": [
+    "listen-alternative",
+    "hear-alternative",
+    "sound-alternative",
+    "audio-alternative",
+    "voice-alternative"
+  ],
+  "bxs-microphone-off": [
+    "mute",
+    "silence",
+    "stop",
+    "disable",
+    "silencing"
+  ],
+  "bxs-minus-circle": [
+    "decrease",
+    "reduce",
+    "subtract",
+    "deduct",
+    "reduction"
+  ],
+  "bxs-minus-square": [
+    "rectangle",
+    "box",
+    "container",
+    "enclosure",
+    "space"
+  ],
+  "bxs-mobile": [
+    "phone",
+    "cellphone",
+    "device",
+    "terminal",
+    "communication"
+  ],
+  "bxs-mobile-vibration": [
+    "buzz",
+    "hum",
+    "oscillation",
+    "tremor"
+  ],
+  "bxs-moon": [
+    "lunar",
+    "satellite",
+    "celestial",
+    "orb",
+    "spacecraft"
+  ],
+  "bxs-mouse": [
+    "computer",
+    "input",
+    "device",
+    "controller",
+    "keyboard"
+  ],
+  "bxs-mouse-alt": [
+    "alternative",
+    "substitute",
+    "surrogate",
+    "replica",
+    "doppelganger"
+  ],
+  "bxs-movie": [
+    "film",
+    "cinema",
+    "screening",
+    "projection",
+    "entertainment"
+  ],
+  "bxs-movie-play": [
+    "performance",
+    "show",
+    "presentation",
+    "display",
+    "production"
+  ],
+  "bxs-music": [
+    "sound",
+    "audio",
+    "melody",
+    "harmony",
+    "acoustics"
+  ],
+  "bxs-navigation": [
+    "route",
+    "directions",
+    "path",
+    "course",
+    "travel"
+  ],
+  "bxs-network-chart": [
+    "graph",
+    "diagram",
+    "map",
+    "system"
+  ],
+  "bxs-news": [
+    "information",
+    "report",
+    "update",
+    "bulletin"
+  ],
+  "bxs-no-entry": [
+    "noentry",
+    "prohibition",
+    "forbidden",
+    "restricted",
+    "denied"
+  ],
+  "bxs-note": [
+    "reminder",
+    "record",
+    "document",
+    "memo",
+    "notebook"
+  ],
+  "bxs-notepad": [
+    "notebook",
+    "document",
+    "paper",
+    "writing",
+    "sketch"
+  ],
+  "bxs-notification": [
+    "alert",
+    "message",
+    "warning",
+    "reminder"
+  ],
+  "bxs-notification-off": [
+    "dismiss",
+    "cancel",
+    "hide",
+    "mute",
+    "ignore"
+  ],
+  "bxs-objects-horizontal-center": [
+    "middle",
+    "balance",
+    "harmony",
+    "symmetry",
+    "alignment"
+  ],
+  "bxs-objects-horizontal-left": [
+    "west",
+    "north",
+    "direction",
+    "side"
+  ],
+  "bxs-objects-horizontal-right": [
+    "east",
+    "south",
+    "opposite",
+    "side"
+  ],
+  "bxs-objects-vertical-bottom": [
+    "base",
+    "foot",
+    "ground",
+    "floor"
+  ],
+  "bxs-objects-vertical-center": [
+    "middle",
+    "balance",
+    "harmony",
+    "symmetry"
+  ],
+  "bxs-objects-vertical-top": [
+    "head",
+    "ceiling",
+    "roof",
+    "height"
+  ],
+  "bxs-offer": [
+    "discount",
+    "sale",
+    "promotion",
+    "voucher",
+    "coupon"
+  ],
+  "bxs-package": [
+    "box",
+    "container",
+    "shipment",
+    "delivery",
+    "packaging"
+  ],
+  "bxs-paint": [
+    "color",
+    "brush",
+    "canvas",
+    "art",
+    "pigment"
+  ],
+  "bxs-paint-roll": [
+    "roller",
+    "beater",
+    "mixer",
+    "blender",
+    "masher"
+  ],
+  "bxs-palette": [
+    "colors",
+    "tints",
+    "shades",
+    "hue",
+    "saturation"
+  ],
+  "bxs-paper-plane": [
+    "letter",
+    "envelope",
+    "mail",
+    "postage",
+    "delivery"
+  ],
+  "bxs-parking": [
+    "lot",
+    "garage",
+    "car",
+    "vehicle",
+    "parking-space"
+  ],
+  "bxs-party": [
+    "celebrate",
+    "event",
+    "gathering",
+    "festival",
+    "party-venue"
+  ],
+  "bxs-paste": [
+    "glue",
+    "adhesive",
+    "stick",
+    "tape",
+    "bond"
+  ],
+  "bxs-pear": [
+    "pearl",
+    "gemstone",
+    "jewel",
+    "precious",
+    "treasure"
+  ],
+  "bxs-pen": [
+    "pencil",
+    "stylus",
+    "marker",
+    "ink",
+    "writing-tool"
+  ],
+  "bxs-pencil": [
+    "sketchbook",
+    "drawing",
+    "writing",
+    "draft",
+    "paperwork"
+  ],
+  "bxs-phone": [
+    "mobile",
+    "cell",
+    "call",
+    "text",
+    "communication-device"
+  ],
+  "bxs-phone-call": [
+    "ring",
+    "answer",
+    "talk",
+    "conversation",
+    "telephone"
+  ],
+  "bxs-phone-incoming": [
+    "call",
+    "message",
+    "ring",
+    "answer",
+    "receive"
+  ],
+  "bxs-phone-off": [
+    "hangup",
+    "mute",
+    "stop",
+    "pause",
+    "disconnect"
+  ],
+  "bxs-phone-outgoing": [
+    "dial",
+    "send",
+    "transmit",
+    "communicate",
+    "talk"
+  ],
+  "bxs-photo-album": [
+    "picture",
+    "image",
+    "gallery",
+    "collection",
+    "portfolio"
+  ],
+  "bxs-piano": [
+    "music",
+    "instrument",
+    "keyboard",
+    "compose",
+    "play"
+  ],
+  "bxs-pie-chart": [
+    "graph",
+    "diagram",
+    "data",
+    "analysis"
+  ],
+  "bxs-pie-chart-alt": [
+    "circle",
+    "sector",
+    "segment",
+    "fraction",
+    "pie-chart"
+  ],
+  "bxs-pie-chart-alt-2": [
+    "pie-chart",
+    "circular",
+    "rotating",
+    "moving",
+    "spinning"
+  ],
+  "bxs-pin": [
+    "location",
+    "map",
+    "coordinate",
+    "position",
+    "spot"
+  ],
+  "bxs-pizza": [
+    "food",
+    "dish",
+    "meal",
+    "snack",
+    "treat"
+  ],
+  "bxs-plane": [
+    "airplane",
+    "flight",
+    "travel",
+    "journey",
+    "transport"
+  ],
+  "bxs-plane-alt": [
+    "aircraft",
+    "helicopter",
+    "glider",
+    "wing",
+    "soar"
+  ],
+  "bxs-plane-land": [
+    "car",
+    "vehicle",
+    "road",
+    "drive",
+    "travel"
+  ],
+  "bxs-plane-take-off": [
+    "launch",
+    "flight",
+    "departure",
+    "soar",
+    "ascend"
+  ],
+  "bxs-planet": [
+    "world",
+    "earth",
+    "globe",
+    "sphere",
+    "circle"
+  ],
+  "bxs-playlist": [
+    "music",
+    "collection",
+    "library",
+    "archive",
+    "repository"
+  ],
+  "bxs-plug": [
+    "power",
+    "electricity",
+    "circuit",
+    "charger",
+    "battery"
+  ],
+  "bxs-plus-circle": [
+    "addition",
+    "increase",
+    "growth",
+    "expansion",
+    "enhancement"
+  ],
+  "bxs-plus-square": [
+    "increment",
+    "boost",
+    "uplift",
+    "elevation",
+    "elevate"
+  ],
+  "bxs-pointer": [
+    "target",
+    "focus",
+    "direction",
+    "aim",
+    "point"
+  ],
+  "bxs-polygon": [
+    "shape",
+    "form",
+    "geometry",
+    "boundary",
+    "polyhedron"
+  ],
+  "bxs-popsicle": [
+    "ice",
+    "cream",
+    "treat",
+    "snack",
+    "pop"
+  ],
+  "bxs-printer": [
+    "print",
+    "copy",
+    "reproduction",
+    "output",
+    "document"
+  ],
+  "bxs-purchase-tag": [
+    "buy",
+    "acquire",
+    "own",
+    "invest"
+  ],
+  "bxs-purchase-tag-alt": [
+    "buy-now",
+    "acquire-now",
+    "purchase-now",
+    "get-it-now",
+    "shop-now"
+  ],
+  "bxs-pyramid": [
+    "growth",
+    "success",
+    "achievement",
+    "progress",
+    "accomplishment"
+  ],
+  "bxs-quote-alt-left": [
+    "left-turn",
+    "exit",
+    "departure",
+    "farewell",
+    "goodbye"
+  ],
+  "bxs-quote-alt-right": [
+    "right-turn",
+    "arrival",
+    "entry",
+    "welcome",
+    "hello"
+  ],
+  "bxs-quote-left": [
+    "departure",
+    "exit",
+    "farewell",
+    "goodbye",
+    "leave"
+  ],
+  "bxs-quote-right": [
+    "arrival",
+    "entry",
+    "welcome",
+    "hello",
+    "greeting"
+  ],
+  "bxs-quote-single-left": [
+    "left-pointing-double-tick",
+    "singlequote",
+    "mark",
+    "notation",
+    "quotation-mark"
+  ],
+  "bxs-quote-single-right": [
+    "speech",
+    "citation",
+    "text",
+    "dialogue",
+    "communication"
+  ],
+  "bxs-radiation": [
+    "nuclear",
+    "radioactive",
+    "ionizing",
+    "x-ray",
+    "gamma"
+  ],
+  "bxs-radio": [
+    "tune",
+    "station",
+    "frequency",
+    "wave",
+    "signal"
+  ],
+  "bxs-receipt": [
+    "invoice",
+    "bill",
+    "payment",
+    "order",
+    "document"
+  ],
+  "bxs-rectangle": [
+    "square",
+    "box",
+    "shape",
+    "form",
+    "grid"
+  ],
+  "bxs-registered": [
+    "certified",
+    "verified",
+    "authentic",
+    "legitimate",
+    "genuine"
+  ],
+  "bxs-rename": [
+    "relabel",
+    "redesignate",
+    "renumber",
+    "recategorize"
+  ],
+  "bxs-report": [
+    "document",
+    "record",
+    "reporting",
+    "analysis",
+    "summary"
+  ],
+  "bxs-rewind-circle": [
+    "repeat",
+    "redo",
+    "rerun",
+    "cycle",
+    "loop"
+  ],
+  "bxs-right-arrow": [
+    "forward",
+    "next",
+    "proceed",
+    "continue",
+    "advance"
+  ],
+  "bxs-right-arrow-alt": [
+    "alternate",
+    "secondary",
+    "subsequent",
+    "following",
+    "after"
+  ],
+  "bxs-right-arrow-circle": [
+    "ring",
+    "enclosure",
+    "boundary",
+    "perimeter"
+  ],
+  "bxs-right-arrow-square": [
+    "rectangle",
+    "box",
+    "container",
+    "envelope",
+    "space"
+  ],
+  "bxs-right-down-arrow-circle": [
+    "below",
+    "underneath",
+    "lower",
+    "inferior",
+    "subordinate"
+  ],
+  "bxs-right-top-arrow-circle": [
+    "above",
+    "overhead",
+    "upper",
+    "superior",
+    "superstructure"
+  ],
+  "bxs-rocket": [
+    "explosion",
+    "launch",
+    "firework",
+    "blast",
+    "missile"
+  ],
+  "bxs-ruler": [
+    "measure",
+    "level",
+    "scale",
+    "draw",
+    "chart"
+  ],
+  "bxs-sad": [
+    "sadness",
+    "grief",
+    "tear",
+    "cry",
+    "sorrow"
+  ],
+  "bxs-save": [
+    "backup",
+    "preserve",
+    "conservation",
+    "archive",
+    "storage"
+  ],
+  "bxs-school": [
+    "education",
+    "learning",
+    "student",
+    "teacher",
+    "classroom"
+  ],
+  "bxs-search": [
+    "find",
+    "look",
+    "query",
+    "investigate",
+    "discover"
+  ],
+  "bxs-search-alt-2": [
+    "inquire",
+    "probe",
+    "examine",
+    "investigate",
+    "research"
+  ],
+  "bxs-select-multiple": [
+    "choose",
+    "pick",
+    "gather",
+    "collect",
+    "selection"
+  ],
+  "bxs-send": [
+    "transmit",
+    "deliver",
+    "dispatch",
+    "forward",
+    "delivery"
+  ],
+  "bxs-server": [
+    "computer",
+    "machine",
+    "network",
+    "database",
+    "host"
+  ],
+  "bxs-shapes": [
+    "geometry",
+    "form",
+    "shape",
+    "boundary",
+    "figure"
+  ],
+  "bxs-share": [
+    "give",
+    "transfer",
+    "distribute",
+    "disperse"
+  ],
+  "bxs-share-alt": [
+    "communicate",
+    "reveal",
+    "disclose",
+    "expose",
+    "inform"
+  ],
+  "bxs-shield": [
+    "protect",
+    "defend",
+    "guard",
+    "barrier",
+    "safety"
+  ],
+  "bxs-shield-alt-2": [
+    "armor",
+    "cover",
+    "hide",
+    "conceal"
+  ],
+  "bxs-shield-minus": [
+    "defense",
+    "protection",
+    "block",
+    "obstruction",
+    "security"
+  ],
+  "bxs-shield-plus": [
+    "defense",
+    "protection",
+    "barrier",
+    "block",
+    "safeguard"
+  ],
+  "bxs-shield-x": [
+    "armor",
+    "protection",
+    "defense",
+    "barrier",
+    "shielding"
+  ],
+  "bxs-ship": [
+    "vessel",
+    "boat",
+    "marine",
+    "ocean",
+    "sail"
+  ],
+  "bxs-shocked": [
+    "surprised",
+    "stunned",
+    "alarmed",
+    "startled"
+  ],
+  "bxs-shopping-bag": [
+    "pack",
+    "container",
+    "cargo",
+    "load",
+    "transport"
+  ],
+  "bxs-shopping-bag-alt": [
+    "alternative",
+    "variant",
+    "substitute",
+    "replacement",
+    "duplicate"
+  ],
+  "bxs-shopping-bags": [
+    "packs",
+    "containers",
+    "loads",
+    "carriages",
+    "shipping"
+  ],
+  "bxs-show": [
+    "display",
+    "reveal",
+    "expose",
+    "disclose",
+    "manifest"
+  ],
+  "bxs-shower": [
+    "bathtub",
+    "sink",
+    "faucet",
+    "waterfall",
+    "cleaning"
+  ],
+  "bxs-skip-next-circle": [
+    "following",
+    "subsequent",
+    "sequential",
+    "proceeding"
+  ],
+  "bxs-skip-previous-circle": [
+    "prior",
+    "previously",
+    "antecedent",
+    "preceding",
+    "before"
+  ],
+  "bxs-skull": [
+    "bone",
+    "skeleton",
+    "corpse",
+    "remains",
+    "death"
+  ],
+  "bxs-sleepy": [
+    "sleeping",
+    "asleep",
+    "drowsy",
+    "dozing",
+    "somnolent"
+  ],
+  "bxs-slideshow": [
+    "presentation",
+    "display",
+    "projection",
+    "screening",
+    "media"
+  ],
+  "bxs-smile": [
+    "smiling",
+    "laughing",
+    "grinning",
+    "cheering",
+    "jubilant"
+  ],
+  "bxs-sort-alt": [
+    "organize",
+    "arrange",
+    "classify",
+    "categorize"
+  ],
+  "bxs-spa": [
+    "relaxation",
+    "rejuvenation",
+    "therapy",
+    "treatment",
+    "calm"
+  ],
+  "bxs-speaker": [
+    "microphone",
+    "audio",
+    "sound",
+    "volume",
+    "communication"
+  ],
+  "bxs-spray-can": [
+    "paint",
+    "canister",
+    "liquid",
+    "chemical",
+    "coat"
+  ],
+  "bxs-spreadsheet": [
+    "document",
+    "table",
+    "data",
+    "chart",
+    "graph"
+  ],
+  "bxs-square": [
+    "rectangle",
+    "box",
+    "grid",
+    "cell",
+    "shape"
+  ],
+  "bxs-square-rounded": [
+    "circle",
+    "round",
+    "corner",
+    "edge",
+    "border"
+  ],
+  "bxs-star": [
+    "rating",
+    "favorite",
+    "highlight",
+    "award",
+    "prize"
+  ],
+  "bxs-star-half": [
+    "partial",
+    "fraction",
+    "segment",
+    "slice",
+    "portion"
+  ],
+  "bxs-sticker": [
+    "label",
+    "marker",
+    "flag",
+    "indicator"
+  ],
+  "bxs-stopwatch": [
+    "timer",
+    "clock",
+    "watch",
+    "time",
+    "duration"
+  ],
+  "bxs-store": [
+    "shop",
+    "retail",
+    "market",
+    "mall",
+    "storefront"
+  ],
+  "bxs-store-alt": [
+    "alternative",
+    "substitute",
+    "replacement",
+    "surrogate",
+    "variant"
+  ],
+  "bxs-sun": [
+    "day",
+    "light",
+    "beam",
+    "radiance",
+    "sunlight"
+  ],
+  "bxs-sushi": [
+    "rice",
+    "fish",
+    "noodle",
+    "miso",
+    "dish"
+  ],
+  "bxs-t-shirt": [
+    "clothing",
+    "apparel",
+    "garment",
+    "tunic",
+    "outfit"
+  ],
+  "bxs-tachometer": [
+    "speedometer",
+    "meter",
+    "gauge",
+    "indicator",
+    "dial"
+  ],
+  "bxs-tag": [
+    "label",
+    "marker",
+    "indicator",
+    "badge",
+    "marking"
+  ],
+  "bxs-tag-alt": [
+    "label",
+    "tagline",
+    "badge",
+    "marker",
+    "flag"
+  ],
+  "bxs-tag-x": [
+    "label",
+    "marker",
+    "flag",
+    "badge",
+    "tagging"
+  ],
+  "bxs-taxi": [
+    "car",
+    "vehicle",
+    "ride",
+    "cab",
+    "transport"
+  ],
+  "bxs-tennis-ball": [
+    "racket",
+    "sport",
+    "game",
+    "volley"
+  ],
+  "bxs-terminal": [
+    "station",
+    "hub",
+    "center",
+    "depot",
+    "location"
+  ],
+  "bxs-thermometer": [
+    "temperature",
+    "heat",
+    "cold",
+    "weather",
+    "climate"
+  ],
+  "bxs-time": [
+    "clock",
+    "hour",
+    "minute",
+    "second",
+    "timeframe"
+  ],
+  "bxs-time-five": [
+    "number",
+    "digit",
+    "count",
+    "quantity",
+    "amount"
+  ],
+  "bxs-timer": [
+    "clock",
+    "watch",
+    "schedule",
+    "deadline"
+  ],
+  "bxs-tired": [
+    "fatigued",
+    "exhausted",
+    "weary",
+    "drained",
+    "tiredness"
+  ],
+  "bxs-to-top": [
+    "direction",
+    "height",
+    "position",
+    "orientation",
+    "location"
+  ],
+  "bxs-toggle-left": [
+    "direction",
+    "side",
+    "angle",
+    "orientation",
+    "switch"
+  ],
+  "bxs-toggle-right": [
+    "direction",
+    "side",
+    "angle",
+    "orientation"
+  ],
+  "bxs-tone": [
+    "sound",
+    "music",
+    "note",
+    "frequency",
+    "pitch"
+  ],
+  "bxs-torch": [
+    "light",
+    "flame",
+    "fire",
+    "heat",
+    "illumination"
+  ],
+  "bxs-traffic": [
+    "road",
+    "vehicle",
+    "movement",
+    "congestion"
+  ],
+  "bxs-traffic-barrier": [
+    "roadblock",
+    "obstacle",
+    "hazard",
+    "block"
+  ],
+  "bxs-traffic-cone": [
+    "sign",
+    "warning",
+    "guide",
+    "marker",
+    "signal"
+  ],
+  "bxs-train": [
+    "railway",
+    "locomotive",
+    "carriage",
+    "track"
+  ],
+  "bxs-trash": [
+    "waste",
+    "recycle",
+    "dumpster",
+    "bin",
+    "litter"
+  ],
+  "bxs-trash-alt": [
+    "recycle",
+    "dispose",
+    "discard",
+    "getridof",
+    "eliminate"
+  ],
+  "bxs-tree": [
+    "plant",
+    "greenery",
+    "nature",
+    "garden"
+  ],
+  "bxs-tree-alt": [
+    "leaf",
+    "branch",
+    "nature",
+    "garden"
+  ],
+  "bxs-trophy": [
+    "award",
+    "prize",
+    "medal",
+    "crown",
+    "champion"
+  ],
+  "bxs-truck": [
+    "vehicle",
+    "lorry",
+    "cargo",
+    "transport"
+  ],
+  "bxs-tv": [
+    "television",
+    "screen",
+    "monitor",
+    "display",
+    "equipment"
+  ],
+  "bxs-universal-access": [
+    "entry",
+    "doorway",
+    "gate",
+    "entrance",
+    "accessibility"
+  ],
+  "bxs-up-arrow": [
+    "increase",
+    "rise",
+    "ascend",
+    "elevate",
+    "growth"
+  ],
+  "bxs-up-arrow-alt": [
+    "increase",
+    "rise",
+    "ascend",
+    "elevate",
+    "alternative"
+  ],
+  "bxs-up-arrow-circle": [
+    "increase",
+    "rise",
+    "ascend",
+    "elevate"
+  ],
+  "bxs-up-arrow-square": [
+    "increase",
+    "rise",
+    "ascend",
+    "elevate",
+    "shape"
+  ],
+  "bxs-upside-down": [
+    "decrease",
+    "fall",
+    "drop",
+    "reverse",
+    "reversal"
+  ],
+  "bxs-upvote": [
+    "like",
+    "favorite",
+    "vote",
+    "approval",
+    "agreement"
+  ],
+  "bxs-user": [
+    "person",
+    "accountant",
+    "customer",
+    "patron",
+    "individual"
+  ],
+  "bxs-user-account": [
+    "profile",
+    "record",
+    "document",
+    "file",
+    "registry"
+  ],
+  "bxs-user-badge": [
+    "award",
+    "medal",
+    "ribbon",
+    "credential",
+    "honor"
+  ],
+  "bxs-user-check": [
+    "checkmark",
+    "tick",
+    "approval",
+    "acceptance",
+    "validation"
+  ],
+  "bxs-user-circle": [
+    "ring",
+    "disc",
+    "round",
+    "full"
+  ],
+  "bxs-user-detail": [
+    "details",
+    "information",
+    "data",
+    "facts",
+    "record"
+  ],
+  "bxs-user-minus": [
+    "decrease",
+    "reduce",
+    "subtract",
+    "deduct",
+    "lessen"
+  ],
+  "bxs-user-pin": [
+    "stick",
+    "attach",
+    "fix",
+    "secure",
+    "fasten"
+  ],
+  "bxs-user-plus": [
+    "add",
+    "increase",
+    "enhance",
+    "augment",
+    "expand"
+  ],
+  "bxs-user-rectangle": [
+    "square",
+    "rectangular",
+    "boxy",
+    "geometric",
+    "angular"
+  ],
+  "bxs-user-voice": [
+    "sound",
+    "audio",
+    "speak",
+    "utter",
+    "communication"
+  ],
+  "bxs-user-x": [
+    "cross",
+    "cancel",
+    "delete",
+    "remove",
+    "discard"
+  ],
+  "bxs-vector": [
+    "shape",
+    "form",
+    "figure",
+    "geometry",
+    "representation"
+  ],
+  "bxs-vial": [
+    "container",
+    "cylinder",
+    "receptacle",
+    "vessel",
+    "storage"
+  ],
+  "bxs-video": [
+    "movie",
+    "film",
+    "screen",
+    "recording"
+  ],
+  "bxs-video-off": [
+    "mute",
+    "stop",
+    "pause",
+    "shutdown"
+  ],
+  "bxs-video-plus": [
+    "play",
+    "record",
+    "enhance",
+    "zoom",
+    "expand"
+  ],
+  "bxs-video-recording": [
+    "record",
+    "camera",
+    "film",
+    "capture"
+  ],
+  "bxs-videos": [
+    "movie",
+    "video",
+    "film",
+    "screen",
+    "recording"
+  ],
+  "bxs-virus": [
+    "malware",
+    "bug",
+    "error",
+    "infection"
+  ],
+  "bxs-virus-block": [
+    "filter",
+    "ban",
+    "prohibit",
+    "restrict"
+  ],
+  "bxs-volume": [
+    "sound",
+    "audio",
+    "music",
+    "amplify"
+  ],
+  "bxs-volume-full": [
+    "max",
+    "loud",
+    "high",
+    "maximum"
+  ],
+  "bxs-volume-low": [
+    "min",
+    "quiet",
+    "soft",
+    "muted"
+  ],
+  "bxs-volume-mute": [
+    "silent",
+    "quiet",
+    "still",
+    "stilled"
+  ],
+  "bxs-wallet": [
+    "money",
+    "cash",
+    "credit",
+    "payment",
+    "finance"
+  ],
+  "bxs-wallet-alt": [
+    "alternative",
+    "substitute",
+    "replace",
+    "swap",
+    "exchange"
+  ],
+  "bxs-washer": [
+    "clean",
+    "wash",
+    "rinse",
+    "freshen",
+    "purify"
+  ],
+  "bxs-watch": [
+    "observe",
+    "monitor",
+    "track",
+    "follow"
+  ],
+  "bxs-watch-alt": [
+    "clock",
+    "timer",
+    "gadget",
+    "device"
+  ],
+  "bxs-webcam": [
+    "camera",
+    "mirror",
+    "face",
+    "recorder",
+    "screen"
+  ],
+  "bxs-widget": [
+    "app",
+    "module",
+    "component",
+    "panel"
+  ],
+  "bxs-window-alt": [
+    "building",
+    "house",
+    "office",
+    "room",
+    "space"
+  ],
+  "bxs-wine": [
+    "glass",
+    "cup",
+    "drink",
+    "liquid"
+  ],
+  "bxs-wink-smile": [
+    "face",
+    "grin",
+    "tease",
+    "play"
+  ],
+  "bxs-wink-tongue": [
+    "lip",
+    "smirk",
+    "sneer",
+    "gibe",
+    "tease"
+  ],
+  "bxs-wrench": [
+    "tool",
+    "machine",
+    "device",
+    "gear",
+    "mechanism"
+  ],
+  "bxs-x-circle": [
+    "ring",
+    "disk",
+    "wheel",
+    "round"
+  ],
+  "bxs-x-square": [
+    "block",
+    "cube",
+    "shape",
+    "grid",
+    "rectangle"
+  ],
+  "bxs-yin-yang": [
+    "balance",
+    "harmony",
+    "equilibrium",
+    "symmetry",
+    "unity"
+  ],
+  "bxs-zap": [
+    "electricity",
+    "shock",
+    "lightning",
+    "bolt",
+    "power"
+  ],
+  "bxs-zoom-in": [
+    "magnify",
+    "enlarge",
+    "expand",
+    "increase"
+  ],
+  "bxs-zoom-out": [
+    "reduce",
+    "minimize",
+    "shrink",
+    "contract",
+    "decrease"
+  ]
+}

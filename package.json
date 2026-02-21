@@ -1,8 +1,8 @@
 {
   "name": "icons-library",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "displayName": "Icons Library",
-  "description": "Easily browse icons from popular free icon packs",
+  "description": "Easily browse and copy icons from popular free icon packs",
   "author": "Cristian Militaru",
   "publisher": "crsx",
   "repository": {
@@ -13,13 +13,25 @@
   "keywords": [
     "icons",
     "library",
-    "fontawesome",
     "codicons",
+    "fontawesome",
+    "fabrands",
     "primeicons",
     "bootstrap",
-    "material"
+    "material",
+    "heroicons",
+    "lucide",
+    "feather",
+    "tabler",
+    "remixicon",
+    "lineicons",
+    "simpleicons",
+    "eva",
+    "boxicons",
+    "iconoir",
+    "phosphor"
   ],
-  "icon": "icon.png",
+  "icon": "assets/icon.png",
   "engines": {
     "vscode": "^1.104.0"
   },
@@ -37,7 +49,7 @@
         {
           "id": "icons-library-container",
           "title": "Icons Library",
-          "icon": "icon.png"
+          "icon": "assets/icon.png"
         }
       ]
     },
@@ -47,7 +59,7 @@
           "type": "webview",
           "id": "icons-library.icons-view",
           "name": "Icons Library",
-          "icon": "icon.png"
+          "icon": "assets/icon.png"
         }
       ]
     },
@@ -62,19 +74,41 @@
             "enum": [
               "codicons",
               "fontawesome",
-              "fontawesome-brands",
+              "fabrands",
               "primeicons",
               "bootstrap",
-              "material-symbols"
+              "material",
+              "heroicons",
+              "lucide",
+              "feather",
+              "tabler",
+              "remixicon",
+              "lineicons",
+              "simpleicons",
+              "eva",
+              "boxicons",
+              "iconoir",
+              "phosphor"
             ]
           },
           "default": [
             "codicons",
             "fontawesome",
-            "fontawesome-brands",
+            "fabrands",
             "primeicons",
             "bootstrap",
-            "material-symbols"
+            "material",
+            "heroicons",
+            "lucide",
+            "feather",
+            "tabler",
+            "remixicon",
+            "lineicons",
+            "simpleicons",
+            "eva",
+            "boxicons",
+            "iconoir",
+            "phosphor"
           ],
           "description": "Icon packs to display in the library"
         }
@@ -83,15 +117,21 @@
   },
   "scripts": {
     "vscode:prepublish": "npm run compile",
+    "lint": "eslint .",
+    "lint:fix": "eslint . --fix",
+    "verify": "npx ts-node tools/verify-packs.ts",
+    "versions": "npx ts-node tools/fetch-versions.ts",
     "compile": "tsc -p ./",
     "package": "npx vsce package",
-    "publish:ovsx": "npx ovsx publish"
+    "publish:vsix": "npx vsce publish",
+    "publish:ovsx": "npx ovsx publish",
+    "publish": "npm run publish:vsix && npm run publish:ovsx"
   },
   "devDependencies": {
     "@types/node": "^25.0.3",
     "@types/vscode": "^1.104.0",
     "eslint": "^9.39.2",
     "typescript": "^5.9.3",
-    "typescript-eslint": "^8.50.1"
+    "typescript-eslint": "^8.51.0"
   }
 }

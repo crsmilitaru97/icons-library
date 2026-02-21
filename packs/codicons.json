@@ -1,3740 +1,4426 @@
 {
   "account": [
-    "account",
-    "icon",
-    "ui",
-    "editor",
-    "tool"
+    "user",
+    "profile",
+    "credentials",
+    "identity",
+    "personality"
   ],
   "activate-breakpoints": [
-    "activate",
-    "breakpoints",
-    "icon",
-    "ui",
-    "editor"
+    "toggle",
+    "switch",
+    "enable",
+    "control",
+    "breakpoint"
   ],
   "add": [
-    "add",
-    "plus",
+    "increment",
     "increase",
-    "new",
-    "create"
-  ],
-  "add-small": [
-    "add",
-    "new",
-    "create",
-    "insert",
-    "expand"
+    "update",
+    "edit",
+    "enhance"
   ],
   "agent": [
-    "agent",
-    "icon",
-    "ui",
-    "editor",
-    "tool"
+    "person",
+    "user",
+    "system",
+    "operator",
+    "representative"
+  ],
+  "alert": [
+    "warning",
+    "caution",
+    "signal",
+    "notification",
+    "alarm"
   ],
   "archive": [
-    "box",
-    "storage",
     "save",
-    "package",
-    "history"
+    "store",
+    "preserve",
+    "consolidate",
+    "backup"
+  ],
+  "array": [
+    "collection",
+    "list",
+    "set",
+    "sequence",
+    "series"
   ],
   "arrow-both": [
-    "arrow",
-    "direction",
-    "navigate",
-    "move",
-    "pointer"
+    "diagonal",
+    "both-way",
+    "bidirectional",
+    "forward-backward",
+    "up-down"
   ],
   "arrow-circle-down": [
-    "direction",
-    "download",
-    "bottom",
-    "round",
-    "move"
+    "below",
+    "lower",
+    "descend",
+    "fall",
+    "drop"
   ],
   "arrow-circle-left": [
-    "direction",
+    "west",
+    "northwest",
     "back",
-    "return",
-    "round",
-    "move"
+    "previous"
   ],
   "arrow-circle-right": [
-    "direction",
+    "east",
+    "southeast",
     "forward",
-    "next",
-    "round",
-    "move"
+    "next"
   ],
   "arrow-circle-up": [
-    "direction",
-    "upload",
-    "top",
-    "round",
-    "move"
+    "above",
+    "upper",
+    "ascend",
+    "rise",
+    "lift"
   ],
   "arrow-down": [
-    "direction",
-    "south",
-    "bottom",
-    "download",
-    "descend"
+    "decrease",
+    "lower",
+    "fall",
+    "drop",
+    "decline"
   ],
   "arrow-left": [
-    "direction",
-    "west",
-    "back",
     "previous",
-    "return"
+    "prior",
+    "back",
+    "before",
+    "past"
   ],
   "arrow-right": [
-    "direction",
-    "east",
+    "increase",
+    "higher",
+    "advance",
     "forward",
-    "next",
-    "go"
+    "grow"
   ],
   "arrow-small-down": [
-    "arrow",
-    "direction",
-    "navigate",
-    "move",
-    "pointer"
+    "mini",
+    "tiny",
+    "shrink",
+    "minimize",
+    "reduce"
   ],
   "arrow-small-left": [
-    "arrow",
-    "direction",
-    "navigate",
-    "move",
-    "pointer"
+    "previous",
+    "back",
+    "move-left",
+    "step-back",
+    "direction"
   ],
   "arrow-small-right": [
-    "arrow",
-    "direction",
-    "navigate",
-    "move",
-    "pointer"
+    "next",
+    "forward",
+    "move-right",
+    "step-forward",
+    "proceed"
   ],
   "arrow-small-up": [
-    "arrow",
-    "direction",
-    "navigate",
-    "move",
-    "pointer"
+    "increase",
+    "rise",
+    "ascend",
+    "elevate",
+    "growth"
   ],
   "arrow-swap": [
-    "arrow",
     "direction",
-    "navigate",
-    "move",
-    "pointer"
+    "orientation",
+    "reverse",
+    "toggle",
+    "switch"
   ],
   "arrow-up": [
-    "direction",
-    "north",
-    "top",
-    "upload",
+    "raise",
+    "lift",
+    "elevate",
+    "heighten",
     "ascend"
   ],
   "attach": [
-    "attach",
-    "icon",
-    "ui",
-    "editor",
-    "tool"
+    "join",
+    "link",
+    "connect",
+    "bind",
+    "tie"
   ],
   "azure": [
-    "azure",
+    "blue",
+    "sky",
     "cloud",
-    "microsoft",
-    "devops",
-    "service"
+    "ocean",
+    "sea"
   ],
   "azure-devops": [
-    "azure",
     "cloud",
-    "microsoft",
-    "devops",
-    "service"
+    "software",
+    "development",
+    "team",
+    "collaboration"
   ],
   "beaker": [
-    "beaker",
-    "icon",
-    "ui",
-    "editor",
-    "tool"
+    "test-tube",
+    "lab-bowl",
+    "container",
+    "vessel",
+    "reagent"
   ],
   "beaker-stop": [
-    "beaker",
-    "stop",
-    "end",
-    "cancel",
-    "halt"
+    "ceased",
+    "ended",
+    "terminated",
+    "halted",
+    "stopped"
   ],
   "bell": [
-    "notification",
     "alarm",
+    "notification",
+    "warning",
     "alert",
-    "ring",
-    "reminder"
+    "signal"
   ],
   "bell-dot": [
     "notification",
     "alert",
-    "alarm",
-    "ring",
-    "reminder"
+    "reminder",
+    "warning",
+    "signal"
   ],
   "bell-slash": [
-    "mute",
-    "silent",
-    "quiet",
-    "off",
-    "disable"
+    "alarm",
+    "warning",
+    "signal",
+    "notification",
+    "alert"
   ],
   "bell-slash-dot": [
-    "notification",
-    "alert",
-    "alarm",
-    "ring",
-    "reminder"
+    "point",
+    "mark",
+    "indicator",
+    "signal",
+    "alert"
   ],
   "blank": [
-    "blank",
-    "icon",
-    "ui",
-    "editor",
-    "tool"
+    "empty",
+    "space",
+    "void",
+    "null",
+    "zero"
   ],
   "bold": [
-    "text",
-    "format",
-    "style",
-    "heavy",
-    "font"
+    "strong",
+    "emphasis",
+    "highlight",
+    "accentuate",
+    "intensify"
   ],
   "book": [
-    "read",
-    "library",
-    "study",
-    "education",
-    "literature"
+    "document",
+    "paper",
+    "reading",
+    "text",
+    "knowledge"
   ],
   "bookmark": [
     "save",
-    "favorite",
-    "tag",
-    "marker",
-    "keep"
+    "record",
+    "mark",
+    "flag",
+    "reserve"
+  ],
+  "bracket": [
+    "square",
+    "box",
+    "frame",
+    "border",
+    "enclosure"
   ],
   "bracket-dot": [
-    "bracket",
-    "dot",
-    "icon",
-    "ui",
-    "editor"
+    "period",
+    "punctuation",
+    "delimiter",
+    "cursor",
+    "stop"
   ],
   "bracket-error": [
-    "bracket",
-    "error",
-    "fail",
-    "issue",
-    "bug"
+    "warning",
+    "alert",
+    "invalid",
+    "syntax"
   ],
   "briefcase": [
-    "work",
-    "business",
-    "office",
+    "portfolio",
+    "resume",
+    "career",
     "job",
-    "bag"
+    "profile"
   ],
   "broadcast": [
-    "broadcast",
-    "icon",
-    "ui",
-    "editor",
-    "tool"
+    "radio",
+    "news",
+    "signal",
+    "transmit",
+    "communicate"
   ],
   "browser": [
-    "browser",
-    "icon",
-    "ui",
-    "editor",
-    "tool"
+    "computer",
+    "internet",
+    "web",
+    "screen",
+    "display"
   ],
   "bug": [
     "error",
-    "insect",
     "glitch",
-    "fix",
-    "issue"
+    "fault",
+    "defect",
+    "flaw"
   ],
   "build": [
-    "build",
-    "icon",
-    "ui",
-    "editor",
-    "tool"
+    "construction",
+    "development",
+    "creation",
+    "fabrication",
+    "assembly"
   ],
   "calendar": [
     "date",
-    "schedule",
-    "event",
     "time",
-    "plan"
+    "schedule",
+    "appointment",
+    "event"
   ],
   "call-incoming": [
-    "call",
-    "incoming",
-    "icon",
-    "ui",
-    "editor"
+    "answer",
+    "accept",
+    "receive",
+    "connect",
+    "join"
   ],
   "call-outgoing": [
-    "call",
-    "outgoing",
-    "icon",
-    "ui",
-    "editor"
+    "hangup",
+    "endcall",
+    "disconnect",
+    "terminate",
+    "leave"
   ],
   "case-sensitive": [
-    "case",
-    "sensitive",
-    "icon",
-    "ui",
-    "editor"
+    "exact",
+    "precise",
+    "strict",
+    "rigid",
+    "particular"
   ],
   "chat-sparkle": [
-    "chat",
     "message",
-    "talk",
-    "comment",
-    "discussion"
+    "notification",
+    "alert",
+    "update",
+    "response"
   ],
   "chat-sparkle-error": [
-    "chat",
-    "message",
-    "talk",
-    "comment",
-    "discussion"
+    "failure",
+    "mistake",
+    "problem",
+    "issue",
+    "disaster"
   ],
   "chat-sparkle-warning": [
-    "chat",
-    "message",
-    "talk",
-    "comment",
-    "discussion"
+    "alert",
+    "caution",
+    "signal",
+    "flag",
+    "notification"
   ],
   "check": [
-    "tick",
-    "success",
-    "confirm",
-    "done",
-    "yes"
+    "verify",
+    "inspect",
+    "examine",
+    "review",
+    "validate"
   ],
   "check-all": [
-    "check",
-    "all",
-    "icon",
-    "ui",
-    "editor"
+    "verify",
+    "validate",
+    "confirm",
+    "approve",
+    "endorse"
   ],
   "checklist": [
-    "checklist",
-    "icon",
-    "ui",
-    "editor",
-    "tool"
+    "list",
+    "task",
+    "itemize",
+    "catalog",
+    "inventory"
   ],
   "chevron-down": [
     "arrow",
-    "expand",
-    "bottom",
-    "menu",
-    "dropdown"
+    "indicator",
+    "pointing",
+    "direction",
+    "pointer"
   ],
   "chevron-left": [
-    "arrow",
-    "back",
     "previous",
-    "west",
-    "return"
+    "back",
+    "prior",
+    "anterior",
+    "retrograde"
   ],
   "chevron-right": [
-    "arrow",
-    "forward",
     "next",
-    "east",
-    "go"
+    "forward",
+    "following",
+    "successor",
+    "proceeding"
   ],
   "chevron-up": [
-    "arrow",
-    "collapse",
-    "top",
-    "north",
-    "ascend"
+    "increase",
+    "rise",
+    "ascend",
+    "elevate",
+    "boost"
   ],
   "chip": [
-    "chip",
-    "icon",
-    "ui",
-    "editor",
-    "tool"
+    "crunchy",
+    "snack",
+    "tasty",
+    "munch",
+    "bite"
   ],
   "chrome-close": [
-    "chrome",
-    "close",
     "exit",
-    "cancel",
-    "dismiss"
+    "quit",
+    "terminate",
+    "dismiss",
+    "leave"
   ],
   "chrome-maximize": [
-    "chrome",
-    "maximize",
-    "icon",
-    "ui",
-    "editor"
+    "expand",
+    "shrink",
+    "reopen",
+    "border",
+    "resize"
   ],
   "chrome-minimize": [
-    "chrome",
-    "minimize",
-    "icon",
-    "ui",
-    "editor"
+    "contract",
+    "reduce",
+    "hide",
+    "compact",
+    "miniaturize"
   ],
   "chrome-restore": [
-    "chrome",
-    "restore",
-    "icon",
-    "ui",
-    "editor"
+    "reopen",
+    "rebuild",
+    "revive",
+    "resume",
+    "reactivate"
   ],
   "circle": [
-    "round",
-    "shape",
-    "empty",
-    "outline",
-    "geometry"
+    "disk",
+    "ball",
+    "sphere",
+    "globe",
+    "cylinder"
   ],
   "circle-filled": [
-    "round",
-    "shape",
-    "dot",
-    "status",
-    "indicator"
+    "complete",
+    "full",
+    "finished",
+    "closed",
+    "rounded"
   ],
   "circle-large": [
+    "large-circle",
+    "big-circle",
     "round",
-    "shape",
-    "dot",
-    "status",
-    "indicator"
+    "circular",
+    "disk"
   ],
   "circle-large-filled": [
-    "round",
-    "shape",
-    "dot",
-    "status",
-    "indicator"
+    "full-circle",
+    "complete",
+    "solid",
+    "rounded",
+    "circular"
+  ],
+  "circle-large-outline": [
+    "outline-circle",
+    "bordered-circle",
+    "ring",
+    "halo",
+    "frame"
+  ],
+  "circle-outline": [
+    "border",
+    "frame",
+    "enclosure",
+    "shape"
   ],
   "circle-slash": [
-    "round",
-    "shape",
-    "dot",
-    "status",
-    "indicator"
+    "cross",
+    "cut",
+    "slice",
+    "sever",
+    "destroy"
   ],
   "circle-small": [
-    "round",
-    "shape",
-    "dot",
-    "status",
-    "indicator"
+    "disk",
+    "ball",
+    "sphere",
+    "circular",
+    "round"
   ],
   "circle-small-filled": [
-    "round",
-    "shape",
-    "dot",
-    "status",
-    "indicator"
+    "complete",
+    "full",
+    "solid",
+    "rounded"
   ],
   "circuit-board": [
-    "circuit",
-    "board",
-    "icon",
-    "ui",
-    "editor"
+    "electronic",
+    "computer",
+    "machine",
+    "device",
+    "system"
   ],
   "clear-all": [
-    "clear",
-    "all",
-    "icon",
-    "ui",
-    "editor"
+    "reset",
+    "zero",
+    "nullify",
+    "erase",
+    "purge"
   ],
   "clippy": [
-    "clippy",
-    "icon",
-    "ui",
-    "editor",
-    "tool"
+    "assistant",
+    "help",
+    "guide",
+    "advice",
+    "support"
   ],
   "clock": [
     "time",
-    "clock",
-    "schedule",
+    "hour",
+    "moment",
+    "instant",
+    "period"
+  ],
+  "clockface": [
+    "watch",
     "timer",
-    "watch"
+    "calendar",
+    "globe",
+    "hourglass"
+  ],
+  "clone": [
+    "duplicate",
+    "copy",
+    "mirror",
+    "replicate",
+    "duplicate"
   ],
   "close": [
-    "remove",
-    "delete",
-    "cancel",
-    "x",
-    "exit"
+    "stop",
+    "exit",
+    "quit",
+    "halt",
+    "terminate"
   ],
   "close-all": [
-    "close",
+    "terminate",
+    "stop",
     "exit",
-    "cancel",
-    "dismiss",
-    "remove"
+    "shut",
+    "dismiss"
+  ],
+  "close-dirty": [
+    "discard",
+    "reject",
+    "stop",
+    "abort",
+    "terminate"
   ],
   "cloud": [
-    "weather",
-    "storage",
-    "server",
-    "data",
-    "sky"
+    "cloudy",
+    "virtual",
+    "remote",
+    "online",
+    "network"
   ],
   "cloud-download": [
-    "import",
-    "get",
-    "save",
-    "server",
-    "arrow"
+    "fetch",
+    "retrieve",
+    "acquire",
+    "obtain",
+    "transfer"
+  ],
+  "cloud-small": [
+    "weather",
+    "sun",
+    "sky",
+    "fog",
+    "mist"
   ],
   "cloud-upload": [
-    "export",
     "send",
-    "save",
-    "server",
-    "arrow"
+    "transmit",
+    "deliver",
+    "deposit"
   ],
   "code": [
-    "develop",
     "program",
-    "syntax",
-    "html",
-    "brackets"
+    "software",
+    "script",
+    "algorithm",
+    "editor"
   ],
   "code-oss": [
-    "code",
-    "oss",
-    "icon",
-    "ui",
-    "editor"
+    "repository",
+    "development",
+    "project",
+    "server",
+    "cloud"
   ],
   "code-review": [
-    "code",
-    "review",
-    "icon",
-    "ui",
-    "editor"
+    "test",
+    "debug",
+    "check",
+    "validate",
+    "verify"
   ],
   "coffee": [
-    "coffee",
-    "drink",
     "beverage",
-    "caffeine",
-    "cup"
+    "cup",
+    "hot",
+    "warm",
+    "energize"
   ],
   "collapse-all": [
-    "collapse",
-    "all",
-    "icon",
-    "ui",
-    "editor"
+    "fold",
+    "hide",
+    "compact",
+    "minimize",
+    "compress"
   ],
   "collection": [
-    "collection",
-    "icon",
-    "ui",
-    "editor",
-    "tool"
+    "set",
+    "list",
+    "catalog",
+    "database",
+    "archive"
+  ],
+  "collection-small": [
+    "set",
+    "group",
+    "assembly",
+    "aggregation",
+    "bundle"
   ],
   "color-mode": [
-    "color",
-    "mode",
-    "icon",
-    "ui",
-    "editor"
+    "theme",
+    "style",
+    "hue",
+    "saturation",
+    "tint"
   ],
   "combine": [
-    "combine",
-    "icon",
-    "ui",
-    "editor",
-    "tool"
+    "merge",
+    "unite",
+    "join",
+    "link",
+    "fusion"
   ],
   "comment": [
-    "chat",
-    "message",
-    "bubble",
-    "talk",
-    "feedback"
+    "note",
+    "remark",
+    "annotation",
+    "feedback",
+    "review"
+  ],
+  "comment-add": [
+    "edit",
+    "update",
+    "modify",
+    "suggest",
+    "improve"
   ],
   "comment-discussion": [
-    "chat",
-    "message",
-    "talk",
-    "comment",
-    "discussion"
+    "reply",
+    "feedback",
+    "response",
+    "note",
+    "annotation"
   ],
   "comment-discussion-quote": [
-    "chat",
-    "message",
-    "talk",
-    "comment",
-    "discussion"
+    "response",
+    "feedback",
+    "remark",
+    "opinion",
+    "citation"
   ],
   "comment-discussion-sparkle": [
-    "chat",
-    "message",
-    "talk",
-    "comment",
-    "discussion"
+    "contribution",
+    "feedback",
+    "response",
+    "reply",
+    "exchange"
   ],
   "comment-draft": [
-    "chat",
-    "message",
-    "talk",
-    "comment",
-    "discussion"
+    "note",
+    "edit",
+    "post",
+    "article",
+    "reply"
   ],
   "comment-unresolved": [
-    "chat",
-    "message",
-    "talk",
-    "comment",
-    "discussion"
+    "question",
+    "query",
+    "inquiry",
+    "doubt",
+    "uncertainty"
+  ],
+  "compare-changes": [
+    "review",
+    "inspect",
+    "analyze",
+    "evaluate",
+    "assess"
   ],
   "compass": [
-    "navigation",
     "direction",
-    "explore",
-    "map",
-    "safari"
+    "orientation",
+    "bearing",
+    "course",
+    "navigation"
   ],
   "compass-active": [
-    "compass",
-    "active",
-    "icon",
-    "ui",
-    "editor"
+    "activated",
+    "engaged",
+    "focused",
+    "on-track",
+    "in-use"
   ],
   "compass-dot": [
-    "compass",
-    "dot",
-    "icon",
-    "ui",
-    "editor"
+    "needle",
+    "direction",
+    "location",
+    "target",
+    "pointer"
+  ],
+  "console": [
+    "output",
+    "display",
+    "terminal",
+    "screen"
   ],
   "copilot": [
-    "ai",
-    "assistant",
-    "copilot",
-    "code",
-    "suggest"
+    "assist",
+    "help",
+    "aid",
+    "support",
+    "collaborate"
   ],
   "copilot-blocked": [
-    "ai",
-    "assistant",
-    "copilot",
-    "code",
-    "suggest"
+    "disabled",
+    "inactive",
+    "block",
+    "interrupt",
+    "halt"
   ],
   "copilot-error": [
-    "ai",
-    "assistant",
-    "copilot",
-    "code",
-    "suggest"
+    "failure",
+    "mistake",
+    "issue",
+    "bug"
   ],
   "copilot-in-progress": [
-    "ai",
-    "assistant",
-    "copilot",
-    "code",
-    "suggest"
+    "editing",
+    "typing",
+    "completing",
+    "suggesting",
+    "drafting"
   ],
   "copilot-large": [
-    "ai",
     "assistant",
-    "copilot",
-    "code",
-    "suggest"
+    "partner",
+    "computer",
+    "help",
+    "navigator"
   ],
   "copilot-not-connected": [
-    "ai",
-    "assistant",
-    "copilot",
-    "code",
-    "suggest"
+    "assist",
+    "partner",
+    "connection",
+    "sync",
+    "activate"
   ],
   "copilot-snooze": [
-    "ai",
-    "assistant",
-    "copilot",
-    "code",
-    "suggest"
+    "paused",
+    "suspended",
+    "on-hold",
+    "delayed",
+    "deferred"
   ],
   "copilot-success": [
-    "ai",
-    "assistant",
-    "copilot",
-    "code",
-    "suggest"
+    "completion",
+    "fulfillment",
+    "achievement",
+    "result"
   ],
   "copilot-unavailable": [
-    "ai",
-    "assistant",
-    "copilot",
-    "code",
-    "suggest"
+    "assist",
+    "help",
+    "support",
+    "error",
+    "failure"
   ],
   "copilot-warning": [
-    "ai",
-    "assistant",
-    "copilot",
-    "code",
-    "suggest"
+    "alert",
+    "caution",
+    "notification",
+    "error"
   ],
   "copilot-warning-large": [
-    "ai",
-    "assistant",
-    "copilot",
-    "code",
-    "suggest"
+    "alert",
+    "notification",
+    "caution",
+    "error"
   ],
   "copy": [
     "duplicate",
     "clone",
-    "files",
-    "clipboard",
-    "replicate"
+    "transfer",
+    "move",
+    "paste"
   ],
   "coverage": [
-    "coverage",
-    "icon",
-    "ui",
-    "editor",
-    "tool"
+    "report",
+    "result",
+    "score",
+    "metric",
+    "indicator"
   ],
   "credit-card": [
     "payment",
     "money",
-    "purchase",
-    "bank",
-    "debit"
+    "finance",
+    "transaction",
+    "purchase"
   ],
   "cursor": [
-    "cursor",
-    "icon",
-    "ui",
-    "editor",
-    "tool"
+    "pointer",
+    "indicator",
+    "focus",
+    "highlight",
+    "tracker"
   ],
   "dash": [
-    "dash",
-    "icon",
-    "ui",
-    "editor",
-    "tool"
+    "bar",
+    "graph",
+    "chart",
+    "indicator",
+    "gauge"
   ],
   "dashboard": [
-    "control",
-    "panel",
-    "stats",
-    "analytics",
-    "metrics"
+    "summary",
+    "overview",
+    "report",
+    "analysis",
+    "insight"
   ],
   "database": [
     "storage",
-    "server",
-    "sql",
+    "repository",
     "data",
-    "backup"
+    "record",
+    "collection"
   ],
   "debug": [
-    "debug",
-    "breakpoint",
-    "run",
     "inspect",
-    "bug"
+    "examine",
+    "analyze",
+    "evaluate",
+    "test"
   ],
   "debug-all": [
-    "debug",
-    "breakpoint",
-    "run",
+    "test",
     "inspect",
-    "bug"
+    "examine",
+    "evaluate",
+    "analyze"
   ],
   "debug-alt": [
-    "debug",
-    "breakpoint",
-    "run",
-    "inspect",
-    "bug"
+    "enable",
+    "activate",
+    "switch",
+    "toggle",
+    "inspect"
   ],
   "debug-alt-small": [
-    "debug",
-    "breakpoint",
-    "run",
+    "evaluate",
+    "analyze",
+    "examine",
     "inspect",
-    "bug"
+    "dissect"
+  ],
+  "debug-breakpoint": [
+    "pause",
+    "halt",
+    "suspend",
+    "interrupt",
+    "flag"
   ],
   "debug-breakpoint-conditional": [
-    "debug",
-    "breakpoint",
-    "run",
-    "inspect",
-    "bug"
+    "condition",
+    "test",
+    "evaluate",
+    "assess",
+    "analyze"
+  ],
+  "debug-breakpoint-conditional-disabled": [
+    "off",
+    "inactive",
+    "deactivated",
+    "unavailable"
   ],
   "debug-breakpoint-conditional-unverified": [
-    "debug",
-    "breakpoint",
-    "run",
+    "verify",
+    "validate",
+    "check",
     "inspect",
-    "bug"
+    "examine"
   ],
   "debug-breakpoint-data": [
-    "debug",
-    "breakpoint",
-    "run",
-    "inspect",
-    "bug"
+    "information",
+    "facts",
+    "details",
+    "knowledge"
+  ],
+  "debug-breakpoint-data-disabled": [
+    "halt",
+    "cease",
+    "suspend",
+    "inhibit",
+    "block"
   ],
   "debug-breakpoint-data-unverified": [
-    "debug",
-    "breakpoint",
-    "run",
-    "inspect",
-    "bug"
+    "information",
+    "facts",
+    "details",
+    "knowledge"
+  ],
+  "debug-breakpoint-disabled": [
+    "off",
+    "inactive",
+    "frozen",
+    "locked"
   ],
   "debug-breakpoint-function": [
-    "debug",
-    "breakpoint",
+    "test",
     "run",
-    "inspect",
-    "bug"
+    "execute",
+    "evaluate",
+    "analyze"
+  ],
+  "debug-breakpoint-function-disabled": [
+    "disable",
+    "block",
+    "stop",
+    "pause",
+    "suspend"
   ],
   "debug-breakpoint-function-unverified": [
-    "debug",
-    "breakpoint",
-    "run",
-    "inspect",
-    "bug"
+    "verify",
+    "validate",
+    "checkmark",
+    "audit",
+    "inspect"
   ],
   "debug-breakpoint-log": [
-    "debug",
-    "breakpoint",
-    "run",
-    "inspect",
-    "bug"
+    "error",
+    "warning",
+    "alert",
+    "notification",
+    "issue"
+  ],
+  "debug-breakpoint-log-disabled": [
+    "inactive",
+    "off",
+    "deactivated",
+    "hidden"
   ],
   "debug-breakpoint-log-unverified": [
-    "debug",
-    "breakpoint",
-    "run",
-    "inspect",
-    "bug"
+    "error",
+    "warning",
+    "alert",
+    "exception",
+    "crash"
   ],
   "debug-breakpoint-unsupported": [
-    "debug",
-    "breakpoint",
-    "run",
-    "inspect",
-    "bug"
+    "unavailable",
+    "disabled",
+    "prohibited",
+    "restricted",
+    "excluded"
+  ],
+  "debug-breakpoint-unverified": [
+    "error",
+    "warning",
+    "alert",
+    "flag",
+    "indicator"
   ],
   "debug-connected": [
-    "debug",
-    "breakpoint",
-    "run",
+    "test",
+    "verify",
+    "validate",
     "inspect",
-    "bug"
+    "examine"
   ],
   "debug-console": [
-    "debug",
-    "breakpoint",
-    "run",
-    "inspect",
-    "bug"
+    "terminal",
+    "log",
+    "output",
+    "screen"
   ],
   "debug-continue": [
-    "debug",
-    "breakpoint",
-    "run",
-    "inspect",
-    "bug"
+    "resume",
+    "restart",
+    "pause-resume",
+    "step-over"
   ],
   "debug-continue-small": [
-    "debug",
-    "breakpoint",
-    "run",
-    "inspect",
-    "bug"
+    "pause",
+    "stop",
+    "interrupt",
+    "halt",
+    "suspend"
   ],
   "debug-coverage": [
-    "debug",
-    "breakpoint",
-    "run",
-    "inspect",
-    "bug"
+    "metrics",
+    "analysis",
+    "reporting",
+    "insight",
+    "evaluation"
   ],
   "debug-disconnect": [
-    "debug",
-    "breakpoint",
-    "run",
-    "inspect",
-    "bug"
+    "stop",
+    "terminate",
+    "kill",
+    "abort",
+    "exit"
+  ],
+  "debug-hint": [
+    "tip",
+    "suggestion",
+    "warning",
+    "caution",
+    "advice"
   ],
   "debug-line-by-line": [
-    "debug",
-    "breakpoint",
-    "run",
     "inspect",
-    "bug"
+    "examine",
+    "analyze",
+    "evaluate",
+    "step-through"
   ],
   "debug-pause": [
-    "debug",
-    "breakpoint",
-    "run",
-    "inspect",
-    "bug"
+    "suspend",
+    "freeze",
+    "halt",
+    "wait"
   ],
   "debug-rerun": [
-    "debug",
-    "breakpoint",
-    "run",
-    "inspect",
-    "bug"
+    "re-run",
+    "retry",
+    "redo",
+    "revise",
+    "refresh"
   ],
   "debug-restart": [
-    "debug",
-    "breakpoint",
-    "run",
-    "inspect",
-    "bug"
+    "reboot",
+    "reload",
+    "refresh",
+    "revive"
   ],
   "debug-restart-frame": [
-    "debug",
-    "breakpoint",
-    "run",
-    "inspect",
-    "bug"
+    "reset",
+    "reboot",
+    "refresh",
+    "reload",
+    "restore"
   ],
   "debug-reverse-continue": [
-    "debug",
-    "breakpoint",
-    "run",
-    "inspect",
-    "bug"
+    "undo",
+    "revert",
+    "cancel",
+    "abort"
   ],
   "debug-stackframe": [
-    "debug",
-    "breakpoint",
-    "run",
-    "inspect",
-    "bug"
+    "stack",
+    "frame",
+    "window",
+    "pane",
+    "structure"
   ],
   "debug-stackframe-active": [
-    "debug",
-    "breakpoint",
-    "run",
-    "inspect",
-    "bug"
+    "running",
+    "live",
+    "current",
+    "focused"
+  ],
+  "debug-stackframe-dot": [
+    "trace",
+    "call",
+    "function",
+    "activation",
+    "entry"
+  ],
+  "debug-stackframe-focused": [
+    "active",
+    "selected",
+    "highlighted",
+    "emphasized"
   ],
   "debug-start": [
-    "debug",
-    "breakpoint",
-    "run",
-    "inspect",
-    "bug"
+    "initiate",
+    "begin",
+    "activate",
+    "launch"
   ],
   "debug-step-back": [
-    "debug",
-    "breakpoint",
-    "run",
-    "inspect",
-    "bug"
+    "previous",
+    "prior",
+    "retrograde",
+    "goback",
+    "stepback"
   ],
   "debug-step-into": [
-    "debug",
-    "breakpoint",
-    "run",
-    "inspect",
-    "bug"
+    "step-in",
+    "enter",
+    "enter-point",
+    "enter-frame",
+    "enter-line"
   ],
   "debug-step-out": [
-    "debug",
-    "breakpoint",
-    "run",
-    "inspect",
-    "bug"
+    "step-out",
+    "exit",
+    "leave",
+    "depart",
+    "step-over"
   ],
   "debug-step-over": [
-    "debug",
-    "breakpoint",
-    "run",
-    "inspect",
-    "bug"
+    "step-over",
+    "continue",
+    "resume",
+    "move-forward",
+    "skip"
   ],
   "debug-stop": [
-    "debug",
-    "breakpoint",
-    "run",
-    "inspect",
-    "bug"
+    "halt",
+    "pause",
+    "interrupt",
+    "abort"
   ],
   "desktop-download": [
-    "desktop",
-    "download",
-    "save",
-    "get",
-    "import"
+    "fetch",
+    "retrieve",
+    "acquire",
+    "obtain"
   ],
   "device-camera": [
-    "device",
-    "camera",
-    "icon",
-    "ui",
-    "editor"
+    "viewfinder",
+    "lens",
+    "optics",
+    "focus",
+    "zoom"
   ],
   "device-camera-video": [
-    "device",
-    "camera",
-    "video",
-    "icon",
-    "ui"
+    "recording",
+    "streaming",
+    "capture",
+    "transmit",
+    "record"
+  ],
+  "device-desktop": [
+    "computer",
+    "machine",
+    "terminal",
+    "console",
+    "system"
   ],
   "device-mobile": [
-    "device",
-    "mobile",
-    "icon",
-    "ui",
-    "editor"
+    "phone",
+    "tablet",
+    "screen",
+    "touch",
+    "portable"
   ],
   "diff": [
-    "diff",
     "compare",
-    "changes",
-    "patch",
-    "version"
+    "contrast",
+    "evaluate",
+    "assess",
+    "review"
   ],
   "diff-added": [
-    "diff",
-    "compare",
-    "changes",
-    "patch",
-    "version"
+    "update",
+    "change",
+    "modify",
+    "alter",
+    "amend"
   ],
   "diff-ignored": [
-    "diff",
-    "compare",
-    "changes",
-    "patch",
-    "version"
+    "skip",
+    "omit",
+    "exclude",
+    "ignore",
+    "neglect"
   ],
   "diff-modified": [
-    "diff",
-    "compare",
-    "changes",
-    "patch",
-    "version"
+    "edit",
+    "redact",
+    "revise",
+    "alter",
+    "tweak"
   ],
   "diff-multiple": [
-    "diff",
-    "compare",
-    "changes",
-    "patch",
-    "version"
+    "variety",
+    "diversity",
+    "range",
+    "assortment",
+    "collection"
   ],
   "diff-removed": [
-    "diff",
-    "compare",
-    "changes",
-    "patch",
-    "version"
+    "delete",
+    "erase",
+    "remove",
+    "expunge",
+    "discard"
   ],
   "diff-renamed": [
-    "diff",
-    "compare",
-    "changes",
-    "patch",
-    "version"
+    "rename",
+    "relabel",
+    "renumber",
+    "retitle",
+    "rebrand"
+  ],
+  "diff-sidebyside": [
+    "side-by-side",
+    "parallel",
+    "comparative",
+    "equivalent",
+    "similar"
   ],
   "diff-single": [
-    "diff",
     "compare",
-    "changes",
-    "patch",
-    "version"
+    "contrast",
+    "differ",
+    "variance",
+    "discrepancy"
   ],
   "discard": [
-    "discard",
-    "icon",
-    "ui",
-    "editor",
-    "tool"
+    "abandon",
+    "reject",
+    "refuse",
+    "dismiss",
+    "repudiate"
   ],
   "download": [
+    "file",
     "save",
-    "get",
-    "import",
-    "arrow",
-    "install"
+    "transfer",
+    "receive",
+    "fetch"
   ],
   "edit": [
-    "edit",
     "modify",
+    "change",
     "update",
-    "write",
-    "change"
+    "alter"
   ],
   "edit-code": [
-    "edit",
     "modify",
+    "change",
     "update",
-    "write",
-    "change"
+    "rewrite"
   ],
   "edit-session": [
-    "edit",
     "modify",
     "update",
-    "write",
-    "change"
+    "change",
+    "improve"
   ],
   "edit-sparkle": [
-    "edit",
-    "modify",
-    "update",
-    "write",
-    "change"
+    "editing",
+    "modifying",
+    "updating",
+    "changing",
+    "altering"
   ],
   "editor-layout": [
-    "layout",
-    "panel",
-    "sidebar",
-    "view",
-    "ui"
+    "design",
+    "format",
+    "arrange",
+    "organize",
+    "structure"
   ],
   "ellipsis": [
-    "ellipsis",
     "dots",
-    "menu",
-    "options",
-    "more"
+    "dots-dot",
+    "three-dots",
+    "dots-ellipsis",
+    "dot-dot"
   ],
   "empty-window": [
-    "empty",
-    "window",
-    "icon",
-    "ui",
-    "editor"
+    "blank",
+    "vacant",
+    "unoccupied",
+    "idle",
+    "inactive"
   ],
   "eraser": [
     "delete",
     "remove",
+    "erase",
     "clear",
-    "wipe",
-    "rubber"
+    "wipe"
   ],
   "error": [
-    "error",
-    "fail",
-    "issue",
-    "bug",
-    "alert"
+    "alert",
+    "warning",
+    "notification",
+    "exception",
+    "failure"
   ],
   "error-small": [
-    "error",
-    "fail",
-    "issue",
-    "bug",
-    "alert"
+    "alert",
+    "warning",
+    "notification",
+    "errorbox"
   ],
   "exclude": [
-    "exclude",
-    "icon",
-    "ui",
-    "editor",
-    "tool"
+    "omit",
+    "skip",
+    "ignore",
+    "dismiss",
+    "hide"
   ],
   "expand-all": [
-    "expand",
-    "all",
-    "icon",
-    "ui",
-    "editor"
+    "collapse",
+    "contract",
+    "minimize",
+    "reduce",
+    "shrink"
   ],
   "export": [
-    "export",
-    "icon",
-    "ui",
-    "editor",
-    "tool"
+    "transfer",
+    "move",
+    "send",
+    "transmit",
+    "output"
   ],
   "extensions": [
-    "extensions",
-    "icon",
-    "ui",
-    "editor",
-    "tool"
+    "addon",
+    "plugin",
+    "module",
+    "component",
+    "add-on"
   ],
   "extensions-large": [
-    "extensions",
-    "large",
-    "icon",
-    "ui",
-    "editor"
+    "addon",
+    "plugin",
+    "module",
+    "component",
+    "tool"
   ],
   "eye": [
-    "view",
-    "show",
-    "visible",
-    "watch",
-    "see"
+    "gaze",
+    "look",
+    "observe",
+    "examine",
+    "vision"
   ],
   "eye-closed": [
-    "eye",
-    "closed",
-    "icon",
-    "ui",
-    "editor"
+    "shut",
+    "block",
+    "cover",
+    "mask",
+    "hide"
+  ],
+  "eye-unwatch": [
+    "ignore",
+    "dismiss",
+    "neglect",
+    "overlook"
+  ],
+  "eye-watch": [
+    "monitor",
+    "track",
+    "follow",
+    "attend",
+    "observe"
   ],
   "feedback": [
-    "feedback",
-    "icon",
-    "ui",
-    "editor",
-    "tool"
+    "response",
+    "comment",
+    "review",
+    "evaluate",
+    "rate"
   ],
   "file": [
     "document",
-    "page",
-    "paper",
+    "record",
     "data",
-    "record"
+    "information",
+    "content"
+  ],
+  "file-add": [
+    "addition",
+    "appendage",
+    "attachment",
+    "extension",
+    "increment"
   ],
   "file-binary": [
-    "file",
     "document",
-    "page",
+    "record",
     "data",
-    "record"
+    "recorded",
+    "information"
   ],
   "file-code": [
-    "file",
-    "code",
-    "programming",
+    "program",
+    "script",
+    "text",
+    "source",
+    "code-snippet"
+  ],
+  "file-directory": [
+    "database",
+    "index",
+    "catalog",
+    "registry",
+    "listing"
+  ],
+  "file-directory-create": [
     "document",
-    "syntax"
+    "folder",
+    "upload",
+    "save"
   ],
   "file-media": [
-    "file",
-    "document",
-    "page",
-    "data",
-    "record"
+    "video",
+    "audio",
+    "image",
+    "picture",
+    "media-content",
+    "digital-file",
+    "file-type",
+    "media-format"
   ],
   "file-pdf": [
     "document",
-    "adobe",
-    "print",
-    "portable",
-    "read"
+    "report",
+    "paper",
+    "printout",
+    "manifest"
   ],
   "file-submodule": [
-    "file",
-    "document",
-    "page",
-    "data",
-    "record"
+    "subunit",
+    "component",
+    "part",
+    "section",
+    "subset"
   ],
   "file-symlink-directory": [
-    "file",
-    "document",
-    "page",
-    "data",
-    "record"
+    "folder",
+    "container",
+    "repository",
+    "archive",
+    "directory-path",
+    "symlink-target",
+    "file-system",
+    "data-store"
   ],
   "file-symlink-file": [
-    "file",
-    "document",
-    "page",
-    "data",
-    "record"
+    "link",
+    "reference",
+    "pointer",
+    "target",
+    "attachment"
   ],
   "file-text": [
-    "file",
     "document",
-    "page",
+    "record",
     "data",
-    "record"
+    "information"
   ],
   "file-zip": [
-    "file",
-    "document",
-    "page",
-    "data",
-    "record"
+    "archive",
+    "package",
+    "compressed",
+    "zipper",
+    "bundle"
   ],
   "files": [
-    "files",
-    "icon",
-    "ui",
-    "editor",
-    "tool"
+    "documents",
+    "records",
+    "data",
+    "assets",
+    "collection"
   ],
   "filter": [
-    "sort",
-    "funnel",
-    "refine",
-    "search",
-    "options"
+    "screen",
+    "selector",
+    "criterion",
+    "standard",
+    "threshold"
   ],
   "filter-filled": [
-    "filter",
-    "sort",
-    "refine",
-    "funnel",
-    "search"
+    "query",
+    "criteria",
+    "conditions",
+    "specification",
+    "filter-logic",
+    "search-criteria",
+    "data-filter",
+    "selection-criteria"
   ],
   "flag": [
-    "report",
-    "country",
     "banner",
-    "mark",
-    "goal"
+    "standard",
+    "crest",
+    "emblem"
   ],
   "flame": [
-    "flame",
-    "icon",
-    "ui",
-    "editor",
-    "tool"
+    "fire",
+    "blaze",
+    "spark",
+    "ember",
+    "inflammation"
   ],
   "fold": [
-    "fold",
-    "icon",
-    "ui",
-    "editor",
-    "tool"
+    "open",
+    "expand",
+    "reveal",
+    "unfurl",
+    "unfold"
   ],
   "fold-down": [
-    "fold",
-    "bottom",
-    "south",
-    "download",
-    "descend"
+    "collapse",
+    "reduce",
+    "contract",
+    "shrink",
+    "compress"
+  ],
+  "fold-horizontal": [
+    "crease",
+    "pleat",
+    "tuck",
+    "gather",
+    "fold-direction",
+    "horizontal-layout",
+    "side-fold",
+    "edge-fold"
+  ],
+  "fold-horizontal-filled": [
+    "complete",
+    "full",
+    "total",
+    "whole",
+    "fully-formed",
+    "entire",
+    "unbroken",
+    "solid-state"
   ],
   "fold-up": [
-    "fold",
-    "top",
-    "north",
-    "upload",
-    "ascend"
+    "compact",
+    "collapse",
+    "hide",
+    "retract",
+    "compress"
+  ],
+  "fold-vertical": [
+    "collapse",
+    "hide",
+    "minimize",
+    "compress",
+    "condense"
+  ],
+  "fold-vertical-filled": [
+    "complete",
+    "solid",
+    "solid-color",
+    "compact",
+    "vertical-layout",
+    "stacked-fold",
+    "column-fold",
+    "row-fold"
   ],
   "folder": [
     "directory",
-    "file",
-    "organize",
-    "group",
-    "storage"
+    "section",
+    "division",
+    "category",
+    "collection"
   ],
   "folder-active": [
-    "folder",
-    "directory",
-    "files",
-    "storage",
-    "browse"
+    "expanded",
+    "visible",
+    "showing",
+    "displayed",
+    "active-state",
+    "open-mode",
+    "expanded-view",
+    "show-all"
   ],
   "folder-library": [
-    "folder",
-    "directory",
-    "files",
+    "collection",
+    "archive",
+    "repository",
     "storage",
-    "browse"
+    "library-content",
+    "file-system-organization",
+    "data-store-structure",
+    "organizational-unit"
   ],
   "folder-opened": [
-    "folder",
-    "directory",
-    "files",
-    "storage",
-    "browse"
+    "closed",
+    "hidden",
+    "concealed",
+    "locked",
+    "collapsed"
   ],
   "forward": [
     "next",
-    "arrow",
-    "skip",
-    "media",
-    "go"
+    "continue",
+    "progress",
+    "advance",
+    "move-forward"
   ],
   "game": [
-    "game",
-    "icon",
-    "ui",
-    "editor",
-    "tool"
+    "play",
+    "amusement",
+    "fun",
+    "entertainment",
+    "challenge"
+  ],
+  "gather": [
+    "collect",
+    "assemble",
+    "group",
+    "accumulate",
+    "summarize"
   ],
   "gear": [
-    "gear",
-    "settings",
-    "cog",
-    "config",
-    "wheel"
+    "tool",
+    "device",
+    "mechanism",
+    "engine",
+    "machine"
   ],
   "gift": [
     "present",
-    "box",
+    "token",
     "reward",
-    "birthday",
-    "offer"
+    "bonus",
+    "treasure"
   ],
   "gist": [
-    "gist",
-    "icon",
-    "ui",
-    "editor",
-    "tool"
+    "summary",
+    "abstract",
+    "snapshot",
+    "recap",
+    "code-snippet",
+    "source-code",
+    "programming-language",
+    "development-tool"
+  ],
+  "gist-fork": [
+    "branch",
+    "divide",
+    "split",
+    "separate",
+    "distinguish"
+  ],
+  "gist-new": [
+    "initiate",
+    "create",
+    "generate",
+    "develop",
+    "build"
+  ],
+  "gist-private": [
+    "secret",
+    "confidential",
+    "restricted",
+    "hidden",
+    "private-data",
+    "encrypted-file",
+    "secure-storage",
+    "privileged-access"
   ],
   "gist-secret": [
-    "gist",
-    "secret",
-    "icon",
-    "ui",
-    "editor"
+    "code",
+    "cipher",
+    "encryption",
+    "hide",
+    "encrypted-content",
+    "password-protected",
+    "secure-sharing",
+    "access-control"
   ],
   "git-branch": [
-    "git",
-    "version",
-    "repo",
-    "commit",
-    "branch"
+    "division",
+    "segment",
+    "part",
+    "section",
+    "branch-name",
+    "commit-hash",
+    "version-control",
+    "source-code-management"
   ],
   "git-branch-changes": [
-    "git",
-    "version",
-    "repo",
-    "commit",
-    "branch"
+    "updates",
+    "commits",
+    "versions",
+    "diffs",
+    "change-log",
+    "revision-history",
+    "code-modifications",
+    "development-tracks"
   ],
   "git-branch-conflicts": [
-    "git",
-    "version",
-    "repo",
-    "commit",
-    "branch"
+    "conflict",
+    "disagreement",
+    "differing",
+    "inconsistent",
+    "discordant"
+  ],
+  "git-branch-create": [
+    "generate",
+    "build",
+    "construct",
+    "make",
+    "new-branch",
+    "branch-creation",
+    "source-code-generation",
+    "development-environment"
+  ],
+  "git-branch-delete": [
+    "remove",
+    "discard",
+    "erase",
+    "destroy",
+    "delete-branch",
+    "branch-removal",
+    "source-code-deletion",
+    "version-control-removal"
   ],
   "git-branch-staged-changes": [
-    "git",
-    "version",
-    "repo",
-    "commit",
-    "branch"
+    "added",
+    "committed",
+    "updated",
+    "modified",
+    "changeset"
   ],
   "git-commit": [
-    "git",
-    "version",
-    "repo",
-    "commit",
-    "branch"
+    "save",
+    "record",
+    "deposit",
+    "store"
   ],
   "git-compare": [
-    "git",
-    "version",
-    "repo",
-    "commit",
-    "branch"
+    "contrast",
+    "examine",
+    "evaluate",
+    "assess"
   ],
-  "git-fetch": [
-    "git",
-    "version",
-    "repo",
-    "commit",
-    "branch"
+  "git-fork-private": [
+    "branch",
+    "split",
+    "divided",
+    "separated",
+    "divide"
   ],
   "git-merge": [
-    "git",
-    "version",
-    "repo",
-    "commit",
-    "branch"
+    "unify",
+    "combine",
+    "integrate",
+    "reconcile",
+    "align"
   ],
   "git-pull-request": [
-    "git",
-    "version",
-    "repo",
-    "commit",
-    "branch"
+    "submission",
+    "contribution",
+    "offer",
+    "proposition",
+    "suggestion"
+  ],
+  "git-pull-request-abandoned": [
+    "dismissal",
+    "rejection",
+    "cancellation",
+    "termination",
+    "abandonment"
+  ],
+  "git-pull-request-assignee": [
+    "assigner",
+    "owner",
+    "maintainer",
+    "developer",
+    "contributor"
   ],
   "git-pull-request-closed": [
-    "git",
-    "version",
-    "repo",
-    "commit",
-    "branch"
+    "merged",
+    "resolved",
+    "accepted",
+    "completed",
+    "finalized"
   ],
   "git-pull-request-create": [
-    "git",
-    "version",
-    "repo",
+    "merge",
     "commit",
-    "branch"
+    "push",
+    "update",
+    "deploy"
   ],
   "git-pull-request-done": [
-    "git",
-    "version",
-    "repo",
     "commit",
-    "branch"
+    "merge",
+    "push",
+    "update",
+    "sync"
   ],
   "git-pull-request-draft": [
-    "git",
-    "version",
-    "repo",
-    "commit",
-    "branch"
+    "in-progress",
+    "work-in-progress",
+    "pending-review",
+    "unreviewed",
+    "unpublished"
   ],
   "git-pull-request-go-to-changes": [
-    "git",
-    "version",
-    "repo",
+    "update",
+    "modify",
+    "edit",
+    "revise",
+    "changeset"
+  ],
+  "git-pull-request-label": [
+    "merge",
+    "update",
+    "review",
+    "compare"
+  ],
+  "git-pull-request-milestone": [
     "commit",
-    "branch"
+    "issue",
+    "patch",
+    "review",
+    "update"
   ],
   "git-pull-request-new-changes": [
-    "git",
-    "version",
-    "repo",
-    "commit",
-    "branch"
+    "fresh",
+    "recent",
+    "updated",
+    "modified"
+  ],
+  "git-pull-request-reviewer": [
+    "assignee",
+    "contributor",
+    "author",
+    "maintainer"
   ],
   "git-stash": [
-    "git",
-    "version",
-    "repo",
-    "commit",
-    "branch"
+    "hide",
+    "conceal",
+    "store",
+    "reserve",
+    "setaside"
   ],
   "git-stash-apply": [
-    "git",
-    "version",
-    "repo",
-    "commit",
-    "branch"
+    "unhide",
+    "reveal",
+    "use",
+    "activate"
   ],
   "git-stash-pop": [
-    "git",
-    "version",
-    "repo",
-    "commit",
-    "branch"
+    "retrieve",
+    "pullout",
+    "extract",
+    "withdraw",
+    "remove"
   ],
   "github": [
-    "code",
-    "repo",
-    "git",
-    "brand",
-    "developer"
+    "platform",
+    "software",
+    "company",
+    "organization",
+    "site"
   ],
   "github-action": [
-    "git",
-    "version",
-    "repo",
-    "commit",
-    "branch"
+    "automate",
+    "orchestrate",
+    "execute",
+    "process",
+    "run"
   ],
   "github-alt": [
-    "git",
-    "version",
-    "repo",
-    "commit",
-    "branch"
+    "alternative",
+    "variant",
+    "substitute",
+    "replace",
+    "supplement"
   ],
   "github-inverted": [
-    "git",
-    "version",
-    "repo",
-    "commit",
-    "branch"
+    "invert",
+    "reverse",
+    "opposite",
+    "reversed",
+    "mirrored"
   ],
   "github-project": [
-    "git",
-    "version",
-    "repo",
-    "commit",
-    "branch"
+    "repository",
+    "organization",
+    "team",
+    "space",
+    "workspace"
   ],
   "globe": [
     "world",
-    "internet",
-    "web",
     "earth",
-    "language"
+    "planet",
+    "sphere"
   ],
   "go-to-editing-session": [
-    "go",
-    "to",
-    "editing",
-    "session",
-    "icon"
+    "edit",
+    "modify",
+    "update",
+    "change",
+    "improve"
   ],
   "go-to-file": [
-    "go",
-    "to",
-    "file",
     "document",
-    "page"
+    "record",
+    "entry",
+    "location"
   ],
   "go-to-search": [
-    "go",
-    "to",
-    "search",
     "find",
-    "query"
+    "locate",
+    "discover",
+    "browse"
   ],
   "grabber": [
-    "grabber",
-    "icon",
-    "ui",
-    "editor",
-    "tool"
+    "claw",
+    "pincer",
+    "grasp",
+    "catch",
+    "seize"
   ],
   "graph": [
-    "graph",
-    "icon",
-    "ui",
-    "editor",
-    "tool"
+    "chart",
+    "diagram",
+    "picture",
+    "map",
+    "plot"
   ],
   "graph-left": [
-    "graph",
-    "back",
-    "previous",
-    "west",
-    "return"
+    "arrow-left",
+    "direction-left",
+    "left-pointing",
+    "diagram-left",
+    "chart-left"
   ],
   "graph-line": [
-    "graph",
-    "line",
-    "icon",
-    "ui",
-    "editor"
+    "curve",
+    "trend",
+    "chart",
+    "plot"
   ],
   "graph-scatter": [
-    "graph",
-    "scatter",
-    "icon",
-    "ui",
-    "editor"
+    "dot",
+    "point",
+    "marker",
+    "dotplot",
+    "chart"
   ],
   "gripper": [
-    "gripper",
-    "icon",
-    "ui",
-    "editor",
-    "tool"
+    "grip",
+    "clutch",
+    "hold",
+    "fasten",
+    "secure"
   ],
   "group-by-ref-type": [
-    "group",
-    "by",
-    "ref",
-    "type",
-    "icon"
+    "sort",
+    "organize",
+    "categorize",
+    "classify",
+    "filter",
+    "list"
   ],
   "heart": [
-    "like",
     "love",
-    "favorite",
-    "save",
-    "health"
+    "passion",
+    "affection",
+    "desire",
+    "longing"
   ],
   "heart-filled": [
-    "heart",
-    "filled",
-    "icon",
-    "ui",
-    "editor"
+    "love",
+    "passion",
+    "affection",
+    "desire",
+    "romance",
+    "tenderness"
   ],
   "history": [
-    "time",
-    "backup",
-    "past",
-    "restore",
-    "clock"
+    "record",
+    "log",
+    "archive",
+    "chronicle",
+    "account"
   ],
   "home": [
     "house",
-    "main",
-    "start",
-    "dashboard",
-    "building"
+    "dwelling",
+    "abode",
+    "residence",
+    "nest"
   ],
   "horizontal-rule": [
-    "horizontal",
-    "rule",
-    "icon",
-    "ui",
-    "editor"
+    "line",
+    "bar",
+    "divider",
+    "separater",
+    "border"
   ],
   "hubot": [
-    "hubot",
-    "icon",
-    "ui",
-    "editor",
-    "tool"
+    "bot",
+    "robot",
+    "computer",
+    "system",
+    "server"
   ],
   "inbox": [
+    "mail",
+    "letter",
+    "message",
     "email",
-    "messages",
-    "tray",
-    "receive",
-    "mail"
+    "post"
   ],
   "indent": [
-    "indent",
-    "text",
-    "format",
-    "align",
-    "spacing"
+    "space",
+    "margin",
+    "gutter",
+    "padding",
+    "border"
   ],
   "index-zero": [
-    "index",
-    "zero",
-    "icon",
-    "ui",
-    "editor"
+    "start",
+    "begin",
+    "origin",
+    "root",
+    "zero-point"
   ],
   "info": [
-    "help",
+    "information",
+    "data",
     "details",
-    "support",
-    "about",
-    "tooltip"
+    "facts",
+    "knowledge"
   ],
   "insert": [
-    "insert",
-    "icon",
-    "ui",
-    "editor",
-    "tool"
+    "add",
+    "append",
+    "addition",
+    "extend",
+    "enlarge"
   ],
   "inspect": [
-    "inspect",
-    "icon",
-    "ui",
-    "editor",
-    "tool"
+    "examine",
+    "investigate",
+    "analyze",
+    "evaluate",
+    "assess"
+  ],
+  "issue-closed": [
+    "resolved",
+    "fixed",
+    "solved",
+    "settled",
+    "finished"
   ],
   "issue-draft": [
-    "issue",
-    "draft",
-    "icon",
-    "ui",
-    "editor"
+    "unpublished",
+    "unreleased",
+    "pending",
+    "drafty",
+    "unfinished"
+  ],
+  "issue-opened": [
+    "created",
+    "new",
+    "submitted",
+    "posted",
+    "added"
   ],
   "issue-reopened": [
-    "issue",
-    "reopened",
-    "icon",
-    "ui",
-    "editor"
+    "problem",
+    "concern",
+    "case",
+    "matter",
+    "pending"
   ],
   "issues": [
-    "issues",
-    "icon",
-    "ui",
-    "editor",
-    "tool"
+    "problems",
+    "concerns",
+    "cases",
+    "matters",
+    "discrepancy"
   ],
   "italic": [
-    "text",
-    "format",
-    "style",
-    "font",
-    "slant"
+    "emphasize",
+    "bold",
+    "stress",
+    "highlight",
+    "emphasized"
   ],
   "jersey": [
-    "jersey",
-    "icon",
-    "ui",
-    "editor",
-    "tool"
+    "shirt",
+    "t-shirt",
+    "uniform",
+    "garment",
+    "apparel"
   ],
   "json": [
-    "json",
-    "icon",
-    "ui",
-    "editor",
-    "tool"
+    "data",
+    "information",
+    "code",
+    "format",
+    "structure"
+  ],
+  "kebab-horizontal": [
+    "burger",
+    "sandwich",
+    "menu",
+    "grid",
+    "layout"
   ],
   "kebab-vertical": [
-    "menu",
-    "more",
-    "options",
-    "dots",
-    "overflow"
+    "pointer",
+    "tab",
+    "selector",
+    "cursor",
+    "target"
   ],
   "key": [
     "password",
-    "lock",
-    "access",
-    "security",
-    "login"
+    "code",
+    "secret",
+    "cipher",
+    "credentials"
+  ],
+  "keyboard": [
+    "input",
+    "typing",
+    "keying",
+    "punching",
+    "clacking"
   ],
   "keyboard-tab": [
-    "keyboard",
-    "tab",
-    "icon",
-    "ui",
-    "editor"
+    "key",
+    "tabulator",
+    "selector",
+    "editor",
+    "controller"
   ],
   "keyboard-tab-above": [
-    "keyboard",
-    "tab",
-    "above",
-    "icon",
-    "ui"
+    "key",
+    "control",
+    "switch",
+    "selector",
+    "activation"
   ],
   "keyboard-tab-below": [
-    "keyboard",
-    "tab",
-    "below",
-    "icon",
-    "ui"
+    "key",
+    "control",
+    "switch",
+    "selector",
+    "activation"
   ],
   "law": [
-    "law",
-    "icon",
-    "ui",
-    "editor",
-    "tool"
+    "regulation",
+    "rule",
+    "statute",
+    "ordinance",
+    "bylaw"
   ],
   "layers": [
-    "layers",
-    "icon",
-    "ui",
-    "editor",
-    "tool"
+    "stack",
+    "pile",
+    "sequence",
+    "series",
+    "structure"
   ],
   "layers-active": [
-    "layers",
-    "active",
-    "icon",
-    "ui",
-    "editor"
+    "enabled",
+    "selected",
+    "highlighted",
+    "focused",
+    "visible"
   ],
   "layers-dot": [
-    "layers",
-    "dot",
-    "icon",
-    "ui",
-    "editor"
+    "point",
+    "marker",
+    "indicator",
+    "focus",
+    "target"
   ],
   "layout": [
-    "layout",
-    "panel",
-    "sidebar",
-    "view",
-    "ui"
+    "design",
+    "arrangement",
+    "organization",
+    "structure",
+    "composition"
   ],
   "layout-activitybar-left": [
-    "layout",
-    "panel",
-    "sidebar",
-    "view",
-    "ui"
+    "side",
+    "horizontal",
+    "alignment",
+    "positioning",
+    "container"
   ],
   "layout-activitybar-right": [
-    "layout",
-    "panel",
-    "sidebar",
-    "view",
-    "ui"
+    "side",
+    "horizontal",
+    "alignment",
+    "positioning",
+    "container"
   ],
   "layout-centered": [
-    "layout",
-    "panel",
-    "sidebar",
-    "view",
-    "ui"
+    "aligned",
+    "balanced",
+    "symmetrical",
+    "even",
+    "arranged"
   ],
   "layout-menubar": [
-    "layout",
-    "panel",
-    "sidebar",
-    "view",
-    "ui"
+    "menubars",
+    "topmenu",
+    "navbar",
+    "headerbar",
+    "toolbar"
   ],
   "layout-panel": [
-    "layout",
-    "panel",
-    "sidebar",
-    "view",
-    "ui"
+    "design",
+    "arrangement",
+    "organization",
+    "structure",
+    "composition"
   ],
   "layout-panel-center": [
-    "layout",
-    "panel",
-    "sidebar",
-    "view",
-    "ui"
+    "middle",
+    "central",
+    "balance",
+    "equilibrium",
+    "composition"
   ],
   "layout-panel-dock": [
-    "layout",
-    "panel",
-    "sidebar",
-    "view",
-    "ui"
+    "window",
+    "pane",
+    "section",
+    "tab",
+    "attachment"
   ],
   "layout-panel-justify": [
-    "layout",
-    "panel",
-    "sidebar",
-    "view",
-    "ui"
+    "justified",
+    "aligned",
+    "arranged",
+    "ordered",
+    "structured"
   ],
   "layout-panel-left": [
-    "layout",
-    "panel",
-    "sidebar",
-    "view",
-    "ui"
+    "section",
+    "division",
+    "segment",
+    "component",
+    "module"
   ],
   "layout-panel-off": [
-    "layout",
-    "panel",
-    "sidebar",
-    "view",
-    "ui"
+    "frame",
+    "window",
+    "pane",
+    "container",
+    "structure"
   ],
   "layout-panel-right": [
-    "layout",
-    "panel",
-    "sidebar",
-    "view",
-    "ui"
+    "section",
+    "division",
+    "segment",
+    "component",
+    "module"
   ],
   "layout-sidebar-left": [
-    "layout",
-    "panel",
-    "sidebar",
-    "view",
-    "ui"
+    "side",
+    "horizontal",
+    "alignment",
+    "positioning",
+    "orientation"
   ],
   "layout-sidebar-left-dock": [
-    "layout",
+    "nav",
+    "menu",
     "panel",
-    "sidebar",
-    "view",
-    "ui"
+    "container",
+    "attachment"
   ],
   "layout-sidebar-left-off": [
-    "layout",
-    "panel",
-    "sidebar",
-    "view",
-    "ui"
+    "edge",
+    "border",
+    "frame",
+    "boundary",
+    "limit"
   ],
   "layout-sidebar-right": [
-    "layout",
-    "panel",
-    "sidebar",
-    "view",
-    "ui"
+    "edge",
+    "border",
+    "frame",
+    "bordered",
+    "framed"
   ],
   "layout-sidebar-right-dock": [
-    "layout",
+    "nav",
+    "menu",
     "panel",
-    "sidebar",
-    "view",
-    "ui"
+    "container",
+    "attachment"
   ],
   "layout-sidebar-right-off": [
-    "layout",
-    "panel",
-    "sidebar",
-    "view",
-    "ui"
+    "offscreen",
+    "hidden",
+    "invisible",
+    "concealed",
+    "absent"
   ],
   "layout-statusbar": [
-    "layout",
-    "panel",
-    "sidebar",
-    "view",
-    "ui"
+    "toolbar",
+    "topbar",
+    "header",
+    "nav",
+    "ribbon"
   ],
   "library": [
-    "library",
-    "icon",
-    "ui",
-    "editor",
-    "tool"
+    "database",
+    "repository",
+    "collection",
+    "archive",
+    "storage"
+  ],
+  "light-bulb": [
+    "illumination",
+    "radiance",
+    "glow",
+    "shine",
+    "brighten"
   ],
   "lightbulb": [
+    "insight",
     "idea",
-    "tip",
-    "solution",
-    "bright",
-    "hint"
+    "concept",
+    "thought",
+    "epiphany"
   ],
   "lightbulb-autofix": [
-    "lightbulb",
-    "autofix",
-    "icon",
-    "ui",
-    "editor"
+    "repair",
+    "maintenance",
+    "upgrade",
+    "replace",
+    "fix"
   ],
   "lightbulb-empty": [
-    "lightbulb",
-    "empty",
-    "icon",
-    "ui",
-    "editor"
+    "switch",
+    "off",
+    "darkness",
+    "outlet",
+    "flicker"
   ],
   "lightbulb-sparkle": [
-    "lightbulb",
-    "sparkle",
-    "icon",
-    "ui",
-    "editor"
+    "idea",
+    "insight",
+    "illumination",
+    "innovation",
+    "epiphany"
   ],
   "link": [
-    "url",
-    "chain",
-    "connect",
-    "attach",
-    "web"
+    "route",
+    "path",
+    "connection",
+    "tie",
+    "junction"
   ],
   "link-external": [
-    "link",
+    "reference",
+    "source",
     "url",
-    "connect",
-    "chain",
-    "external"
+    "connection",
+    "portal"
   ],
   "list-filter": [
-    "list",
-    "filter",
     "sort",
-    "refine",
-    "funnel"
+    "rank",
+    "compare",
+    "organize",
+    "classify"
   ],
   "list-flat": [
-    "list",
-    "flat",
-    "icon",
-    "ui",
-    "editor"
+    "table",
+    "grid",
+    "board",
+    "sheet",
+    "arrangement"
   ],
   "list-ordered": [
-    "list",
-    "ordered",
-    "icon",
-    "ui",
-    "editor"
+    "sequence",
+    "order",
+    "catalog",
+    "directory",
+    "ranked"
   ],
   "list-selection": [
-    "list",
-    "selection",
-    "icon",
-    "ui",
-    "editor"
+    "checkbox",
+    "radio",
+    "option",
+    "choice",
+    "vote"
   ],
   "list-tree": [
-    "list",
-    "tree",
-    "icon",
-    "ui",
-    "editor"
+    "directory",
+    "folder",
+    "treeview",
+    "branching",
+    "hierarchy"
   ],
   "list-unordered": [
-    "list",
-    "unordered",
-    "icon",
-    "ui",
-    "editor"
+    "collection",
+    "set",
+    "group",
+    "assembly",
+    "unranked"
   ],
   "live-share": [
-    "live",
-    "share",
-    "icon",
-    "ui",
-    "editor"
+    "broadcast",
+    "transmit",
+    "stream",
+    "cast",
+    "relay"
   ],
   "loading": [
-    "loading",
-    "icon",
-    "ui",
-    "editor",
-    "tool"
+    "waiting",
+    "delaying",
+    "pausing",
+    "stopping",
+    "halting"
   ],
   "location": [
-    "location",
-    "gps",
     "place",
-    "position",
-    "map"
+    "spot",
+    "site",
+    "area",
+    "region"
   ],
   "lock": [
-    "secure",
-    "closed",
-    "password",
-    "protect",
-    "private"
+    "locked",
+    "frozen",
+    "secured",
+    "protected",
+    "sealed"
   ],
   "lock-small": [
-    "lock",
     "secure",
-    "protect",
-    "private",
-    "password"
+    "safe",
+    "locked",
+    "protected",
+    "encrypted"
+  ],
+  "log-in": [
+    "enter",
+    "login",
+    "access",
+    "authenticate",
+    "authorize"
+  ],
+  "log-out": [
+    "exit",
+    "leave",
+    "logout",
+    "disengage",
+    "disconnect"
+  ],
+  "logo-github": [
+    "brand",
+    "emblem",
+    "mark",
+    "company",
+    "organization"
   ],
   "magnet": [
-    "magnet",
-    "magnetic",
     "attract",
-    "metal",
-    "physics"
+    "draw",
+    "pull",
+    "lure",
+    "capture"
   ],
   "mail": [
-    "mail",
-    "icon",
-    "ui",
-    "editor",
-    "tool"
+    "postage",
+    "delivery",
+    "transit",
+    "carrier",
+    "postal"
   ],
   "mail-read": [
-    "mail",
-    "read",
-    "icon",
-    "ui",
-    "editor"
+    "message",
+    "email",
+    "letter",
+    "note",
+    "communication"
+  ],
+  "mail-reply": [
+    "envelope",
+    "message",
+    "communication",
+    "letter",
+    "email"
   ],
   "map": [
     "location",
     "place",
-    "travel",
-    "navigate",
-    "guide"
+    "spot",
+    "site",
+    "territory"
   ],
   "map-filled": [
-    "location",
-    "map",
-    "pin",
-    "place",
-    "gps"
+    "complete",
+    "full",
+    "total",
+    "whole",
+    "entirety"
+  ],
+  "map-horizontal": [
+    "direction",
+    "route",
+    "path",
+    "course",
+    "way"
+  ],
+  "map-horizontal-filled": [
+    "complete",
+    "full",
+    "total",
+    "whole",
+    "entirety"
   ],
   "map-vertical": [
-    "location",
-    "map",
-    "pin",
-    "place",
-    "gps"
+    "chart",
+    "graph",
+    "diagram",
+    "layout",
+    "visualization"
   ],
   "map-vertical-filled": [
-    "location",
-    "map",
-    "pin",
-    "place",
-    "gps"
+    "complete",
+    "full",
+    "solid",
+    "solid-color",
+    "covered"
+  ],
+  "mark-github": [
+    "label",
+    "marker",
+    "identifier",
+    "signifier"
   ],
   "markdown": [
-    "markdown",
-    "icon",
-    "ui",
-    "editor",
-    "tool"
+    "formatting",
+    "style",
+    "layout",
+    "design",
+    "template"
   ],
   "mcp": [
-    "mcp",
-    "icon",
-    "ui",
-    "editor",
-    "tool"
+    "dashboard",
+    "console",
+    "panel",
+    "workspace",
+    "system"
   ],
   "megaphone": [
-    "announce",
-    "shout",
-    "broadcast",
-    "speak",
-    "volume"
+    "amplify",
+    "enunciate",
+    "project",
+    "proclaim",
+    "declare"
   ],
   "mention": [
-    "mention",
-    "icon",
-    "ui",
-    "editor",
-    "tool"
+    "reference",
+    "allude",
+    "indicate",
+    "pointout",
+    "cite"
   ],
   "menu": [
-    "menu",
-    "icon",
-    "ui",
-    "editor",
-    "tool"
+    "hamburger",
+    "navigation",
+    "list",
+    "options",
+    "drawer"
   ],
   "merge": [
-    "merge",
-    "icon",
-    "ui",
-    "editor",
-    "tool"
+    "unite",
+    "join",
+    "link",
+    "connect",
+    "fusion"
   ],
   "merge-into": [
-    "merge",
-    "into",
-    "icon",
-    "ui",
-    "editor"
+    "combine",
+    "unite",
+    "integrate",
+    "fuse",
+    "union"
   ],
   "mic": [
-    "mic",
+    "listen",
+    "hear",
+    "record",
     "microphone",
-    "audio",
-    "voice",
-    "record"
+    "audio"
   ],
   "mic-filled": [
-    "mic",
-    "microphone",
+    "speaker",
     "audio",
+    "phone",
     "voice",
-    "record"
+    "talk"
+  ],
+  "microscope": [
+    "lens",
+    "optics",
+    "instrument",
+    "device",
+    "telescope"
   ],
   "milestone": [
-    "milestone",
-    "icon",
-    "ui",
-    "editor",
-    "tool"
+    "achievement",
+    "checkpoint",
+    "flag",
+    "mark",
+    "target"
   ],
   "mirror": [
-    "mirror",
-    "icon",
-    "ui",
-    "editor",
-    "tool"
+    "clone",
+    "sync",
+    "replicate",
+    "duplicate",
+    "copy"
+  ],
+  "mirror-private": [
+    "glass",
+    "reflection",
+    "private-room",
+    "secret",
+    "hidden"
+  ],
+  "mirror-public": [
+    "shared",
+    "open",
+    "visible",
+    "accessible",
+    "exposed"
+  ],
+  "more": [
+    "additional",
+    "extra",
+    "further",
+    "next",
+    "supplement"
   ],
   "mortar-board": [
-    "mortar",
-    "board",
-    "graduation",
-    "cap",
-    "education"
+    "bulletin",
+    "notice",
+    "post",
+    "announcement",
+    "communication"
   ],
   "move": [
-    "move",
-    "icon",
-    "ui",
-    "editor",
-    "tool"
+    "relocation",
+    "shift",
+    "transfer",
+    "transport",
+    "migration"
   ],
   "multiple-windows": [
-    "multiple",
-    "windows",
-    "icon",
-    "ui",
-    "editor"
+    "array",
+    "grid",
+    "layout",
+    "panorama",
+    "multiview"
   ],
   "music": [
-    "music",
     "sound",
-    "audio",
-    "note",
-    "song"
+    "melody",
+    "harmony",
+    "rhythm",
+    "tune"
   ],
   "mute": [
-    "mute",
-    "silent",
+    "block",
+    "cancel",
+    "hush",
     "quiet",
-    "off",
-    "disable"
+    "silence"
   ],
   "new-collection": [
-    "new",
-    "collection",
-    "icon",
-    "ui",
-    "editor"
+    "addition",
+    "growth",
+    "increase",
+    "expansion",
+    "update"
   ],
   "new-file": [
-    "new",
-    "file",
     "document",
-    "page",
-    "data"
+    "record",
+    "entry",
+    "creation",
+    "content"
   ],
   "new-folder": [
-    "new",
-    "folder",
     "directory",
-    "files",
-    "storage"
+    "container",
+    "section",
+    "division",
+    "subfolder"
   ],
   "newline": [
-    "newline",
-    "icon",
-    "ui",
-    "editor",
-    "tool"
+    "linebreak",
+    "return",
+    "endline",
+    "separator",
+    "split"
   ],
   "no-newline": [
-    "no",
-    "newline",
-    "icon",
-    "ui",
-    "editor"
+    "blank",
+    "empty",
+    "continue",
+    "flow",
+    "stream"
   ],
   "note": [
-    "note",
-    "icon",
-    "ui",
-    "editor",
-    "tool"
+    "annotation",
+    "comment",
+    "hint",
+    "notation",
+    "remark"
   ],
   "notebook": [
-    "notebook",
-    "icon",
-    "ui",
-    "editor",
-    "tool"
+    "paper",
+    "document",
+    "book",
+    "journal",
+    "record"
   ],
   "notebook-template": [
-    "notebook",
-    "template",
-    "icon",
-    "ui",
-    "editor"
+    "document",
+    "example",
+    "casestudy",
+    "tutorial",
+    "guide",
+    "resource"
   ],
   "octoface": [
-    "octoface",
-    "icon",
-    "ui",
-    "editor",
-    "tool"
+    "avatar",
+    "character",
+    "face",
+    "profile",
+    "image"
   ],
   "open-in-product": [
-    "open",
     "launch",
-    "view",
-    "expand",
-    "enter"
+    "app",
+    "window",
+    "display"
   ],
   "open-preview": [
-    "open",
-    "launch",
-    "view",
-    "expand",
-    "enter"
+    "display",
+    "reveal",
+    "show",
+    "unveil",
+    "visualize"
   ],
   "organization": [
-    "organization",
-    "icon",
-    "ui",
-    "editor",
-    "tool"
+    "company",
+    "firm",
+    "business",
+    "team",
+    "group"
+  ],
+  "organization-filled": [
+    "complete",
+    "full",
+    "filled-in",
+    "solid",
+    "solid-colored"
+  ],
+  "organization-outline": [
+    "bordered",
+    "boxed",
+    "defined",
+    "structured",
+    "layout"
   ],
   "output": [
-    "output",
-    "icon",
-    "ui",
-    "editor",
-    "tool"
+    "print",
+    "display",
+    "show",
+    "reveal",
+    "publish"
   ],
   "package": [
-    "package",
-    "icon",
-    "ui",
-    "editor",
-    "tool"
+    "bundle",
+    "collection",
+    "container",
+    "set",
+    "suite"
   ],
   "paintcan": [
-    "paintcan",
-    "icon",
-    "ui",
-    "editor",
-    "tool"
+    "brush",
+    "color",
+    "coat",
+    "paint",
+    "stroke"
   ],
   "pass": [
-    "pass",
-    "icon",
-    "ui",
-    "editor",
-    "tool"
+    "accept",
+    "allow",
+    "grant",
+    "permit",
+    "approve"
   ],
   "pass-filled": [
-    "pass",
-    "filled",
-    "icon",
-    "ui",
-    "editor"
+    "filled-in",
+    "completed",
+    "checked",
+    "validated",
+    "approved"
+  ],
+  "pencil": [
+    "pen",
+    "stylus",
+    "marker",
+    "graphite",
+    "lead"
   ],
   "percentage": [
-    "discount",
+    "ratio",
+    "fraction",
+    "proportion",
     "rate",
-    "math",
-    "sale",
-    "ratio"
+    "amount"
   ],
   "person": [
-    "person",
-    "icon",
-    "ui",
-    "editor",
-    "tool"
+    "user",
+    "account",
+    "profile",
+    "account-holder",
+    "individual"
   ],
   "person-add": [
-    "person",
-    "add",
-    "new",
-    "create",
-    "insert"
+    "user",
+    "account",
+    "profile",
+    "avatar",
+    "representative"
+  ],
+  "person-filled": [
+    "complete",
+    "active",
+    "verified",
+    "validated",
+    "profile"
+  ],
+  "person-follow": [
+    "subscribe",
+    "watch",
+    "track",
+    "monitor"
+  ],
+  "person-outline": [
+    "user",
+    "account",
+    "member",
+    "contact",
+    "identity"
   ],
   "piano": [
-    "piano",
-    "icon",
-    "ui",
-    "editor",
-    "tool"
+    "instrument",
+    "music",
+    "play",
+    "compose",
+    "harmonize"
   ],
   "pie-chart": [
-    "graph",
-    "analytics",
-    "ratio",
-    "statistics",
-    "data"
+    "circle",
+    "ring",
+    "disk",
+    "sector"
   ],
   "pin": [
-    "pin",
-    "icon",
-    "ui",
-    "editor",
-    "tool"
+    "attach",
+    "fasten",
+    "fix",
+    "hold",
+    "secure"
   ],
   "pinned": [
-    "pinned",
-    "icon",
-    "ui",
-    "editor",
-    "tool"
+    "fixed",
+    "locked",
+    "attached",
+    "tied",
+    "anchored"
   ],
   "pinned-dirty": [
-    "pinned",
-    "dirty",
-    "icon",
-    "ui",
-    "editor"
+    "flagged",
+    "marked",
+    "highlighted",
+    "notified",
+    "indicated"
   ],
   "play": [
-    "start",
-    "video",
-    "media",
-    "run",
-    "go"
+    "amusement",
+    "entertainment",
+    "fun",
+    "recreation",
+    "leisure"
   ],
   "play-circle": [
     "start",
-    "video",
-    "media",
-    "round",
-    "run"
+    "begin",
+    "activate",
+    "initiate",
+    "launch"
   ],
   "plug": [
-    "plug",
-    "icon",
-    "ui",
-    "editor",
-    "tool"
+    "adapter",
+    "charger",
+    "battery",
+    "circuit",
+    "device"
+  ],
+  "plus": [
+    "addition",
+    "sum",
+    "total",
+    "growth",
+    "expansion"
   ],
   "preserve-case": [
-    "preserve",
-    "case",
-    "icon",
-    "ui",
-    "editor"
+    "format",
+    "original",
+    "integrity",
+    "consistency",
+    "quality"
   ],
   "preview": [
-    "preview",
-    "icon",
-    "ui",
-    "editor",
-    "tool"
+    "display",
+    "show",
+    "render",
+    "visualize"
+  ],
+  "primitive-dot": [
+    "pixel",
+    "mark",
+    "dot-product",
+    "element"
   ],
   "primitive-square": [
-    "primitive",
+    "rectangle",
     "box",
-    "shape",
-    "outline",
-    "container"
+    "grid",
+    "cell",
+    "shape"
   ],
   "project": [
-    "project",
-    "icon",
-    "ui",
-    "editor",
-    "tool"
+    "development",
+    "design",
+    "build",
+    "create",
+    "construct"
   ],
   "pulse": [
-    "pulse",
-    "icon",
-    "ui",
-    "editor",
-    "tool"
-  ],
-  "python": [
-    "python",
-    "icon",
-    "ui",
-    "editor",
-    "tool"
-  ],
-  "question": [
-    "help",
-    "support",
-    "faq",
-    "unknown",
-    "query"
-  ],
-  "quote": [
-    "quote",
-    "citation",
-    "text",
-    "comment",
-    "message"
-  ],
-  "quotes": [
-    "quote",
-    "citation",
-    "text",
-    "comment",
-    "message"
-  ],
-  "radio-tower": [
-    "radio",
-    "tower",
-    "icon",
-    "ui",
-    "editor"
-  ],
-  "reactions": [
-    "reactions",
-    "icon",
-    "ui",
-    "editor",
-    "tool"
-  ],
-  "record": [
-    "record",
-    "capture",
-    "save",
-    "audio",
-    "video"
-  ],
-  "record-keys": [
-    "record",
-    "capture",
-    "save",
-    "audio",
-    "video"
-  ],
-  "record-small": [
-    "record",
-    "capture",
-    "save",
-    "audio",
-    "video"
-  ],
-  "redo": [
-    "redo",
-    "repeat",
-    "forward",
-    "again",
-    "restore"
-  ],
-  "references": [
-    "references",
-    "icon",
-    "ui",
-    "editor",
-    "tool"
-  ],
-  "refresh": [
-    "reload",
-    "sync",
-    "update",
-    "renew",
+    "beat",
+    "rhythm",
+    "vibration",
+    "oscillation",
     "cycle"
   ],
+  "python": [
+    "code",
+    "programming",
+    "script",
+    "language",
+    "editor"
+  ],
+  "question": [
+    "inquiry",
+    "query",
+    "inquiry",
+    "investigation",
+    "examination"
+  ],
+  "quote": [
+    "citation",
+    "reference",
+    "paraphrase",
+    "summarize",
+    "excerpt"
+  ],
+  "quotes": [
+    "citation",
+    "reference",
+    "quote",
+    "paraphrase",
+    "summarize"
+  ],
+  "radio-tower": [
+    "transmitter",
+    "antenna",
+    "broadcast",
+    "signal",
+    "reception"
+  ],
+  "reactions": [
+    "response",
+    "feedback",
+    "opinion",
+    "comment",
+    "evaluation"
+  ],
+  "record": [
+    "capture",
+    "recorder",
+    "log",
+    "track",
+    "document"
+  ],
+  "record-keys": [
+    "log",
+    "entry",
+    "recording",
+    "notation",
+    "document"
+  ],
+  "record-small": [
+    "log",
+    "entry",
+    "entrypoint",
+    "journal"
+  ],
+  "redo": [
+    "repeat",
+    "reapply",
+    "retry",
+    "reopen",
+    "revise"
+  ],
+  "references": [
+    "citation",
+    "source",
+    "reference",
+    "bibliography",
+    "list"
+  ],
+  "refresh": [
+    "update",
+    "renew",
+    "revive",
+    "regenerate",
+    "reboot"
+  ],
   "regex": [
-    "regex",
-    "icon",
-    "ui",
-    "editor",
-    "tool"
+    "pattern",
+    "formula",
+    "algorithm",
+    "code",
+    "syntax"
   ],
   "remote": [
-    "remote",
-    "icon",
-    "ui",
-    "editor",
-    "tool"
+    "distant",
+    "far",
+    "distance",
+    "location",
+    "accessibility"
   ],
   "remote-explorer": [
-    "remote",
-    "explorer",
-    "icon",
-    "ui",
-    "editor"
+    "access",
+    "connection",
+    "control",
+    "management",
+    "navigation"
   ],
   "remove": [
-    "remove",
     "delete",
     "erase",
-    "clear",
-    "subtract"
+    "discard",
+    "eliminate",
+    "expunge"
   ],
-  "remove-small": [
-    "remove",
+  "remove-close": [
     "delete",
-    "subtract",
-    "clear",
-    "reduce"
+    "erase",
+    "discard",
+    "eliminate",
+    "dismiss"
   ],
   "rename": [
-    "rename",
-    "icon",
-    "ui",
-    "editor",
-    "tool"
+    "relabel",
+    "redesignate",
+    "renumber",
+    "repurpose",
+    "recategorize"
+  ],
+  "repl": [
+    "environment",
+    "space",
+    "workspace",
+    "console",
+    "shell"
   ],
   "replace": [
-    "replace",
-    "icon",
-    "ui",
-    "editor",
-    "tool"
+    "swap",
+    "substitute",
+    "take-over",
+    "overhaul"
   ],
   "replace-all": [
-    "replace",
-    "all",
-    "icon",
-    "ui",
-    "editor"
+    "update",
+    "edit",
+    "modify",
+    "change",
+    "alter"
   ],
   "reply": [
-    "respond",
+    "response",
     "answer",
-    "back",
-    "email",
-    "return"
+    "replay",
+    "feedback",
+    "comment"
   ],
   "repo": [
-    "repo",
-    "icon",
-    "ui",
-    "editor",
-    "tool"
+    "repository",
+    "archive",
+    "collection",
+    "storehouse",
+    "vault"
   ],
   "repo-clone": [
-    "repo",
-    "clone",
-    "icon",
-    "ui",
-    "editor"
+    "duplicate",
+    "mirror",
+    "copy",
+    "fork"
+  ],
+  "repo-create": [
+    "establish",
+    "setup",
+    "configure",
+    "initialize",
+    "found"
+  ],
+  "repo-delete": [
+    "remove",
+    "erase",
+    "discard",
+    "expunge"
   ],
   "repo-fetch": [
-    "repo",
-    "fetch",
-    "icon",
-    "ui",
-    "editor"
+    "download",
+    "pull",
+    "retrieve",
+    "update"
   ],
   "repo-force-push": [
-    "repo",
-    "force",
-    "push",
-    "icon",
-    "ui"
+    "force-upload",
+    "upload",
+    "send",
+    "transmit"
   ],
   "repo-forked": [
-    "repo",
-    "forked",
-    "icon",
-    "ui",
-    "editor"
+    "clone",
+    "duplicate",
+    "mirror",
+    "copy",
+    "replicate"
   ],
   "repo-pinned": [
-    "repo",
-    "pinned",
-    "icon",
-    "ui",
-    "editor"
+    "star",
+    "favorite",
+    "save",
+    "mark",
+    "bookmark"
   ],
   "repo-pull": [
-    "repo",
-    "pull",
-    "icon",
-    "ui",
-    "editor"
+    "download",
+    "fetch",
+    "retrieve",
+    "gather",
+    "collect"
   ],
   "repo-push": [
-    "repo",
-    "push",
-    "icon",
-    "ui",
-    "editor"
+    "upload",
+    "send",
+    "transmit",
+    "deliver",
+    "deposit"
   ],
   "repo-selected": [
-    "repo",
-    "selected",
-    "icon",
-    "ui",
-    "editor"
+    "repository",
+    "branch",
+    "commit",
+    "version",
+    "selection"
+  ],
+  "repo-sync": [
+    "update",
+    "refresh",
+    "revert",
+    "syncro"
   ],
   "report": [
-    "report",
-    "icon",
-    "ui",
-    "editor",
-    "tool"
+    "inform",
+    "notify",
+    "alert",
+    "signal",
+    "warn"
   ],
   "request-changes": [
-    "request",
-    "changes",
-    "icon",
-    "ui",
-    "editor"
+    "ask-for-updates",
+    "propose-modifications",
+    "suggest-revisions",
+    "propose-changes",
+    "ask-for-input"
   ],
   "robot": [
-    "robot",
     "machine",
+    "device",
     "automaton",
-    "technology",
-    "ai"
+    "system",
+    "engine"
   ],
   "rocket": [
-    "rocket",
-    "space",
     "launch",
-    "flight",
-    "spacecraft"
+    "blast-off",
+    "explore",
+    "venture",
+    "journey"
   ],
   "root-folder": [
-    "root",
-    "folder",
     "directory",
-    "files",
-    "storage"
+    "container",
+    "repository",
+    "archive"
   ],
   "root-folder-opened": [
-    "root",
-    "folder",
-    "directory",
-    "files",
-    "storage"
+    "expanded",
+    "revealed",
+    "unlocked",
+    "accessed"
   ],
   "rss": [
-    "rss",
     "feed",
-    "syndication",
-    "xml",
-    "subscribe"
+    "update",
+    "notify",
+    "subscribe",
+    "monitor"
   ],
   "ruby": [
-    "ruby",
-    "icon",
-    "ui",
-    "editor",
+    "gem",
+    "language",
+    "scripting",
+    "programming",
     "tool"
   ],
+  "run": [
+    "activity",
+    "motion",
+    "operation",
+    "process",
+    "task"
+  ],
   "run-above": [
-    "run",
-    "above",
-    "icon",
-    "ui",
-    "editor"
+    "execute",
+    "compile",
+    "build",
+    "process",
+    "transform"
   ],
   "run-all": [
-    "run",
-    "all",
-    "icon",
-    "ui",
-    "editor"
+    "execute",
+    "process",
+    "activate",
+    "initiate"
   ],
   "run-all-coverage": [
-    "run",
-    "all",
-    "coverage",
-    "icon",
-    "ui"
+    "full",
+    "comprehensive",
+    "thorough",
+    "complete",
+    "extensive"
   ],
   "run-below": [
-    "run",
-    "below",
-    "icon",
-    "ui",
-    "editor"
+    "execute",
+    "compile",
+    "build",
+    "process",
+    "transform"
   ],
   "run-coverage": [
-    "run",
-    "coverage",
-    "icon",
-    "ui",
-    "editor"
+    "test",
+    "analyze",
+    "inspect",
+    "report",
+    "audit"
   ],
   "run-errors": [
-    "run",
-    "errors",
-    "icon",
-    "ui",
-    "editor"
+    "error",
+    "bug",
+    "fault",
+    "flaw",
+    "defect"
   ],
   "run-with-deps": [
-    "run",
-    "with",
-    "deps",
-    "icon",
-    "ui"
+    "execute",
+    "process",
+    "perform",
+    "carryout",
+    "implement"
   ],
   "save": [
-    "disk",
-    "store",
-    "keep",
+    "backup",
+    "document",
     "record",
-    "file"
+    "file",
+    "archive"
   ],
   "save-all": [
-    "save",
-    "store",
-    "disk",
-    "keep",
-    "record"
+    "preserve",
+    "consolidate",
+    "gather",
+    "collect",
+    "retain"
   ],
   "save-as": [
-    "save",
     "store",
-    "disk",
-    "keep",
-    "record"
+    "record",
+    "document",
+    "file"
   ],
   "screen-full": [
-    "screen",
-    "full",
-    "icon",
-    "ui",
-    "editor"
+    "full-screen",
+    "maximize",
+    "expand",
+    "enlarge",
+    "max"
   ],
   "screen-normal": [
-    "screen",
-    "normal",
-    "icon",
-    "ui",
-    "editor"
+    "normal-size",
+    "default",
+    "standard",
+    "size"
   ],
   "search": [
     "find",
-    "magnify",
-    "look",
+    "locate",
+    "discover",
     "query",
-    "inspect"
+    "browse"
   ],
   "search-fuzzy": [
-    "search",
-    "find",
     "query",
+    "find",
     "lookup",
-    "inspect"
+    "browse"
   ],
   "search-large": [
-    "search",
     "find",
-    "query",
-    "lookup",
-    "inspect"
+    "locate",
+    "discover",
+    "enumerate"
+  ],
+  "search-save": [
+    "store",
+    "archive",
+    "preserve",
+    "record"
   ],
   "search-sparkle": [
-    "search",
-    "find",
     "query",
+    "find",
     "lookup",
-    "inspect"
+    "browse"
   ],
   "search-stop": [
-    "search",
-    "find",
-    "query",
-    "lookup",
-    "inspect"
+    "stop-searching",
+    "cancel-search",
+    "halt",
+    "pause",
+    "query"
+  ],
+  "selection": [
+    "choice",
+    "option",
+    "vote",
+    "pick",
+    "select"
   ],
   "send": [
-    "submit",
-    "paperplane",
-    "email",
-    "chat",
-    "dispatch"
+    "message",
+    "transmit",
+    "deliver",
+    "share",
+    "forward"
   ],
   "send-to-remote-agent": [
-    "send",
-    "to",
-    "remote",
-    "agent",
-    "icon"
+    "transfer",
+    "upload",
+    "download",
+    "transmit",
+    "relay"
   ],
   "server": [
+    "cloud",
     "database",
     "network",
-    "storage",
-    "rack",
-    "host"
+    "host",
+    "storage"
   ],
   "server-environment": [
-    "server",
-    "environment",
-    "icon",
-    "ui",
-    "editor"
+    "context",
+    "space",
+    "domain",
+    "realm"
   ],
   "server-process": [
-    "server",
-    "process",
-    "icon",
-    "ui",
-    "editor"
+    "engine",
+    "service",
+    "daemon",
+    "worker",
+    "system"
   ],
   "session-in-progress": [
-    "session",
-    "in",
-    "progress",
-    "icon",
-    "ui"
+    "active",
+    "running",
+    "ongoing",
+    "live",
+    "current"
   ],
   "settings": [
-    "settings",
-    "options",
-    "config",
-    "gear",
-    "setup"
+    "configure",
+    "adjust",
+    "modify",
+    "tweak",
+    "fine-tune"
   ],
   "settings-gear": [
-    "settings",
+    "tool",
+    "configuration",
     "options",
-    "config",
-    "gear",
-    "setup"
+    "preferences",
+    "setting",
+    "parameter"
   ],
   "share": [
-    "share",
-    "social",
-    "network",
-    "connect",
-    "distribute"
+    "transmit",
+    "communicate",
+    "reveal",
+    "disclose",
+    "expose"
   ],
   "shield": [
-    "secure",
     "protect",
-    "guard",
+    "defend",
     "safety",
-    "defense"
+    "security",
+    "guard"
   ],
   "sign-in": [
-    "login",
-    "enter",
-    "access",
-    "account",
-    "arrow"
+    "enroll",
+    "register",
+    "join",
+    "subscribe",
+    "enlist"
   ],
   "sign-out": [
-    "logout",
-    "exit",
-    "leave",
-    "close",
-    "arrow"
+    "quit",
+    "terminate",
+    "cessate",
+    "stop",
+    "abandon"
   ],
   "skip": [
-    "skip",
-    "icon",
-    "ui",
-    "editor",
-    "tool"
+    "omit",
+    "avoid",
+    "pass",
+    "ignore",
+    "jump"
   ],
   "smiley": [
-    "smiley",
-    "icon",
-    "ui",
-    "editor",
-    "tool"
+    "face",
+    "expression",
+    "emoji",
+    "mood",
+    "feeling"
   ],
   "snake": [
-    "snake",
-    "icon",
-    "ui",
-    "editor",
-    "tool"
+    "reptile",
+    "slither",
+    "coil",
+    "curl",
+    "wriggle"
+  ],
+  "sort-percentage": [
+    "rank",
+    "order",
+    "sequence",
+    "list",
+    "arrange"
   ],
   "sort-precedence": [
-    "sort",
     "order",
-    "arrange",
+    "priority",
+    "sequence",
     "rank",
-    "filter"
+    "arrange"
   ],
   "source-control": [
-    "source",
-    "control",
-    "icon",
-    "ui",
-    "editor"
+    "repository",
+    "codebase",
+    "version-control",
+    "branch",
+    "commit"
   ],
   "sparkle": [
-    "sparkle",
-    "icon",
-    "ui",
-    "editor",
-    "tool"
+    "glow",
+    "shine",
+    "light",
+    "radiate",
+    "illuminate"
   ],
   "sparkle-filled": [
-    "sparkle",
-    "filled",
-    "icon",
-    "ui",
-    "editor"
+    "glow",
+    "shine",
+    "radiance",
+    "luster",
+    "glimmer"
   ],
   "split-horizontal": [
-    "split",
-    "horizontal",
-    "icon",
-    "ui",
-    "editor"
+    "divide",
+    "separate",
+    "partition",
+    "segment",
+    "cut"
   ],
   "split-vertical": [
-    "split",
-    "vertical",
-    "icon",
-    "ui",
-    "editor"
+    "divide",
+    "separate",
+    "partition",
+    "segment",
+    "cut"
   ],
   "squirrel": [
-    "squirrel",
-    "icon",
-    "ui",
-    "editor",
-    "tool"
+    "nut",
+    "tree",
+    "animal",
+    "wildlife",
+    "forest"
+  ],
+  "star": [
+    "favorite",
+    "like",
+    "rate",
+    "approve",
+    "endorse"
+  ],
+  "star-add": [
+    "add-star",
+    "favorited",
+    "liked",
+    "rated",
+    "approved"
+  ],
+  "star-delete": [
+    "remove-star",
+    "unfavorited",
+    "unliked",
+    "unrated",
+    "disapproved"
   ],
   "star-empty": [
-    "star",
-    "empty",
-    "icon",
-    "ui",
-    "editor"
+    "empty-star",
+    "unfavorited",
+    "unliked",
+    "unrated",
+    "neutral"
   ],
   "star-full": [
-    "star",
-    "full",
-    "icon",
-    "ui",
-    "editor"
+    "full-star",
+    "five-stars",
+    "rating",
+    "evaluation",
+    "score"
   ],
   "star-half": [
-    "rating",
-    "score",
-    "review",
-    "partial",
-    "medium"
+    "half-star",
+    "three-quarters",
+    "partial-score",
+    "incomplete-rating",
+    "mid-range"
+  ],
+  "stop": [
+    "halt",
+    "pause",
+    "cease",
+    "interrupt",
+    "terminate"
   ],
   "stop-circle": [
     "halt",
-    "end",
-    "round",
-    "media",
-    "control"
+    "cease",
+    "terminate",
+    "interrupt"
   ],
   "strikethrough": [
-    "text",
-    "format",
-    "style",
     "strike",
-    "font"
+    "cross-out",
+    "cancel",
+    "delete",
+    "obliterate"
   ],
   "surround-with": [
-    "surround",
-    "with",
-    "icon",
-    "ui",
-    "editor"
+    "enclose",
+    "border",
+    "frame",
+    "contain",
+    "bound"
   ],
   "symbol-array": [
-    "symbol",
-    "array",
-    "icon",
-    "ui",
-    "editor"
+    "grid",
+    "pattern",
+    "sequence",
+    "chart",
+    "layout"
   ],
   "symbol-boolean": [
-    "symbol",
-    "boolean",
-    "icon",
-    "ui",
-    "editor"
+    "value",
+    "condition",
+    "flag",
+    "indicator",
+    "true",
+    "false"
   ],
   "symbol-class": [
-    "symbol",
-    "class",
-    "icon",
-    "ui",
-    "editor"
+    "category",
+    "type",
+    "label",
+    "kind",
+    "subclass"
   ],
   "symbol-color": [
-    "symbol",
-    "color",
-    "icon",
-    "ui",
-    "editor"
+    "hue",
+    "shade",
+    "tint",
+    "saturation",
+    "pigment"
   ],
   "symbol-constant": [
-    "symbol",
-    "constant",
-    "icon",
-    "ui",
-    "editor"
+    "value",
+    "enum",
+    "option",
+    "setting",
+    "parameter"
+  ],
+  "symbol-constructor": [
+    "creator",
+    "builder",
+    "fabricator",
+    "generator",
+    "designer"
   ],
   "symbol-enum": [
-    "symbol",
-    "enum",
-    "icon",
-    "ui",
-    "editor"
+    "list",
+    "menu",
+    "options",
+    "choices",
+    "values"
   ],
   "symbol-enum-member": [
-    "symbol",
-    "enum",
-    "member",
-    "icon",
-    "ui"
+    "option",
+    "choice",
+    "variant",
+    "variant-value",
+    "variant-type"
   ],
   "symbol-event": [
-    "symbol",
-    "event",
-    "icon",
-    "ui",
-    "editor"
+    "indicator",
+    "flag",
+    "marker",
+    "sign",
+    "signal"
   ],
   "symbol-field": [
-    "symbol",
-    "field",
-    "icon",
-    "ui",
-    "editor"
-  ],
-  "symbol-file": [
-    "symbol",
-    "file",
-    "document",
-    "page",
+    "attribute",
+    "property",
+    "parameter",
+    "variable",
     "data"
   ],
+  "symbol-file": [
+    "document",
+    "record",
+    "data",
+    "source"
+  ],
+  "symbol-folder": [
+    "file",
+    "directory",
+    "container",
+    "box",
+    "repository"
+  ],
+  "symbol-function": [
+    "algorithm",
+    "process",
+    "program",
+    "routine",
+    "formula"
+  ],
   "symbol-interface": [
-    "symbol",
-    "interface",
-    "icon",
-    "ui",
-    "editor"
+    "contract",
+    "protocol",
+    "api",
+    "service",
+    "connection"
   ],
   "symbol-key": [
-    "symbol",
-    "key",
-    "icon",
-    "ui",
-    "editor"
+    "code",
+    "input",
+    "selector",
+    "identifier",
+    "accessory"
   ],
   "symbol-keyword": [
-    "symbol",
-    "keyword",
-    "icon",
-    "ui",
-    "editor"
+    "term",
+    "concept",
+    "phrase",
+    "expression",
+    "lexicon"
   ],
   "symbol-method": [
-    "symbol",
-    "method",
-    "icon",
-    "ui",
-    "editor"
+    "function",
+    "procedure",
+    "operation",
+    "task",
+    "algorithm"
   ],
   "symbol-method-arrow": [
-    "symbol",
-    "method",
-    "arrow",
-    "direction",
-    "navigate"
+    "cursor",
+    "motion",
+    "pointer",
+    "indicator",
+    "gesture"
   ],
   "symbol-misc": [
-    "symbol",
-    "misc",
-    "icon",
-    "ui",
-    "editor"
+    "extra",
+    "auxiliary",
+    "supplement",
+    "addendum",
+    "appendix",
+    "supplementary"
+  ],
+  "symbol-module": [
+    "library",
+    "framework",
+    "component",
+    "package",
+    "system"
   ],
   "symbol-namespace": [
-    "symbol",
-    "namespace",
-    "icon",
-    "ui",
-    "editor"
+    "domain",
+    "realm",
+    "space",
+    "sphere",
+    "field"
+  ],
+  "symbol-null": [
+    "nullity",
+    "voidness",
+    "emptiness",
+    "absence",
+    "nonexistence"
+  ],
+  "symbol-number": [
+    "digit",
+    "figure",
+    "value",
+    "ratio",
+    "amount"
   ],
   "symbol-numeric": [
-    "symbol",
-    "numeric",
-    "icon",
-    "ui",
-    "editor"
+    "quantity",
+    "amount",
+    "number",
+    "count",
+    "measure"
+  ],
+  "symbol-object": [
+    "entity",
+    "thing",
+    "item",
+    "resource"
   ],
   "symbol-operator": [
-    "symbol",
-    "operator",
-    "icon",
-    "ui",
-    "editor"
+    "function",
+    "predicate",
+    "relation",
+    "operation",
+    "process"
+  ],
+  "symbol-package": [
+    "namespace",
+    "category",
+    "group",
+    "collection",
+    "assembly"
   ],
   "symbol-parameter": [
-    "symbol",
-    "parameter",
-    "icon",
-    "ui",
-    "editor"
+    "variable",
+    "factor",
+    "element",
+    "component",
+    "attribute"
   ],
   "symbol-property": [
-    "symbol",
-    "property",
-    "icon",
-    "ui",
-    "editor"
+    "attribute",
+    "characteristic",
+    "feature",
+    "quality",
+    "aspect"
+  ],
+  "symbol-reference": [
+    "link",
+    "citation",
+    "source",
+    "url"
   ],
   "symbol-ruler": [
-    "symbol",
-    "ruler",
-    "icon",
-    "ui",
-    "editor"
+    "rule",
+    "standard",
+    "guideline",
+    "threshold",
+    "limit"
   ],
   "symbol-snippet": [
-    "symbol",
-    "snippet",
-    "icon",
-    "ui",
-    "editor"
+    "code",
+    "fragment",
+    "block",
+    "excerpt"
   ],
   "symbol-string": [
-    "symbol",
-    "string",
-    "icon",
-    "ui",
-    "editor"
+    "font",
+    "typeface",
+    "print",
+    "write"
+  ],
+  "symbol-struct": [
+    "framework",
+    "system",
+    "model",
+    "template",
+    "blueprint"
   ],
   "symbol-structure": [
-    "symbol",
-    "structure",
-    "icon",
-    "ui",
-    "editor"
+    "scheme",
+    "plan",
+    "design",
+    "pattern",
+    "arrangement"
+  ],
+  "symbol-text": [
+    "label",
+    "title",
+    "description",
+    "caption",
+    "heading"
+  ],
+  "symbol-type-parameter": [
+    "class",
+    "kind",
+    "category",
+    "specification"
+  ],
+  "symbol-unit": [
+    "measure",
+    "scale",
+    "ratio",
+    "dimension"
+  ],
+  "symbol-value": [
+    "data",
+    "result",
+    "answer",
+    "output"
   ],
   "symbol-variable": [
-    "symbol",
-    "variable",
-    "icon",
-    "ui",
-    "editor"
+    "identifier",
+    "name",
+    "label",
+    "marker"
   ],
   "sync": [
-    "refresh",
-    "reload",
-    "cycle",
     "update",
-    "exchange"
+    "refresh",
+    "renew",
+    "synchronize",
+    "sync-up"
   ],
   "sync-ignored": [
-    "sync",
-    "refresh",
-    "update",
-    "reload",
-    "cycle"
+    "ignore",
+    "exclude",
+    "skip",
+    "omit",
+    "neglect"
   ],
   "table": [
     "grid",
+    "list",
+    "chart",
     "data",
-    "row",
-    "column",
-    "spreadsheet"
+    "record"
   ],
   "tag": [
     "label",
-    "price",
-    "category",
+    "marker",
+    "indicator",
     "badge",
-    "mark"
+    "notification"
   ],
-  "target": [
-    "target",
-    "icon",
-    "ui",
-    "editor",
-    "tool"
+  "tag-add": [
+    "create",
+    "mark",
+    "annotate",
+    "edit",
+    "update"
   ],
-  "tasklist": [
-    "tasklist",
-    "icon",
-    "ui",
-    "editor",
-    "tool"
-  ],
-  "telescope": [
-    "telescope",
-    "icon",
-    "ui",
-    "editor",
-    "tool"
-  ],
-  "terminal": [
-    "terminal",
-    "command",
-    "console",
-    "code",
-    "computer"
-  ],
-  "terminal-bash": [
-    "terminal",
-    "console",
-    "shell",
-    "cli",
-    "command"
-  ],
-  "terminal-cmd": [
-    "terminal",
-    "console",
-    "shell",
-    "cli",
-    "command"
-  ],
-  "terminal-debian": [
-    "terminal",
-    "console",
-    "shell",
-    "cli",
-    "command"
-  ],
-  "terminal-git-bash": [
-    "git",
-    "version",
-    "repo",
-    "commit",
-    "branch"
-  ],
-  "terminal-linux": [
-    "terminal",
-    "console",
-    "shell",
-    "cli",
-    "command"
-  ],
-  "terminal-powershell": [
-    "terminal",
-    "console",
-    "shell",
-    "cli",
-    "command"
-  ],
-  "terminal-tmux": [
-    "terminal",
-    "console",
-    "shell",
-    "cli",
-    "command"
-  ],
-  "terminal-ubuntu": [
-    "terminal",
-    "console",
-    "shell",
-    "cli",
-    "command"
-  ],
-  "text-size": [
-    "text",
-    "size",
-    "icon",
-    "ui",
-    "editor"
-  ],
-  "thinking": [
-    "thinking",
-    "icon",
-    "ui",
-    "editor",
-    "tool"
-  ],
-  "three-bars": [
-    "three",
-    "bars",
-    "icon",
-    "ui",
-    "editor"
-  ],
-  "thumbsdown": [
-    "thumbsdown",
-    "icon",
-    "ui",
-    "editor",
-    "tool"
-  ],
-  "thumbsdown-filled": [
-    "thumbsdown",
-    "filled",
-    "icon",
-    "ui",
-    "editor"
-  ],
-  "thumbsup": [
-    "thumbsup",
-    "icon",
-    "ui",
-    "editor",
-    "tool"
-  ],
-  "thumbsup-filled": [
-    "thumbsup",
-    "filled",
-    "icon",
-    "ui",
-    "editor"
-  ],
-  "tools": [
-    "tools",
-    "repair",
-    "fix",
-    "hardware",
-    "maintenance"
-  ],
-  "trash": [
+  "tag-remove": [
     "delete",
-    "remove",
-    "bin",
-    "garbage",
+    "unmark",
+    "erase",
     "discard"
   ],
+  "target": [
+    "focus",
+    "highlight",
+    "select",
+    "choose",
+    "pick"
+  ],
+  "tasklist": [
+    "agenda",
+    "schedule",
+    "to-do",
+    "list",
+    "calendar"
+  ],
+  "telescope": [
+    "camera",
+    "lens",
+    "optics",
+    "viewfinder",
+    "scope"
+  ],
+  "terminal": [
+    "console",
+    "screen",
+    "workspace",
+    "desk",
+    "station"
+  ],
+  "terminal-bash": [
+    "scripting",
+    "language",
+    "shell",
+    "command-line",
+    "console"
+  ],
+  "terminal-cmd": [
+    "command",
+    "instruction",
+    "prompt",
+    "input",
+    "output"
+  ],
+  "terminal-debian": [
+    "linux",
+    "ubuntu",
+    "redhat",
+    "centos",
+    "distro"
+  ],
+  "terminal-decoration-error": [
+    "errorline",
+    "highlight",
+    "underline",
+    "strikeout",
+    "overline"
+  ],
+  "terminal-decoration-incomplete": [
+    "unfinished",
+    "unstyled",
+    "unrendered",
+    "unformatted"
+  ],
+  "terminal-decoration-mark": [
+    "highlight",
+    "emphasis",
+    "annotation",
+    "label"
+  ],
+  "terminal-decoration-success": [
+    "checkmark",
+    "green-check",
+    "verified",
+    "approved",
+    "validation"
+  ],
+  "terminal-git-bash": [
+    "shell",
+    "console",
+    "command-line",
+    "programming",
+    "development"
+  ],
+  "terminal-linux": [
+    "unix",
+    "operatingsystem",
+    "platform",
+    "system",
+    "hardware"
+  ],
+  "terminal-powershell": [
+    "console",
+    "shell",
+    "command-line",
+    "software"
+  ],
+  "terminal-tmux": [
+    "window",
+    "pane",
+    "session",
+    "server",
+    "client"
+  ],
+  "terminal-ubuntu": [
+    "linux",
+    "distro",
+    "system",
+    "desktop",
+    "operating"
+  ],
+  "text-size": [
+    "font",
+    "style",
+    "layout",
+    "typography",
+    "display"
+  ],
+  "thinking": [
+    "idea",
+    "concept",
+    "thought",
+    "reflection",
+    "insight"
+  ],
+  "three-bars": [
+    "hamburger",
+    "menu",
+    "options",
+    "panel",
+    "toolbar"
+  ],
+  "thumbsdown": [
+    "dislike",
+    "negative",
+    "reject",
+    "refuse",
+    "veto"
+  ],
+  "thumbsdown-filled": [
+    "dislike",
+    "reject",
+    "deny",
+    "oppose",
+    "refuse"
+  ],
+  "thumbsup": [
+    "like",
+    "positive",
+    "approve",
+    "accept",
+    "agree"
+  ],
+  "thumbsup-filled": [
+    "approve",
+    "accept",
+    "agree",
+    "support",
+    "endorse"
+  ],
+  "tools": [
+    "wrench",
+    "hammer",
+    "screwdriver",
+    "pencil",
+    "pen"
+  ],
+  "trash": [
+    "waste",
+    "discard",
+    "destruction",
+    "abandonment",
+    "dismissal"
+  ],
+  "trashcan": [
+    "bin",
+    "garbage",
+    "litter",
+    "dumpster",
+    "recycling"
+  ],
   "triangle-down": [
-    "caret",
     "arrow",
-    "direction",
-    "shape",
-    "indicator"
+    "left",
+    "right",
+    "drop",
+    "direction"
   ],
   "triangle-left": [
-    "caret",
-    "arrow",
+    "angle",
     "direction",
-    "shape",
-    "indicator"
+    "move",
+    "rotate",
+    "turn"
   ],
   "triangle-right": [
-    "caret",
-    "arrow",
+    "angle",
     "direction",
-    "shape",
-    "indicator"
+    "move",
+    "rotate",
+    "turn"
   ],
   "triangle-up": [
-    "caret",
     "arrow",
-    "direction",
-    "shape",
-    "indicator"
+    "left",
+    "right",
+    "drop",
+    "direction"
   ],
   "twitter": [
-    "social",
-    "tweet",
-    "brand",
     "bird",
+    "tweet",
+    "social",
+    "media",
     "network"
   ],
   "type-hierarchy": [
-    "type",
-    "hierarchy",
-    "icon",
-    "ui",
-    "editor"
+    "inheritance",
+    "composition",
+    "abstract",
+    "extends",
+    "relationship"
   ],
   "type-hierarchy-sub": [
-    "type",
-    "hierarchy",
-    "sub",
-    "icon",
-    "ui"
+    "subclass",
+    "submodule",
+    "subnamespace",
+    "subset",
+    "superset"
   ],
   "type-hierarchy-super": [
-    "type",
-    "hierarchy",
-    "super",
-    "icon",
-    "ui"
+    "tree",
+    "diagram",
+    "structure",
+    "family"
   ],
   "unarchive": [
-    "unarchive",
-    "icon",
-    "ui",
-    "editor",
-    "tool"
+    "extract",
+    "unpack",
+    "reveal",
+    "restore",
+    "rebuild"
   ],
   "unfold": [
-    "unfold",
-    "icon",
-    "ui",
-    "editor",
-    "tool"
+    "expand",
+    "open",
+    "reveal",
+    "show",
+    "display"
   ],
   "ungroup-by-ref-type": [
-    "ungroup",
-    "by",
-    "ref",
-    "type",
-    "icon"
+    "unsort",
+    "unorganize",
+    "uncategorize",
+    "unclassify",
+    "untag"
   ],
   "unlock": [
-    "open",
+    "key",
+    "lock",
     "access",
-    "permit",
-    "security",
-    "key"
+    "permission",
+    "authorization"
   ],
   "unmute": [
-    "unmute",
+    "music",
+    "volume",
     "sound",
     "audio",
-    "on",
-    "enable"
+    "silence"
   ],
   "unverified": [
-    "unverified",
-    "icon",
-    "ui",
-    "editor",
-    "tool"
+    "unknown",
+    "uncertain",
+    "untrusted",
+    "invalid",
+    "unconfirmed"
+  ],
+  "variable": [
+    "value",
+    "data",
+    "parameter",
+    "setting",
+    "option"
   ],
   "variable-group": [
-    "variable",
-    "group",
-    "icon",
-    "ui",
-    "editor"
+    "class",
+    "module",
+    "namespace",
+    "collection",
+    "set"
   ],
   "verified": [
-    "check",
-    "official",
     "authentic",
-    "badge",
-    "trust"
+    "genuine",
+    "legitimate",
+    "reliable",
+    "trusted"
   ],
   "verified-filled": [
-    "verified",
-    "filled",
-    "icon",
-    "ui",
-    "editor"
+    "checked",
+    "confirmed",
+    "approved",
+    "valid",
+    "authentic"
   ],
   "versions": [
-    "versions",
-    "icon",
-    "ui",
-    "editor",
-    "tool"
+    "edition",
+    "model",
+    "revision",
+    "update",
+    "version"
   ],
   "vm": [
-    "vm",
-    "virtual",
-    "machine",
+    "virtual-machine",
     "server",
-    "cloud"
+    "computer",
+    "system",
+    "image"
   ],
   "vm-active": [
-    "vm",
-    "virtual",
-    "machine",
-    "server",
-    "cloud"
+    "enabled",
+    "online",
+    "running",
+    "visible"
   ],
   "vm-connect": [
-    "vm",
-    "virtual",
-    "machine",
-    "server",
-    "cloud"
+    "virtualize",
+    "emulate",
+    "access",
+    "remote",
+    "session"
   ],
   "vm-outline": [
-    "vm",
-    "virtual",
-    "machine",
-    "server",
-    "cloud"
-  ],
-  "vm-pending": [
-    "vm",
-    "virtual",
-    "machine",
-    "server",
-    "cloud"
+    "border",
+    "frame",
+    "shape",
+    "structure"
   ],
   "vm-running": [
-    "vm",
-    "virtual",
-    "machine",
-    "server",
-    "cloud"
+    "operating",
+    "powered",
+    "started",
+    "active"
   ],
   "vm-small": [
-    "vm",
-    "virtual",
-    "machine",
-    "server",
-    "cloud"
+    "mini",
+    "tiny",
+    "compact",
+    "micro",
+    "smaller"
   ],
   "vr": [
-    "vr",
-    "icon",
-    "ui",
-    "editor",
-    "tool"
+    "virtual",
+    "experience",
+    "immersive",
+    "interactive",
+    "simulated"
   ],
   "vscode": [
-    "vscode",
     "editor",
-    "ide",
-    "code",
-    "microsoft"
+    "software",
+    "application",
+    "program",
+    "development"
   ],
   "vscode-insiders": [
-    "vscode",
-    "editor",
-    "ide",
-    "code",
-    "microsoft"
+    "beta",
+    "preview",
+    "test",
+    "prototype",
+    "innovate"
   ],
   "wand": [
-    "wand",
-    "icon",
-    "ui",
-    "editor",
-    "tool"
+    "magic",
+    "spell",
+    "wizard",
+    "art",
+    "craft"
   ],
   "warning": [
-    "warning",
-    "alert",
     "caution",
-    "danger",
-    "notice"
+    "alert",
+    "signal",
+    "notice",
+    "reminder"
   ],
   "watch": [
-    "watch",
-    "icon",
-    "ui",
-    "editor",
-    "tool"
+    "attention",
+    "guard",
+    "monitor",
+    "observe",
+    "surveillance"
   ],
   "whitespace": [
-    "whitespace",
-    "icon",
-    "ui",
-    "editor",
-    "tool"
+    "blank",
+    "empty",
+    "gap",
+    "space",
+    "void"
   ],
   "whole-word": [
-    "whole",
-    "word",
-    "icon",
-    "ui",
-    "editor"
+    "entire",
+    "full",
+    "complete",
+    "total",
+    "unbroken"
   ],
   "window": [
-    "window",
-    "icon",
-    "ui",
-    "editor",
-    "tool"
+    "pane",
+    "screen",
+    "sheet",
+    "viewport",
+    "space"
   ],
   "window-active": [
-    "window",
-    "active",
-    "icon",
-    "ui",
-    "editor"
+    "open",
+    "visible",
+    "focused",
+    "expanded",
+    "displayed"
   ],
   "word-wrap": [
-    "word",
-    "wrap",
-    "icon",
-    "ui",
-    "editor"
+    "break",
+    "cut-off",
+    "line",
+    "segment",
+    "truncate"
   ],
   "workspace-trusted": [
-    "workspace",
-    "trusted",
-    "icon",
-    "ui",
-    "editor"
+    "secure",
+    "verified",
+    "authentic",
+    "legitimate"
   ],
   "workspace-unknown": [
-    "workspace",
-    "unknown",
-    "icon",
-    "ui",
-    "editor"
+    "anonymous",
+    "hidden",
+    "private",
+    "restricted",
+    "unseen"
   ],
   "workspace-untrusted": [
-    "workspace",
-    "untrusted",
-    "icon",
-    "ui",
-    "editor"
+    "suspicious",
+    "questionable",
+    "doubtful",
+    "uncertain",
+    "unverifiable"
   ],
-  "worktree": [
-    "worktree",
-    "git",
-    "branch",
-    "repo",
-    "source"
+  "wrench": [
+    "tool",
+    "instrument",
+    "device",
+    "machine",
+    "engine"
   ],
-  "worktree-small": [
-    "worktree",
-    "git",
-    "branch",
-    "repo",
-    "source"
+  "wrench-subaction": [
+    "sub-action",
+    "sub-step",
+    "task",
+    "operation",
+    "procedure"
+  ],
+  "x": [
+    "cross",
+    "cancel",
+    "reject",
+    "deny",
+    "refuse"
+  ],
+  "zap": [
+    "event",
+    "signal",
+    "alarm",
+    "warning",
+    "alert"
   ],
   "zoom-in": [
-    "zoom",
-    "in",
-    "icon",
-    "ui",
-    "editor"
+    "enlarge",
+    "expand",
+    "increase",
+    "magnify",
+    "scale-up"
   ],
   "zoom-out": [
-    "zoom",
-    "out",
-    "icon",
-    "ui",
-    "editor"
+    "contract",
+    "decrease",
+    "reduce",
+    "shrink",
+    "smaller"
   ]
 }

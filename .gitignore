@@ -1,3 +1,6 @@
 out
 node_modules
 *.vsix
+packs-temp
+global-tag-cache.json
+.env

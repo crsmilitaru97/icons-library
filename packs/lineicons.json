@@ -1,0 +1,5748 @@
+{
+  "500px": [
+    "size",
+    "dimension",
+    "measure",
+    "scale",
+    "proportion"
+  ],
+  "adobe": [
+    "software",
+    "design",
+    "media",
+    "creation",
+    "industry"
+  ],
+  "adobefirefly": [
+    "creative",
+    "generation",
+    "design",
+    "magic",
+    "artificial"
+  ],
+  "adonis": [
+    "beauty",
+    "greek",
+    "mythology",
+    "elegant",
+    "handsome"
+  ],
+  "aeroplane-1": [
+    "flight",
+    "travel",
+    "aviation",
+    "transport"
+  ],
+  "agenda": [
+    "schedule",
+    "calendar",
+    "meeting",
+    "planning",
+    "organization"
+  ],
+  "agui": [
+    "framework",
+    "widget",
+    "desktop",
+    "application"
+  ],
+  "ai2": [
+    "visual",
+    "programming",
+    "blocks",
+    "development"
+  ],
+  "ai21": [
+    "intelligence",
+    "startup",
+    "research",
+    "artificial"
+  ],
+  "ai302": [
+    "neural",
+    "model",
+    "technology",
+    "intelligence",
+    "code"
+  ],
+  "ai360": [
+    "comprehensive",
+    "platform",
+    "complete",
+    "artificial",
+    "coverage"
+  ],
+  "aihubmix": [
+    "integration",
+    "combine",
+    "fusion",
+    "services"
+  ],
+  "aimass": [
+    "massive",
+    "scale",
+    "bulk",
+    "large"
+  ],
+  "aionlabs": [
+    "technology",
+    "innovation",
+    "research",
+    "artificial-intelligence",
+    "development"
+  ],
+  "airbnb": [
+    "company",
+    "firm",
+    "organization",
+    "business",
+    "enterprise"
+  ],
+  "airtable": [
+    "database",
+    "storage",
+    "organization",
+    "tool",
+    "management"
+  ],
+  "aistudio": [
+    "creation",
+    "development",
+    "workspace",
+    "artificial-intelligence",
+    "tool"
+  ],
+  "akashchat": [
+    "messaging",
+    "conversation",
+    "chat",
+    "communication",
+    "assistant"
+  ],
+  "alarm-1": [
+    "notification",
+    "alert",
+    "time",
+    "bell",
+    "reminder"
+  ],
+  "alephalpha": [
+    "technology",
+    "artificial-intelligence",
+    "innovation",
+    "research",
+    "alpha"
+  ],
+  "alibabacloud": [
+    "server",
+    "hosting",
+    "storage",
+    "database",
+    "network"
+  ],
+  "align-text-center": [
+    "format",
+    "typography"
+  ],
+  "align-text-left": [
+    "format",
+    "typography"
+  ],
+  "align-text-right": [
+    "format",
+    "typography"
+  ],
+  "alpinejs": [
+    "javascript",
+    "framework",
+    "frontend",
+    "lightweight"
+  ],
+  "amazon": [
+    "online",
+    "retail",
+    "shopping",
+    "marketplace",
+    "store"
+  ],
+  "amazon-original": [
+    "e-commerce",
+    "online-store",
+    "product",
+    "retail",
+    "delivery"
+  ],
+  "amazon-pay": [
+    "payment",
+    "online",
+    "transaction",
+    "transfer",
+    "checkout"
+  ],
+  "ambulance-1": [
+    "emergency",
+    "medical",
+    "health",
+    "rescue",
+    "vehicle"
+  ],
+  "amd": [
+    "processor",
+    "chip",
+    "microchip",
+    "computer",
+    "hardware"
+  ],
+  "amex": [
+    "credit-card",
+    "payment",
+    "bank",
+    "finance",
+    "transaction"
+  ],
+  "anchor": [
+    "mark",
+    "pointer",
+    "target",
+    "reference",
+    "location"
+  ],
+  "android": [
+    "operating",
+    "system",
+    "mobile",
+    "device",
+    "platform"
+  ],
+  "android-old": [
+    "robot",
+    "droid",
+    "mobile",
+    "green"
+  ],
+  "angellist": [
+    "angel",
+    "heavenly",
+    "divine",
+    "spiritual",
+    "heaven"
+  ],
+  "angle-double-down": [
+    "arrow",
+    "turn",
+    "reverse",
+    "swipe",
+    "rotate"
+  ],
+  "angle-double-left": [
+    "double-angle-left",
+    "doubled-left",
+    "decreased",
+    "contracted",
+    "shrink"
+  ],
+  "angle-double-right": [
+    "double-angle-right",
+    "doubled-right",
+    "increased",
+    "expanded",
+    "enlarged"
+  ],
+  "angle-double-up": [
+    "double-angle-up",
+    "doubled-up",
+    "increased",
+    "expanded",
+    "enlarged"
+  ],
+  "angular": [
+    "geometric",
+    "mathematical",
+    "polygonal",
+    "rectangular",
+    "triangular"
+  ],
+  "antgroup": [
+    "alipay",
+    "payment",
+    "fintech",
+    "money",
+    "business"
+  ],
+  "anthropic": [
+    "human",
+    "biological",
+    "living",
+    "organism",
+    "creature"
+  ],
+  "anyscale": [
+    "cloud",
+    "scaling",
+    "computing",
+    "distributed",
+    "infrastructure"
+  ],
+  "app-store": [
+    "application",
+    "download",
+    "storefront",
+    "software",
+    "technology"
+  ],
+  "apple-brand": [
+    "fruit",
+    "technology",
+    "company",
+    "product",
+    "branding"
+  ],
+  "apple-music": [
+    "sound",
+    "audio",
+    "tune",
+    "melody",
+    "harmony"
+  ],
+  "apple-music-alt": [
+    "streaming",
+    "audio",
+    "player",
+    "songs"
+  ],
+  "apple-pay": [
+    "payment",
+    "transaction",
+    "credit",
+    "debit",
+    "online"
+  ],
+  "arc-browser": [
+    "internet",
+    "explore",
+    "navigation"
+  ],
+  "arrow-all-direction": [
+    "compass",
+    "navigation",
+    "pointer",
+    "multidirectional",
+    "expand"
+  ],
+  "arrow-angular-top-left": [
+    "diagonal",
+    "northwest",
+    "direction",
+    "pointer",
+    "navigation"
+  ],
+  "arrow-angular-top-right": [
+    "diagonal",
+    "northeast",
+    "direction",
+    "pointer",
+    "navigation"
+  ],
+  "arrow-both-direction-horizontal-1": [
+    "bidirectional",
+    "left-right",
+    "swap",
+    "exchange"
+  ],
+  "arrow-both-direction-vertical-1": [
+    "bidirectional",
+    "up-down",
+    "swap",
+    "exchange"
+  ],
+  "arrow-downward": [
+    "down",
+    "descending",
+    "decreasing",
+    "falling",
+    "decline"
+  ],
+  "arrow-left": [
+    "previous",
+    "prior",
+    "back",
+    "before",
+    "past"
+  ],
+  "arrow-left-circle": [
+    "withdraw",
+    "retract",
+    "pullback",
+    "retreat",
+    "hide"
+  ],
+  "arrow-right": [
+    "increase",
+    "higher",
+    "advance",
+    "forward",
+    "grow"
+  ],
+  "arrow-right-circle": [
+    "sun",
+    "day",
+    "morning",
+    "afternoon",
+    "evening"
+  ],
+  "arrow-upward": [
+    "rise",
+    "ascend",
+    "increase",
+    "moveupward",
+    "elevate"
+  ],
+  "asana": [
+    "project",
+    "task",
+    "list",
+    "board",
+    "workspace"
+  ],
+  "assemblyai": [
+    "integration",
+    "manufacturing",
+    "production",
+    "building",
+    "construction"
+  ],
+  "astro": [
+    "science",
+    "study",
+    "research",
+    "astronomy",
+    "space"
+  ],
+  "atlassian": [
+    "software",
+    "company",
+    "productivity",
+    "suite",
+    "platform"
+  ],
+  "audi": [
+    "car",
+    "music",
+    "brand",
+    "vehicle",
+    "sound"
+  ],
+  "audi-alt": [
+    "sound",
+    "music",
+    "audio",
+    "speaker",
+    "listen"
+  ],
+  "automatic": [
+    "automation",
+    "auto",
+    "robot",
+    "machine",
+    "self-operating"
+  ],
+  "aws": [
+    "cloud",
+    "server",
+    "computing",
+    "software",
+    "technology"
+  ],
+  "aya": [
+    "voice",
+    "call",
+    "sound",
+    "speak",
+    "listen"
+  ],
+  "aymo-ai": [
+    "artificial",
+    "intelligence",
+    "robot",
+    "brain",
+    "tech"
+  ],
+  "azure": [
+    "blue",
+    "sky",
+    "cloud",
+    "ocean",
+    "sea"
+  ],
+  "azureai": [
+    "cloud",
+    "microsoft",
+    "server",
+    "cloud-computing",
+    "azure"
+  ],
+  "baai": [
+    "academy",
+    "research",
+    "brain",
+    "intelligence",
+    "learning"
+  ],
+  "badge-decagram-percent": [
+    "award",
+    "percentage",
+    "certificate",
+    "medal"
+  ],
+  "baichuan": [
+    "river",
+    "stream",
+    "flow",
+    "data",
+    "model"
+  ],
+  "baidu": [
+    "engine",
+    "technology",
+    "information",
+    "internet"
+  ],
+  "baiducloud": [
+    "cloud",
+    "storage",
+    "china",
+    "server",
+    "baidu"
+  ],
+  "bailian": [
+    "shopping",
+    "retail",
+    "commerce",
+    "business",
+    "store"
+  ],
+  "balloons": [
+    "party",
+    "celebration",
+    "festive",
+    "decoration",
+    "birthday"
+  ],
+  "ban-2": [
+    "prohibition",
+    "forbidden",
+    "block",
+    "restrict",
+    "cancel"
+  ],
+  "bar-chart-4": [
+    "statistics",
+    "analytics",
+    "data",
+    "graph",
+    "growth"
+  ],
+  "bar-chart-dollar": [
+    "finance",
+    "revenue",
+    "profit",
+    "investment",
+    "earnings"
+  ],
+  "baseten": [
+    "mathematics",
+    "counting",
+    "decimal",
+    "numbers",
+    "calculation"
+  ],
+  "basket-shopping-3": [
+    "cart",
+    "purchase",
+    "retail",
+    "groceries",
+    "buying"
+  ],
+  "beat": [
+    "rhythm",
+    "pulse",
+    "music",
+    "tempo",
+    "heartbeat"
+  ],
+  "bedrock": [
+    "foundation",
+    "base",
+    "ground",
+    "solid",
+    "fundamental"
+  ],
+  "behance": [
+    "portfolio",
+    "profile",
+    "artist",
+    "designer",
+    "creator"
+  ],
+  "bell-1": [
+    "notification",
+    "alert",
+    "alarm",
+    "ringing",
+    "chime"
+  ],
+  "bfl": [
+    "business",
+    "function",
+    "library",
+    "code",
+    "development"
+  ],
+  "bike": [
+    "cycle",
+    "pedal",
+    "wheel",
+    "transport",
+    "adventure"
+  ],
+  "bing": [
+    "alarm",
+    "notification",
+    "alert",
+    "signal",
+    "bell"
+  ],
+  "bitbucket": [
+    "repository",
+    "server",
+    "cloud",
+    "storage",
+    "hosting"
+  ],
+  "bitcoin": [
+    "currency",
+    "coin",
+    "digital",
+    "cryptocurrency",
+    "money"
+  ],
+  "bittorrent": [
+    "download",
+    "upload",
+    "file",
+    "share",
+    "stream"
+  ],
+  "blogger": [
+    "writer",
+    "author",
+    "publisher",
+    "editor",
+    "contributor"
+  ],
+  "blogger-alt": [
+    "blog",
+    "platform",
+    "google",
+    "writing",
+    "publishing"
+  ],
+  "bluetooth": [
+    "wireless",
+    "radio",
+    "transmitter",
+    "receiver",
+    "connection"
+  ],
+  "bluetooth-logo": [
+    "wireless",
+    "connection",
+    "pairing",
+    "technology",
+    "audio"
+  ],
+  "bmw": [
+    "car",
+    "vehicle",
+    "motorcycle",
+    "engine",
+    "automobile"
+  ],
+  "board-writing-3": [
+    "whiteboard",
+    "presentation",
+    "education",
+    "marker"
+  ],
+  "bold": [
+    "strong",
+    "emphasis",
+    "highlight",
+    "accentuate",
+    "intensify"
+  ],
+  "bolt-2": [
+    "lightning",
+    "power",
+    "electricity",
+    "speed",
+    "flash"
+  ],
+  "bolt-3": [
+    "lightning",
+    "power",
+    "electricity",
+    "speed",
+    "flash"
+  ],
+  "book-1": [
+    "reading",
+    "literature",
+    "education",
+    "knowledge",
+    "pages"
+  ],
+  "bookmark-1": [
+    "save",
+    "favorite",
+    "mark",
+    "reference",
+    "label"
+  ],
+  "bookmark-circle": [
+    "mark",
+    "flag",
+    "label",
+    "annotation"
+  ],
+  "books-2": [
+    "library",
+    "reading",
+    "collection",
+    "literature",
+    "study"
+  ],
+  "bootstrap-5": [
+    "css",
+    "library",
+    "template",
+    "framework",
+    "development"
+  ],
+  "bootstrap-5-square": [
+    "framework",
+    "frontend"
+  ],
+  "botpress": [
+    "chatbot",
+    "assistant",
+    "automation",
+    "conversation"
+  ],
+  "box-archive-1": [
+    "storage",
+    "folder",
+    "save",
+    "container"
+  ],
+  "box-closed": [
+    "container",
+    "storage",
+    "package",
+    "archive"
+  ],
+  "box-gift-1": [
+    "present",
+    "celebration",
+    "package",
+    "surprise"
+  ],
+  "brave": [
+    "courageous",
+    "fearless",
+    "daring",
+    "bold",
+    "heroic"
+  ],
+  "bricks": [
+    "building",
+    "construction",
+    "block",
+    "element",
+    "unit"
+  ],
+  "bridge-3": [
+    "connection",
+    "structure",
+    "path",
+    "crossing"
+  ],
+  "briefcase-1": [
+    "business",
+    "work",
+    "professional",
+    "office"
+  ],
+  "briefcase-2": [
+    "suitcase",
+    "work",
+    "office",
+    "business"
+  ],
+  "briefcase-plus-1": [
+    "business",
+    "create",
+    "work",
+    "professional"
+  ],
+  "brush-1-rotated": [
+    "paint",
+    "design",
+    "creative",
+    "illustration"
+  ],
+  "brush-2": [
+    "paint",
+    "creative",
+    "design",
+    "draw"
+  ],
+  "btc": [
+    "money",
+    "finance",
+    "banking",
+    "investment",
+    "market"
+  ],
+  "bug-1": [
+    "error",
+    "issue",
+    "insect",
+    "problem"
+  ],
+  "buildings-1": [
+    "city",
+    "skyscraper",
+    "office",
+    "structure",
+    "architecture"
+  ],
+  "bulb-2": [
+    "idea",
+    "light",
+    "electricity",
+    "lamp",
+    "innovation"
+  ],
+  "bulb-4": [
+    "idea",
+    "light",
+    "electricity",
+    "lamp",
+    "innovation"
+  ],
+  "burger-1": [
+    "hamburger",
+    "food",
+    "meal",
+    "fastfood",
+    "sandwich"
+  ],
+  "burger-drink": [
+    "soda",
+    "beverage",
+    "combo",
+    "fastfood",
+    "meal"
+  ],
+  "burncloud": [
+    "fire",
+    "smoke",
+    "pollution",
+    "cloud",
+    "flame"
+  ],
+  "bus-1": [
+    "vehicle",
+    "transport",
+    "public",
+    "city",
+    "travel"
+  ],
+  "busket-ball": [
+    "sport",
+    "game",
+    "hoop",
+    "athlete"
+  ],
+  "bytedance": [
+    "company",
+    "tech",
+    "social",
+    "media",
+    "platform"
+  ],
+  "cake-1": [
+    "birthday",
+    "dessert",
+    "sweet",
+    "celebration",
+    "food"
+  ],
+  "calculator-1": [
+    "math",
+    "calculation",
+    "numbers",
+    "device",
+    "office"
+  ],
+  "calculator-2": [
+    "math",
+    "computation",
+    "numbers",
+    "arithmetic",
+    "buttons"
+  ],
+  "calendar-days": [
+    "periods",
+    "cycles",
+    "terms",
+    "intervals"
+  ],
+  "camera-1": [
+    "photography",
+    "photo",
+    "lens",
+    "capture",
+    "picture"
+  ],
+  "camera-movie-1": [
+    "video",
+    "film",
+    "recording",
+    "cinema",
+    "director"
+  ],
+  "candy-cane-2": [
+    "christmas",
+    "holiday",
+    "sweet",
+    "mint",
+    "treat"
+  ],
+  "candy-round-1": [
+    "sweet",
+    "sugar",
+    "dessert",
+    "treat",
+    "confection"
+  ],
+  "canva": [
+    "design",
+    "graphics",
+    "editing",
+    "creative",
+    "template"
+  ],
+  "capcut": [
+    "video",
+    "editing",
+    "social",
+    "tiktok",
+    "content"
+  ],
+  "capsule-1": [
+    "medicine",
+    "health",
+    "pill",
+    "pharmaceutical",
+    "drug"
+  ],
+  "car-2": [
+    "vehicle",
+    "transportation",
+    "driving",
+    "auto",
+    "automobile"
+  ],
+  "car-4": [
+    "vehicle",
+    "transportation",
+    "driving",
+    "sedan",
+    "automotive"
+  ],
+  "car-6": [
+    "automobile",
+    "vehicle",
+    "sedan",
+    "driving",
+    "transport"
+  ],
+  "caravan-1": [
+    "trailer",
+    "camper",
+    "travel",
+    "camping"
+  ],
+  "cart-1": [
+    "shopping",
+    "trolley",
+    "basket",
+    "retail",
+    "purchase"
+  ],
+  "cart-2": [
+    "wagon",
+    "handcart",
+    "dolly",
+    "transport",
+    "delivery"
+  ],
+  "cash-app": [
+    "payment",
+    "money",
+    "finance",
+    "banking",
+    "transfer"
+  ],
+  "centml": [
+    "machine-learning",
+    "neural",
+    "computing",
+    "platform"
+  ],
+  "cerebras": [
+    "computing",
+    "chip",
+    "neural",
+    "supercomputer"
+  ],
+  "certificate-badge-1": [
+    "award",
+    "credential",
+    "achievement",
+    "verification",
+    "honor"
+  ],
+  "chat-bubble-2": [
+    "message",
+    "conversation",
+    "communication",
+    "dialogue",
+    "speech"
+  ],
+  "chatglm": [
+    "chatbot",
+    "language-model",
+    "conversation",
+    "assistant"
+  ],
+  "check": [
+    "verify",
+    "inspect",
+    "examine",
+    "review",
+    "validate"
+  ],
+  "check-circle-1": [
+    "verified",
+    "success",
+    "approved",
+    "confirmed",
+    "tick"
+  ],
+  "check-square-2": [
+    "confirmation",
+    "selection",
+    "complete",
+    "task",
+    "verification"
+  ],
+  "chevron-down": [
+    "arrow",
+    "indicator",
+    "pointing",
+    "direction",
+    "pointer"
+  ],
+  "chevron-down-circle": [
+    "arrow-down",
+    "downward",
+    "descend",
+    "fall",
+    "decrease"
+  ],
+  "chevron-left": [
+    "previous",
+    "back",
+    "prior",
+    "anterior",
+    "retrograde"
+  ],
+  "chevron-left-circle": [
+    "arrow-left",
+    "leftward",
+    "retreat",
+    "back",
+    "recede"
+  ],
+  "chevron-up": [
+    "increase",
+    "rise",
+    "ascend",
+    "elevate",
+    "boost"
+  ],
+  "chevron-up-circle": [
+    "arrow-up",
+    "upward",
+    "ascend",
+    "rise",
+    "increase"
+  ],
+  "chrome": [
+    "metal",
+    "alloy",
+    "plating",
+    "coating",
+    "finish"
+  ],
+  "chromecast": [
+    "device",
+    "gadget",
+    "sender",
+    "receiver",
+    "transmitter"
+  ],
+  "cisco": [
+    "router",
+    "switch",
+    "network",
+    "device",
+    "system"
+  ],
+  "civitai": [
+    "models",
+    "community",
+    "platform",
+    "sharing"
+  ],
+  "claude": [
+    "unknown",
+    "unspecified",
+    "nameless",
+    "faceless",
+    "anonymous"
+  ],
+  "clickup": [
+    "project",
+    "management",
+    "teamwork",
+    "organization",
+    "workflow"
+  ],
+  "clickup-brain": [
+    "productivity",
+    "tasks",
+    "management",
+    "collaboration"
+  ],
+  "cline": [
+    "connection",
+    "line",
+    "command",
+    "tool"
+  ],
+  "clipboard": [
+    "notebook",
+    "document",
+    "paperclip",
+    "record",
+    "entry"
+  ],
+  "clipdrop": [
+    "capture",
+    "image",
+    "clipboard",
+    "transfer",
+    "mobile"
+  ],
+  "cloud-2": [
+    "storage",
+    "network",
+    "computing",
+    "backup"
+  ],
+  "cloud-bolt-1": [
+    "storm",
+    "lightning",
+    "weather",
+    "power",
+    "energy"
+  ],
+  "cloud-bolt-2": [
+    "thunder",
+    "electric",
+    "weather",
+    "surge",
+    "flash"
+  ],
+  "cloud-check-circle": [
+    "verified",
+    "success",
+    "sync",
+    "complete",
+    "secure"
+  ],
+  "cloud-download": [
+    "fetch",
+    "retrieve",
+    "acquire",
+    "obtain",
+    "transfer"
+  ],
+  "cloud-iot-2": [
+    "devices",
+    "sensors",
+    "connectivity",
+    "technology",
+    "network"
+  ],
+  "cloud-rain": [
+    "storm",
+    "precipitation",
+    "downpour",
+    "shower",
+    "deluge"
+  ],
+  "cloud-refresh-clockwise": [
+    "sync",
+    "update",
+    "backup",
+    "synchronize"
+  ],
+  "cloud-sun": [
+    "sunshine",
+    "clearsky",
+    "bluesky",
+    "sunnyday",
+    "radiance"
+  ],
+  "cloud-upload": [
+    "send",
+    "transmit",
+    "deliver",
+    "deposit"
+  ],
+  "cloudflare": [
+    "shield",
+    "protection",
+    "screening",
+    "filter",
+    "blocker"
+  ],
+  "code-1": [
+    "programming",
+    "developer",
+    "script",
+    "coding",
+    "software"
+  ],
+  "code-s": [
+    "syntax",
+    "programming",
+    "developer",
+    "script",
+    "coding"
+  ],
+  "codegeex": [
+    "assistant",
+    "programming",
+    "developer",
+    "intelligence"
+  ],
+  "codepen": [
+    "editor",
+    "designer",
+    "studio",
+    "canvas",
+    "workspace"
+  ],
+  "coffee-cup-2": [
+    "break",
+    "caffeine",
+    "drink",
+    "energy",
+    "rest"
+  ],
+  "cohere": [
+    "connection",
+    "unity",
+    "integration",
+    "link",
+    "together"
+  ],
+  "coinbase": [
+    "exchange",
+    "market",
+    "cryptocurrency",
+    "wallet",
+    "investment"
+  ],
+  "colab": [
+    "collaboration",
+    "teamwork",
+    "shared",
+    "partnership",
+    "group"
+  ],
+  "colour-palette-3": [
+    "design",
+    "color",
+    "paint",
+    "creative"
+  ],
+  "comfyui": [
+    "layout",
+    "design",
+    "user",
+    "comfortable"
+  ],
+  "comment-1": [
+    "chat",
+    "feedback",
+    "discussion",
+    "message",
+    "communication"
+  ],
+  "comment-1-share": [
+    "social",
+    "distribute",
+    "forward",
+    "post"
+  ],
+  "comment-1-text": [
+    "chat",
+    "message",
+    "dialogue",
+    "speech",
+    "bubble"
+  ],
+  "compass-drafting-2": [
+    "geometry",
+    "drawing",
+    "technical",
+    "measure",
+    "precision"
+  ],
+  "connectdevelop": [
+    "link",
+    "join",
+    "bridge",
+    "integration",
+    "connection"
+  ],
+  "copilot": [
+    "assist",
+    "help",
+    "aid",
+    "support",
+    "collaborate"
+  ],
+  "copilotkit": [
+    "assistant",
+    "automation",
+    "helper",
+    "tool"
+  ],
+  "copy-ai": [
+    "duplicate",
+    "clone",
+    "replicate",
+    "paste",
+    "reproduce"
+  ],
+  "coqui": [
+    "audio",
+    "voice",
+    "speech",
+    "synthesis",
+    "sound"
+  ],
+  "coral": [
+    "reef",
+    "beach",
+    "ocean",
+    "seaweed",
+    "shell"
+  ],
+  "coze": [
+    "energy",
+    "power",
+    "electricity",
+    "current",
+    "voltage"
+  ],
+  "cpanel": [
+    "control",
+    "management",
+    "system",
+    "dashboard"
+  ],
+  "crane-4": [
+    "lifting",
+    "construction",
+    "builder",
+    "hoisting",
+    "machinery"
+  ],
+  "creative-commons": [
+    "license",
+    "permission",
+    "copyright",
+    "share",
+    "release"
+  ],
+  "credit-card-multiple": [
+    "payment",
+    "finance",
+    "wallet",
+    "transaction",
+    "billing"
+  ],
+  "crewai": [
+    "artificialintelligence",
+    "machinelearning",
+    "robotics",
+    "automation",
+    "intelligence"
+  ],
+  "crop-2": [
+    "trim",
+    "resize",
+    "edit",
+    "frame"
+  ],
+  "crown-3": [
+    "royalty",
+    "king",
+    "queen",
+    "premium",
+    "winner"
+  ],
+  "crusoe": [
+    "island",
+    "adventure",
+    "survival",
+    "castaway",
+    "deserted"
+  ],
+  "css3": [
+    "modern",
+    "contemporary",
+    "trendy",
+    "fashionable",
+    "current"
+  ],
+  "cursor": [
+    "pointer",
+    "indicator",
+    "focus",
+    "highlight",
+    "tracker"
+  ],
+  "dalle": [
+    "artwork",
+    "creative",
+    "generation",
+    "painting",
+    "imagination"
+  ],
+  "dashboard-square-1": [
+    "panel",
+    "admin",
+    "metrics",
+    "overview"
+  ],
+  "database-2": [
+    "storage",
+    "server",
+    "information",
+    "query",
+    "backend"
+  ],
+  "dbrx": [
+    "neural",
+    "language",
+    "model",
+    "intelligence",
+    "computation"
+  ],
+  "deepai": [
+    "machine",
+    "learning",
+    "neural",
+    "algorithm",
+    "automation"
+  ],
+  "deepinfra": [
+    "cloud",
+    "server",
+    "deployment",
+    "hosting",
+    "infrastructure"
+  ],
+  "deepl": [
+    "algorithm",
+    "machine-learning",
+    "model",
+    "training",
+    "intelligence"
+  ],
+  "deepmind": [
+    "intelligence",
+    "machine",
+    "brain",
+    "cognitive",
+    "thought"
+  ],
+  "deepseek": [
+    "query",
+    "retrieval",
+    "scanning",
+    "exploration"
+  ],
+  "deno": [
+    "language",
+    "compiler",
+    "code",
+    "script",
+    "engine"
+  ],
+  "descript-ai": [
+    "editing",
+    "transcription",
+    "audio",
+    "video",
+    "podcast"
+  ],
+  "dev": [
+    "developer",
+    "coder",
+    "engineer",
+    "programmer",
+    "technician"
+  ],
+  "dialogflow": [
+    "conversation",
+    "chat",
+    "assistant",
+    "voice",
+    "communication"
+  ],
+  "diamonds-1": [
+    "precious",
+    "luxury",
+    "card",
+    "wealth"
+  ],
+  "diamonds-2": [
+    "shape",
+    "card",
+    "luxury",
+    "crystal"
+  ],
+  "dify": [
+    "brand",
+    "product",
+    "service",
+    "platform"
+  ],
+  "digitalocean": [
+    "cloud",
+    "server",
+    "compute",
+    "hosting",
+    "infrastructure"
+  ],
+  "diners-club": [
+    "credit-card",
+    "payment",
+    "card",
+    "bank",
+    "transaction"
+  ],
+  "direction-ltr": [
+    "left-to-right",
+    "forward",
+    "straight",
+    "normal",
+    "horizontal"
+  ],
+  "direction-rtl": [
+    "right-to-left",
+    "ltr",
+    "reverse",
+    "opposite",
+    "mirrored"
+  ],
+  "discord": [
+    "chat",
+    "community",
+    "social",
+    "network",
+    "forum"
+  ],
+  "discord-chat": [
+    "social",
+    "community",
+    "messaging",
+    "communication"
+  ],
+  "discover": [
+    "find",
+    "locate",
+    "explore",
+    "browse",
+    "discord-altserverchatcommunitycommunicationnetwork"
+  ],
+  "doc2x": [
+    "document",
+    "file",
+    "convert",
+    "format",
+    "text"
+  ],
+  "docker": [
+    "container",
+    "ship",
+    "vessel",
+    "image",
+    "server"
+  ],
+  "docsearch": [
+    "document",
+    "find",
+    "lookup",
+    "query"
+  ],
+  "dollar": [
+    "currency",
+    "money",
+    "value",
+    "price",
+    "standard"
+  ],
+  "dollar-circle": [
+    "money",
+    "currency",
+    "coin",
+    "finance",
+    "wealth"
+  ],
+  "dolphin": [
+    "marine",
+    "animal",
+    "mammal",
+    "intelligent",
+    "cognitive"
+  ],
+  "doubao": [
+    "brand",
+    "product",
+    "mascot",
+    "character"
+  ],
+  "double-quotes-end-1": [
+    "quote",
+    "text",
+    "punctuation",
+    "typography",
+    "speech"
+  ],
+  "download-1": [
+    "save",
+    "arrow",
+    "file",
+    "transfer"
+  ],
+  "download-circle-1": [
+    "save",
+    "transfer",
+    "file",
+    "storage"
+  ],
+  "dribbble": [
+    "sports",
+    "ball",
+    "game",
+    "activity",
+    "leisure"
+  ],
+  "dribbble-symbol": [
+    "design",
+    "portfolio",
+    "creative",
+    "brand",
+    "community"
+  ],
+  "drizzle": [
+    "rain",
+    "weather",
+    "storm",
+    "clouds",
+    "precipitation"
+  ],
+  "dropbox": [
+    "cloud",
+    "storage",
+    "file-sharing",
+    "service",
+    "platform"
+  ],
+  "drupal": [
+    "content-management",
+    "website",
+    "editor",
+    "publisher",
+    "media"
+  ],
+  "dumbbell-1": [
+    "fitness",
+    "weights",
+    "workout",
+    "strength"
+  ],
+  "edge": [
+    "browser",
+    "chrome",
+    "firefox",
+    "opera",
+    "safari"
+  ],
+  "eleutherai": [
+    "artificial-intelligence",
+    "brand",
+    "research",
+    "open-source",
+    "model"
+  ],
+  "eleven-labs": [
+    "audio",
+    "voice",
+    "brand",
+    "speech",
+    "synthesis"
+  ],
+  "elevenx": [
+    "brand",
+    "tech",
+    "digital",
+    "modern"
+  ],
+  "emoji-expressionless": [
+    "face",
+    "neutral",
+    "silhouette",
+    "mask"
+  ],
+  "emoji-expressionless-flat-eyes": [
+    "face",
+    "neutral",
+    "expression",
+    "emotion"
+  ],
+  "emoji-grin": [
+    "laugh",
+    "teeth",
+    "joy",
+    "happiness",
+    "cheerfulness"
+  ],
+  "emoji-sad": [
+    "sadness",
+    "grief",
+    "melancholy",
+    "despair",
+    "sorrow"
+  ],
+  "emoji-smile": [
+    "smiling",
+    "grinning",
+    "cheeriness",
+    "friendliness",
+    "approvability"
+  ],
+  "emoji-smile-side": [
+    "happy",
+    "grin",
+    "expression",
+    "sideways"
+  ],
+  "emoji-smile-sunglass": [
+    "cool",
+    "sunglasses",
+    "trendy",
+    "casual"
+  ],
+  "emoji-smile-tongue": [
+    "playful",
+    "silly",
+    "winking",
+    "face"
+  ],
+  "enter": [
+    "click",
+    "start",
+    "begin",
+    "initiate",
+    "activate"
+  ],
+  "enter-down": [
+    "submit",
+    "keyboard",
+    "arrow",
+    "return"
+  ],
+  "envato": [
+    "marketplace",
+    "design",
+    "template",
+    "product",
+    "resource"
+  ],
+  "envelope-1": [
+    "email",
+    "message",
+    "mail",
+    "communication",
+    "letter"
+  ],
+  "eraser-1": [
+    "delete",
+    "remove",
+    "clear",
+    "wipe",
+    "edit"
+  ],
+  "ethereum-logo": [
+    "crypto",
+    "blockchain",
+    "ether",
+    "digital",
+    "decentralized"
+  ],
+  "euro": [
+    "currency",
+    "money",
+    "coin",
+    "note",
+    "payment"
+  ],
+  "exa": [
+    "data",
+    "scale",
+    "metric",
+    "storage",
+    "large"
+  ],
+  "exit": [
+    "leave",
+    "depart",
+    "quit",
+    "terminate",
+    "exit-point"
+  ],
+  "exit-up": [
+    "out",
+    "away",
+    "remove",
+    "withdraw",
+    "depart"
+  ],
+  "expand-arrow-1": [
+    "outward",
+    "growth",
+    "enlarge",
+    "maximize",
+    "direction"
+  ],
+  "expand-square-4": [
+    "fullscreen",
+    "maximize",
+    "enlarge",
+    "screen"
+  ],
+  "expressjs": [
+    "javascript",
+    "framework",
+    "node",
+    "backend"
+  ],
+  "eye": [
+    "gaze",
+    "look",
+    "observe",
+    "examine",
+    "vision"
+  ],
+  "facebook": [
+    "profile",
+    "account",
+    "social",
+    "network",
+    "connection"
+  ],
+  "facebook-messenger": [
+    "chat",
+    "communication",
+    "social",
+    "network",
+    "dialogue"
+  ],
+  "facebook-square": [
+    "social",
+    "media",
+    "connect",
+    "profile",
+    "network"
+  ],
+  "facetime": [
+    "video",
+    "call",
+    "phone",
+    "communication",
+    "connection"
+  ],
+  "fal": [
+    "bird",
+    "wing",
+    "flight",
+    "quick",
+    "soar"
+  ],
+  "fastgpt": [
+    "chat",
+    "intelligence",
+    "language",
+    "fast"
+  ],
+  "featherless": [
+    "smooth",
+    "clean",
+    "bare",
+    "minimal",
+    "plain"
+  ],
+  "figma": [
+    "software",
+    "design",
+    "creation",
+    "artistic",
+    "digital"
+  ],
+  "file-format-zip": [
+    "archive",
+    "compress",
+    "package",
+    "extract",
+    "bundle"
+  ],
+  "file-multiple": [
+    "documents",
+    "folder",
+    "batch",
+    "collection",
+    "stack"
+  ],
+  "file-pencil": [
+    "pen",
+    "stylus",
+    "marker",
+    "sketch"
+  ],
+  "file-plus-circle": [
+    "create",
+    "document",
+    "upload"
+  ],
+  "file-question": [
+    "help",
+    "unknown",
+    "support",
+    "guide"
+  ],
+  "file-xmark": [
+    "close",
+    "remove",
+    "delete",
+    "cancel",
+    "clear"
+  ],
+  "firebase": [
+    "cloud",
+    "database",
+    "storage",
+    "auth",
+    "security"
+  ],
+  "firefly-1": [
+    "insect",
+    "glow",
+    "light",
+    "summer"
+  ],
+  "firefly-2": [
+    "insect",
+    "glow",
+    "light",
+    "summer"
+  ],
+  "firefox": [
+    "browser",
+    "computer",
+    "software",
+    "internet",
+    "navigator"
+  ],
+  "firework-rocket-4": [
+    "celebration",
+    "fireworks",
+    "spark",
+    "explode",
+    "festival"
+  ],
+  "fireworks": [
+    "explosion",
+    "pyrotechnics",
+    "celebration",
+    "festival",
+    "display"
+  ],
+  "fishaudio": [
+    "music",
+    "sound",
+    "song",
+    "audio",
+    "listen"
+  ],
+  "fitbit": [
+    "tracker",
+    "watch",
+    "fitness",
+    "monitor",
+    "device"
+  ],
+  "flag-1": [
+    "country",
+    "marker",
+    "destination",
+    "milestone",
+    "location"
+  ],
+  "flag-2": [
+    "warning",
+    "alert",
+    "caution",
+    "signal",
+    "indicator"
+  ],
+  "flickr": [
+    "camera",
+    "photo",
+    "image",
+    "picture",
+    "album"
+  ],
+  "floppy-disk-1": [
+    "save",
+    "storage",
+    "backup",
+    "memory"
+  ],
+  "flora": [
+    "plant",
+    "nature",
+    "botanical",
+    "leaf",
+    "garden"
+  ],
+  "flower-2": [
+    "bloom",
+    "petal",
+    "leaf",
+    "stem",
+    "root"
+  ],
+  "flowith": [
+    "flow",
+    "network",
+    "nodes",
+    "connection",
+    "graph"
+  ],
+  "flutter": [
+    "app",
+    "mobile",
+    "software",
+    "engine",
+    "development"
+  ],
+  "flux": [
+    "network",
+    "switch",
+    "router",
+    "link",
+    "connection"
+  ],
+  "folder-1": [
+    "directory",
+    "files",
+    "documents",
+    "storage",
+    "archive"
+  ],
+  "ford": [
+    "car",
+    "automotive",
+    "vehicle",
+    "transport",
+    "motor"
+  ],
+  "framer": [
+    "frame",
+    "picture",
+    "image",
+    "design",
+    "layout"
+  ],
+  "friendli": [
+    "smile",
+    "happy",
+    "face",
+    "social",
+    "friendly"
+  ],
+  "funnel-1": [
+    "filter",
+    "sort",
+    "pipeline",
+    "process",
+    "refine"
+  ],
+  "gallery": [
+    "image",
+    "picture",
+    "showcase",
+    "display",
+    "portfolio"
+  ],
+  "game-pad-modern-1": [
+    "controller",
+    "gaming",
+    "play",
+    "joystick",
+    "entertainment"
+  ],
+  "gatsby": [
+    "website",
+    "blog",
+    "design",
+    "build",
+    "theme"
+  ],
+  "gauge-1": [
+    "meter",
+    "speed",
+    "measurement",
+    "progress",
+    "indicator"
+  ],
+  "gear-1": [
+    "settings",
+    "configuration",
+    "mechanical",
+    "options",
+    "mechanism"
+  ],
+  "gears-3": [
+    "settings",
+    "mechanical",
+    "system",
+    "process",
+    "mechanism"
+  ],
+  "gemini": [
+    "twins",
+    "communication",
+    "intellect",
+    "mutable",
+    "reflection"
+  ],
+  "gemma": [
+    "jewel",
+    "diamond",
+    "precious",
+    "stone"
+  ],
+  "git": [
+    "code",
+    "repository",
+    "version",
+    "branch",
+    "commit"
+  ],
+  "giteeai": [
+    "code",
+    "development",
+    "platform",
+    "repository"
+  ],
+  "github": [
+    "platform",
+    "software",
+    "company",
+    "organization",
+    "site"
+  ],
+  "github-copilot": [
+    "code",
+    "programming",
+    "assistant",
+    "autocomplete"
+  ],
+  "glama": [
+    "sparkle",
+    "shine",
+    "elegant",
+    "diamond"
+  ],
+  "glass-juice-1": [
+    "drink",
+    "beverage",
+    "liquid",
+    "refreshment",
+    "soda"
+  ],
+  "glif": [
+    "text",
+    "letter",
+    "character",
+    "font"
+  ],
+  "glm": [
+    "model",
+    "math",
+    "statistics",
+    "data",
+    "analysis"
+  ],
+  "glmv": [
+    "model",
+    "regression",
+    "statistics",
+    "analysis",
+    "data"
+  ],
+  "globe-1": [
+    "world",
+    "earth",
+    "global",
+    "international",
+    "planet"
+  ],
+  "globe-stand": [
+    "support",
+    "base",
+    "pedestal",
+    "platform",
+    "stability"
+  ],
+  "go": [
+    "language",
+    "program",
+    "code",
+    "script",
+    "engine"
+  ],
+  "goodreads": [
+    "book",
+    "read",
+    "review",
+    "share",
+    "recommend"
+  ],
+  "google": [
+    "find",
+    "discover",
+    "learn",
+    "inform"
+  ],
+  "google-cloud": [
+    "server",
+    "storage",
+    "compute",
+    "network",
+    "database"
+  ],
+  "google-drive": [
+    "cloud",
+    "storage",
+    "file",
+    "upload",
+    "download"
+  ],
+  "google-meet": [
+    "video",
+    "conference",
+    "call",
+    "meeting",
+    "screen"
+  ],
+  "google-pay": [
+    "purchase",
+    "buy",
+    "transfer",
+    "bill",
+    "payment"
+  ],
+  "google-wallet": [
+    "money",
+    "finance",
+    "pay",
+    "transfer",
+    "bill"
+  ],
+  "goose": [
+    "bird",
+    "animal",
+    "waterfowl",
+    "poultry",
+    "nature"
+  ],
+  "gradio": [
+    "editor",
+    "control",
+    "panel",
+    "dashboard"
+  ],
+  "graduation-cap-1": [
+    "education",
+    "degree",
+    "ceremony",
+    "academic",
+    "graduate"
+  ],
+  "grammarly": [
+    "editor",
+    "writer",
+    "proofread",
+    "correct",
+    "spellcheck"
+  ],
+  "grammarly-ai": [
+    "writing",
+    "editing",
+    "grammar",
+    "text",
+    "correction"
+  ],
+  "greptile": [
+    "code",
+    "review",
+    "analysis",
+    "programming"
+  ],
+  "grok": [
+    "chatbot",
+    "intelligence",
+    "conversation",
+    "understanding"
+  ],
+  "groq": [
+    "chip",
+    "hardware",
+    "computing",
+    "inference",
+    "processor"
+  ],
+  "hacker-news": [
+    "article",
+    "story",
+    "post",
+    "blog",
+    "feed"
+  ],
+  "hailuo": [
+    "video",
+    "generation",
+    "media",
+    "creation",
+    "streaming"
+  ],
+  "haiper": [
+    "video",
+    "editing",
+    "media",
+    "production"
+  ],
+  "hammer-1": [
+    "tool",
+    "construction",
+    "repair",
+    "building",
+    "crafts"
+  ],
+  "hammer-2": [
+    "tool",
+    "construction",
+    "repair",
+    "building",
+    "crafts"
+  ],
+  "hand-mic": [
+    "microphone",
+    "audio",
+    "recording",
+    "voice",
+    "speaking"
+  ],
+  "hand-shake": [
+    "agreement",
+    "partnership",
+    "collaboration",
+    "business",
+    "greeting"
+  ],
+  "hand-stop": [
+    "halt",
+    "cease",
+    "pause",
+    "freeze"
+  ],
+  "hand-taking-dollar": [
+    "money",
+    "payment",
+    "transaction",
+    "receive",
+    "finance"
+  ],
+  "hand-taking-leaf-1": [
+    "nature",
+    "green",
+    "environment",
+    "organic"
+  ],
+  "hand-taking-user": [
+    "people",
+    "account",
+    "profile",
+    "onboarding",
+    "person"
+  ],
+  "hashnode": [
+    "share",
+    "publish",
+    "post",
+    "reveal",
+    "disclose"
+  ],
+  "hat-chef-3": [
+    "cooking",
+    "kitchen",
+    "food",
+    "restaurant",
+    "culinary"
+  ],
+  "headphone-1": [
+    "audio",
+    "music",
+    "listening",
+    "sound",
+    "communication"
+  ],
+  "heart": [
+    "love",
+    "passion",
+    "affection",
+    "desire",
+    "longing"
+  ],
+  "hedra": [
+    "geometry",
+    "shape",
+    "structure",
+    "polygon",
+    "design"
+  ],
+  "helicopter-2": [
+    "aviation",
+    "transport",
+    "flying",
+    "emergency",
+    "aircraft"
+  ],
+  "helmet-safety-1": [
+    "protection",
+    "construction",
+    "work",
+    "hardhat"
+  ],
+  "hierarchy-1": [
+    "organization",
+    "structure",
+    "levels",
+    "management",
+    "leadership"
+  ],
+  "highlighter-1": [
+    "marking",
+    "editing",
+    "emphasis",
+    "annotation",
+    "text"
+  ],
+  "highlighter-2": [
+    "marker",
+    "text",
+    "emphasize",
+    "edit"
+  ],
+  "higress": [
+    "gateway",
+    "proxy",
+    "cloud",
+    "network"
+  ],
+  "home-2": [
+    "house",
+    "abode",
+    "dwelling",
+    "residence",
+    "nest"
+  ],
+  "hospital-2": [
+    "medical",
+    "health",
+    "building",
+    "clinic",
+    "emergency"
+  ],
+  "hourglass": [
+    "clock",
+    "time",
+    "glass",
+    "container"
+  ],
+  "html5": [
+    "code",
+    "programming",
+    "software",
+    "technology",
+    "development"
+  ],
+  "hubspot-ai": [
+    "marketing",
+    "sales",
+    "business",
+    "automation"
+  ],
+  "humata-ai": [
+    "document",
+    "analysis",
+    "research",
+    "summarize"
+  ],
+  "hunyuan": [
+    "tencent",
+    "model",
+    "chat",
+    "language"
+  ],
+  "hyperbolic": [
+    "math",
+    "curve",
+    "geometry",
+    "function",
+    "infinite"
+  ],
+  "ibm": [
+    "tech",
+    "enterprise",
+    "computing",
+    "business",
+    "innovation"
+  ],
+  "ideogram": [
+    "character",
+    "sign",
+    "notation",
+    "writing"
+  ],
+  "iflytekcloud": [
+    "voice",
+    "speech",
+    "recognition",
+    "audio",
+    "transcription"
+  ],
+  "imdb": [
+    "database",
+    "film",
+    "movie",
+    "rating",
+    "review"
+  ],
+  "indent": [
+    "space",
+    "margin",
+    "gutter",
+    "padding",
+    "border"
+  ],
+  "inference": [
+    "reasoning",
+    "prediction",
+    "logic",
+    "deduction"
+  ],
+  "infermatic": [
+    "automation",
+    "machine",
+    "processing",
+    "engine"
+  ],
+  "infinigence": [
+    "infinite",
+    "intelligence",
+    "boundless",
+    "smart"
+  ],
+  "injection-1": [
+    "syringe",
+    "vaccine",
+    "medical",
+    "shot",
+    "drug"
+  ],
+  "instagram": [
+    "camera",
+    "social",
+    "media",
+    "share",
+    "post"
+  ],
+  "instagram-logotype": [
+    "camera",
+    "social",
+    "photo",
+    "sharing",
+    "brand"
+  ],
+  "intel": [
+    "chip",
+    "processor",
+    "microchip",
+    "technology",
+    "computer"
+  ],
+  "internlm": [
+    "language",
+    "neural",
+    "model",
+    "transformer"
+  ],
+  "ios": [
+    "mobile",
+    "apple",
+    "device",
+    "system"
+  ],
+  "island-2": [
+    "tropical",
+    "land",
+    "beach",
+    "vacation",
+    "geography"
+  ],
+  "jaguar": [
+    "car",
+    "automobile",
+    "vehicle",
+    "transport",
+    "roadster"
+  ],
+  "jamstack": [
+    "tech",
+    "development",
+    "methodology",
+    "approach",
+    "framework"
+  ],
+  "jasper": [
+    "stone",
+    "mineral",
+    "crystal",
+    "earth"
+  ],
+  "java": [
+    "computer",
+    "software",
+    "programming",
+    "language",
+    "code"
+  ],
+  "javascript": [
+    "code",
+    "program",
+    "software",
+    "algorithm",
+    "script"
+  ],
+  "jcb": [
+    "trademark",
+    "identity",
+    "firm",
+    "business"
+  ],
+  "jimeng": [
+    "dream",
+    "imagination",
+    "vision",
+    "sleep",
+    "fantasy"
+  ],
+  "jina": [
+    "query",
+    "chatbot",
+    "assistant",
+    "knowledge"
+  ],
+  "joomla": [
+    "software",
+    "content",
+    "management",
+    "website",
+    "platform"
+  ],
+  "jsfiddle": [
+    "editor",
+    "sandbox",
+    "code",
+    "tester",
+    "debugger"
+  ],
+  "key-1": [
+    "password",
+    "access",
+    "security",
+    "lock",
+    "authentication"
+  ],
+  "keyboard": [
+    "input",
+    "typing",
+    "keying",
+    "punching",
+    "clacking"
+  ],
+  "kimi": [
+    "chat",
+    "assistant",
+    "conversation",
+    "message"
+  ],
+  "kling": [
+    "video",
+    "generation",
+    "media",
+    "content"
+  ],
+  "kluster": [
+    "grouping",
+    "nodes",
+    "network",
+    "servers",
+    "clustering"
+  ],
+  "knife-fork-1": [
+    "dining",
+    "food",
+    "restaurant",
+    "eating",
+    "meal"
+  ],
+  "kolors": [
+    "colors",
+    "palette",
+    "design",
+    "gradient"
+  ],
+  "krea": [
+    "design",
+    "creation",
+    "creative",
+    "canvas",
+    "generator"
+  ],
+  "kubernetes": [
+    "cloud",
+    "container",
+    "orchestration",
+    "system",
+    "infrastructure"
+  ],
+  "kwaipilot": [
+    "pilot",
+    "automation",
+    "guidance",
+    "assistance",
+    "navigation"
+  ],
+  "label-dollar-2": [
+    "pricing",
+    "money",
+    "cost",
+    "price"
+  ],
+  "lambda": [
+    "math",
+    "constant",
+    "variable",
+    "notation"
+  ],
+  "langchain": [
+    "language",
+    "model",
+    "generator",
+    "assistant",
+    "intelligence"
+  ],
+  "langfuse": [
+    "language",
+    "monitoring",
+    "tracing",
+    "analytics",
+    "observability"
+  ],
+  "langgraph": [
+    "graph",
+    "representation",
+    "language",
+    "modeling",
+    "semantics"
+  ],
+  "langsmith": [
+    "coding",
+    "language",
+    "development",
+    "programming"
+  ],
+  "laptop-2": [
+    "computer",
+    "notebook",
+    "portable",
+    "device",
+    "screen"
+  ],
+  "laptop-phone": [
+    "computer",
+    "mobile",
+    "device",
+    "screen",
+    "keyboard"
+  ],
+  "laravel": [
+    "framework",
+    "php",
+    "server",
+    "application",
+    "code"
+  ],
+  "layers-1": [
+    "stack",
+    "depth",
+    "levels",
+    "tier"
+  ],
+  "layout-26": [
+    "grid",
+    "structure",
+    "design",
+    "arrangement",
+    "template"
+  ],
+  "layout-9": [
+    "composition",
+    "blueprint",
+    "design",
+    "arrangement",
+    "wireframe"
+  ],
+  "leaf-1": [
+    "nature",
+    "plant",
+    "green",
+    "organic",
+    "botanical"
+  ],
+  "leaf-6": [
+    "foliage",
+    "growth",
+    "environmental",
+    "natural"
+  ],
+  "lemon-squeezy": [
+    "citrus",
+    "fruit",
+    "sour",
+    "juice",
+    "beverage"
+  ],
+  "leptonai": [
+    "artificial",
+    "intelligence",
+    "neural",
+    "machine"
+  ],
+  "life-guard-tube-1": [
+    "safety",
+    "rescue",
+    "float",
+    "swimming",
+    "emergency"
+  ],
+  "lightricks": [
+    "light",
+    "magic",
+    "effects",
+    "studio",
+    "bright"
+  ],
+  "line": [
+    "path",
+    "route",
+    "track",
+    "course",
+    "edge"
+  ],
+  "line-dashed": [
+    "dash",
+    "stripe",
+    "grid",
+    "seam",
+    "split"
+  ],
+  "line-dotted": [
+    "pointed",
+    "punctuated",
+    "studded",
+    "speckled"
+  ],
+  "line-height": [
+    "space",
+    "gap",
+    "margin",
+    "indent",
+    "distance"
+  ],
+  "lineicons": [
+    "linear",
+    "contour",
+    "trace",
+    "path"
+  ],
+  "link-2-angular-right": [
+    "connection",
+    "chain",
+    "forward",
+    "navigation"
+  ],
+  "linkedin": [
+    "network",
+    "connection",
+    "link",
+    "relation",
+    "friendship"
+  ],
+  "liquid": [
+    "water",
+    "fluid",
+    "droplet",
+    "flow"
+  ],
+  "livekit": [
+    "stream",
+    "video",
+    "camera",
+    "recording",
+    "broadcast"
+  ],
+  "llamaindex": [
+    "index",
+    "retrieval",
+    "data",
+    "embedding"
+  ],
+  "llava": [
+    "lava",
+    "volcano",
+    "molten",
+    "fire"
+  ],
+  "lmstudio": [
+    "studio",
+    "model",
+    "software",
+    "application",
+    "development"
+  ],
+  "location-arrow-right": [
+    "pointer",
+    "direction",
+    "navigation",
+    "marker"
+  ],
+  "locked-1": [
+    "security",
+    "private",
+    "closed",
+    "password",
+    "safe"
+  ],
+  "locked-2": [
+    "security",
+    "private",
+    "closed",
+    "password",
+    "safe"
+  ],
+  "longcat": [
+    "meme",
+    "stretch",
+    "animal",
+    "internet"
+  ],
+  "loom": [
+    "studio",
+    "space",
+    "room",
+    "area",
+    "environment"
+  ],
+  "lovable": [
+    "heart",
+    "affection",
+    "romance",
+    "valentine",
+    "cute"
+  ],
+  "luma-ai": [
+    "artificial-intelligence",
+    "technology",
+    "machine-learning",
+    "neural",
+    "automation"
+  ],
+  "magento": [
+    "ecommerce",
+    "shop",
+    "store",
+    "inventory",
+    "product"
+  ],
+  "magic": [
+    "illusion",
+    "spectacle",
+    "show",
+    "wizardry",
+    "fantasy"
+  ],
+  "magnet": [
+    "attract",
+    "draw",
+    "pull",
+    "lure",
+    "capture"
+  ],
+  "mailchimp": [
+    "email",
+    "send",
+    "message",
+    "communicate",
+    "connect"
+  ],
+  "make": [
+    "create",
+    "build",
+    "manufacture",
+    "craft",
+    "assemble"
+  ],
+  "manus": [
+    "document",
+    "hand",
+    "writing",
+    "manual",
+    "agent"
+  ],
+  "manychat": [
+    "chat",
+    "messaging",
+    "conversation",
+    "communication"
+  ],
+  "map-marker-1": [
+    "location",
+    "navigation",
+    "place",
+    "destination"
+  ],
+  "map-marker-5": [
+    "location",
+    "navigation",
+    "destination",
+    "travel"
+  ],
+  "map-pin-5": [
+    "location",
+    "marker",
+    "navigation",
+    "address"
+  ],
+  "markdown": [
+    "formatting",
+    "style",
+    "layout",
+    "design",
+    "template"
+  ],
+  "marketmuse": [
+    "marketing",
+    "analytics",
+    "content",
+    "insights"
+  ],
+  "mastercard": [
+    "credit",
+    "payment",
+    "card",
+    "money",
+    "finance"
+  ],
+  "mastra": [
+    "mastery",
+    "control",
+    "dashboard",
+    "management",
+    "platform"
+  ],
+  "mcp": [
+    "dashboard",
+    "console",
+    "panel",
+    "workspace",
+    "system"
+  ],
+  "mcpso": [
+    "business",
+    "enterprise",
+    "solution",
+    "professional",
+    "management"
+  ],
+  "medium": [
+    "size",
+    "scale",
+    "proportion",
+    "dimension",
+    "measure"
+  ],
+  "medium-alt": [
+    "size",
+    "scale",
+    "dimension",
+    "proportion",
+    "level"
+  ],
+  "megaphone-1": [
+    "loudspeaker",
+    "announcement",
+    "broadcast",
+    "speaker",
+    "amplify"
+  ],
+  "meku-dev": [
+    "brand",
+    "development",
+    "tech",
+    "software"
+  ],
+  "menlo": [
+    "font",
+    "typography",
+    "monospace",
+    "coding",
+    "terminal"
+  ],
+  "menu-cheesburger": [
+    "hamburger",
+    "navigation",
+    "burger",
+    "list"
+  ],
+  "menu-hamburger-1": [
+    "navigation",
+    "mobile",
+    "options",
+    "list"
+  ],
+  "menu-meatballs-1": [
+    "dots",
+    "vertical",
+    "options",
+    "kebab"
+  ],
+  "menu-meatballs-2": [
+    "dots",
+    "horizontal",
+    "options",
+    "more"
+  ],
+  "mercedes": [
+    "car",
+    "automobile",
+    "vehicle",
+    "transport",
+    "roadster"
+  ],
+  "message-2": [
+    "chat",
+    "text",
+    "conversation",
+    "send",
+    "receive"
+  ],
+  "message-2-question": [
+    "inquire",
+    "doubt",
+    "help",
+    "support"
+  ],
+  "message-3-text": [
+    "conversation",
+    "dialogue",
+    "speech",
+    "messaging"
+  ],
+  "meta": [
+    "header",
+    "footer",
+    "description",
+    "title",
+    "content"
+  ],
+  "meta-ai": [
+    "assistant",
+    "machine",
+    "neural",
+    "cognitive"
+  ],
+  "meta-alt": [
+    "social",
+    "platform",
+    "network",
+    "digital",
+    "identity"
+  ],
+  "metagpt": [
+    "chatbot",
+    "automation",
+    "intelligence",
+    "software"
+  ],
+  "microphone-1": [
+    "audio",
+    "recording",
+    "voice",
+    "sound",
+    "podcast"
+  ],
+  "microscope": [
+    "lens",
+    "optics",
+    "instrument",
+    "device",
+    "telescope"
+  ],
+  "microsoft": [
+    "software",
+    "computer",
+    "technology",
+    "firmware",
+    "hardware"
+  ],
+  "microsoft-edge": [
+    "browser",
+    "chrome",
+    "navigator",
+    "tab"
+  ],
+  "microsoft-teams": [
+    "software",
+    "application",
+    "program",
+    "suite",
+    "platform"
+  ],
+  "midjourney": [
+    "design",
+    "visual",
+    "synthesis",
+    "render"
+  ],
+  "minimax": [
+    "game",
+    "strategy",
+    "computer",
+    "science",
+    "algorithm"
+  ],
+  "minus": [
+    "subtract",
+    "reduce",
+    "decrease",
+    "lessen",
+    "eliminate"
+  ],
+  "minus-circle": [
+    "decrease",
+    "reduce",
+    "cancel",
+    "reject",
+    "eliminating"
+  ],
+  "mistral-ai": [
+    "open-source",
+    "french-tech",
+    "language-models",
+    "european",
+    "generative-ai"
+  ],
+  "modelscope": [
+    "neural",
+    "network",
+    "dataset",
+    "algorithm",
+    "learning"
+  ],
+  "mongodb": [
+    "database",
+    "storage",
+    "data",
+    "collection",
+    "store"
+  ],
+  "monica": [
+    "actress",
+    "model",
+    "celebrity",
+    "star",
+    "performance"
+  ],
+  "monitor": [
+    "screen",
+    "display",
+    "watch",
+    "observe",
+    "viewing"
+  ],
+  "monitor-code": [
+    "coding",
+    "programming",
+    "screen",
+    "development",
+    "computer"
+  ],
+  "monitor-mac": [
+    "apple",
+    "computer",
+    "display",
+    "screen",
+    "macbook"
+  ],
+  "moon-half-right-5": [
+    "night",
+    "lunar",
+    "celestial",
+    "astronomy",
+    "phase"
+  ],
+  "moonshot": [
+    "ambition",
+    "rocket",
+    "space",
+    "goal",
+    "project"
+  ],
+  "mountains-2": [
+    "nature",
+    "hiking",
+    "peak",
+    "adventure",
+    "landscape"
+  ],
+  "mouse-2": [
+    "active",
+    "alert",
+    "watchful",
+    "vigilant",
+    "attentive"
+  ],
+  "mushroom-1": [
+    "fungi",
+    "forest",
+    "nature",
+    "organic",
+    "food"
+  ],
+  "mushroom-5": [
+    "fungi",
+    "forest",
+    "nature",
+    "organic",
+    "psychedelic"
+  ],
+  "music": [
+    "sound",
+    "melody",
+    "harmony",
+    "rhythm",
+    "tune"
+  ],
+  "myshell": [
+    "terminal",
+    "command",
+    "console",
+    "shell"
+  ],
+  "mysql": [
+    "database",
+    "storage",
+    "data",
+    "query",
+    "manage"
+  ],
+  "n8n": [
+    "workflow",
+    "process",
+    "pipeline",
+    "automation",
+    "node"
+  ],
+  "nasa": [
+    "space",
+    "astronaut",
+    "rocket",
+    "satellite",
+    "galaxy"
+  ],
+  "nebius": [
+    "cloud",
+    "server",
+    "infrastructure",
+    "platform",
+    "compute"
+  ],
+  "netflix": [
+    "stream",
+    "video",
+    "media",
+    "entertainment",
+    "broadcast"
+  ],
+  "netlify": [
+    "cloud",
+    "server",
+    "host",
+    "deploy",
+    "release"
+  ],
+  "newapi": [
+    "developer",
+    "code",
+    "protocol",
+    "service"
+  ],
+  "next-step-2": [
+    "forward",
+    "progression",
+    "arrow",
+    "continue",
+    "workflow"
+  ],
+  "nextjs": [
+    "website",
+    "build",
+    "create",
+    "design",
+    "develop"
+  ],
+  "nike": [
+    "sportswear",
+    "brand",
+    "clothing",
+    "shoes",
+    "athletics"
+  ],
+  "nissan": [
+    "car",
+    "vehicle",
+    "automobile",
+    "truck",
+    "motorcycle"
+  ],
+  "nodejs": [
+    "computer",
+    "code",
+    "software",
+    "program",
+    "engine"
+  ],
+  "nodejs-alt": [
+    "alternative",
+    "variant",
+    "substitute",
+    "replace",
+    "swap"
+  ],
+  "notebook-1": [
+    "notes",
+    "journal",
+    "documentation",
+    "writing",
+    "record"
+  ],
+  "notebooklm": [
+    "software",
+    "development",
+    "editor",
+    "text",
+    "ide"
+  ],
+  "notion": [
+    "notebook",
+    "document",
+    "page",
+    "content",
+    "workspace"
+  ],
+  "nova": [
+    "star",
+    "space",
+    "galaxy",
+    "bright",
+    "cosmic"
+  ],
+  "novelai": [
+    "artificial-intelligence",
+    "writing",
+    "creative",
+    "story",
+    "generation"
+  ],
+  "novita": [
+    "innovative",
+    "fresh",
+    "modern",
+    "novel"
+  ],
+  "nplcloud": [
+    "natural-language",
+    "cloud",
+    "processing",
+    "text",
+    "language"
+  ],
+  "npm": [
+    "package",
+    "install",
+    "manager",
+    "dependency",
+    "update"
+  ],
+  "nuxt": [
+    "framework",
+    "build",
+    "toolkit",
+    "development",
+    "web"
+  ],
+  "nvidia": [
+    "graphics-card",
+    "gpu",
+    "technology",
+    "electronics",
+    "hardware"
+  ],
+  "oculus": [
+    "glasses",
+    "headset",
+    "vision",
+    "see",
+    "perception"
+  ],
+  "ollama": [
+    "language",
+    "script",
+    "writing",
+    "style",
+    "poetry"
+  ],
+  "open-ai": [
+    "artificial-intelligence",
+    "intelligence",
+    "machine-learning",
+    "technology",
+    "research"
+  ],
+  "openchat": [
+    "messaging",
+    "chat",
+    "conversation",
+    "communication",
+    "dialogue"
+  ],
+  "openrouter": [
+    "gateway",
+    "connection",
+    "access",
+    "route",
+    "link"
+  ],
+  "openwebui": [
+    "window",
+    "portal",
+    "access",
+    "navigation"
+  ],
+  "opera-mini": [
+    "browser",
+    "mobile",
+    "lightweight",
+    "internet"
+  ],
+  "oracle": [
+    "database",
+    "prediction",
+    "wisdom",
+    "knowledge",
+    "crystal"
+  ],
+  "outdent": [
+    "indent",
+    "align",
+    "format",
+    "edit",
+    "adjust"
+  ],
+  "paddle": [
+    "sail",
+    "boat",
+    "wave",
+    "surf",
+    "glide"
+  ],
+  "page-break-1": [
+    "pagination",
+    "separator",
+    "divider",
+    "split"
+  ],
+  "pagination": [
+    "page",
+    "sequence",
+    "series",
+    "list",
+    "cycle"
+  ],
+  "paint-bucket": [
+    "brush",
+    "can",
+    "color",
+    "coat",
+    "splash"
+  ],
+  "paint-roller-1": [
+    "painting",
+    "decoration",
+    "brush",
+    "color"
+  ],
+  "palm": [
+    "hand",
+    "tree",
+    "tropical",
+    "nature",
+    "beach"
+  ],
+  "paperclip-1": [
+    "attachment",
+    "clip",
+    "office",
+    "document",
+    "link"
+  ],
+  "parasail": [
+    "water",
+    "adventure",
+    "parachute",
+    "sports",
+    "flying"
+  ],
+  "party-flags": [
+    "bunting",
+    "festive",
+    "event",
+    "ornament",
+    "pennant"
+  ],
+  "party-spray": [
+    "explosion",
+    "festive",
+    "cannon",
+    "streamer"
+  ],
+  "patreon": [
+    "supporter",
+    "donor",
+    "sponsor",
+    "backer",
+    "benefactor"
+  ],
+  "pause": [
+    "stop",
+    "break",
+    "rest",
+    "interrupt",
+    "halt"
+  ],
+  "payoneer": [
+    "transfer",
+    "payment",
+    "fund",
+    "money",
+    "transaction"
+  ],
+  "paypal": [
+    "payment",
+    "transfer",
+    "money",
+    "finance",
+    "transaction"
+  ],
+  "pen-to-square": [
+    "compass",
+    "protractor",
+    "angle",
+    "vertex",
+    "grid"
+  ],
+  "pencil-1": [
+    "write",
+    "draw",
+    "edit",
+    "stationery",
+    "tool"
+  ],
+  "pepsi": [
+    "soda",
+    "cola",
+    "drink",
+    "beverage",
+    "brand"
+  ],
+  "perplexity": [
+    "confusion",
+    "disorientation",
+    "doubt",
+    "uncertainty",
+    "mystery"
+  ],
+  "phidata": [
+    "data",
+    "tech",
+    "information",
+    "database"
+  ],
+  "phind": [
+    "find",
+    "query",
+    "locate",
+    "magnifying"
+  ],
+  "phone": [
+    "communication",
+    "device",
+    "mobile",
+    "telephone",
+    "connection"
+  ],
+  "photos": [
+    "image",
+    "gallery",
+    "picture",
+    "camera",
+    "album"
+  ],
+  "php": [
+    "programming",
+    "language",
+    "code",
+    "software",
+    "development"
+  ],
+  "phrasee": [
+    "text",
+    "marketing",
+    "phrase",
+    "copy",
+    "words"
+  ],
+  "pie-chart-2": [
+    "graph",
+    "diagram",
+    "table",
+    "statistics"
+  ],
+  "pika": [
+    "character",
+    "yellow",
+    "electric",
+    "lightning",
+    "pokemon"
+  ],
+  "pilcrow": [
+    "period",
+    "full-stop",
+    "point",
+    "dot",
+    "punct"
+  ],
+  "pimjo-logo": [
+    "brand",
+    "identity",
+    "corporate",
+    "emblem",
+    "mark"
+  ],
+  "pimjo-symbol": [
+    "trademark",
+    "badge",
+    "signature",
+    "emblem"
+  ],
+  "pinterest": [
+    "board",
+    "community",
+    "network",
+    "platform",
+    "site"
+  ],
+  "pixverse": [
+    "graphics",
+    "pixels",
+    "creative",
+    "digital",
+    "media"
+  ],
+  "pizza-2": [
+    "food",
+    "italian",
+    "slice",
+    "cheese",
+    "dinner"
+  ],
+  "placeholder-dollar": [
+    "money",
+    "currency",
+    "payment",
+    "finance"
+  ],
+  "plantscale": [
+    "nature",
+    "growth",
+    "green",
+    "botanical",
+    "scale"
+  ],
+  "play": [
+    "amusement",
+    "entertainment",
+    "fun",
+    "recreation",
+    "leisure"
+  ],
+  "play-store": [
+    "app",
+    "download",
+    "market",
+    "purchase",
+    "software"
+  ],
+  "player2": [
+    "gaming",
+    "controller",
+    "multiplayer",
+    "game",
+    "video"
+  ],
+  "playstation": [
+    "console",
+    "gaming",
+    "controller",
+    "entertainment",
+    "fun"
+  ],
+  "plug-1": [
+    "electric",
+    "power",
+    "connection",
+    "outlet",
+    "socket"
+  ],
+  "plus": [
+    "addition",
+    "sum",
+    "total",
+    "growth",
+    "expansion"
+  ],
+  "pnpm": [
+    "package",
+    "manager",
+    "dependency",
+    "installer",
+    "packager"
+  ],
+  "poe": [
+    "game",
+    "arena",
+    "battle",
+    "quest",
+    "character"
+  ],
+  "pollinations": [
+    "bees",
+    "nature",
+    "flowers",
+    "ecosystem",
+    "environment"
+  ],
+  "postgresql": [
+    "database-management",
+    "relational-database",
+    "sql",
+    "open-source",
+    "enterprise-software"
+  ],
+  "postman": [
+    "api-testing",
+    "development-tool",
+    "rest-api",
+    "http-client",
+    "software-as-a-service"
+  ],
+  "pound": [
+    "currency",
+    "money",
+    "weight",
+    "mass",
+    "value"
+  ],
+  "power-button": [
+    "onoff",
+    "switch",
+    "electronics",
+    "startup",
+    "shutdown"
+  ],
+  "ppio": [
+    "technology",
+    "connection",
+    "device",
+    "input",
+    "output"
+  ],
+  "previous-step-2": [
+    "back",
+    "navigation",
+    "arrow",
+    "undo",
+    "history"
+  ],
+  "printer": [
+    "copier",
+    "scanner",
+    "fax",
+    "document",
+    "paper"
+  ],
+  "prisma": [
+    "database",
+    "schema",
+    "model",
+    "engine",
+    "management"
+  ],
+  "producthunt": [
+    "startup",
+    "tech-news",
+    "discovery",
+    "launches",
+    "innovation"
+  ],
+  "proton-mail-logo": [
+    "email",
+    "secure",
+    "privacy",
+    "messaging",
+    "communication"
+  ],
+  "proton-mail-symbol": [
+    "email",
+    "shield",
+    "lock",
+    "secure",
+    "privacy"
+  ],
+  "pydanticai": [
+    "validation",
+    "python",
+    "schema",
+    "data",
+    "library"
+  ],
+  "python": [
+    "code",
+    "programming",
+    "script",
+    "language",
+    "editor"
+  ],
+  "qingyan": [
+    "chat",
+    "assistant",
+    "chinese",
+    "intelligence"
+  ],
+  "qiniu": [
+    "cloud",
+    "storage",
+    "upload",
+    "data",
+    "cloud-storage"
+  ],
+  "question-mark": [
+    "marker",
+    "indicator",
+    "flag",
+    "query"
+  ],
+  "question-mark-circle": [
+    "query",
+    "inquiry",
+    "curiosity",
+    "investigation"
+  ],
+  "quillbot": [
+    "writing",
+    "paraphrase",
+    "rewrite",
+    "text"
+  ],
+  "quora": [
+    "question",
+    "answer",
+    "forum",
+    "discussion",
+    "site"
+  ],
+  "qwen": [
+    "language",
+    "chat",
+    "model",
+    "assistant"
+  ],
+  "radis": [
+    "scientific",
+    "spectrum",
+    "analysis",
+    "data",
+    "research"
+  ],
+  "railway": [
+    "transportation",
+    "train",
+    "network",
+    "system",
+    "track"
+  ],
+  "react": [
+    "language",
+    "framework",
+    "development",
+    "tool",
+    "library"
+  ],
+  "recraft": [
+    "design",
+    "image",
+    "generate",
+    "creative"
+  ],
+  "reddit": [
+    "forum",
+    "community",
+    "discussion",
+    "thread",
+    "comment"
+  ],
+  "refresh-circle-1-clockwise": [
+    "reload",
+    "update",
+    "rotate",
+    "sync",
+    "cycle"
+  ],
+  "refresh-dollar-1": [
+    "currency",
+    "finance",
+    "money",
+    "sync",
+    "update"
+  ],
+  "refresh-user-1": [
+    "profile",
+    "account",
+    "sync",
+    "update"
+  ],
+  "remix-js": [
+    "framework",
+    "javascript",
+    "react",
+    "development"
+  ],
+  "replicate": [
+    "copy",
+    "duplicate",
+    "clone",
+    "mirror",
+    "duplication"
+  ],
+  "replika": [
+    "chatbot",
+    "companion",
+    "assistant",
+    "conversation"
+  ],
+  "replit-ai": [
+    "coding",
+    "development",
+    "programming",
+    "software"
+  ],
+  "road-1": [
+    "path",
+    "street",
+    "travel",
+    "journey",
+    "highway"
+  ],
+  "rocket-5": [
+    "launch",
+    "space",
+    "speed",
+    "growth",
+    "takeoff"
+  ],
+  "route-1": [
+    "navigation",
+    "directions",
+    "path",
+    "wayfinding"
+  ],
+  "rss-right": [
+    "feed",
+    "subscription",
+    "news",
+    "update",
+    "syndication"
+  ],
+  "rsshub": [
+    "feed",
+    "aggregator",
+    "parser",
+    "source"
+  ],
+  "ruler-1": [
+    "measure",
+    "scale",
+    "dimensions",
+    "size",
+    "geometry"
+  ],
+  "ruler-pen": [
+    "drafting",
+    "drawing",
+    "measuring",
+    "geometry",
+    "design"
+  ],
+  "runway": [
+    "fashion",
+    "catwalk",
+    "model",
+    "stage",
+    "presentation"
+  ],
+  "rupee": [
+    "money",
+    "currency",
+    "coin",
+    "unit",
+    "standard"
+  ],
+  "rwkv": [
+    "neural",
+    "language",
+    "model",
+    "machine"
+  ],
+  "safari": [
+    "travel",
+    "adventure",
+    "journey",
+    "expedition",
+    "exploration"
+  ],
+  "sambanova": [
+    "chip",
+    "hardware",
+    "processor",
+    "technology"
+  ],
+  "sanity": [
+    "balance",
+    "calmness",
+    "peace",
+    "serenity",
+    "stability"
+  ],
+  "school-bench-1": [
+    "seating",
+    "classroom",
+    "furniture",
+    "education",
+    "wooden"
+  ],
+  "school-bench-2": [
+    "seating",
+    "classroom",
+    "furniture",
+    "education",
+    "wooden"
+  ],
+  "scissors-1-vertical": [
+    "cutting",
+    "tool",
+    "trim",
+    "blade",
+    "snip"
+  ],
+  "scoter": [
+    "transportation",
+    "vehicle",
+    "mobility",
+    "ride",
+    "travel"
+  ],
+  "scroll-down-2": [
+    "arrow",
+    "navigation",
+    "direction",
+    "page"
+  ],
+  "search-1": [
+    "magnifying",
+    "find",
+    "query",
+    "lens",
+    "discover"
+  ],
+  "search-2": [
+    "magnifier",
+    "find",
+    "query",
+    "explore",
+    "browse"
+  ],
+  "search-minus": [
+    "subtract",
+    "decrease",
+    "reduce",
+    "shrink",
+    "deduce"
+  ],
+  "search-plus": [
+    "add",
+    "expand",
+    "increase",
+    "lookup",
+    "query"
+  ],
+  "search-text": [
+    "magnifier",
+    "find",
+    "query",
+    "lines"
+  ],
+  "search1api": [
+    "magnifier",
+    "query",
+    "code",
+    "developer"
+  ],
+  "searchapi": [
+    "magnifier",
+    "query",
+    "endpoint",
+    "integration"
+  ],
+  "select-cursor-1": [
+    "pointer",
+    "arrow",
+    "click",
+    "choose"
+  ],
+  "sensenova": [
+    "sensor",
+    "scan",
+    "detect",
+    "technology",
+    "smart"
+  ],
+  "seo-monitor": [
+    "analytics",
+    "chart",
+    "graph",
+    "performance",
+    "metrics"
+  ],
+  "service-bell-1": [
+    "notification",
+    "alert",
+    "alarm",
+    "ring",
+    "reminder"
+  ],
+  "share-1": [
+    "network",
+    "connect",
+    "distribute",
+    "forward",
+    "send"
+  ],
+  "share-1-circle": [
+    "network",
+    "connect",
+    "distribute",
+    "forward",
+    "send"
+  ],
+  "share-2": [
+    "transmit",
+    "forward",
+    "sendto",
+    "sharewith",
+    "disseminate"
+  ],
+  "shield-2": [
+    "protection",
+    "security",
+    "defense",
+    "badge",
+    "guard"
+  ],
+  "shield-2-check": [
+    "verified",
+    "secure",
+    "approved",
+    "protected",
+    "validated"
+  ],
+  "shield-dollar": [
+    "money",
+    "currency",
+    "finance",
+    "bank",
+    "wealth"
+  ],
+  "shift-left": [
+    "backward",
+    "previous",
+    "move",
+    "retreat",
+    "direction"
+  ],
+  "shift-right": [
+    "forward",
+    "next",
+    "move",
+    "advance",
+    "progress"
+  ],
+  "ship-1": [
+    "boat",
+    "vessel",
+    "maritime",
+    "transport",
+    "nautical"
+  ],
+  "shirt-1": [
+    "clothing",
+    "garment",
+    "apparel",
+    "fashion",
+    "wear"
+  ],
+  "shopify": [
+    "e-commerce",
+    "online",
+    "retail",
+    "marketplace",
+    "platform"
+  ],
+  "shovel": [
+    "dig",
+    "excavate",
+    "earth",
+    "ground",
+    "dirt"
+  ],
+  "shuffle": [
+    "mix",
+    "randomize",
+    "arrange",
+    "reorder",
+    "jumble"
+  ],
+  "sign-post-left": [
+    "directional",
+    "navigation",
+    "wayfinding",
+    "guide",
+    "marker"
+  ],
+  "signal-app": [
+    "messaging-app",
+    "security",
+    "encryption",
+    "private-conversation",
+    "whatsapp"
+  ],
+  "signs-post-2": [
+    "directions",
+    "navigation",
+    "information",
+    "markers",
+    "wayfinding"
+  ],
+  "siliconcloud": [
+    "cloud",
+    "computing",
+    "technology",
+    "data",
+    "tech"
+  ],
+  "sketch": [
+    "drawing",
+    "picture",
+    "design",
+    "idea",
+    "concept"
+  ],
+  "skype": [
+    "phone",
+    "call",
+    "video",
+    "chat",
+    "communication"
+  ],
+  "skywork": [
+    "aviation",
+    "aerospace",
+    "cloud",
+    "flight"
+  ],
+  "slack": [
+    "team",
+    "work",
+    "collaboration",
+    "channel",
+    "workspace"
+  ],
+  "slice-2": [
+    "division",
+    "segment",
+    "portion",
+    "layer"
+  ],
+  "sliders-horizontal-square-2": [
+    "settings",
+    "controls",
+    "adjustments",
+    "filters",
+    "options"
+  ],
+  "slideshare": [
+    "presentation",
+    "slide",
+    "show",
+    "display",
+    "share"
+  ],
+  "smithery": [
+    "forge",
+    "metal",
+    "hammer",
+    "anvil",
+    "blacksmith"
+  ],
+  "snapchat": [
+    "camera",
+    "filter",
+    "share",
+    "private",
+    "story"
+  ],
+  "snowflake": [
+    "ice",
+    "flurry",
+    "winter",
+    "frosty",
+    "crystal"
+  ],
+  "sophnet": [
+    "fashion",
+    "brand",
+    "clothing",
+    "streetwear",
+    "urban"
+  ],
+  "sora": [
+    "anime",
+    "gaming",
+    "character",
+    "japanese"
+  ],
+  "sort-alphabetical": [
+    "alphabet",
+    "order",
+    "text",
+    "filter"
+  ],
+  "sort-high-to-low": [
+    "descending",
+    "numbers",
+    "filter",
+    "ranking",
+    "order"
+  ],
+  "soundcloud": [
+    "music",
+    "stream",
+    "audio",
+    "share",
+    "record"
+  ],
+  "spacex": [
+    "rocket",
+    "launch",
+    "spacecraft",
+    "satellite",
+    "orbital"
+  ],
+  "spark": [
+    "light",
+    "glow",
+    "flame",
+    "fire",
+    "ignite"
+  ],
+  "spellcheck": [
+    "proofread",
+    "edit",
+    "correct",
+    "verify",
+    "validate"
+  ],
+  "spinner-2-sacle": [
+    "loading",
+    "wait",
+    "progress",
+    "circle",
+    "animation"
+  ],
+  "spinner-3": [
+    "loading",
+    "wait",
+    "progress",
+    "circle",
+    "animation"
+  ],
+  "sports": [
+    "game",
+    "match",
+    "competition",
+    "event",
+    "activity"
+  ],
+  "spotify": [
+    "music",
+    "streaming",
+    "radio",
+    "tune",
+    "playlist"
+  ],
+  "spotify-alt": [
+    "music",
+    "streaming",
+    "audio",
+    "podcast",
+    "playlist"
+  ],
+  "squarespace": [
+    "website",
+    "designer",
+    "editor",
+    "builder",
+    "template"
+  ],
+  "stability": [
+    "balance",
+    "secure",
+    "steady",
+    "anchor",
+    "foundation"
+  ],
+  "stackoverflow": [
+    "programming",
+    "community",
+    "development",
+    "questions",
+    "answers"
+  ],
+  "stamp": [
+    "seal",
+    "signature",
+    "imprint",
+    "mark",
+    "label"
+  ],
+  "star-fat": [
+    "favorite",
+    "rating",
+    "bookmark",
+    "shape"
+  ],
+  "star-fat-half-2": [
+    "rating",
+    "favorite",
+    "bookmark",
+    "score"
+  ],
+  "star-sharp-disabled": [
+    "empty",
+    "dimmed",
+    "inactive",
+    "blank",
+    "hollow"
+  ],
+  "statecloud": [
+    "cloud",
+    "computing",
+    "server",
+    "storage",
+    "network"
+  ],
+  "statista": [
+    "statistics",
+    "data",
+    "report",
+    "analysis",
+    "insight"
+  ],
+  "steam": [
+    "cloud",
+    "vapour",
+    "gas",
+    "fume",
+    "smoke"
+  ],
+  "stepfun": [
+    "step",
+    "process",
+    "flow",
+    "sequence",
+    "workflow"
+  ],
+  "stethoscope-1": [
+    "medical",
+    "health",
+    "doctor",
+    "listen",
+    "checkup"
+  ],
+  "stopwatch": [
+    "timer",
+    "clock",
+    "time",
+    "chrono",
+    "watch"
+  ],
+  "storage-hdd-2": [
+    "hard-drive",
+    "disk",
+    "drive",
+    "data"
+  ],
+  "straico": [
+    "corporate",
+    "business",
+    "startup",
+    "tech"
+  ],
+  "strikethrough-1": [
+    "text",
+    "cancel",
+    "line",
+    "cross",
+    "delete"
+  ],
+  "stripe": [
+    "payment",
+    "credit",
+    "card",
+    "money",
+    "finance"
+  ],
+  "stumbleupon": [
+    "social",
+    "network",
+    "share",
+    "recommend",
+    "discover"
+  ],
+  "submodel": [
+    "model",
+    "nested",
+    "hierarchy",
+    "child",
+    "subset"
+  ],
+  "sun-1": [
+    "weather",
+    "light",
+    "solar",
+    "warm"
+  ],
+  "suno": [
+    "sun",
+    "daylight",
+    "radiant",
+    "bright",
+    "sunny"
+  ],
+  "supabase": [
+    "database",
+    "storage",
+    "server",
+    "cloud",
+    "host"
+  ],
+  "supernormal": [
+    "extraordinary",
+    "exceptional",
+    "superior",
+    "premium",
+    "elite"
+  ],
+  "surfboard-2": [
+    "wave",
+    "beach",
+    "ocean",
+    "water",
+    "sports"
+  ],
+  "surfer-seo": [
+    "optimization",
+    "content",
+    "marketing",
+    "search-engine",
+    "ranking"
+  ],
+  "svelte": [
+    "front-end",
+    "javascript",
+    "framework",
+    "lightweight",
+    "react"
+  ],
+  "swift": [
+    "speed",
+    "agility",
+    "velocity",
+    "rapidity",
+    "quickness"
+  ],
+  "sync": [
+    "update",
+    "refresh",
+    "renew",
+    "synchronize",
+    "sync-up"
+  ],
+  "synthesia": [
+    "combine",
+    "merge",
+    "fusion",
+    "blend",
+    "synthesis"
+  ],
+  "tab": [
+    "browser",
+    "control",
+    "panel",
+    "dashboard"
+  ],
+  "tabnine": [
+    "number",
+    "digit",
+    "count",
+    "sequence"
+  ],
+  "tailor-brands": [
+    "custom",
+    "clothing",
+    "fashion",
+    "design",
+    "brand"
+  ],
+  "tailwindcss": [
+    "web-development",
+    "framework",
+    "designer",
+    "utility-first",
+    "css"
+  ],
+  "target-user": [
+    "focus",
+    "customer",
+    "audience",
+    "marketing"
+  ],
+  "targon": [
+    "target",
+    "goal",
+    "objective",
+    "focus"
+  ],
+  "taskade": [
+    "task",
+    "productivity",
+    "work",
+    "todo",
+    "organization"
+  ],
+  "tavily": [
+    "travel",
+    "explore",
+    "journey",
+    "adventure",
+    "discover"
+  ],
+  "telegram": [
+    "message",
+    "text",
+    "mail",
+    "letter",
+    "dispatch"
+  ],
+  "telephone-1": [
+    "phone",
+    "call",
+    "communication",
+    "mobile",
+    "contact"
+  ],
+  "telephone-3": [
+    "phone",
+    "call",
+    "contact",
+    "dial",
+    "communication"
+  ],
+  "tencent": [
+    "company",
+    "tech",
+    "brand",
+    "internet"
+  ],
+  "tencentcloud": [
+    "cloud",
+    "server",
+    "hosting",
+    "cloud-computing",
+    "infrastructure"
+  ],
+  "tesla": [
+    "electric-car",
+    "sustainable-energy",
+    "innovation",
+    "technology",
+    "green-tech"
+  ],
+  "text-format": [
+    "style",
+    "font",
+    "layout",
+    "typeface",
+    "typography"
+  ],
+  "text-format-remove": [
+    "erase",
+    "delete",
+    "clear",
+    "cut"
+  ],
+  "text-paragraph": [
+    "format",
+    "style",
+    "compose",
+    "create",
+    "generate"
+  ],
+  "thumbs-down-3": [
+    "dislike",
+    "reject",
+    "negative",
+    "disagree",
+    "downvote"
+  ],
+  "thumbs-up-3": [
+    "like",
+    "approve",
+    "positive",
+    "agree",
+    "upvote"
+  ],
+  "tiangong": [
+    "space",
+    "station",
+    "astronaut",
+    "satellite",
+    "aerospace"
+  ],
+  "ticket-1": [
+    "event",
+    "admission",
+    "pass",
+    "coupon",
+    "stub"
+  ],
+  "tickets-3": [
+    "events",
+    "booking",
+    "cinema",
+    "theater",
+    "reservation"
+  ],
+  "tidio-ai": [
+    "chat",
+    "support",
+    "assistant",
+    "customer-service"
+  ],
+  "tii": [
+    "research",
+    "institute",
+    "innovation",
+    "technology"
+  ],
+  "tiktok": [
+    "video",
+    "social",
+    "media",
+    "platform",
+    "app"
+  ],
+  "tiktok-alt": [
+    "video-sharing",
+    "app",
+    "social-media",
+    "entertainment",
+    "viral"
+  ],
+  "together": [
+    "group",
+    "unity",
+    "people",
+    "connection",
+    "community"
+  ],
+  "topazlabs": [
+    "crystal",
+    "diamond",
+    "jewelry",
+    "precious"
+  ],
+  "tower-broadcast-1": [
+    "antenna",
+    "radio",
+    "signal",
+    "transmission",
+    "communication"
+  ],
+  "toyota": [
+    "car",
+    "automobile",
+    "vehicle",
+    "transportation",
+    "motorcycle"
+  ],
+  "trae-color": [
+    "picker",
+    "style",
+    "palette",
+    "theme"
+  ],
+  "train-1": [
+    "railway",
+    "locomotive",
+    "metro",
+    "transit",
+    "transportation"
+  ],
+  "train-3": [
+    "railway",
+    "locomotive",
+    "metro",
+    "transit",
+    "transportation"
+  ],
+  "trash-3": [
+    "delete",
+    "remove",
+    "garbage",
+    "waste"
+  ],
+  "tree-2": [
+    "nature",
+    "forest",
+    "plant",
+    "leaf",
+    "wood"
+  ],
+  "trees-3": [
+    "forest",
+    "nature",
+    "landscape",
+    "grove",
+    "park"
+  ],
+  "trello": [
+    "board",
+    "list",
+    "card",
+    "column",
+    "kanban"
+  ],
+  "trend-down-1": [
+    "decline",
+    "decrease",
+    "falling",
+    "chart",
+    "graph"
+  ],
+  "trend-up-1": [
+    "growth",
+    "chart",
+    "increase",
+    "analytics",
+    "statistics"
+  ],
+  "tripo-color": [
+    "travel",
+    "trip",
+    "journey",
+    "vacation",
+    "adventure"
+  ],
+  "trophy-1": [
+    "award",
+    "prize",
+    "champion",
+    "achievement"
+  ],
+  "trowel-1": [
+    "garden",
+    "tool",
+    "construction",
+    "masonry"
+  ],
+  "truck-delivery-1": [
+    "shipping",
+    "transport",
+    "logistics",
+    "freight",
+    "vehicle"
+  ],
+  "tumblr": [
+    "blog",
+    "social",
+    "network",
+    "community",
+    "medium"
+  ],
+  "turborepo": [
+    "framework",
+    "toolkit",
+    "build",
+    "pipeline",
+    "workflow"
+  ],
+  "turix": [
+    "travel",
+    "tour",
+    "exploration",
+    "journey"
+  ],
+  "twitch": [
+    "stream",
+    "broadcast",
+    "video",
+    "live",
+    "streaming"
+  ],
+  "twitter-old": [
+    "social",
+    "bird",
+    "microblog",
+    "post",
+    "tweet"
+  ],
+  "typescript": [
+    "language",
+    "dialect",
+    "programming",
+    "text",
+    "scripting"
+  ],
+  "uber": [
+    "transportation",
+    "ride-hailing",
+    "company",
+    "service",
+    "travel"
+  ],
+  "uber-symbol": [
+    "ride",
+    "taxi",
+    "transport",
+    "mobility"
+  ],
+  "ubuntu": [
+    "operating-system",
+    "linux",
+    "software",
+    "distribution",
+    "server"
+  ],
+  "udio-color": [
+    "music",
+    "audio",
+    "sound",
+    "player",
+    "podcast"
+  ],
+  "underline": [
+    "emphasize",
+    "highlight",
+    "accentuate",
+    "drawattention",
+    "italicize"
+  ],
+  "unlink-2-angular-eft": [
+    "disconnect",
+    "remove",
+    "detach",
+    "chain",
+    "link"
+  ],
+  "unlocked-2": [
+    "open",
+    "security",
+    "access",
+    "padlock",
+    "permission"
+  ],
+  "unsplash": [
+    "space",
+    "void",
+    "vacuum",
+    "silence",
+    "emptiness"
+  ],
+  "unstructured-color": [
+    "chaos",
+    "pattern",
+    "abstract",
+    "random",
+    "disorganized"
+  ],
+  "upload-1": [
+    "cloud",
+    "send",
+    "transfer",
+    "file",
+    "network"
+  ],
+  "upload-circle-1": [
+    "circular",
+    "cloud",
+    "share",
+    "export",
+    "data"
+  ],
+  "upstage-color": [
+    "stage",
+    "theater",
+    "performance",
+    "spotlight",
+    "present"
+  ],
+  "user-4": [
+    "person",
+    "account",
+    "profile",
+    "identity",
+    "human"
+  ],
+  "user-multiple-4": [
+    "team",
+    "group",
+    "collaboration",
+    "people",
+    "community"
+  ],
+  "v0": [
+    "beta",
+    "preliminary",
+    "alpha",
+    "prototype",
+    "test"
+  ],
+  "vector-nodes-6": [
+    "point",
+    "anchor",
+    "path",
+    "edit",
+    "design"
+  ],
+  "vector-nodes-7": [
+    "node",
+    "connection",
+    "pathway",
+    "vertex"
+  ],
+  "vectorizerai": [
+    "convert",
+    "transform",
+    "smart",
+    "algorithm",
+    "artificial"
+  ],
+  "vercel": [
+    "cloud",
+    "platform",
+    "hosting",
+    "deployment",
+    "server"
+  ],
+  "vertexai": [
+    "graph",
+    "neural",
+    "network",
+    "node"
+  ],
+  "vidu-color": [
+    "video",
+    "media",
+    "display",
+    "visual"
+  ],
+  "viggle": [
+    "motion",
+    "animation",
+    "wiggle",
+    "dance"
+  ],
+  "vimeo": [
+    "film",
+    "movie",
+    "cinema",
+    "production",
+    "studio"
+  ],
+  "visa": [
+    "credit",
+    "card",
+    "payment",
+    "finance",
+    "banking"
+  ],
+  "vite": [
+    "framework",
+    "build",
+    "tool",
+    "compiler",
+    "server"
+  ],
+  "vk": [
+    "facebook",
+    "social",
+    "network",
+    "friendship",
+    "share"
+  ],
+  "vllm-color": [
+    "neural",
+    "model",
+    "generation",
+    "machine"
+  ],
+  "vmware": [
+    "virtualization",
+    "cloud",
+    "computing",
+    "infrastructure",
+    "software"
+  ],
+  "volcengine": [
+    "cloud",
+    "engine",
+    "computing",
+    "infrastructure",
+    "platform"
+  ],
+  "volkswagen": [
+    "automobile",
+    "car",
+    "vehicle",
+    "transportation",
+    "industry"
+  ],
+  "volume-1": [
+    "one",
+    "level",
+    "mixer",
+    "sound",
+    "frequency"
+  ],
+  "volume-high": [
+    "max",
+    "full",
+    "loud",
+    "amplify",
+    "boost"
+  ],
+  "volume-low": [
+    "min",
+    "mute",
+    "quiet",
+    "reduce",
+    "soften"
+  ],
+  "volume-mute": [
+    "silence",
+    "stop",
+    "pause",
+    "quiet",
+    "stillness"
+  ],
+  "volume-off": [
+    "disabled",
+    "silenced",
+    "muted",
+    "inactive"
+  ],
+  "voyage-color": [
+    "travel",
+    "journey",
+    "navigation",
+    "trip",
+    "exploration"
+  ],
+  "vs-code": [
+    "editor",
+    "software",
+    "development",
+    "ide"
+  ],
+  "vuejs": [
+    "framework",
+    "development",
+    "code",
+    "build",
+    "engine"
+  ],
+  "wallet-1": [
+    "payment",
+    "finance",
+    "money",
+    "currency",
+    "transaction"
+  ],
+  "watch-beat-1": [
+    "time",
+    "pulse",
+    "heartbeat",
+    "rhythm",
+    "fitness"
+  ],
+  "water-drop-1": [
+    "liquid",
+    "hydration",
+    "droplet",
+    "fluid",
+    "nature"
+  ],
+  "webflow": [
+    "designer",
+    "builder",
+    "editor",
+    "creator",
+    "developer"
+  ],
+  "webhooks": [
+    "notification",
+    "event",
+    "trigger",
+    "callback",
+    "api"
+  ],
+  "wechat": [
+    "message",
+    "chat",
+    "social",
+    "friendship",
+    "communication"
+  ],
+  "weight-machine-1": [
+    "fitness",
+    "strength",
+    "workout",
+    "exercise"
+  ],
+  "wenxin-color": [
+    "baidu",
+    "chatbot",
+    "assistant",
+    "chinese",
+    "language"
+  ],
+  "whatsapp": [
+    "text",
+    "message",
+    "sms",
+    "instant",
+    "converse"
+  ],
+  "wheelbarrow-empty": [
+    "garden",
+    "construction",
+    "tool",
+    "transport",
+    "cart"
+  ],
+  "wheelchair-1": [
+    "accessibility",
+    "mobility",
+    "disability",
+    "medical",
+    "transport"
+  ],
+  "windows": [
+    "screen",
+    "desktop",
+    "workspace",
+    "layout",
+    "environment"
+  ],
+  "windsurf": [
+    "sport",
+    "activity",
+    "water",
+    "outdoor",
+    "adventure"
+  ],
+  "wise": [
+    "person",
+    "character",
+    "intelligence",
+    "insight",
+    "counselor"
+  ],
+  "wordpress": [
+    "blog",
+    "site",
+    "content",
+    "management",
+    "editor"
+  ],
+  "wordtune-ai": [
+    "writing",
+    "assistant",
+    "editing",
+    "text",
+    "grammar"
+  ],
+  "workersai-color": [
+    "cloudflare",
+    "serverless",
+    "computing",
+    "inference"
+  ],
+  "writesonic": [
+    "content",
+    "creative",
+    "generation",
+    "marketing",
+    "blog"
+  ],
+  "www": [
+    "domain",
+    "website",
+    "internet",
+    "server",
+    "network"
+  ],
+  "www-cursor": [
+    "pointer",
+    "mouse",
+    "navigation",
+    "click"
+  ],
+  "x": [
+    "cross",
+    "cancel",
+    "reject",
+    "deny",
+    "refuse"
+  ],
+  "xai": [
+    "elon-musk",
+    "startup",
+    "research",
+    "neural",
+    "technology"
+  ],
+  "xampp": [
+    "software",
+    "development",
+    "tool",
+    "server",
+    "database"
+  ],
+  "xbox": [
+    "console",
+    "gaming",
+    "controller",
+    "player",
+    "arena"
+  ],
+  "xinference-color": [
+    "machine-learning",
+    "deployment",
+    "model",
+    "optimization",
+    "serving"
+  ],
+  "xmark": [
+    "checkmark",
+    "tick",
+    "approval",
+    "validation",
+    "acceptance"
+  ],
+  "xmark-circle": [
+    "close",
+    "exit",
+    "dismiss",
+    "abort",
+    "terminate"
+  ],
+  "xrp": [
+    "cryptocurrency",
+    "blockchain",
+    "digital",
+    "token",
+    "coin"
+  ],
+  "xuanyuan-color": [
+    "chinese",
+    "model",
+    "domestic",
+    "assistant"
+  ],
+  "yahoo": [
+    "engine",
+    "directory",
+    "listing",
+    "information",
+    "database"
+  ],
+  "yandex": [
+    "directory",
+    "listing",
+    "information",
+    "data",
+    "resource"
+  ],
+  "yarn": [
+    "package",
+    "manager",
+    "dependency",
+    "library",
+    "tool"
+  ],
+  "ycombinator": [
+    "startup",
+    "venture",
+    "funding",
+    "investment",
+    "accelerator"
+  ],
+  "yen": [
+    "currency",
+    "money",
+    "finance",
+    "value",
+    "price"
+  ],
+  "yi-color": [
+    "camera",
+    "technology",
+    "brand",
+    "vision",
+    "surveillance"
+  ],
+  "youmind": [
+    "brain",
+    "mental",
+    "consciousness",
+    "mindfulness",
+    "psychology"
+  ],
+  "youtube": [
+    "video",
+    "streaming",
+    "player",
+    "channel",
+    "broadcast"
+  ],
+  "youtube-kids": [
+    "children",
+    "family",
+    "videos",
+    "entertainment",
+    "streaming"
+  ],
+  "youtube-music": [
+    "audio",
+    "streaming",
+    "melody",
+    "songs"
+  ],
+  "yuanbao": [
+    "gold",
+    "wealth",
+    "treasure",
+    "prosperity",
+    "ingot"
+  ],
+  "zai": [
+    "corporate",
+    "business",
+    "startup",
+    "tech"
+  ],
+  "zapier": [
+    "automation",
+    "integration",
+    "workflow",
+    "process",
+    "system"
+  ],
+  "zapier-color": [
+    "automation",
+    "integration",
+    "workflow",
+    "connection",
+    "productivity"
+  ],
+  "zeabur-color": [
+    "deployment",
+    "cloud",
+    "hosting",
+    "server",
+    "development"
+  ],
+  "zenmux": [
+    "meditation",
+    "calm",
+    "peace",
+    "mindfulness"
+  ],
+  "zero-size": [
+    "minimal",
+    "tiny",
+    "compact",
+    "small",
+    "dimension"
+  ],
+  "zeroone": [
+    "artificial-intelligence",
+    "language-models",
+    "technology",
+    "startup",
+    "innovation"
+  ],
+  "zhipu-ai": [
+    "large-language-models",
+    "chinese-tech",
+    "generative-ai",
+    "intelligence",
+    "startup"
+  ],
+  "zoom": [
+    "video",
+    "conference",
+    "call",
+    "screen-sharing",
+    "telepresence"
+  ]
+}

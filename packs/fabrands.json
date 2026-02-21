@@ -1,0 +1,3828 @@
+{
+  "42-group": [
+    "collection",
+    "set",
+    "grouping",
+    "assembly",
+    "aggregation"
+  ],
+  "500px": [
+    "size",
+    "dimension",
+    "measure",
+    "scale",
+    "proportion"
+  ],
+  "accessible-icon": [
+    "inclusive",
+    "universal",
+    "disabled",
+    "assistive"
+  ],
+  "accusoft": [
+    "software",
+    "firmware",
+    "technology",
+    "system",
+    "hardware"
+  ],
+  "adn": [
+    "mark",
+    "branding",
+    "identifier",
+    "label"
+  ],
+  "adversal": [
+    "opponent",
+    "enemy",
+    "antagonist",
+    "foe",
+    "rival"
+  ],
+  "affiliatetheme": [
+    "theme",
+    "style",
+    "design",
+    "pattern",
+    "motif"
+  ],
+  "airbnb": [
+    "company",
+    "firm",
+    "organization",
+    "business",
+    "enterprise"
+  ],
+  "algolia": [
+    "software",
+    "technology",
+    "system",
+    "firmware",
+    "hardware"
+  ],
+  "alipay": [
+    "payment",
+    "china",
+    "finance",
+    "transaction",
+    "transfer"
+  ],
+  "amazon": [
+    "online",
+    "retail",
+    "shopping",
+    "marketplace",
+    "store"
+  ],
+  "amazon-pay": [
+    "payment",
+    "online",
+    "transaction",
+    "transfer",
+    "checkout"
+  ],
+  "amilia": [
+    "family",
+    "relatives",
+    "kinship",
+    "blood",
+    "heritage"
+  ],
+  "android": [
+    "operating",
+    "system",
+    "mobile",
+    "device",
+    "platform"
+  ],
+  "angellist": [
+    "angel",
+    "heavenly",
+    "divine",
+    "spiritual",
+    "heaven"
+  ],
+  "angrycreative": [
+    "aggressive",
+    "artistic",
+    "emotional",
+    "intense",
+    "passionate"
+  ],
+  "angular": [
+    "geometric",
+    "mathematical",
+    "polygonal",
+    "rectangular",
+    "triangular"
+  ],
+  "app-store": [
+    "application",
+    "download",
+    "storefront",
+    "software",
+    "technology"
+  ],
+  "app-store-ios": [
+    "apple",
+    "mobile",
+    "smartphone",
+    "tech",
+    "device"
+  ],
+  "apper": [
+    "artistic",
+    "creative",
+    "designer",
+    "imagination",
+    "innovative"
+  ],
+  "apple": [
+    "fruit",
+    "brand",
+    "company",
+    "product",
+    "technology"
+  ],
+  "apple-pay": [
+    "payment",
+    "transaction",
+    "credit",
+    "debit",
+    "online"
+  ],
+  "arch-linux": [
+    "operating",
+    "distribution",
+    "command",
+    "terminal"
+  ],
+  "artstation": [
+    "canvas",
+    "digital",
+    "medium",
+    "painting",
+    "studio"
+  ],
+  "asymmetrik": [
+    "balance",
+    "harmony",
+    "proportion",
+    "symmetry",
+    "unison"
+  ],
+  "atlassian": [
+    "software",
+    "company",
+    "productivity",
+    "suite",
+    "platform"
+  ],
+  "audible": [
+    "sound",
+    "noise",
+    "music",
+    "voice",
+    "audio"
+  ],
+  "autoprefixer": [
+    "css",
+    "preprocessor",
+    "compiler",
+    "optimizer",
+    "transformer"
+  ],
+  "avianex": [
+    "bird",
+    "fowl",
+    "winged",
+    "feathered",
+    "ornithic"
+  ],
+  "aviato": [
+    "airplane",
+    "jet",
+    "flight",
+    "travel",
+    "aviation"
+  ],
+  "aws": [
+    "cloud",
+    "server",
+    "computing",
+    "software",
+    "technology"
+  ],
+  "bandcamp": [
+    "music",
+    "album",
+    "record",
+    "artist",
+    "streaming"
+  ],
+  "battle-net": [
+    "warrior",
+    "fighter",
+    "soldier",
+    "army",
+    "troops"
+  ],
+  "behance": [
+    "portfolio",
+    "profile",
+    "artist",
+    "designer",
+    "creator"
+  ],
+  "bilibili": [
+    "video",
+    "streaming",
+    "broadcast",
+    "channel",
+    "live"
+  ],
+  "bimobject": [
+    "model",
+    "component",
+    "assembly",
+    "structure",
+    "element"
+  ],
+  "bitbucket": [
+    "repository",
+    "server",
+    "cloud",
+    "storage",
+    "hosting"
+  ],
+  "bitcoin": [
+    "currency",
+    "coin",
+    "digital",
+    "cryptocurrency",
+    "money"
+  ],
+  "bity": [
+    "small",
+    "tiny",
+    "mini",
+    "pocket",
+    "compact"
+  ],
+  "black-tie": [
+    "formal",
+    "tuxedo",
+    "suit",
+    "gown",
+    "dressy"
+  ],
+  "blackberry": [
+    "phone",
+    "device",
+    "mobile",
+    "handset",
+    "communicator"
+  ],
+  "blogger": [
+    "writer",
+    "author",
+    "publisher",
+    "editor",
+    "contributor"
+  ],
+  "blogger-b": [
+    "sub",
+    "mini",
+    "smaller",
+    "scaled-down",
+    "compacted"
+  ],
+  "bluesky": [
+    "cloud",
+    "firmament",
+    "heaven",
+    "sky",
+    "atmosphere"
+  ],
+  "bluetooth": [
+    "wireless",
+    "radio",
+    "transmitter",
+    "receiver",
+    "connection"
+  ],
+  "bluetooth-b": [
+    "speaker",
+    "radio",
+    "connection",
+    "transmit",
+    "receiver"
+  ],
+  "board-game-geek": [
+    "games",
+    "strategy",
+    "community",
+    "collection",
+    "hobby"
+  ],
+  "bootstrap": [
+    "framework",
+    "template",
+    "layout",
+    "designer",
+    "ui-component"
+  ],
+  "bots": [
+    "robot",
+    "machine",
+    "automaton",
+    "computer-program",
+    "software-agent"
+  ],
+  "brave": [
+    "courageous",
+    "fearless",
+    "daring",
+    "bold",
+    "heroic"
+  ],
+  "brave-reverse": [
+    "cowardly",
+    "timid",
+    "afraid",
+    "scared",
+    "frightened"
+  ],
+  "btc": [
+    "money",
+    "finance",
+    "banking",
+    "investment",
+    "market"
+  ],
+  "buffer": [
+    "cache",
+    "memory",
+    "speed",
+    "performance",
+    "upgrade"
+  ],
+  "buromobelexperte": [
+    "expert",
+    "specialist",
+    "consultant",
+    "analyst",
+    "professor"
+  ],
+  "buy-n-large": [
+    "purchase",
+    "acquire",
+    "order",
+    "stock",
+    "inventory"
+  ],
+  "buysellads": [
+    "trade",
+    "negotiate",
+    "exchange",
+    "market",
+    "commerce"
+  ],
+  "canadian-maple-leaf": [
+    "flag",
+    "nationality",
+    "patriotism",
+    "tradition"
+  ],
+  "cash-app": [
+    "payment",
+    "money",
+    "finance",
+    "banking",
+    "transfer"
+  ],
+  "cc-amazon-pay": [
+    "payment",
+    "credit",
+    "card",
+    "online",
+    "transaction"
+  ],
+  "cc-amex": [
+    "payment",
+    "credit",
+    "card",
+    "american-express",
+    "visa"
+  ],
+  "cc-apple-pay": [
+    "payment",
+    "credit",
+    "card",
+    "transaction"
+  ],
+  "cc-diners-club": [
+    "diner",
+    "card",
+    "payment",
+    "visa"
+  ],
+  "cc-discover": [
+    "card",
+    "payment",
+    "credit",
+    "travel"
+  ],
+  "cc-jcb": [
+    "payment",
+    "credit",
+    "asia",
+    "transaction",
+    "card"
+  ],
+  "cc-mastercard": [
+    "payment",
+    "credit",
+    "visa",
+    "card",
+    "finance"
+  ],
+  "cc-paypal": [
+    "payment",
+    "online",
+    "transfer",
+    "money"
+  ],
+  "cc-stripe": [
+    "payment",
+    "online",
+    "transfer",
+    "credit",
+    "transaction"
+  ],
+  "cc-visa": [
+    "card",
+    "payment",
+    "credit",
+    "travel",
+    "finance"
+  ],
+  "centercode": [
+    "code",
+    "key",
+    "access",
+    "control",
+    "authorization"
+  ],
+  "centos": [
+    "operating",
+    "system",
+    "linux",
+    "distro",
+    "software"
+  ],
+  "chrome": [
+    "metal",
+    "alloy",
+    "plating",
+    "coating",
+    "finish"
+  ],
+  "chromecast": [
+    "device",
+    "gadget",
+    "sender",
+    "receiver",
+    "transmitter"
+  ],
+  "circle-zulip": [
+    "chat",
+    "messaging",
+    "conversation",
+    "team",
+    "channel"
+  ],
+  "claude": [
+    "unknown",
+    "unspecified",
+    "nameless",
+    "faceless",
+    "anonymous"
+  ],
+  "cloudflare": [
+    "shield",
+    "protection",
+    "screening",
+    "filter",
+    "blocker"
+  ],
+  "cloudscale": [
+    "growth",
+    "expansion",
+    "increase",
+    "enlargement",
+    "amplification"
+  ],
+  "cloudsmith": [
+    "craftsman",
+    "artisan",
+    "engineer",
+    "designer",
+    "architect"
+  ],
+  "cloudversify": [
+    "modify",
+    "alter",
+    "change",
+    "transform",
+    "reconfigure"
+  ],
+  "cmplid": [
+    "completion",
+    "fulfillment",
+    "accomplishment",
+    "success",
+    "achievement"
+  ],
+  "codepen": [
+    "editor",
+    "designer",
+    "studio",
+    "canvas",
+    "workspace"
+  ],
+  "codiepie": [
+    "meme",
+    "image",
+    "picture",
+    "avatar",
+    "funny"
+  ],
+  "confluence": [
+    "community",
+    "network",
+    "collaboration",
+    "forum",
+    "wiki"
+  ],
+  "connectdevelop": [
+    "link",
+    "join",
+    "bridge",
+    "integration",
+    "connection"
+  ],
+  "contao": [
+    "software",
+    "application",
+    "platform",
+    "system",
+    "engine"
+  ],
+  "cotton-bureau": [
+    "textile",
+    "fabric",
+    "industry",
+    "trade",
+    "commerce"
+  ],
+  "cpanel": [
+    "control",
+    "management",
+    "system",
+    "dashboard"
+  ],
+  "creative-commons": [
+    "license",
+    "permission",
+    "copyright",
+    "share",
+    "release"
+  ],
+  "creative-commons-by": [
+    "license",
+    "permission",
+    "share",
+    "copyright",
+    "free"
+  ],
+  "creative-commons-nc": [
+    "license",
+    "permission",
+    "share",
+    "release",
+    "copyright"
+  ],
+  "creative-commons-nc-eu": [
+    "license",
+    "permission",
+    "copyright",
+    "release",
+    "share"
+  ],
+  "creative-commons-nc-jp": [
+    "license",
+    "permission",
+    "copyright",
+    "release",
+    "share"
+  ],
+  "creative-commons-nd": [
+    "license",
+    "permission",
+    "share",
+    "release",
+    "copyright"
+  ],
+  "creative-commons-pd": [
+    "license",
+    "permission",
+    "free",
+    "open-source",
+    "share"
+  ],
+  "creative-commons-pd-alt": [
+    "license",
+    "permission",
+    "free",
+    "open-source",
+    "share"
+  ],
+  "creative-commons-remix": [
+    "license",
+    "permission",
+    "share",
+    "reuse",
+    "copyright"
+  ],
+  "creative-commons-sa": [
+    "license",
+    "permission",
+    "share",
+    "copyright",
+    "free"
+  ],
+  "creative-commons-sampling": [
+    "license",
+    "permission",
+    "sample",
+    "reuse",
+    "share"
+  ],
+  "creative-commons-sampling-plus": [
+    "license",
+    "permission",
+    "share",
+    "reuse",
+    "copyright"
+  ],
+  "creative-commons-share": [
+    "license",
+    "publish",
+    "release",
+    "distribute"
+  ],
+  "creative-commons-zero": [
+    "license",
+    "free",
+    "open-source",
+    "public-domain",
+    "share"
+  ],
+  "critical-role": [
+    "emergency",
+    "crisis",
+    "danger",
+    "alert",
+    "urgency"
+  ],
+  "css": [
+    "style",
+    "design",
+    "layout",
+    "template",
+    "format"
+  ],
+  "css3": [
+    "modern",
+    "contemporary",
+    "trendy",
+    "fashionable",
+    "current"
+  ],
+  "css3-alt": [
+    "alternative",
+    "variant",
+    "extension",
+    "update",
+    "revision"
+  ],
+  "cuttlefish": [
+    "squid",
+    "octopus",
+    "cephalopod",
+    "marine-life",
+    "sea-creature"
+  ],
+  "d-and-d": [
+    "game",
+    "board",
+    "tabletop",
+    "rpg",
+    "campaign"
+  ],
+  "d-and-d-beyond": [
+    "series",
+    "show",
+    "episode",
+    "adventure",
+    "story"
+  ],
+  "dailymotion": [
+    "video",
+    "clip",
+    "movie",
+    "streaming",
+    "channel"
+  ],
+  "dart-lang": [
+    "programming",
+    "language",
+    "code",
+    "software",
+    "engine"
+  ],
+  "dashcube": [
+    "satellite",
+    "space",
+    "orbit",
+    "camera",
+    "telescope"
+  ],
+  "debian": [
+    "operating",
+    "system",
+    "linux",
+    "distro",
+    "distribution"
+  ],
+  "deezer": [
+    "music",
+    "streaming",
+    "radio",
+    "playlist",
+    "artist"
+  ],
+  "delicious": [
+    "recipe",
+    "food",
+    "blog",
+    "article",
+    "sharing"
+  ],
+  "deploydog": [
+    "software",
+    "application",
+    "service",
+    "hosting",
+    "cloud"
+  ],
+  "deskpro": [
+    "computer",
+    "hardware",
+    "monitor",
+    "keyboard",
+    "mouse"
+  ],
+  "dev": [
+    "developer",
+    "coder",
+    "engineer",
+    "programmer",
+    "technician"
+  ],
+  "deviantart": [
+    "art",
+    "design",
+    "illustration",
+    "animation",
+    "community"
+  ],
+  "dhl": [
+    "logistics",
+    "shipping",
+    "courier",
+    "delivery",
+    "global"
+  ],
+  "diaspora": [
+    "network",
+    "community",
+    "social",
+    "connection",
+    "link"
+  ],
+  "digg": [
+    "share",
+    "submit",
+    "post",
+    "publish",
+    "update"
+  ],
+  "digital-ocean": [
+    "cloud",
+    "server",
+    "hosting",
+    "compute",
+    "storage"
+  ],
+  "discord": [
+    "chat",
+    "community",
+    "social",
+    "network",
+    "forum"
+  ],
+  "discourse": [
+    "forum",
+    "discussion",
+    "board",
+    "thread",
+    "comment"
+  ],
+  "disqus": [
+    "comment",
+    "post",
+    "feedback",
+    "response",
+    "review"
+  ],
+  "dochub": [
+    "document",
+    "file",
+    "paperwork",
+    "record",
+    "archive"
+  ],
+  "docker": [
+    "container",
+    "ship",
+    "vessel",
+    "image",
+    "server"
+  ],
+  "draft2digital": [
+    "paper",
+    "document",
+    "file",
+    "transfer",
+    "conversion"
+  ],
+  "dribbble": [
+    "sports",
+    "ball",
+    "game",
+    "activity",
+    "leisure"
+  ],
+  "dropbox": [
+    "cloud",
+    "storage",
+    "file-sharing",
+    "service",
+    "platform"
+  ],
+  "drupal": [
+    "content-management",
+    "website",
+    "editor",
+    "publisher",
+    "media"
+  ],
+  "duolingo": [
+    "language",
+    "learning",
+    "education",
+    "app",
+    "software"
+  ],
+  "dyalog": [
+    "conversation",
+    "dialogue",
+    "talk",
+    "discussion",
+    "exchange"
+  ],
+  "earlybirds": [
+    "morning",
+    "sunrise",
+    "dawn",
+    "breakfast",
+    "pioneer"
+  ],
+  "ebay": [
+    "marketplace",
+    "online-store",
+    "auctions",
+    "shopping",
+    "retail"
+  ],
+  "edge": [
+    "browser",
+    "chrome",
+    "firefox",
+    "opera",
+    "safari"
+  ],
+  "edge-legacy": [
+    "legacy-browser",
+    "outdated-browser",
+    "archaic-browser",
+    "old-browser",
+    "vintage-browser"
+  ],
+  "elementor": [
+    "website-builder",
+    "theme",
+    "template",
+    "designer",
+    "builder"
+  ],
+  "eleventy": [
+    "framework",
+    "engine",
+    "generator",
+    "site",
+    "build"
+  ],
+  "ello": [
+    "font",
+    "typeface",
+    "lettering",
+    "script",
+    "handwriting"
+  ],
+  "ember": [
+    "fire",
+    "flame",
+    "blaze",
+    "ignite",
+    "spark"
+  ],
+  "empire": [
+    "republic",
+    "nation",
+    "imperial",
+    "kingdom"
+  ],
+  "envira": [
+    "online",
+    "digital",
+    "virtual",
+    "remote",
+    "cloud"
+  ],
+  "erlang": [
+    "phone",
+    "telephone",
+    "call",
+    "communication",
+    "connection"
+  ],
+  "ethereum": [
+    "cryptocurrency",
+    "coin",
+    "token",
+    "blockchain",
+    "digital"
+  ],
+  "etsy": [
+    "shop",
+    "marketplace",
+    "store",
+    "seller",
+    "product"
+  ],
+  "evernote": [
+    "notebook",
+    "journal",
+    "document",
+    "record",
+    "recording"
+  ],
+  "expeditedssl": [
+    "fast",
+    "speedy",
+    "quick",
+    "turbo",
+    "accelerate"
+  ],
+  "facebook": [
+    "profile",
+    "account",
+    "social",
+    "network",
+    "connection"
+  ],
+  "facebook-f": [
+    "social-media",
+    "network",
+    "profile",
+    "connection",
+    "friendship"
+  ],
+  "facebook-messenger": [
+    "chat",
+    "communication",
+    "social",
+    "network",
+    "dialogue"
+  ],
+  "fantasy-flight-games": [
+    "game",
+    "entertainment",
+    "leisure",
+    "amusement",
+    "puzzle"
+  ],
+  "fedex": [
+    "delivery",
+    "shipping",
+    "transport",
+    "carriage",
+    "courier"
+  ],
+  "fediverse": [
+    "social",
+    "network",
+    "decentralized",
+    "activitypub",
+    "open"
+  ],
+  "fedora": [
+    "hat",
+    "cap",
+    "helmet",
+    "visor",
+    "shade"
+  ],
+  "figma": [
+    "software",
+    "design",
+    "creation",
+    "artistic",
+    "digital"
+  ],
+  "files-pinwheel": [
+    "loading",
+    "spinning",
+    "animation",
+    "rotation",
+    "cycle"
+  ],
+  "firefox": [
+    "browser",
+    "computer",
+    "software",
+    "internet",
+    "navigator"
+  ],
+  "firefox-browser": [
+    "computer",
+    "internet",
+    "software",
+    "navigator",
+    "web"
+  ],
+  "first-order": [
+    "high-level",
+    "complex",
+    "advanced",
+    "precise",
+    "refined"
+  ],
+  "first-order-alt": [
+    "priority",
+    "high-level",
+    "sequence",
+    "ranked",
+    "hierarchy"
+  ],
+  "firstdraft": [
+    "sketch",
+    "concept",
+    "idea",
+    "draftsman",
+    "design"
+  ],
+  "flickr": [
+    "camera",
+    "photo",
+    "image",
+    "picture",
+    "album"
+  ],
+  "flipboard": [
+    "notebook",
+    "pad",
+    "document",
+    "paper",
+    "sheet"
+  ],
+  "flutter": [
+    "app",
+    "mobile",
+    "software",
+    "engine",
+    "development"
+  ],
+  "fly": [
+    "airplane",
+    "bird",
+    "wing",
+    "soar",
+    "glide"
+  ],
+  "font-awesome": [
+    "icons",
+    "glyphs",
+    "character",
+    "emblem",
+    "typography"
+  ],
+  "fonticons": [
+    "glyphs",
+    "symbols",
+    "characters",
+    "icons",
+    "logos"
+  ],
+  "fonticons-fi": [
+    "farsi",
+    "arabic",
+    "hebrew",
+    "cyrillic",
+    "devanagari"
+  ],
+  "forgejo": [
+    "company",
+    "software",
+    "technology",
+    "solution",
+    "product"
+  ],
+  "fort-awesome": [
+    "shield",
+    "protection",
+    "security",
+    "defense",
+    "armor"
+  ],
+  "fort-awesome-alt": [
+    "stronghold",
+    "shield",
+    "security",
+    "protection",
+    "defense"
+  ],
+  "forumbee": [
+    "community",
+    "discussion",
+    "board",
+    "thread",
+    "chat"
+  ],
+  "foursquare": [
+    "square",
+    "rectangle",
+    "box",
+    "grid",
+    "matrix"
+  ],
+  "free-code-camp": [
+    "education",
+    "training",
+    "school",
+    "university",
+    "academy"
+  ],
+  "freebsd": [
+    "operatingsystem",
+    "software",
+    "kernel",
+    "distribution",
+    "platform"
+  ],
+  "fulcrum": [
+    "lever",
+    "pivot",
+    "balance",
+    "counterweight",
+    "beam"
+  ],
+  "galactic-republic": [
+    "government",
+    "planet",
+    "system",
+    "union",
+    "federation"
+  ],
+  "galactic-senate": [
+    "legislature",
+    "assembly",
+    "council",
+    "parliament",
+    "committee"
+  ],
+  "get-pocket": [
+    "carry",
+    "store",
+    "hold",
+    "contain",
+    "stow"
+  ],
+  "gg": [
+    "circle",
+    "round",
+    "oval",
+    "disk",
+    "sphere"
+  ],
+  "gg-circle": [
+    "ring",
+    "halo",
+    "frame",
+    "border"
+  ],
+  "git": [
+    "code",
+    "repository",
+    "version",
+    "branch",
+    "commit"
+  ],
+  "git-alt": [
+    "fork",
+    "clone",
+    "mirror",
+    "branch",
+    "merge"
+  ],
+  "gitee": [
+    "server",
+    "hosting",
+    "repository",
+    "software",
+    "platform"
+  ],
+  "github": [
+    "platform",
+    "software",
+    "company",
+    "organization",
+    "site"
+  ],
+  "github-alt": [
+    "alternative",
+    "variant",
+    "substitute",
+    "replace",
+    "supplement"
+  ],
+  "gitkraken": [
+    "monster",
+    "dragon",
+    "beast",
+    "creature",
+    "fiend"
+  ],
+  "gitlab": [
+    "laboratory",
+    "workshop",
+    "factory",
+    "plant",
+    "hub"
+  ],
+  "gitter": [
+    "room",
+    "space",
+    "area",
+    "zone",
+    "chamber"
+  ],
+  "glide": [
+    "slide",
+    "skate",
+    "surf",
+    "soar",
+    "swoop"
+  ],
+  "glide-g": [
+    "slide",
+    "move",
+    "travel",
+    "journey",
+    "swipe"
+  ],
+  "globaleaks": [
+    "information",
+    "transparency",
+    "leaks",
+    "documents",
+    "exposure"
+  ],
+  "gofore": [
+    "explore",
+    "venture",
+    "adventure",
+    "pursue",
+    "investigate"
+  ],
+  "golang": [
+    "program",
+    "code",
+    "develop",
+    "create",
+    "build"
+  ],
+  "goodreads": [
+    "book",
+    "read",
+    "review",
+    "share",
+    "recommend"
+  ],
+  "goodreads-g": [
+    "bookmark",
+    "favorite",
+    "follow",
+    "subscribe",
+    "update"
+  ],
+  "google": [
+    "find",
+    "discover",
+    "learn",
+    "inform"
+  ],
+  "google-drive": [
+    "cloud",
+    "storage",
+    "file",
+    "upload",
+    "download"
+  ],
+  "google-pay": [
+    "purchase",
+    "buy",
+    "transfer",
+    "bill",
+    "payment"
+  ],
+  "google-play": [
+    "game",
+    "entertain",
+    "amuse",
+    "fun",
+    "leisure"
+  ],
+  "google-plus": [
+    "friend",
+    "connect",
+    "share",
+    "post",
+    "update"
+  ],
+  "google-plus-g": [
+    "follow",
+    "subscribe",
+    "join",
+    "participate",
+    "engage"
+  ],
+  "google-scholar": [
+    "research",
+    "study",
+    "analyze",
+    "evaluate",
+    "cite"
+  ],
+  "google-wallet": [
+    "money",
+    "finance",
+    "pay",
+    "transfer",
+    "bill"
+  ],
+  "gratipay": [
+    "tip",
+    "donation",
+    "reward",
+    "gift",
+    "payment"
+  ],
+  "grav": [
+    "weight",
+    "mass",
+    "density",
+    "gravity",
+    "load"
+  ],
+  "gripfire": [
+    "ignite",
+    "spark",
+    "flame",
+    "burn",
+    "blaze"
+  ],
+  "grunt": [
+    "bang",
+    "blow",
+    "punch",
+    "hit",
+    "smash"
+  ],
+  "guilded": [
+    "server",
+    "community",
+    "group",
+    "organization",
+    "network"
+  ],
+  "gulp": [
+    "drink",
+    "swallow",
+    "burp",
+    "wash",
+    "flush"
+  ],
+  "hacker-news": [
+    "article",
+    "story",
+    "post",
+    "blog",
+    "feed"
+  ],
+  "hackerrank": [
+    "challenge",
+    "problem",
+    "code",
+    "exercise",
+    "test"
+  ],
+  "hashnode": [
+    "share",
+    "publish",
+    "post",
+    "reveal",
+    "disclose"
+  ],
+  "hips": [
+    "body",
+    "lower-body",
+    "legs",
+    "frame",
+    "structure"
+  ],
+  "hire-a-helper": [
+    "assistant",
+    "employee",
+    "contractor",
+    "worker",
+    "agent"
+  ],
+  "hive": [
+    "beehive",
+    "nest",
+    "colony",
+    "honeycomb",
+    "brood"
+  ],
+  "hooli": [
+    "company",
+    "tech",
+    "gadget",
+    "device",
+    "system"
+  ],
+  "hornbill": [
+    "bird",
+    "beak",
+    "feathers",
+    "wing",
+    "nose"
+  ],
+  "hotjar": [
+    "company",
+    "software",
+    "tool",
+    "analytics",
+    "tracking"
+  ],
+  "houzz": [
+    "designer",
+    "inspiration",
+    "interior",
+    "decor",
+    "style"
+  ],
+  "html5": [
+    "code",
+    "programming",
+    "software",
+    "technology",
+    "development"
+  ],
+  "hubspot": [
+    "satellite",
+    "cloud",
+    "server",
+    "database",
+    "storage"
+  ],
+  "hugging-face": [
+    "models",
+    "machine",
+    "learning",
+    "community"
+  ],
+  "ideal": [
+    "perfect",
+    "standard",
+    "normal",
+    "optimal"
+  ],
+  "imdb": [
+    "database",
+    "film",
+    "movie",
+    "rating",
+    "review"
+  ],
+  "instagram": [
+    "camera",
+    "social",
+    "media",
+    "share",
+    "post"
+  ],
+  "instalod": [
+    "download",
+    "software",
+    "install",
+    "program",
+    "application"
+  ],
+  "intercom": [
+    "communication",
+    "chat",
+    "conversation",
+    "dialogue",
+    "voice"
+  ],
+  "internet-explorer": [
+    "browser",
+    "computer",
+    "web",
+    "navigation"
+  ],
+  "invision": [
+    "design",
+    "studio",
+    "creative",
+    "visual",
+    "art"
+  ],
+  "ioxhost": [
+    "server",
+    "cloud",
+    "storage",
+    "hosting",
+    "data"
+  ],
+  "itch-io": [
+    "game",
+    "digital",
+    "store",
+    "publisher",
+    "developer"
+  ],
+  "itunes": [
+    "music",
+    "podcast",
+    "app",
+    "download",
+    "purchase"
+  ],
+  "itunes-note": [
+    "notebook",
+    "reminder",
+    "list",
+    "record",
+    "entry"
+  ],
+  "java": [
+    "computer",
+    "software",
+    "programming",
+    "language",
+    "code"
+  ],
+  "jedi-order": [
+    "organization",
+    "group",
+    "clan",
+    "faction",
+    "guild"
+  ],
+  "jenkins": [
+    "software",
+    "development",
+    "engineering",
+    "project",
+    "build"
+  ],
+  "jira": [
+    "software",
+    "tool",
+    "management",
+    "project",
+    "issue"
+  ],
+  "joget": [
+    "dance",
+    "music",
+    "party",
+    "fun",
+    "celebration"
+  ],
+  "joomla": [
+    "software",
+    "content",
+    "management",
+    "website",
+    "platform"
+  ],
+  "js": [
+    "code",
+    "script",
+    "program",
+    "algorithm",
+    "software"
+  ],
+  "jsfiddle": [
+    "editor",
+    "sandbox",
+    "code",
+    "tester",
+    "debugger"
+  ],
+  "julia": [
+    "language",
+    "programming",
+    "scripting",
+    "engine",
+    "runtime"
+  ],
+  "jxl": [
+    "image",
+    "photo",
+    "picture",
+    "scanner",
+    "document"
+  ],
+  "kaggle": [
+    "competition",
+    "data",
+    "science",
+    "analytics",
+    "machine"
+  ],
+  "kakao-talk": [
+    "chat",
+    "conversation",
+    "messenger",
+    "dialogue",
+    "communication"
+  ],
+  "keybase": [
+    "secure",
+    "private",
+    "encrypted",
+    "password",
+    "safe"
+  ],
+  "keycdn": [
+    "cloud",
+    "storage",
+    "server",
+    "backup",
+    "repository"
+  ],
+  "kickstarter": [
+    "fund",
+    "project",
+    "campaign",
+    "donate",
+    "invest"
+  ],
+  "kickstarter-k": [
+    "fund",
+    "project",
+    "campaign",
+    "donate",
+    "invest"
+  ],
+  "ko-fi": [
+    "support",
+    "donation",
+    "creator",
+    "tipping",
+    "pledge"
+  ],
+  "korvue": [
+    "screen",
+    "display",
+    "monitor",
+    "technology",
+    "electronics"
+  ],
+  "kubernetes": [
+    "cloud",
+    "container",
+    "orchestration",
+    "system",
+    "infrastructure"
+  ],
+  "laravel": [
+    "framework",
+    "php",
+    "server",
+    "application",
+    "code"
+  ],
+  "lastfm": [
+    "music",
+    "radio",
+    "streaming",
+    "playlist",
+    "library"
+  ],
+  "leanpub": [
+    "book",
+    "publisher",
+    "author",
+    "editor",
+    "publication"
+  ],
+  "leetcode": [
+    "problem",
+    "challenge",
+    "exercise",
+    "test",
+    "trial"
+  ],
+  "less": [
+    "fewer",
+    "smaller",
+    "minor",
+    "lesser",
+    "inferior"
+  ],
+  "letterboxd": [
+    "film",
+    "movie",
+    "cinema",
+    "screen",
+    "show"
+  ],
+  "line": [
+    "path",
+    "route",
+    "track",
+    "course",
+    "edge"
+  ],
+  "linkedin": [
+    "network",
+    "connection",
+    "link",
+    "relation",
+    "friendship"
+  ],
+  "linkedin-in": [
+    "company",
+    "organization",
+    "team",
+    "group",
+    "guild"
+  ],
+  "linktree": [
+    "profile",
+    "page",
+    "site",
+    "portal",
+    "hub"
+  ],
+  "linode": [
+    "server",
+    "cloud",
+    "hosting",
+    "data",
+    "storage"
+  ],
+  "linux": [
+    "operating-system",
+    "distro",
+    "server",
+    "workstation",
+    "cloud"
+  ],
+  "lumon": [
+    "moon",
+    "star",
+    "light",
+    "glow",
+    "radiance"
+  ],
+  "lumon-drop": [
+    "fall",
+    "release",
+    "expel",
+    "pour"
+  ],
+  "lyft": [
+    "ride",
+    "drive",
+    "transport",
+    "move",
+    "travel"
+  ],
+  "magento": [
+    "ecommerce",
+    "shop",
+    "store",
+    "inventory",
+    "product"
+  ],
+  "mailchimp": [
+    "email",
+    "send",
+    "message",
+    "communicate",
+    "connect"
+  ],
+  "mandalorian": [
+    "bountyhunter",
+    "spacewarrior",
+    "gunfighter",
+    "protector",
+    "hero"
+  ],
+  "markdown": [
+    "formatting",
+    "style",
+    "layout",
+    "design",
+    "template"
+  ],
+  "mastodon": [
+    "elephant",
+    "rhinoceros",
+    "tusks",
+    "trunk",
+    "beast"
+  ],
+  "maxcdn": [
+    "mark",
+    "branding",
+    "image",
+    "picture"
+  ],
+  "mdb": [
+    "database",
+    "storage",
+    "server",
+    "cloud",
+    "repository"
+  ],
+  "medapps": [
+    "healthcare",
+    "medicine",
+    "pharmacy",
+    "hospitality",
+    "nursing"
+  ],
+  "medium": [
+    "size",
+    "scale",
+    "proportion",
+    "dimension",
+    "measure"
+  ],
+  "medrt": [
+    "diagnosis",
+    "treatment",
+    "prescription",
+    "therapy",
+    "consultation"
+  ],
+  "meetup": [
+    "gathering",
+    "event",
+    "convention",
+    "summit",
+    "conference"
+  ],
+  "megaport": [
+    "terminal",
+    "dock",
+    "harbor",
+    "wharf",
+    "port"
+  ],
+  "mendeley": [
+    "reader",
+    "document",
+    "library",
+    "research",
+    "study"
+  ],
+  "meta": [
+    "header",
+    "footer",
+    "description",
+    "title",
+    "content"
+  ],
+  "microblog": [
+    "post",
+    "update",
+    "feed",
+    "share",
+    "comment"
+  ],
+  "microsoft": [
+    "software",
+    "computer",
+    "technology",
+    "firmware",
+    "hardware"
+  ],
+  "mintbit": [
+    "coin",
+    "money",
+    "piece",
+    "token",
+    "currency"
+  ],
+  "mix": [
+    "blend",
+    "combine",
+    "merge",
+    "shuffle",
+    "mingle"
+  ],
+  "mixcloud": [
+    "podcast",
+    "radio",
+    "music",
+    "stream",
+    "audio"
+  ],
+  "mixer": [
+    "beater",
+    "blender",
+    "whisk",
+    "kitchen",
+    "bowl"
+  ],
+  "mizuni": [
+    "sushi",
+    "rice",
+    "noodle",
+    "bowl",
+    "salad"
+  ],
+  "modx": [
+    "framework",
+    "content-management",
+    "editor",
+    "system",
+    "software"
+  ],
+  "monero": [
+    "cryptocurrency",
+    "digital-cash",
+    "coin",
+    "currency",
+    "fiat"
+  ],
+  "napster": [
+    "music",
+    "file-sharing",
+    "piracy",
+    "streaming",
+    "download"
+  ],
+  "neos": [
+    "new",
+    "modern",
+    "innovative",
+    "cutting-edge",
+    "futuristic"
+  ],
+  "nfc-directional": [
+    "arrow",
+    "direction",
+    "card",
+    "reader",
+    "contactless"
+  ],
+  "nfc-symbol": [
+    "chip",
+    "radio",
+    "wave",
+    "technology",
+    "communication"
+  ],
+  "nimblr": [
+    "brain",
+    "mind",
+    "thought",
+    "idea",
+    "insight"
+  ],
+  "node": [
+    "tree",
+    "graph",
+    "network",
+    "link",
+    "connection"
+  ],
+  "node-js": [
+    "engine",
+    "runtime",
+    "framework",
+    "code",
+    "script"
+  ],
+  "notion": [
+    "notebook",
+    "document",
+    "page",
+    "content",
+    "workspace"
+  ],
+  "npm": [
+    "package",
+    "install",
+    "manager",
+    "dependency",
+    "update"
+  ],
+  "ns8": [
+    "number",
+    "code",
+    "sequence",
+    "version",
+    "identifier"
+  ],
+  "nutritionix": [
+    "nutrition",
+    "diet",
+    "recipe",
+    "meal",
+    "food"
+  ],
+  "obsidian": [
+    "notebook",
+    "journal",
+    "knowledge",
+    "management",
+    "organization"
+  ],
+  "octopus-deploy": [
+    "install",
+    "launch",
+    "setup",
+    "provision",
+    "deployment"
+  ],
+  "odnoklassniki": [
+    "facebook",
+    "socialnetwork",
+    "community",
+    "platform",
+    "site"
+  ],
+  "odysee": [
+    "video",
+    "streaming",
+    "broadcast",
+    "transmit",
+    "upload"
+  ],
+  "old-republic": [
+    "ancient",
+    "historical",
+    "legacy",
+    "heritage",
+    "tradition"
+  ],
+  "openai": [
+    "artificialintelligence",
+    "machinelearning",
+    "robotics",
+    "computerscience"
+  ],
+  "opencart": [
+    "ecommerce",
+    "shoppingcart",
+    "onlinestore",
+    "retail",
+    "trade"
+  ],
+  "openid": [
+    "authentication",
+    "identification",
+    "login",
+    "access",
+    "credentials"
+  ],
+  "openstreetmap": [
+    "map",
+    "navigation",
+    "route",
+    "location",
+    "geography"
+  ],
+  "opensuse": [
+    "operatingsystem",
+    "linuxdistribution",
+    "software",
+    "technology",
+    "computer"
+  ],
+  "opera": [
+    "browser",
+    "webbrowser",
+    "internet",
+    "navigation",
+    "surfing"
+  ],
+  "optin-monster": [
+    "subscribe",
+    "lead",
+    "capture",
+    "convert",
+    "marketing"
+  ],
+  "orcid": [
+    "researcher",
+    "scholar",
+    "citation",
+    "author",
+    "profile"
+  ],
+  "osi": [
+    "standard",
+    "certification",
+    "quality",
+    "assurance",
+    "compliance"
+  ],
+  "padlet": [
+    "notebook",
+    "board",
+    "collaborate",
+    "share",
+    "write"
+  ],
+  "page4": [
+    "document",
+    "paper",
+    "print",
+    "display",
+    "information"
+  ],
+  "pagelines": [
+    "layout",
+    "design",
+    "format",
+    "style",
+    "template"
+  ],
+  "palfed": [
+    "fedora",
+    "hat",
+    "cap",
+    "headgear",
+    "accessory"
+  ],
+  "pandora": [
+    "music",
+    "box",
+    "treasure",
+    "chest",
+    "keyhole"
+  ],
+  "patreon": [
+    "supporter",
+    "donor",
+    "sponsor",
+    "backer",
+    "benefactor"
+  ],
+  "paypal": [
+    "payment",
+    "transfer",
+    "money",
+    "finance",
+    "transaction"
+  ],
+  "perbyte": [
+    "byte",
+    "unit",
+    "measure",
+    "dimension",
+    "quantity"
+  ],
+  "periscope": [
+    "telescope",
+    "spyglass",
+    "camera",
+    "lens",
+    "viewfinder"
+  ],
+  "phabricator": [
+    "software",
+    "engineer",
+    "development",
+    "github",
+    "code"
+  ],
+  "phoenix-framework": [
+    "technology",
+    "software",
+    "engineering",
+    "architecture",
+    "innovation",
+    "development",
+    "design"
+  ],
+  "phoenix-squadron": [
+    "military",
+    "aviation",
+    "fighter",
+    "pilot",
+    "aircraft"
+  ],
+  "php": [
+    "programming",
+    "language",
+    "code",
+    "software",
+    "development"
+  ],
+  "pied-piper": [
+    "messenger",
+    "leader",
+    "guide",
+    "herder",
+    "ambassador"
+  ],
+  "pied-piper-alt": [
+    "messenger",
+    "traveler",
+    "guide",
+    "leader",
+    "ambassador"
+  ],
+  "pied-piper-hat": [
+    "tophat",
+    "pipe",
+    "leader",
+    "chariot",
+    "authority",
+    "power",
+    "command"
+  ],
+  "pied-piper-pp": [
+    "messenger",
+    "leader",
+    "caravan",
+    "traveler",
+    "conductor"
+  ],
+  "pinterest": [
+    "board",
+    "community",
+    "network",
+    "platform",
+    "site"
+  ],
+  "pinterest-p": [
+    "pin",
+    "post",
+    "article",
+    "share",
+    "feed"
+  ],
+  "pix": [
+    "image",
+    "picture",
+    "photo",
+    "graph",
+    "media",
+    "visual"
+  ],
+  "pixelfed": [
+    "social",
+    "network",
+    "community",
+    "forum",
+    "space"
+  ],
+  "pixiv": [
+    "art",
+    "illustration",
+    "drawing",
+    "design",
+    "creation"
+  ],
+  "playstation": [
+    "console",
+    "gaming",
+    "controller",
+    "entertainment",
+    "fun"
+  ],
+  "postgresql": [
+    "database-management",
+    "relational-database",
+    "sql",
+    "open-source",
+    "enterprise-software"
+  ],
+  "product-hunt": [
+    "find",
+    "locate",
+    "track",
+    "acquire",
+    "purchase"
+  ],
+  "pushed": [
+    "forced",
+    "compelled",
+    "driven",
+    "prodded",
+    "impelled"
+  ],
+  "python": [
+    "code",
+    "programming",
+    "script",
+    "language",
+    "editor"
+  ],
+  "qq": [
+    "double-question",
+    "repeated-query",
+    "doubled-inquiry",
+    "reiterated-examination",
+    "re-asked"
+  ],
+  "quinscape": [
+    "landscape",
+    "scene",
+    "outlook",
+    "viewpoint",
+    "terrain"
+  ],
+  "quora": [
+    "question",
+    "answer",
+    "forum",
+    "discussion",
+    "site"
+  ],
+  "r-project": [
+    "software",
+    "development",
+    "tool",
+    "framework",
+    "engine"
+  ],
+  "raspberry-pi": [
+    "computer",
+    "hardware",
+    "device",
+    "system",
+    "board"
+  ],
+  "ravelry": [
+    "yarn",
+    "fiber",
+    "craft",
+    "needlework",
+    "knit"
+  ],
+  "react": [
+    "language",
+    "framework",
+    "development",
+    "tool",
+    "library"
+  ],
+  "reacteurope": [
+    "europe",
+    "region",
+    "location",
+    "continent",
+    "zone"
+  ],
+  "readme": [
+    "document",
+    "manifesto",
+    "file",
+    "specification",
+    "blueprint"
+  ],
+  "rebel": [
+    "outlaw",
+    "defiant",
+    "dissident",
+    "nonconformist",
+    "insurgent"
+  ],
+  "red-river": [
+    "stream",
+    "brook",
+    "waterway",
+    "channel",
+    "current"
+  ],
+  "reddit": [
+    "forum",
+    "community",
+    "discussion",
+    "thread",
+    "comment"
+  ],
+  "reddit-alien": [
+    "extraterrestrial",
+    "alienation",
+    "spacecraft",
+    "cosmonaut",
+    "starship"
+  ],
+  "redhat": [
+    "company",
+    "brand",
+    "identity",
+    "organization",
+    "enterprise"
+  ],
+  "renren": [
+    "network",
+    "connection",
+    "link",
+    "relation",
+    "bond"
+  ],
+  "replyd": [
+    "acknowledge",
+    "confirm",
+    "validate",
+    "ratify",
+    "endorse"
+  ],
+  "researchgate": [
+    "publication",
+    "paper",
+    "article",
+    "study",
+    "experiment"
+  ],
+  "resolving": [
+    "solving",
+    "fixing",
+    "repairing",
+    "mending",
+    "settling"
+  ],
+  "rev": [
+    "reverse",
+    "turnaround",
+    "renewal",
+    "revision",
+    "redo"
+  ],
+  "rocketchat": [
+    "rocket",
+    "launch",
+    "blast-off",
+    "explosion",
+    "missile"
+  ],
+  "rockrms": [
+    "rubble",
+    "debris",
+    "wreckage",
+    "remains",
+    "shambles"
+  ],
+  "rust": [
+    "metal",
+    "iron",
+    "corrosion",
+    "decay",
+    "destruction"
+  ],
+  "safari": [
+    "travel",
+    "adventure",
+    "journey",
+    "expedition",
+    "exploration"
+  ],
+  "salesforce": [
+    "company",
+    "organization",
+    "business",
+    "corporate",
+    "enterprise"
+  ],
+  "sass": [
+    "style",
+    "design",
+    "fashion",
+    "trend",
+    "aesthetic"
+  ],
+  "scaleway": [
+    "company",
+    "cloud",
+    "computing",
+    "infrastructure",
+    "hosting"
+  ],
+  "schlix": [
+    "slider",
+    "knob",
+    "handle",
+    "lever",
+    "toggle"
+  ],
+  "screenpal": [
+    "monitor",
+    "display",
+    "screen",
+    "device"
+  ],
+  "scribd": [
+    "book",
+    "document",
+    "file",
+    "paper",
+    "reading"
+  ],
+  "searchengin": [
+    "engine",
+    "query",
+    "database",
+    "index"
+  ],
+  "sellcast": [
+    "broadcast",
+    "transmit",
+    "relay",
+    "stream",
+    "air"
+  ],
+  "sellsy": [
+    "market",
+    "trade",
+    "commerce",
+    "business",
+    "sale"
+  ],
+  "servicestack": [
+    "service",
+    "stack",
+    "platform",
+    "system",
+    "infrastructure"
+  ],
+  "shirtsinbulk": [
+    "clothing",
+    "retail",
+    "online",
+    "purchase",
+    "shop"
+  ],
+  "shoelace": [
+    "string",
+    "cord",
+    "tie",
+    "fastener",
+    "loop"
+  ],
+  "shopify": [
+    "e-commerce",
+    "online",
+    "retail",
+    "marketplace",
+    "platform"
+  ],
+  "shopware": [
+    "retail",
+    "store",
+    "inventory",
+    "product",
+    "market"
+  ],
+  "signal-messenger": [
+    "text",
+    "message",
+    "email",
+    "chat",
+    "mail"
+  ],
+  "simplybuilt": [
+    "basic",
+    "simple",
+    "minimalist",
+    "compact",
+    "economical"
+  ],
+  "sistrix": [
+    "database",
+    "directory",
+    "index",
+    "catalog",
+    "list"
+  ],
+  "sith": [
+    "darkness",
+    "night",
+    "evil",
+    "power",
+    "force"
+  ],
+  "sitrox": [
+    "machine",
+    "device",
+    "gear",
+    "mechanism",
+    "engine"
+  ],
+  "sketch": [
+    "drawing",
+    "picture",
+    "design",
+    "idea",
+    "concept"
+  ],
+  "skyatlas": [
+    "map",
+    "chart",
+    "graph",
+    "plan",
+    "compass"
+  ],
+  "skype": [
+    "phone",
+    "call",
+    "video",
+    "chat",
+    "communication"
+  ],
+  "slack": [
+    "team",
+    "work",
+    "collaboration",
+    "channel",
+    "workspace"
+  ],
+  "slideshare": [
+    "presentation",
+    "slide",
+    "show",
+    "display",
+    "share"
+  ],
+  "snapchat": [
+    "camera",
+    "filter",
+    "share",
+    "private",
+    "story"
+  ],
+  "solana": [
+    "blockchain",
+    "crypto",
+    "currency",
+    "network",
+    "technology"
+  ],
+  "soundcloud": [
+    "music",
+    "stream",
+    "audio",
+    "share",
+    "record"
+  ],
+  "sourcetree": [
+    "code",
+    "github",
+    "software",
+    "develop",
+    "edit"
+  ],
+  "space-awesome": [
+    "galaxy",
+    "universe",
+    "cosmos",
+    "starfield",
+    "orbit"
+  ],
+  "speakap": [
+    "microphone",
+    "speaker",
+    "voice",
+    "talk",
+    "communicate"
+  ],
+  "speaker-deck": [
+    "stage",
+    "platform",
+    "podium",
+    "dais",
+    "bhne"
+  ],
+  "spotify": [
+    "music",
+    "streaming",
+    "radio",
+    "tune",
+    "playlist"
+  ],
+  "square-behance": [
+    "profile",
+    "picture",
+    "image",
+    "portrait",
+    "face"
+  ],
+  "square-bluesky": [
+    "cloud",
+    "sky",
+    "blue",
+    "nature",
+    "outdoor"
+  ],
+  "square-deskpro": [
+    "office",
+    "desk",
+    "workspace",
+    "productivity",
+    "computer"
+  ],
+  "square-dribbble": [
+    "design",
+    "art",
+    "creative",
+    "style",
+    "aesthetic"
+  ],
+  "square-facebook": [
+    "social",
+    "network",
+    "connect",
+    "share",
+    "communication"
+  ],
+  "square-figma": [
+    "design",
+    "software",
+    "create",
+    "edit",
+    "development"
+  ],
+  "square-font-awesome": [
+    "circle",
+    "round",
+    "oval",
+    "disk",
+    "ring"
+  ],
+  "square-font-awesome-stroke": [
+    "border",
+    "edge",
+    "shape",
+    "bordered"
+  ],
+  "square-git": [
+    "rectangle",
+    "circle",
+    "box",
+    "disk",
+    "module"
+  ],
+  "square-github": [
+    "repository",
+    "code",
+    "software",
+    "development",
+    "coding"
+  ],
+  "square-gitlab": [
+    "repository",
+    "code",
+    "software",
+    "development",
+    "database"
+  ],
+  "square-google-plus": [
+    "googleplus",
+    "socialmedia",
+    "network",
+    "community",
+    "share"
+  ],
+  "square-hacker-news": [
+    "hackernews",
+    "technology",
+    "site",
+    "blog",
+    "media"
+  ],
+  "square-instagram": [
+    "socialmedia",
+    "image",
+    "photo",
+    "share",
+    "picture"
+  ],
+  "square-js": [
+    "javascript",
+    "code",
+    "programming",
+    "development",
+    "computer"
+  ],
+  "square-lastfm": [
+    "music",
+    "radio",
+    "streaming",
+    "playlist",
+    "audio"
+  ],
+  "square-letterboxd": [
+    "movies",
+    "film",
+    "cinema",
+    "review",
+    "entertainment"
+  ],
+  "square-linkedin": [
+    "socialmedia",
+    "network",
+    "professional",
+    "connection",
+    "community"
+  ],
+  "square-odnoklassniki": [
+    "socialmedia",
+    "network",
+    "community",
+    "share",
+    "friendship"
+  ],
+  "square-pied-piper": [
+    "musician",
+    "performer",
+    "artist",
+    "composer",
+    "entertainer"
+  ],
+  "square-pinterest": [
+    "image",
+    "picture",
+    "photo",
+    "share",
+    "visual"
+  ],
+  "square-reddit": [
+    "community",
+    "forum",
+    "network",
+    "site",
+    "platform"
+  ],
+  "square-snapchat": [
+    "camera",
+    "phone",
+    "social-media",
+    "image",
+    "share"
+  ],
+  "square-steam": [
+    "cloud",
+    "fog",
+    "mist",
+    "vapor",
+    "atmosphere"
+  ],
+  "square-threads": [
+    "grid",
+    "mesh",
+    "lattice",
+    "pattern",
+    "texture"
+  ],
+  "square-tumblr": [
+    "circle",
+    "blog",
+    "social",
+    "platform",
+    "bubble"
+  ],
+  "square-twitter": [
+    "bird",
+    "avatar",
+    "social-media",
+    "communication",
+    "message"
+  ],
+  "square-upwork": [
+    "company",
+    "office",
+    "workspace",
+    "computer",
+    "desk"
+  ],
+  "square-viadeo": [
+    "screen",
+    "monitor",
+    "display",
+    "television",
+    "computer"
+  ],
+  "square-vimeo": [
+    "player",
+    "video",
+    "screen",
+    "streaming",
+    "broadcast"
+  ],
+  "square-web-awesome": [
+    "rectangle",
+    "box",
+    "frame",
+    "grid",
+    "design"
+  ],
+  "square-web-awesome-stroke": [
+    "circle",
+    "rectangle",
+    "shape",
+    "form",
+    "geometry"
+  ],
+  "square-whatsapp": [
+    "chat",
+    "messaging",
+    "communication",
+    "bubble",
+    "conversation"
+  ],
+  "square-x-twitter": [
+    "clock",
+    "notification",
+    "alert",
+    "time",
+    "schedule"
+  ],
+  "square-xing": [
+    "circle",
+    "cross",
+    "mark",
+    "diagram"
+  ],
+  "square-youtube": [
+    "rectangle",
+    "video-player",
+    "streaming",
+    "broadcast",
+    "channel"
+  ],
+  "squarespace": [
+    "website",
+    "designer",
+    "editor",
+    "builder",
+    "template"
+  ],
+  "stack-exchange": [
+    "network",
+    "hub",
+    "community",
+    "platform",
+    "connection"
+  ],
+  "stack-overflow": [
+    "question",
+    "answer",
+    "forum",
+    "discussion",
+    "query"
+  ],
+  "stackpath": [
+    "fire",
+    "flame",
+    "blaze",
+    "ember",
+    "spark"
+  ],
+  "staylinked": [
+    "link",
+    "connection",
+    "tie",
+    "bond",
+    "relation"
+  ],
+  "steam": [
+    "cloud",
+    "vapour",
+    "gas",
+    "fume",
+    "smoke"
+  ],
+  "steam-symbol": [
+    "vapor",
+    "gaseous",
+    "aerosol",
+    "mist",
+    "gas"
+  ],
+  "sticker-mule": [
+    "package",
+    "shipping",
+    "delivery",
+    "label",
+    "postage"
+  ],
+  "strava": [
+    "running",
+    "fitness",
+    "sport",
+    "exercise",
+    "athlete"
+  ],
+  "stripe": [
+    "payment",
+    "credit",
+    "card",
+    "money",
+    "finance"
+  ],
+  "stripe-s": [
+    "payment",
+    "credit",
+    "card",
+    "money",
+    "finance"
+  ],
+  "stubber": [
+    "penalty",
+    "fine",
+    "punishment",
+    "reprimand",
+    "warning"
+  ],
+  "studiovinari": [
+    "painting",
+    "art",
+    "gallery",
+    "artist",
+    "canvas"
+  ],
+  "stumbleupon": [
+    "social",
+    "network",
+    "share",
+    "recommend",
+    "discover"
+  ],
+  "stumbleupon-circle": [
+    "share",
+    "recommend",
+    "vote",
+    "discover",
+    "follow"
+  ],
+  "superpowers": [
+    "ability",
+    "talent",
+    "power",
+    "strength",
+    "capacity"
+  ],
+  "supple": [
+    "flexible",
+    "yielding",
+    "pliable",
+    "malleable",
+    "soft"
+  ],
+  "supportnow": [
+    "assistance",
+    "help",
+    "service",
+    "customer",
+    "solution"
+  ],
+  "suse": [
+    "software",
+    "system",
+    "utility",
+    "tool",
+    "application"
+  ],
+  "svelte": [
+    "front-end",
+    "javascript",
+    "framework",
+    "lightweight",
+    "react"
+  ],
+  "swift": [
+    "speed",
+    "agility",
+    "velocity",
+    "rapidity",
+    "quickness"
+  ],
+  "symfony": [
+    "framework",
+    "software",
+    "system",
+    "platform",
+    "engine"
+  ],
+  "symfonycasts": [
+    "development",
+    "code",
+    "php",
+    "framework",
+    "software"
+  ],
+  "tailwind-css": [
+    "design",
+    "style",
+    "layout",
+    "responsive",
+    "web"
+  ],
+  "teamspeak": [
+    "radio",
+    "chat",
+    "voice",
+    "communication",
+    "server"
+  ],
+  "telegram": [
+    "message",
+    "text",
+    "mail",
+    "letter",
+    "dispatch"
+  ],
+  "tencent-weibo": [
+    "social-media",
+    "microblog",
+    "newsfeed",
+    "update",
+    "share"
+  ],
+  "tex": [
+    "latex",
+    "math",
+    "notation",
+    "script",
+    "formula"
+  ],
+  "the-red-yeti": [
+    "bear",
+    "animal",
+    "creature",
+    "monster",
+    "beast"
+  ],
+  "themeco": [
+    "design",
+    "style",
+    "layout",
+    "aesthetic",
+    "template"
+  ],
+  "themeisle": [
+    "color",
+    "scheme",
+    "pattern",
+    "variant",
+    "skin"
+  ],
+  "think-peaks": [
+    "mountain",
+    "peak",
+    "trail",
+    "hike",
+    "ascent"
+  ],
+  "threads": [
+    "text",
+    "string",
+    "fiber",
+    "weave",
+    "tapestry"
+  ],
+  "threema": [
+    "messenger",
+    "communication",
+    "security",
+    "encryption",
+    "private"
+  ],
+  "tidal": [
+    "wave",
+    "ocean",
+    "tide",
+    "current",
+    "swell"
+  ],
+  "tiktok": [
+    "video",
+    "social",
+    "media",
+    "platform",
+    "app"
+  ],
+  "tor-browser": [
+    "privacy",
+    "anonymity",
+    "security",
+    "network",
+    "internet"
+  ],
+  "trade-federation": [
+    "government",
+    "organization",
+    "confederation",
+    "union",
+    "empire"
+  ],
+  "trello": [
+    "board",
+    "list",
+    "card",
+    "column",
+    "kanban"
+  ],
+  "tumblr": [
+    "blog",
+    "social",
+    "network",
+    "community",
+    "medium"
+  ],
+  "twitch": [
+    "stream",
+    "broadcast",
+    "video",
+    "live",
+    "streaming"
+  ],
+  "twitter": [
+    "bird",
+    "tweet",
+    "social",
+    "media",
+    "network"
+  ],
+  "typescript": [
+    "language",
+    "dialect",
+    "programming",
+    "text",
+    "scripting"
+  ],
+  "typo3": [
+    "software",
+    "programming",
+    "development",
+    "code",
+    "editor"
+  ],
+  "uber": [
+    "transportation",
+    "ride-hailing",
+    "company",
+    "service",
+    "travel"
+  ],
+  "ubuntu": [
+    "operating-system",
+    "linux",
+    "software",
+    "distribution",
+    "server"
+  ],
+  "uikit": [
+    "framework",
+    "design",
+    "user-interface",
+    "library",
+    "component"
+  ],
+  "ultralytics": [
+    "machinelearning",
+    "deeplearning",
+    "research",
+    "technology",
+    "artificialintelligence"
+  ],
+  "ultralytics-hub": [
+    "machine",
+    "learning",
+    "data",
+    "models"
+  ],
+  "ultralytics-yolo": [
+    "detection",
+    "object",
+    "vision",
+    "neural"
+  ],
+  "umbraco": [
+    "content-management",
+    "system",
+    "website",
+    "platform",
+    "editor"
+  ],
+  "uncharted": [
+    "unknown",
+    "unexplored",
+    "mystery",
+    "hidden",
+    "secret"
+  ],
+  "uniregistry": [
+    "register",
+    "enroll",
+    "signup",
+    "join",
+    "list"
+  ],
+  "unison": [
+    "harmony",
+    "agreement",
+    "unity",
+    "balance",
+    "together"
+  ],
+  "unity": [
+    "together",
+    "harmony",
+    "balance",
+    "cooperation",
+    "consensus"
+  ],
+  "unreal-engine": [
+    "gaming",
+    "graphics",
+    "virtual",
+    "development"
+  ],
+  "unsplash": [
+    "space",
+    "void",
+    "vacuum",
+    "silence",
+    "emptiness"
+  ],
+  "untappd": [
+    "rate",
+    "review",
+    "evaluate",
+    "comment",
+    "share"
+  ],
+  "ups": [
+    "increased",
+    "elevated",
+    "raised",
+    "boosted",
+    "amplified"
+  ],
+  "upwork": [
+    "job",
+    "contract",
+    "freelance",
+    "gig",
+    "project"
+  ],
+  "usb": [
+    "flashdrive",
+    "memorystick",
+    "storage",
+    "device",
+    "drive"
+  ],
+  "usps": [
+    "postage",
+    "mail",
+    "package",
+    "delivery",
+    "shipping"
+  ],
+  "ussunnah": [
+    "religion",
+    "faith",
+    "guidance",
+    "prophetic",
+    "teaching"
+  ],
+  "vaadin": [
+    "java",
+    "development",
+    "software",
+    "tool"
+  ],
+  "venmo": [
+    "payment",
+    "transfer",
+    "finance",
+    "money",
+    "bank"
+  ],
+  "venmo-v": [
+    "payment",
+    "money",
+    "transfer",
+    "mobile",
+    "finance"
+  ],
+  "viacoin": [
+    "bitcoin",
+    "currency",
+    "coin",
+    "digital",
+    "cryptocurrency"
+  ],
+  "viadeo": [
+    "network",
+    "connection",
+    "link",
+    "communication",
+    "diagram"
+  ],
+  "viber": [
+    "messenger",
+    "chat",
+    "communication",
+    "network",
+    "connection"
+  ],
+  "vim": [
+    "video",
+    "movie",
+    "film",
+    "screening",
+    "projection"
+  ],
+  "vimeo": [
+    "film",
+    "movie",
+    "cinema",
+    "production",
+    "studio"
+  ],
+  "vimeo-v": [
+    "version",
+    "update",
+    "revision",
+    "edition",
+    "release"
+  ],
+  "vine": [
+    "grape",
+    "wine",
+    "garden",
+    "cultivation",
+    "harvest"
+  ],
+  "vk": [
+    "facebook",
+    "social",
+    "network",
+    "friendship",
+    "share"
+  ],
+  "vnv": [
+    "version",
+    "update",
+    "patch",
+    "build",
+    "release"
+  ],
+  "vsco": [
+    "camera",
+    "photography",
+    "image",
+    "picture",
+    "capture"
+  ],
+  "vuejs": [
+    "framework",
+    "development",
+    "code",
+    "build",
+    "engine"
+  ],
+  "w3c": [
+    "standard",
+    "guideline",
+    "protocol",
+    "specification",
+    "conformity"
+  ],
+  "watchman-monitoring": [
+    "guard",
+    "sentinel",
+    "vigilant",
+    "surveillance",
+    "patrol"
+  ],
+  "waze": [
+    "navigating",
+    "directions",
+    "route",
+    "map",
+    "travel"
+  ],
+  "web-awesome": [
+    "amazingweb",
+    "incrediblesite",
+    "fantasticdesign",
+    "superbinterface",
+    "exceptionalexperience"
+  ],
+  "webflow": [
+    "designer",
+    "builder",
+    "editor",
+    "creator",
+    "developer"
+  ],
+  "weebly": [
+    "website",
+    "blog",
+    "designer",
+    "editor",
+    "builder"
+  ],
+  "weibo": [
+    "microblog",
+    "social",
+    "tweet",
+    "share",
+    "post"
+  ],
+  "weixin": [
+    "social",
+    "media",
+    "chat",
+    "messenger",
+    "communication"
+  ],
+  "whatsapp": [
+    "text",
+    "message",
+    "sms",
+    "instant",
+    "converse"
+  ],
+  "whmcs": [
+    "software",
+    "management",
+    "hosting",
+    "server",
+    "cloud"
+  ],
+  "wikipedia-w": [
+    "information",
+    "knowledge",
+    "encyclopedia",
+    "reference",
+    "data"
+  ],
+  "windows": [
+    "screen",
+    "desktop",
+    "workspace",
+    "layout",
+    "environment"
+  ],
+  "wirsindhandwerk": [
+    "needle",
+    "thread",
+    "stitch",
+    "sew",
+    "embroider"
+  ],
+  "wix": [
+    "website",
+    "online",
+    "platform",
+    "editor",
+    "builder"
+  ],
+  "wizards-of-the-coast": [
+    "magic",
+    "spell",
+    "wizard",
+    "fantasy",
+    "game"
+  ],
+  "wodu": [
+    "god",
+    "deity",
+    "religion",
+    "mythology",
+    "divine"
+  ],
+  "wolf-pack-battalion": [
+    "packaging",
+    "coalition",
+    "teamwork",
+    "unity",
+    "loyalty"
+  ],
+  "wordpress": [
+    "blog",
+    "site",
+    "content",
+    "management",
+    "editor"
+  ],
+  "wordpress-simple": [
+    "clean",
+    "minimalist",
+    "basic",
+    "straightforward"
+  ],
+  "wpbeginner": [
+    "tutorial",
+    "course",
+    "training",
+    "guide",
+    "resource"
+  ],
+  "wpexplorer": [
+    "browser",
+    "editor",
+    "workspace",
+    "computer",
+    "software"
+  ],
+  "wpforms": [
+    "form",
+    "field",
+    "entry",
+    "input",
+    "submission"
+  ],
+  "wpressr": [
+    "blog",
+    "site",
+    "content",
+    "media",
+    "publisher"
+  ],
+  "x-twitter": [
+    "microphone",
+    "speaker",
+    "tweet",
+    "social",
+    "network"
+  ],
+  "xbox": [
+    "console",
+    "gaming",
+    "controller",
+    "player",
+    "arena"
+  ],
+  "xing": [
+    "social",
+    "network",
+    "friendship",
+    "connection",
+    "link"
+  ],
+  "xmpp": [
+    "protocol",
+    "communication",
+    "instant",
+    "messaging",
+    "network"
+  ],
+  "y-combinator": [
+    "funding",
+    "investment",
+    "venture",
+    "capital",
+    "support"
+  ],
+  "yahoo": [
+    "engine",
+    "directory",
+    "listing",
+    "information",
+    "database"
+  ],
+  "yammer": [
+    "communication",
+    "network",
+    "social",
+    "forum",
+    "discussion"
+  ],
+  "yandex": [
+    "directory",
+    "listing",
+    "information",
+    "data",
+    "resource"
+  ],
+  "yandex-international": [
+    "global",
+    "multilingual",
+    "translation",
+    "localization"
+  ],
+  "yarn": [
+    "package",
+    "manager",
+    "dependency",
+    "library",
+    "tool"
+  ],
+  "yelp": [
+    "review",
+    "rating",
+    "feedback",
+    "comment",
+    "testimonial"
+  ],
+  "yoast": [
+    "plugin",
+    "seo",
+    "editor",
+    "content",
+    "management"
+  ],
+  "youtube": [
+    "video",
+    "streaming",
+    "player",
+    "channel",
+    "broadcast"
+  ],
+  "zhihu": [
+    "question",
+    "answer",
+    "forum",
+    "community",
+    "knowledge"
+  ],
+  "zoom": [
+    "video",
+    "conference",
+    "call",
+    "screen-sharing",
+    "telepresence"
+  ],
+  "zulip": [
+    "chat",
+    "conversation",
+    "community",
+    "forum",
+    "discussion"
+  ]
+}

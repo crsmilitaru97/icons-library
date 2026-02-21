@@ -1,0 +1,2228 @@
+{
+  "academic-cap": [
+    "hat",
+    "degree",
+    "diploma",
+    "credential",
+    "badge"
+  ],
+  "adjustments-horizontal": [
+    "settings",
+    "configurations",
+    "options",
+    "tweaks",
+    "fine-tuning"
+  ],
+  "adjustments-vertical": [
+    "heights",
+    "sizes",
+    "levels",
+    "gradations",
+    "shades"
+  ],
+  "archive-box": [
+    "storage",
+    "repository",
+    "vault",
+    "bank",
+    "collection"
+  ],
+  "archive-box-arrow-down": [
+    "record",
+    "document",
+    "file",
+    "recordings",
+    "archival"
+  ],
+  "archive-box-x-mark": [
+    "delete",
+    "remove",
+    "discard",
+    "erase",
+    "cancel"
+  ],
+  "arrow-down": [
+    "decrease",
+    "lower",
+    "fall",
+    "drop",
+    "decline"
+  ],
+  "arrow-down-circle": [
+    "bottom",
+    "fall",
+    "descent",
+    "dropping",
+    "sinking"
+  ],
+  "arrow-down-left": [
+    "west",
+    "side",
+    "move",
+    "withdraw",
+    "exit"
+  ],
+  "arrow-down-on-square": [
+    "lowered",
+    "dropped",
+    "fallen",
+    "sunk",
+    "settled"
+  ],
+  "arrow-down-on-square-stack": [
+    "bottom",
+    "base",
+    "foundation",
+    "root",
+    "core"
+  ],
+  "arrow-down-right": [
+    "lower",
+    "fall",
+    "sink",
+    "decline",
+    "dip"
+  ],
+  "arrow-down-tray": [
+    "outlet",
+    "exit",
+    "discharge",
+    "release",
+    "ejection"
+  ],
+  "arrow-left": [
+    "previous",
+    "prior",
+    "back",
+    "before",
+    "past"
+  ],
+  "arrow-left-circle": [
+    "withdraw",
+    "retract",
+    "pullback",
+    "retreat",
+    "hide"
+  ],
+  "arrow-left-end-on-rectangle": [
+    "termination",
+    "closure",
+    "stop",
+    "cease",
+    "cessation"
+  ],
+  "arrow-left-on-rectangle": [
+    "side",
+    "edge",
+    "border",
+    "perimeter",
+    "boundary"
+  ],
+  "arrow-left-start-on-rectangle": [
+    "origin",
+    "beginning",
+    "source",
+    "root",
+    "startingpoint"
+  ],
+  "arrow-long-down": [
+    "drop",
+    "descend",
+    "fall",
+    "point",
+    "extend"
+  ],
+  "arrow-long-left": [
+    "previous",
+    "back",
+    "forward",
+    "navigate",
+    "journey"
+  ],
+  "arrow-long-right": [
+    "right-pointing",
+    "forward",
+    "direction",
+    "lead",
+    "point"
+  ],
+  "arrow-long-up": [
+    "forward",
+    "lead",
+    "advance",
+    "proceed",
+    "progression"
+  ],
+  "arrow-path": [
+    "direction",
+    "course",
+    "route",
+    "way",
+    "pathway"
+  ],
+  "arrow-path-rounded-square": [
+    "route",
+    "course",
+    "direction",
+    "way"
+  ],
+  "arrow-right": [
+    "increase",
+    "higher",
+    "advance",
+    "forward",
+    "grow"
+  ],
+  "arrow-right-circle": [
+    "sun",
+    "day",
+    "morning",
+    "afternoon",
+    "evening"
+  ],
+  "arrow-right-end-on-rectangle": [
+    "termination",
+    "stop",
+    "halt",
+    "cease"
+  ],
+  "arrow-right-on-rectangle": [
+    "forward",
+    "ahead",
+    "onward",
+    "progress",
+    "motion"
+  ],
+  "arrow-right-start-on-rectangle": [
+    "origin",
+    "beginning",
+    "commencement",
+    "initiation"
+  ],
+  "arrow-small-down": [
+    "mini",
+    "tiny",
+    "shrink",
+    "minimize",
+    "reduce"
+  ],
+  "arrow-small-left": [
+    "previous",
+    "back",
+    "move-left",
+    "step-back",
+    "direction"
+  ],
+  "arrow-small-right": [
+    "next",
+    "forward",
+    "move-right",
+    "step-forward",
+    "proceed"
+  ],
+  "arrow-small-up": [
+    "increase",
+    "rise",
+    "ascend",
+    "elevate",
+    "growth"
+  ],
+  "arrow-top-right-on-square": [
+    "upper",
+    "above",
+    "overhead",
+    "superior",
+    "direction"
+  ],
+  "arrow-trending-down": [
+    "decreasing",
+    "falling",
+    "declining",
+    "worsening",
+    "downtrend"
+  ],
+  "arrow-trending-up": [
+    "increasing",
+    "rising",
+    "growing",
+    "improving",
+    "uptrend"
+  ],
+  "arrow-turn-down-left": [
+    "turning",
+    "rotating",
+    "swinging",
+    "twisting",
+    "rotation"
+  ],
+  "arrow-turn-down-right": [
+    "turning",
+    "rotating",
+    "swinging",
+    "twisting",
+    "rotation"
+  ],
+  "arrow-turn-left-down": [
+    "descending",
+    "falling",
+    "decreasing",
+    "worsening",
+    "decline"
+  ],
+  "arrow-turn-left-up": [
+    "ascending",
+    "rising",
+    "growing",
+    "improving",
+    "ascend"
+  ],
+  "arrow-turn-right-down": [
+    "descending",
+    "falling",
+    "decreasing",
+    "worsening",
+    "descend"
+  ],
+  "arrow-turn-right-up": [
+    "ascending",
+    "rising",
+    "growing",
+    "improving",
+    "rise"
+  ],
+  "arrow-turn-up-left": [
+    "forward",
+    "increase",
+    "growth",
+    "expansion",
+    "advance"
+  ],
+  "arrow-turn-up-right": [
+    "down",
+    "backward",
+    "decrease",
+    "shrink",
+    "contraction"
+  ],
+  "arrow-up": [
+    "raise",
+    "lift",
+    "elevate",
+    "heighten",
+    "ascend"
+  ],
+  "arrow-up-circle": [
+    "top",
+    "upper",
+    "highest",
+    "apex",
+    "summit"
+  ],
+  "arrow-up-left": [
+    "down",
+    "lowering",
+    "falling",
+    "decreasing",
+    "waning"
+  ],
+  "arrow-up-on-square": [
+    "upward",
+    "ascendant",
+    "elevated",
+    "raised",
+    "heightened"
+  ],
+  "arrow-up-on-square-stack": [
+    "top",
+    "above",
+    "superior",
+    "higher",
+    "uppermost"
+  ],
+  "arrow-up-right": [
+    "direction",
+    "movement",
+    "motion",
+    "travel",
+    "route"
+  ],
+  "arrow-up-tray": [
+    "ascending",
+    "onrise",
+    "rising",
+    "increasing",
+    "aggrandizing"
+  ],
+  "arrow-uturn-down": [
+    "downward",
+    "descending",
+    "decreasing",
+    "falling",
+    "declining"
+  ],
+  "arrow-uturn-left": [
+    "leftward",
+    "totheleft",
+    "lateral",
+    "sideways",
+    "oblique"
+  ],
+  "arrow-uturn-right": [
+    "rightward",
+    "totheright",
+    "lateral",
+    "sideways",
+    "oblique"
+  ],
+  "arrow-uturn-up": [
+    "upwardly",
+    "ascendant",
+    "elevated",
+    "raised",
+    "heightened"
+  ],
+  "arrows-pointing-in": [
+    "inward",
+    "towardself",
+    "encircling",
+    "embracing",
+    "inclusive"
+  ],
+  "arrows-pointing-out": [
+    "outward",
+    "awayfromself",
+    "peripheral",
+    "external",
+    "exclusive"
+  ],
+  "arrows-right-left": [
+    "rightwards",
+    "totheright",
+    "lateral",
+    "sideways",
+    "oblique"
+  ],
+  "arrows-up-down": [
+    "bar",
+    "chart",
+    "graph",
+    "level",
+    "scale"
+  ],
+  "at-symbol": [
+    "location",
+    "position",
+    "spot",
+    "site"
+  ],
+  "backspace": [
+    "delete",
+    "erase",
+    "remove",
+    "clear",
+    "discard"
+  ],
+  "backward": [
+    "opposite",
+    "reverse",
+    "retro",
+    "behind",
+    "recede"
+  ],
+  "banknotes": [
+    "money",
+    "currency",
+    "coin",
+    "note",
+    "bill"
+  ],
+  "bars-2": [
+    "horizontal",
+    "bar",
+    "strip",
+    "band",
+    "rib"
+  ],
+  "bars-3": [
+    "menu",
+    "navigation",
+    "toolbar",
+    "header",
+    "bar"
+  ],
+  "bars-3-bottom-left": [
+    "handle",
+    "toggle",
+    "lever",
+    "knob",
+    "control"
+  ],
+  "bars-3-bottom-right": [
+    "handle",
+    "toggle",
+    "lever",
+    "knob",
+    "control"
+  ],
+  "bars-3-center-left": [
+    "handle",
+    "toggle",
+    "lever",
+    "knob",
+    "control"
+  ],
+  "bars-4": [
+    "hamburger",
+    "options",
+    "list",
+    "drawer",
+    "submenu"
+  ],
+  "bars-arrow-down": [
+    "drop",
+    "descend",
+    "fall",
+    "falling",
+    "dropoff"
+  ],
+  "bars-arrow-up": [
+    "ascend",
+    "rise",
+    "climb",
+    "ascent",
+    "mountain"
+  ],
+  "battery-0": [
+    "dead",
+    "empty",
+    "zero",
+    "null",
+    "void"
+  ],
+  "battery-100": [
+    "full",
+    "charged",
+    "max",
+    "complete",
+    "capacity"
+  ],
+  "battery-50": [
+    "power",
+    "energy",
+    "charge",
+    "level",
+    "capacity"
+  ],
+  "beaker": [
+    "test-tube",
+    "lab-bowl",
+    "container",
+    "vessel",
+    "reagent"
+  ],
+  "bell": [
+    "alarm",
+    "notification",
+    "warning",
+    "alert",
+    "signal"
+  ],
+  "bell-alert": [
+    "alarm",
+    "notification",
+    "warning",
+    "signal",
+    "alertness"
+  ],
+  "bell-slash": [
+    "alarm",
+    "warning",
+    "signal",
+    "notification",
+    "alert"
+  ],
+  "bell-snooze": [
+    "alarm",
+    "clock",
+    "notification",
+    "wake-up",
+    "alert"
+  ],
+  "bold": [
+    "strong",
+    "emphasis",
+    "highlight",
+    "accentuate",
+    "intensify"
+  ],
+  "bolt": [
+    "electricity",
+    "spark",
+    "lightning",
+    "current",
+    "charge"
+  ],
+  "bolt-slash": [
+    "cross",
+    "cancel",
+    "stop",
+    "interrupt",
+    "block"
+  ],
+  "book-open": [
+    "document",
+    "reading",
+    "paper",
+    "page",
+    "library"
+  ],
+  "bookmark": [
+    "save",
+    "record",
+    "mark",
+    "flag",
+    "reserve"
+  ],
+  "bookmark-slash": [
+    "cancel",
+    "delete",
+    "mark-as-read",
+    "dismiss",
+    "unsave"
+  ],
+  "bookmark-square": [
+    "favorite",
+    "save",
+    "record",
+    "note",
+    "mark"
+  ],
+  "briefcase": [
+    "portfolio",
+    "resume",
+    "career",
+    "job",
+    "profile"
+  ],
+  "bug-ant": [
+    "insect",
+    "pest",
+    "creepy-crawly",
+    "small-animal",
+    "infestation"
+  ],
+  "building-library": [
+    "office",
+    "storefront",
+    "bookshelf",
+    "repository",
+    "archive"
+  ],
+  "building-office": [
+    "desk",
+    "cubicle",
+    "meetingroom",
+    "workstation",
+    "workspace"
+  ],
+  "building-office-2": [
+    "desk",
+    "cubicle",
+    "meetingroom",
+    "workstation",
+    "workspace"
+  ],
+  "building-storefront": [
+    "entrance",
+    "doorway",
+    "facade",
+    "architectural-style",
+    "structure"
+  ],
+  "cake": [
+    "treat",
+    "dessert",
+    "pastry",
+    "baker",
+    "sweet"
+  ],
+  "calculator": [
+    "compute",
+    "calculate",
+    "math",
+    "figure",
+    "solve"
+  ],
+  "calendar": [
+    "date",
+    "time",
+    "schedule",
+    "appointment",
+    "event"
+  ],
+  "calendar-date-range": [
+    "period",
+    "interval",
+    "window",
+    "dateframe",
+    "timeframe"
+  ],
+  "calendar-days": [
+    "periods",
+    "cycles",
+    "terms",
+    "intervals"
+  ],
+  "camera": [
+    "capture",
+    "record",
+    "photograph",
+    "shoot",
+    "frame"
+  ],
+  "chart-bar": [
+    "graph",
+    "statistics",
+    "visualization",
+    "data",
+    "analysis"
+  ],
+  "chart-bar-square": [
+    "graph",
+    "bar-chart",
+    "square-graph",
+    "diagram",
+    "visualization"
+  ],
+  "chart-pie": [
+    "graph",
+    "statistics",
+    "visualization",
+    "charts",
+    "diagram"
+  ],
+  "chat-bubble-bottom-center": [
+    "response",
+    "answer",
+    "reply",
+    "feedback",
+    "interaction"
+  ],
+  "chat-bubble-bottom-center-text": [
+    "message",
+    "conversation",
+    "dialogue",
+    "text-message",
+    "communication"
+  ],
+  "chat-bubble-left": [
+    "response",
+    "answer",
+    "reply",
+    "feedback",
+    "interaction"
+  ],
+  "chat-bubble-left-ellipsis": [
+    "question",
+    "query",
+    "inquiry",
+    "curiosity"
+  ],
+  "chat-bubble-left-right": [
+    "dialogue",
+    "conversation",
+    "exchange",
+    "communication",
+    "discourse"
+  ],
+  "chat-bubble-oval-left": [
+    "message",
+    "conversation",
+    "dialogue",
+    "communication",
+    "speech"
+  ],
+  "chat-bubble-oval-left-ellipsis": [
+    "question",
+    "query",
+    "inquiry",
+    "curiosity"
+  ],
+  "check": [
+    "verify",
+    "inspect",
+    "examine",
+    "review",
+    "validate"
+  ],
+  "check-badge": [
+    "award",
+    "certification",
+    "credential",
+    "recognition",
+    "acknowledgment"
+  ],
+  "check-circle": [
+    "approve",
+    "confirm",
+    "correct",
+    "validate",
+    "verify"
+  ],
+  "chevron-double-down": [
+    "multiply",
+    "increase",
+    "expansion",
+    "growth",
+    "augment"
+  ],
+  "chevron-double-left": [
+    "move",
+    "shift",
+    "rotate",
+    "turn",
+    "adjust"
+  ],
+  "chevron-double-right": [
+    "move",
+    "shift",
+    "rotate",
+    "turn",
+    "adjust"
+  ],
+  "chevron-double-up": [
+    "rise",
+    "increase",
+    "ascend",
+    "grow",
+    "elevate"
+  ],
+  "chevron-down": [
+    "arrow",
+    "indicator",
+    "pointing",
+    "direction",
+    "pointer"
+  ],
+  "chevron-left": [
+    "previous",
+    "back",
+    "prior",
+    "anterior",
+    "retrograde"
+  ],
+  "chevron-right": [
+    "next",
+    "forward",
+    "following",
+    "successor",
+    "proceeding"
+  ],
+  "chevron-up": [
+    "increase",
+    "rise",
+    "ascend",
+    "elevate",
+    "boost"
+  ],
+  "chevron-up-down": [
+    "toggle",
+    "switch",
+    "control",
+    "option",
+    "configuration"
+  ],
+  "circle-stack": [
+    "ring",
+    "pile",
+    "tower",
+    "heap",
+    "stacking"
+  ],
+  "clipboard": [
+    "notebook",
+    "document",
+    "paperclip",
+    "record",
+    "entry"
+  ],
+  "clipboard-document": [
+    "notebook",
+    "journal",
+    "ledger",
+    "account",
+    "record"
+  ],
+  "clipboard-document-check": [
+    "paper",
+    "file",
+    "record",
+    "entry"
+  ],
+  "clipboard-document-list": [
+    "catalog",
+    "directory",
+    "index",
+    "registry"
+  ],
+  "clock": [
+    "time",
+    "hour",
+    "moment",
+    "instant",
+    "period"
+  ],
+  "cloud": [
+    "cloudy",
+    "virtual",
+    "remote",
+    "online",
+    "network"
+  ],
+  "cloud-arrow-down": [
+    "decrease",
+    "fall",
+    "drop",
+    "descend",
+    "slope"
+  ],
+  "cloud-arrow-up": [
+    "increase",
+    "rise",
+    "ascend",
+    "elevate",
+    "growth"
+  ],
+  "code-bracket": [
+    "braces",
+    "brackets",
+    "parentheses",
+    "squiggles",
+    "typos"
+  ],
+  "code-bracket-square": [
+    "brackets",
+    "parentheses",
+    "curlybraces",
+    "squarebrackets",
+    "angles"
+  ],
+  "cog": [
+    "wheel",
+    "gears",
+    "motor",
+    "rotor",
+    "spindle"
+  ],
+  "cog-6-tooth": [
+    "gear",
+    "cylinder",
+    "wheel",
+    "spindle",
+    "mechanism"
+  ],
+  "cog-8-tooth": [
+    "gearbox",
+    "cylinder",
+    "wheel",
+    "spindle",
+    "mechanism"
+  ],
+  "command-line": [
+    "text",
+    "input",
+    "output",
+    "console",
+    "terminal"
+  ],
+  "computer-desktop": [
+    "workstation",
+    "machine",
+    "terminal",
+    "laptop"
+  ],
+  "cpu-chip": [
+    "microchip",
+    "processor",
+    "brain",
+    "core",
+    "component"
+  ],
+  "credit-card": [
+    "payment",
+    "money",
+    "finance",
+    "transaction",
+    "purchase"
+  ],
+  "cube": [
+    "sphere",
+    "ball",
+    "cuboid",
+    "geometric",
+    "shape"
+  ],
+  "cube-transparent": [
+    "sphere",
+    "ball",
+    "globe",
+    "orb"
+  ],
+  "currency-bangladeshi": [
+    "money",
+    "coin",
+    "exchange",
+    "value",
+    "finance"
+  ],
+  "currency-dollar": [
+    "greenback",
+    "usd",
+    "money",
+    "cash",
+    "finance"
+  ],
+  "currency-euro": [
+    "currencies",
+    "finance",
+    "money",
+    "economy"
+  ],
+  "currency-pound": [
+    "gbp",
+    "sterling",
+    "money",
+    "cash"
+  ],
+  "currency-rupee": [
+    "money",
+    "coin",
+    "value",
+    "price",
+    "exchange"
+  ],
+  "currency-yen": [
+    "ruble",
+    "money",
+    "cash",
+    "japan"
+  ],
+  "cursor-arrow-rays": [
+    "pointer",
+    "mouse",
+    "trackball",
+    "gesture",
+    "pencil"
+  ],
+  "cursor-arrow-ripple": [
+    "pointer",
+    "mouse",
+    "click",
+    "select",
+    "highlight"
+  ],
+  "device-phone-mobile": [
+    "smartphone",
+    "cell",
+    "handset",
+    "tablet",
+    "mobile-device",
+    "electronics"
+  ],
+  "device-tablet": [
+    "laptop",
+    "pad",
+    "screen",
+    "computer",
+    "tablets",
+    "electronics"
+  ],
+  "divide": [
+    "split",
+    "separate",
+    "fraction",
+    "portion",
+    "cut"
+  ],
+  "document": [
+    "file",
+    "record",
+    "paperwork",
+    "data",
+    "information"
+  ],
+  "document-arrow-down": [
+    "file",
+    "paper",
+    "record",
+    "sheet",
+    "archive"
+  ],
+  "document-arrow-up": [
+    "file",
+    "paper",
+    "record",
+    "sheet",
+    "archive"
+  ],
+  "document-chart-bar": [
+    "graph",
+    "pie",
+    "diagram",
+    "data"
+  ],
+  "document-check": [
+    "checkmark",
+    "approval",
+    "verify",
+    "validate",
+    "confirm"
+  ],
+  "document-currency-bangladeshi": [
+    "rupee",
+    "money",
+    "coin",
+    "bangladesh",
+    "asia"
+  ],
+  "document-currency-dollar": [
+    "usd",
+    "money",
+    "coin",
+    "america",
+    "finance"
+  ],
+  "document-currency-euro": [
+    "finance",
+    "banking",
+    "transaction",
+    "exchange"
+  ],
+  "document-currency-pound": [
+    "gbp",
+    "money",
+    "coin",
+    "great-britain"
+  ],
+  "document-currency-rupee": [
+    "india",
+    "money",
+    "coin",
+    "asia",
+    "south-asia"
+  ],
+  "document-currency-yen": [
+    "japan",
+    "money",
+    "coin",
+    "asia",
+    "east-asia"
+  ],
+  "document-duplicate": [
+    "facsimile",
+    "twin",
+    "mirror",
+    "repeat",
+    "double"
+  ],
+  "document-magnifying-glass": [
+    "magnify",
+    "zoom",
+    "find",
+    "inspect"
+  ],
+  "document-minus": [
+    "decrease",
+    "reduce",
+    "subtract",
+    "remove",
+    "delete"
+  ],
+  "document-plus": [
+    "file",
+    "paper",
+    "report",
+    "record",
+    "archive"
+  ],
+  "document-text": [
+    "paper",
+    "notebook",
+    "writing",
+    "letter",
+    "report"
+  ],
+  "ellipsis-horizontal": [
+    "dash",
+    "line",
+    "bar",
+    "strip",
+    "separator"
+  ],
+  "ellipsis-horizontal-circle": [
+    "dot",
+    "point",
+    "round",
+    "dot-dot"
+  ],
+  "ellipsis-vertical": [
+    "dots",
+    "dots-vertical",
+    "dots-horizontal",
+    "dots-extended",
+    "dots-truncated"
+  ],
+  "envelope": [
+    "letter",
+    "mail",
+    "package",
+    "postage",
+    "mailing"
+  ],
+  "envelope-open": [
+    "reveal",
+    "disclose",
+    "unseal",
+    "unwrap",
+    "access"
+  ],
+  "equals": [
+    "same",
+    "equal",
+    "identical",
+    "matching",
+    "corresponding"
+  ],
+  "exclamation-circle": [
+    "signal",
+    "flag",
+    "indication",
+    "notification",
+    "reminder"
+  ],
+  "exclamation-triangle": [
+    "angle",
+    "corner",
+    "turning",
+    "direction",
+    "orientation"
+  ],
+  "eye": [
+    "gaze",
+    "look",
+    "observe",
+    "examine",
+    "vision"
+  ],
+  "eye-dropper": [
+    "paintbrush",
+    "pencil",
+    "marker",
+    "color",
+    "ink"
+  ],
+  "eye-slash": [
+    "cut",
+    "slice",
+    "chop",
+    "sever",
+    "behead"
+  ],
+  "face-frown": [
+    "scowl",
+    "pout",
+    "sulk",
+    "gloomy"
+  ],
+  "face-smile": [
+    "grin",
+    "beam",
+    "glee",
+    "laugh",
+    "smirk"
+  ],
+  "film": [
+    "movie",
+    "screen",
+    "camera",
+    "projector",
+    "reel"
+  ],
+  "finger-print": [
+    "impression",
+    "mark",
+    "sign",
+    "signature",
+    "character"
+  ],
+  "fire": [
+    "flame",
+    "blaze",
+    "burn",
+    "heat",
+    "ignite"
+  ],
+  "flag": [
+    "banner",
+    "standard",
+    "crest",
+    "emblem"
+  ],
+  "folder": [
+    "directory",
+    "section",
+    "division",
+    "category",
+    "collection"
+  ],
+  "folder-arrow-down": [
+    "file",
+    "directory",
+    "list",
+    "organization",
+    "tree"
+  ],
+  "folder-minus": [
+    "delete",
+    "remove",
+    "discard",
+    "expunge",
+    "erase"
+  ],
+  "folder-open": [
+    "active",
+    "visible",
+    "accessible",
+    "expanded",
+    "organized"
+  ],
+  "folder-plus": [
+    "document",
+    "file",
+    "archive",
+    "organization",
+    "collection"
+  ],
+  "forward": [
+    "next",
+    "continue",
+    "progress",
+    "advance",
+    "move-forward"
+  ],
+  "funnel": [
+    "narrowing",
+    "constriction",
+    "channel",
+    "pipe",
+    "duct"
+  ],
+  "gif": [
+    "image",
+    "picture",
+    "animation",
+    "video",
+    "media"
+  ],
+  "gift": [
+    "present",
+    "token",
+    "reward",
+    "bonus",
+    "treasure"
+  ],
+  "gift-top": [
+    "present",
+    "token",
+    "item",
+    "treasure"
+  ],
+  "globe-alt": [
+    "world",
+    "map",
+    "planet",
+    "global",
+    "sphere"
+  ],
+  "globe-americas": [
+    "map",
+    "america",
+    "world",
+    "continent",
+    "region"
+  ],
+  "globe-asia-australia": [
+    "continent",
+    "region",
+    "map",
+    "ocean",
+    "territory"
+  ],
+  "globe-europe-africa": [
+    "map",
+    "world",
+    "continent",
+    "region",
+    "global"
+  ],
+  "h1": [
+    "heading",
+    "title",
+    "label",
+    "name",
+    "caption"
+  ],
+  "h2": [
+    "subheading",
+    "subtitle",
+    "label",
+    "name",
+    "section"
+  ],
+  "h3": [
+    "sub-subheading",
+    "sub-title",
+    "label",
+    "name",
+    "subsection"
+  ],
+  "hand-raised": [
+    "raise",
+    "lift",
+    "uphold",
+    "support",
+    "encourage"
+  ],
+  "hand-thumb-down": [
+    "downvote",
+    "dislike",
+    "reject",
+    "oppose",
+    "deny"
+  ],
+  "hand-thumb-up": [
+    "upvote",
+    "like",
+    "approve",
+    "accept",
+    "endorse"
+  ],
+  "hashtag": [
+    "label",
+    "category",
+    "classify",
+    "identify"
+  ],
+  "heart": [
+    "love",
+    "passion",
+    "affection",
+    "desire",
+    "longing"
+  ],
+  "home": [
+    "house",
+    "dwelling",
+    "abode",
+    "residence",
+    "nest"
+  ],
+  "home-modern": [
+    "house",
+    "building",
+    "dwelling",
+    "abode",
+    "residence"
+  ],
+  "identification": [
+    "passport",
+    "document",
+    "credentials",
+    "profile",
+    "identity"
+  ],
+  "inbox": [
+    "mail",
+    "letter",
+    "message",
+    "email",
+    "post"
+  ],
+  "inbox-arrow-down": [
+    "downward-pointing",
+    "descending",
+    "decreasing",
+    "outgoing",
+    "direction"
+  ],
+  "inbox-stack": [
+    "pile",
+    "collection",
+    "group",
+    "accumulation",
+    "stockpile"
+  ],
+  "information-circle": [
+    "alert",
+    "warning",
+    "notification",
+    "message",
+    "alerta"
+  ],
+  "italic": [
+    "emphasize",
+    "bold",
+    "stress",
+    "highlight",
+    "emphasized"
+  ],
+  "key": [
+    "password",
+    "code",
+    "secret",
+    "cipher",
+    "credentials"
+  ],
+  "language": [
+    "dialect",
+    "tongue",
+    "vernacular",
+    "idiom",
+    "jargon"
+  ],
+  "lifebuoy": [
+    "rescue",
+    "safety",
+    "support",
+    "aid",
+    "relief"
+  ],
+  "light-bulb": [
+    "illumination",
+    "radiance",
+    "glow",
+    "shine",
+    "brighten"
+  ],
+  "link": [
+    "route",
+    "path",
+    "connection",
+    "tie",
+    "junction"
+  ],
+  "link-slash": [
+    "hyphen",
+    "-sign",
+    "dash",
+    "separator",
+    "divider"
+  ],
+  "list-bullet": [
+    "point",
+    "item",
+    "element",
+    "marker",
+    "list-item"
+  ],
+  "lock-closed": [
+    "locked",
+    "secured",
+    "restricted",
+    "prohibited",
+    "barred"
+  ],
+  "lock-open": [
+    "unlocked",
+    "accessible",
+    "available",
+    "permitted",
+    "security"
+  ],
+  "magnifying-glass": [
+    "lens",
+    "focus",
+    "inspect",
+    "zoom",
+    "optics"
+  ],
+  "magnifying-glass-circle": [
+    "find",
+    "discover",
+    "investigate",
+    "examine"
+  ],
+  "magnifying-glass-minus": [
+    "zoom",
+    "reduce",
+    "filter",
+    "clear",
+    "adjust"
+  ],
+  "magnifying-glass-plus": [
+    "lens",
+    "zoom",
+    "focus",
+    "scan",
+    "enhance"
+  ],
+  "map": [
+    "location",
+    "place",
+    "spot",
+    "site",
+    "territory"
+  ],
+  "map-pin": [
+    "location",
+    "marker",
+    "pinpoint",
+    "coordinate",
+    "spot"
+  ],
+  "megaphone": [
+    "amplify",
+    "enunciate",
+    "project",
+    "proclaim",
+    "declare"
+  ],
+  "microphone": [
+    "speaker",
+    "audio",
+    "recording",
+    "voice",
+    "sound"
+  ],
+  "minus": [
+    "subtract",
+    "reduce",
+    "decrease",
+    "lessen",
+    "eliminate"
+  ],
+  "minus-circle": [
+    "decrease",
+    "reduce",
+    "cancel",
+    "reject",
+    "eliminating"
+  ],
+  "minus-small": [
+    "negative",
+    "decrease",
+    "reduce",
+    "subtract",
+    "remove"
+  ],
+  "moon": [
+    "lunar-cycle",
+    "phase",
+    "orbit",
+    "rotation",
+    "celestial-body"
+  ],
+  "musical-note": [
+    "music",
+    "song",
+    "melody",
+    "harmony",
+    "tune"
+  ],
+  "newspaper": [
+    "press",
+    "journal",
+    "article",
+    "report",
+    "publication"
+  ],
+  "no-symbol": [
+    "none",
+    "empty",
+    "null",
+    "zero",
+    "absent"
+  ],
+  "numbered-list": [
+    "sequence",
+    "series",
+    "catalog",
+    "registry"
+  ],
+  "paint-brush": [
+    "art",
+    "painting",
+    "color",
+    "brushstroke",
+    "canvas"
+  ],
+  "paper-airplane": [
+    "flight",
+    "travel",
+    "journey",
+    "transport",
+    "movement"
+  ],
+  "paper-clip": [
+    "document",
+    "file",
+    "record",
+    "note",
+    "attachment"
+  ],
+  "pause": [
+    "stop",
+    "break",
+    "rest",
+    "interrupt",
+    "halt"
+  ],
+  "pause-circle": [
+    "time",
+    "moment",
+    "instant",
+    "epoch",
+    "period"
+  ],
+  "pencil": [
+    "pen",
+    "stylus",
+    "marker",
+    "graphite",
+    "lead"
+  ],
+  "pencil-square": [
+    "rectangle",
+    "box",
+    "bar",
+    "grid"
+  ],
+  "percent-badge": [
+    "score",
+    "rating",
+    "level",
+    "percentage",
+    "grade"
+  ],
+  "phone": [
+    "communication",
+    "device",
+    "mobile",
+    "telephone",
+    "connection"
+  ],
+  "phone-arrow-down-left": [
+    "decrease",
+    "lower",
+    "minus",
+    "decline",
+    "drop"
+  ],
+  "phone-arrow-up-right": [
+    "increase",
+    "higher",
+    "plus",
+    "add",
+    "rise"
+  ],
+  "phone-x-mark": [
+    "cancel",
+    "delete",
+    "remove",
+    "stop",
+    "halt"
+  ],
+  "photo": [
+    "picture",
+    "image",
+    "snapshot",
+    "capture",
+    "frame"
+  ],
+  "play": [
+    "amusement",
+    "entertainment",
+    "fun",
+    "recreation",
+    "leisure"
+  ],
+  "play-circle": [
+    "start",
+    "begin",
+    "activate",
+    "initiate",
+    "launch"
+  ],
+  "play-pause": [
+    "stop",
+    "hold",
+    "wait",
+    "freeze"
+  ],
+  "plus": [
+    "addition",
+    "sum",
+    "total",
+    "growth",
+    "expansion"
+  ],
+  "plus-circle": [
+    "disk",
+    "wheel",
+    "rotation",
+    "spin"
+  ],
+  "plus-small": [
+    "add",
+    "increment",
+    "increase",
+    "expand",
+    "enlarge"
+  ],
+  "power": [
+    "electricity",
+    "energy",
+    "current",
+    "voltage",
+    "ampere"
+  ],
+  "presentation-chart-bar": [
+    "graph",
+    "column",
+    "series",
+    "diagram"
+  ],
+  "presentation-chart-line": [
+    "graph",
+    "plot",
+    "curve",
+    "diagram"
+  ],
+  "printer": [
+    "copier",
+    "scanner",
+    "fax",
+    "document",
+    "paper"
+  ],
+  "puzzle-piece": [
+    "component",
+    "part",
+    "element",
+    "section",
+    "segment"
+  ],
+  "qr-code": [
+    "barcode",
+    "data",
+    "information",
+    "document"
+  ],
+  "question-mark-circle": [
+    "query",
+    "inquiry",
+    "curiosity",
+    "investigation"
+  ],
+  "queue-list": [
+    "waiting",
+    "lineup",
+    "sequence",
+    "line"
+  ],
+  "radio": [
+    "station",
+    "broadcast",
+    "signal",
+    "wave",
+    "transmitter"
+  ],
+  "receipt-percent": [
+    "discount",
+    "savings",
+    "percent-off",
+    "sale",
+    "reduction"
+  ],
+  "receipt-refund": [
+    "return",
+    "exchange",
+    "credit",
+    "compensation"
+  ],
+  "rectangle-group": [
+    "collection",
+    "set",
+    "bundle",
+    "cluster"
+  ],
+  "rectangle-stack": [
+    "pile",
+    "heap",
+    "tower",
+    "column"
+  ],
+  "rocket-launch": [
+    "explosion",
+    "blast-off",
+    "fireworks",
+    "missile"
+  ],
+  "rss": [
+    "feed",
+    "update",
+    "notify",
+    "subscribe",
+    "monitor"
+  ],
+  "scale": [
+    "size",
+    "dimension",
+    "measure",
+    "ratio",
+    "proportion"
+  ],
+  "scissors": [
+    "cutting",
+    "trimming",
+    "shearing",
+    "clipping",
+    "snipping"
+  ],
+  "server": [
+    "cloud",
+    "database",
+    "network",
+    "host",
+    "storage"
+  ],
+  "server-stack": [
+    "tower",
+    "pile",
+    "heap",
+    "column"
+  ],
+  "share": [
+    "transmit",
+    "communicate",
+    "reveal",
+    "disclose",
+    "expose"
+  ],
+  "shield-check": [
+    "alert",
+    "warning",
+    "notification",
+    "caution",
+    "signal"
+  ],
+  "shield-exclamation": [
+    "danger",
+    "alert",
+    "warning",
+    "caution",
+    "alert"
+  ],
+  "shopping-bag": [
+    "cart",
+    "baggage",
+    "packaging",
+    "container",
+    "load"
+  ],
+  "shopping-cart": [
+    "basket",
+    "bag",
+    "market",
+    "purchase",
+    "commerce"
+  ],
+  "signal": [
+    "communication",
+    "warning",
+    "alert",
+    "notification",
+    "transmission"
+  ],
+  "signal-slash": [
+    "block",
+    "stop",
+    "interrupt",
+    "cut",
+    "kill"
+  ],
+  "slash": [
+    "cut",
+    "slice",
+    "divide",
+    "separate",
+    "split"
+  ],
+  "sparkles": [
+    "glow",
+    "shine",
+    "twinkle",
+    "flash",
+    "flicker"
+  ],
+  "speaker-wave": [
+    "sound",
+    "audio",
+    "waveform",
+    "beats",
+    "rhythm"
+  ],
+  "speaker-x-mark": [
+    "mute",
+    "off",
+    "silence",
+    "stop",
+    "cancel"
+  ],
+  "square-2-stack": [
+    "grid",
+    "matrix",
+    "lattice",
+    "mesh",
+    "net"
+  ],
+  "square-3-stack-3d": [
+    "cube",
+    "block",
+    "brick",
+    "pillar",
+    "column"
+  ],
+  "squares-2x2": [
+    "grid",
+    "square",
+    "rectangle",
+    "box",
+    "cell"
+  ],
+  "squares-plus": [
+    "add",
+    "increment",
+    "expand",
+    "grow",
+    "multiply"
+  ],
+  "star": [
+    "favorite",
+    "like",
+    "rate",
+    "approve",
+    "endorse"
+  ],
+  "stop": [
+    "halt",
+    "pause",
+    "cease",
+    "interrupt",
+    "terminate"
+  ],
+  "stop-circle": [
+    "halt",
+    "cease",
+    "terminate",
+    "interrupt"
+  ],
+  "strikethrough": [
+    "strike",
+    "cross-out",
+    "cancel",
+    "delete",
+    "obliterate"
+  ],
+  "sun": [
+    "day",
+    "light",
+    "heat",
+    "radiance",
+    "glow"
+  ],
+  "swatch": [
+    "color",
+    "hue",
+    "shade",
+    "tint",
+    "dye"
+  ],
+  "table-cells": [
+    "grid",
+    "matrix",
+    "rows",
+    "columns",
+    "layout"
+  ],
+  "tag": [
+    "label",
+    "marker",
+    "indicator",
+    "badge",
+    "notification"
+  ],
+  "ticket": [
+    "entry",
+    "pass",
+    "permit",
+    "voucher",
+    "coupon"
+  ],
+  "trash": [
+    "waste",
+    "discard",
+    "destruction",
+    "abandonment",
+    "dismissal"
+  ],
+  "trophy": [
+    "award",
+    "prize",
+    "medal",
+    "crown",
+    "achievement"
+  ],
+  "truck": [
+    "car",
+    "vehicle",
+    "transport",
+    "haul",
+    "deliver"
+  ],
+  "tv": [
+    "television",
+    "screen",
+    "video",
+    "broadcast",
+    "signal"
+  ],
+  "underline": [
+    "emphasize",
+    "highlight",
+    "accentuate",
+    "drawattention",
+    "italicize"
+  ],
+  "user": [
+    "person",
+    "individual",
+    "customer",
+    "account",
+    "member"
+  ],
+  "user-circle": [
+    "ring",
+    "disk",
+    "disc",
+    "globe"
+  ],
+  "user-group": [
+    "team",
+    "organization",
+    "community",
+    "network"
+  ],
+  "user-minus": [
+    "decrease",
+    "reduce",
+    "subtract",
+    "deduct",
+    "lessen"
+  ],
+  "user-plus": [
+    "add",
+    "increase",
+    "expand",
+    "grow",
+    "enhance"
+  ],
+  "users": [
+    "people",
+    "team",
+    "group",
+    "community",
+    "organization"
+  ],
+  "variable": [
+    "value",
+    "data",
+    "parameter",
+    "setting",
+    "option"
+  ],
+  "video-camera": [
+    "recorder",
+    "screen",
+    "monitor",
+    "display"
+  ],
+  "video-camera-slash": [
+    "record",
+    "capture",
+    "shoot",
+    "film",
+    "recording"
+  ],
+  "view-columns": [
+    "look",
+    "see",
+    "perceive",
+    "observe"
+  ],
+  "viewfinder-circle": [
+    "scope",
+    "lens",
+    "optics",
+    "focus",
+    "zoom"
+  ],
+  "wallet": [
+    "purse",
+    "bag",
+    "money",
+    "credit",
+    "card"
+  ],
+  "wifi": [
+    "network",
+    "internet",
+    "connection",
+    "wireless",
+    "signal"
+  ],
+  "window": [
+    "pane",
+    "screen",
+    "sheet",
+    "viewport",
+    "space"
+  ],
+  "wrench": [
+    "tool",
+    "instrument",
+    "device",
+    "machine",
+    "engine"
+  ],
+  "wrench-screwdriver": [
+    "tool",
+    "instrument",
+    "device",
+    "machine",
+    "engine"
+  ],
+  "x-circle": [
+    "round",
+    "disc",
+    "oval",
+    "ellipse"
+  ],
+  "x-mark": [
+    "cross",
+    "cancel",
+    "delete",
+    "eraser",
+    "obstruction"
+  ]
+}

@@ -17,12 +17,20 @@ body.preload * {
 	transition: none !important;
 }
 
+html {
+	scrollbar-color: var(--vscode-scrollbarSlider-background) transparent;
+}
+
 body {
 	font-family: var(--vscode-font-family);
-	padding: 130px 14px 50px;
+	padding: 0;
 	color: var(--vscode-foreground);
-	background: var(--vscode-editor-background);
+	background: var(--vscode-sideBar-background);
 	margin: 0;
+	height: 100vh;
+	display: flex;
+	flex-direction: column;
+	overflow: hidden;
 }
 
 input,
@@ -48,10 +56,49 @@ input,
 
 input {
 	width: 100%;
+	padding-right: 36px;
 
 	&::placeholder {
 		color: var(--vscode-input-placeholderForeground);
 		opacity: 0.6;
+	}
+}
+
+.search-wrapper {
+	position: relative;
+	width: 100%;
+}
+
+.clear-btn {
+	position: absolute;
+	right: 8px;
+	top: 50%;
+	transform: translateY(-50%);
+	display: none;
+	align-items: center;
+	justify-content: center;
+	width: 24px;
+	height: 24px;
+	padding: 0;
+	background: transparent;
+	color: var(--vscode-input-foreground);
+	border: none;
+	border-radius: 4px;
+	cursor: pointer;
+	opacity: 0.6;
+	transition: opacity var(--transition), background var(--transition);
+
+	&:hover {
+		opacity: 1;
+		background: var(--vscode-toolbar-hoverBackground);
+	}
+
+	&.visible {
+		display: flex;
+	}
+
+	.codicon {
+		font-size: 14px;
 	}
 }
 
@@ -77,11 +124,12 @@ input {
 	}
 }
 
-.icon-btn {
+.action-btn {
 	display: flex;
 	align-items: center;
 	justify-content: center;
 	padding: 10px;
+	min-width: 38px;
 	background: var(--vscode-input-background, var(--vscode-sideBar-background));
 	color: var(--vscode-input-foreground);
 	border: 1px solid var(--vscode-input-border, var(--vscode-sideBar-border, rgba(128, 128, 128, 0.35)));
@@ -100,52 +148,43 @@ input {
 }
 
 .search-container {
-	position: fixed;
-	inset: 0 0 auto;
-	z-index: 10;
+	position: relative;
+	inset: auto;
+	flex-shrink: 0;
 	display: flex;
 	flex-direction: column;
 	gap: 10px;
 	padding: 14px;
-	background: var(--vscode-editor-background);
-
-	&::after {
-		content: '';
-		position: absolute;
-		inset: auto 0 -10px;
-		height: 10px;
-		background: linear-gradient(var(--vscode-editor-background), transparent);
-		pointer-events: none;
-	}
+	background: var(--vscode-sideBar-background);
+	z-index: 10;
 }
 
-.icon-count {
-	position: fixed;
-	inset: auto 0 0;
-	z-index: 10;
+.search-container::after {
+	display: none;
+}
+
+.results-count {
+	flex-shrink: 0;
 	display: flex;
 	align-items: center;
 	justify-content: center;
 	gap: 6px;
-	padding: 12px;
+	padding: 8px 14px;
 	font-size: 11px;
 	font-weight: 500;
+	font-family: var(--vscode-font-family), 'Segoe UI', system-ui, sans-serif;
 	color: var(--vscode-descriptionForeground);
-	background: var(--vscode-editor-background);
-	letter-spacing: 0.3px;
+	background: var(--vscode-sideBar-background);
+	order: 10;
+	user-select: none;
+}
 
-	&::before {
-		content: '';
-		position: absolute;
-		inset: -20px 0 auto;
-		height: 20px;
-		background: linear-gradient(transparent, var(--vscode-editor-background));
-		pointer-events: none;
-	}
+.results-count:empty {
+	display: none;
+}
 
-	&:empty {
-		display: none;
-	}
+.results-count::before {
+	display: none;
 }
 
 .controls-row {
@@ -189,23 +228,10 @@ input {
 	visibility: hidden;
 	transform: translateY(-8px);
 	transition: opacity var(--transition-spring), transform var(--transition-spring), visibility var(--transition);
-
-	&::-webkit-scrollbar {
-		width: 8px;
-	}
-
-	&::-webkit-scrollbar-track {
-		background: transparent;
-	}
-
-	&::-webkit-scrollbar-thumb {
-		background: var(--vscode-scrollbarSlider-background);
-		border-radius: 4px;
-
-		&:hover {
-			background: var(--vscode-scrollbarSlider-hoverBackground);
-		}
-	}
+	padding: 4px;
+	display: flex;
+	flex-direction: column;
+	gap: 2px;
 }
 
 .dropdown-option {
@@ -216,14 +242,7 @@ input {
 	font-size: 13px;
 	cursor: pointer;
 	transition: background var(--transition);
-
-	&:first-child {
-		border-radius: 7px 7px 0 0;
-	}
-
-	&:last-child {
-		border-radius: 0 0 7px 7px;
-	}
+	border-radius: 4px;
 
 	&:hover {
 		background: var(--vscode-list-hoverBackground);
@@ -233,16 +252,37 @@ input {
 		background: var(--vscode-list-activeSelectionBackground);
 		color: var(--vscode-list-activeSelectionForeground);
 	}
+
+	.pack-count {
+		margin-left: auto;
+		opacity: 0.6;
+		font-size: 11px;
+		font-family: 'Segoe UI', system-ui, sans-serif !important;
+		font-variant-ligatures: none;
+		-webkit-font-smoothing: antialiased;
+	}
+}
+
+body.dropdown-active .icons-grid {
+	pointer-events: none;
+	opacity: 0.3;
+	filter: blur(1px);
 }
 
 .icons-grid {
+	flex: 1;
+	overflow-y: scroll;
+	padding: 14px;
+	position: relative;
 	display: grid;
 	grid-template-columns: repeat(auto-fill, minmax(72px, 1fr));
+	align-content: start;
 	gap: 6px;
 	contain: layout style;
+	transition: opacity var(--transition), filter var(--transition);
 }
 
-.icon-item {
+.grid-item {
 	display: flex;
 	flex-direction: column;
 	align-items: center;
@@ -268,7 +308,7 @@ input {
 			transform: scale(1.1);
 		}
 
-		.icon-name {
+		.item-label {
 			opacity: 1;
 		}
 	}
@@ -290,23 +330,24 @@ input {
 		font-size: 28px;
 	}
 
-	.material-icons,
 	.material-symbols-outlined {
 		font-size: 28px;
 	}
 
-	.icon-name {
+	.item-label {
 		display: -webkit-box;
 		-webkit-box-orient: vertical;
 		-webkit-line-clamp: 2;
 		line-clamp: 2;
 		max-width: 100%;
 		font-size: 10px;
+		font-family: var(--vscode-font-family), 'Segoe UI', system-ui, sans-serif;
 		line-height: 1.3;
 		overflow: hidden;
 		text-overflow: ellipsis;
 		word-break: break-word;
-		opacity: 0.6;
+		color: var(--vscode-foreground);
+		opacity: 0.8;
 		transition: opacity var(--transition);
 	}
 }

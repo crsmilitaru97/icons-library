@@ -1,0 +1,3374 @@
+{
+  "activity": [
+    "exercise",
+    "movement",
+    "motion",
+    "event",
+    "physical-activity"
+  ],
+  "activity-outline": [
+    "task",
+    "event",
+    "exercise",
+    "motion",
+    "movement"
+  ],
+  "alert-circle": [
+    "warning",
+    "notification",
+    "alarm",
+    "caution",
+    "signal"
+  ],
+  "alert-circle-outline": [
+    "warning",
+    "caution",
+    "notification",
+    "signal",
+    "alarm"
+  ],
+  "alert-triangle": [
+    "warning",
+    "signal",
+    "caution",
+    "notice",
+    "danger"
+  ],
+  "alert-triangle-outline": [
+    "danger",
+    "hazard",
+    "warning",
+    "peril"
+  ],
+  "archive": [
+    "save",
+    "store",
+    "preserve",
+    "consolidate",
+    "backup"
+  ],
+  "archive-outline": [
+    "storage",
+    "record",
+    "file",
+    "document"
+  ],
+  "arrow-back": [
+    "retrograde",
+    "reverse",
+    "recede",
+    "withdraw",
+    "backward",
+    "previous"
+  ],
+  "arrow-back-outline": [
+    "previous",
+    "left",
+    "retrograde",
+    "reverse",
+    "backward",
+    "gone"
+  ],
+  "arrow-circle-down": [
+    "below",
+    "lower",
+    "descend",
+    "fall",
+    "drop"
+  ],
+  "arrow-circle-down-outline": [
+    "descending",
+    "decreasing",
+    "falling",
+    "decline",
+    "downward",
+    "lowering"
+  ],
+  "arrow-circle-left": [
+    "west",
+    "northwest",
+    "back",
+    "previous"
+  ],
+  "arrow-circle-left-outline": [
+    "west",
+    "northwest",
+    "northeast",
+    "southwest",
+    "away"
+  ],
+  "arrow-circle-right": [
+    "east",
+    "southeast",
+    "forward",
+    "next"
+  ],
+  "arrow-circle-right-outline": [
+    "east",
+    "southeast",
+    "southwest",
+    "northwest",
+    "toward"
+  ],
+  "arrow-circle-up": [
+    "above",
+    "upper",
+    "ascend",
+    "rise",
+    "lift"
+  ],
+  "arrow-circle-up-outline": [
+    "increasing",
+    "rising",
+    "ascending",
+    "elevate",
+    "upward",
+    "higher"
+  ],
+  "arrow-down": [
+    "decrease",
+    "lower",
+    "fall",
+    "drop",
+    "decline"
+  ],
+  "arrow-down-outline": [
+    "descending",
+    "decreasing",
+    "falling",
+    "decline",
+    "downward",
+    "lowering"
+  ],
+  "arrow-downward": [
+    "down",
+    "descending",
+    "decreasing",
+    "falling",
+    "decline"
+  ],
+  "arrow-downward-outline": [
+    "drop",
+    "fall",
+    "descend",
+    "point",
+    "slope"
+  ],
+  "arrow-forward": [
+    "ahead",
+    "toward",
+    "inward",
+    "approaching",
+    "moving"
+  ],
+  "arrow-forward-outline": [
+    "increasing",
+    "rising",
+    "ascending",
+    "elevate",
+    "progressing"
+  ],
+  "arrow-ios-back": [
+    "previous",
+    "left",
+    "retrograde",
+    "reverse",
+    "backward",
+    "gone"
+  ],
+  "arrow-ios-back-outline": [
+    "previous",
+    "exit",
+    "leave",
+    "retreat",
+    "departure"
+  ],
+  "arrow-ios-downward": [
+    "drop",
+    "descend",
+    "fall",
+    "decrease",
+    "slide"
+  ],
+  "arrow-ios-downward-outline": [
+    "drop",
+    "descend",
+    "fall",
+    "decrease",
+    "slide"
+  ],
+  "arrow-ios-forward": [
+    "rise",
+    "ascend",
+    "increase",
+    "moveforward",
+    "advance"
+  ],
+  "arrow-ios-forward-outline": [
+    "rise",
+    "ascend",
+    "increase",
+    "moveforward",
+    "advance"
+  ],
+  "arrow-ios-upward": [
+    "rise",
+    "ascend",
+    "increase",
+    "moveupward",
+    "elevate"
+  ],
+  "arrow-ios-upward-outline": [
+    "rise",
+    "ascend",
+    "increase",
+    "moveupward",
+    "elevate"
+  ],
+  "arrow-left": [
+    "previous",
+    "prior",
+    "back",
+    "before",
+    "past"
+  ],
+  "arrow-left-outline": [
+    "west",
+    "prioritize",
+    "precede",
+    "withdraw",
+    "direction"
+  ],
+  "arrow-right": [
+    "increase",
+    "higher",
+    "advance",
+    "forward",
+    "grow"
+  ],
+  "arrow-right-outline": [
+    "east",
+    "follow",
+    "proceed",
+    "add",
+    "forward"
+  ],
+  "arrow-up": [
+    "raise",
+    "lift",
+    "elevate",
+    "heighten",
+    "ascend"
+  ],
+  "arrow-up-outline": [
+    "north",
+    "increase",
+    "elevate",
+    "ascend",
+    "rise"
+  ],
+  "arrow-upward": [
+    "rise",
+    "ascend",
+    "increase",
+    "moveupward",
+    "elevate"
+  ],
+  "arrow-upward-outline": [
+    "increase",
+    "ascend",
+    "rise",
+    "elevate",
+    "boost"
+  ],
+  "arrowhead-down": [
+    "pointdown",
+    "indicatedecline",
+    "signaldecrease",
+    "markdrop",
+    "showfall"
+  ],
+  "arrowhead-down-outline": [
+    "pointdown",
+    "indicatedecline",
+    "signaldecrease",
+    "markdrop",
+    "showfall"
+  ],
+  "arrowhead-left": [
+    "pointleft",
+    "indicatewithdrawal",
+    "signalprecede",
+    "markprior",
+    "showwithdraw"
+  ],
+  "arrowhead-left-outline": [
+    "pointleft",
+    "indicatewithdrawal",
+    "signalprecede",
+    "markprior",
+    "showwithdraw"
+  ],
+  "arrowhead-right": [
+    "right-pointing",
+    "forward",
+    "direction",
+    "lead",
+    "advance"
+  ],
+  "arrowhead-right-outline": [
+    "shadow",
+    "silhouette",
+    "darken",
+    "tint",
+    "shade"
+  ],
+  "arrowhead-up": [
+    "upward",
+    "ascend",
+    "rise",
+    "grow",
+    "expansion"
+  ],
+  "arrowhead-up-outline": [
+    "lighter",
+    "pastel",
+    "pale",
+    "soften",
+    "dull"
+  ],
+  "at": [
+    "location",
+    "position",
+    "spot",
+    "place",
+    "point"
+  ],
+  "at-outline": [
+    "border",
+    "frame",
+    "edge",
+    "boundary"
+  ],
+  "attach": [
+    "join",
+    "link",
+    "connect",
+    "bind",
+    "tie"
+  ],
+  "attach-2": [
+    "connect",
+    "link",
+    "tie",
+    "join",
+    "bind"
+  ],
+  "attach-2-outline": [
+    "darken",
+    "shadow",
+    "silhouette",
+    "tint",
+    "darker"
+  ],
+  "attach-outline": [
+    "connect",
+    "link",
+    "tie",
+    "join",
+    "bind"
+  ],
+  "award": [
+    "prize",
+    "trophy",
+    "medal",
+    "recognition",
+    "honor"
+  ],
+  "award-outline": [
+    "prize",
+    "reward",
+    "honor",
+    "recognition",
+    "acknowledgment"
+  ],
+  "backspace": [
+    "delete",
+    "erase",
+    "remove",
+    "clear",
+    "discard"
+  ],
+  "backspace-outline": [
+    "delete",
+    "remove",
+    "erase",
+    "clear",
+    "wipe"
+  ],
+  "bar-chart": [
+    "picture",
+    "image",
+    "graphical",
+    "visual",
+    "illustration"
+  ],
+  "bar-chart-2": [
+    "graph",
+    "table",
+    "data",
+    "stats"
+  ],
+  "bar-chart-2-outline": [
+    "graph",
+    "diagram",
+    "table",
+    "stats",
+    "picture"
+  ],
+  "bar-chart-outline": [
+    "graph",
+    "diagram",
+    "table",
+    "stats"
+  ],
+  "battery": [
+    "cell",
+    "power-source",
+    "energy-storages",
+    "electricity",
+    "fuel"
+  ],
+  "battery-outline": [
+    "power",
+    "energy",
+    "charge",
+    "fuel",
+    "voltage"
+  ],
+  "behance": [
+    "portfolio",
+    "profile",
+    "artist",
+    "designer",
+    "creator"
+  ],
+  "behance-outline": [
+    "platform",
+    "site",
+    "network",
+    "community",
+    "portfolio"
+  ],
+  "bell": [
+    "alarm",
+    "notification",
+    "warning",
+    "alert",
+    "signal"
+  ],
+  "bell-off": [
+    "muted",
+    "silenced",
+    "stopped",
+    "inactive",
+    "quiet"
+  ],
+  "bell-off-outline": [
+    "silence",
+    "mute",
+    "quiet",
+    "stop",
+    "dismiss"
+  ],
+  "bell-outline": [
+    "alarm",
+    "notification",
+    "signal",
+    "alert",
+    "warning"
+  ],
+  "bluetooth": [
+    "wireless",
+    "radio",
+    "transmitter",
+    "receiver",
+    "connection"
+  ],
+  "bluetooth-outline": [
+    "radio",
+    "communication",
+    "connection",
+    "link",
+    "transmit"
+  ],
+  "book": [
+    "document",
+    "paper",
+    "reading",
+    "text",
+    "knowledge"
+  ],
+  "book-open": [
+    "document",
+    "reading",
+    "paper",
+    "page",
+    "library"
+  ],
+  "book-open-outline": [
+    "document",
+    "reading",
+    "education",
+    "knowledge",
+    "study"
+  ],
+  "book-outline": [
+    "paper",
+    "writing",
+    "literature",
+    "text",
+    "document"
+  ],
+  "bookmark": [
+    "save",
+    "record",
+    "mark",
+    "flag",
+    "reserve"
+  ],
+  "bookmark-outline": [
+    "favorite",
+    "save",
+    "mark",
+    "record",
+    "remember"
+  ],
+  "briefcase": [
+    "portfolio",
+    "resume",
+    "career",
+    "job",
+    "profile"
+  ],
+  "briefcase-outline": [
+    "business",
+    "work",
+    "career",
+    "office",
+    "job"
+  ],
+  "browser": [
+    "computer",
+    "internet",
+    "web",
+    "screen",
+    "display"
+  ],
+  "browser-outline": [
+    "computer",
+    "internet",
+    "web",
+    "browse"
+  ],
+  "brush": [
+    "paint",
+    "art",
+    "color",
+    "design",
+    "create"
+  ],
+  "brush-outline": [
+    "paint",
+    "art",
+    "color",
+    "create",
+    "design"
+  ],
+  "bulb": [
+    "light",
+    "lamp",
+    "electric",
+    "power",
+    "illuminate"
+  ],
+  "bulb-outline": [
+    "light",
+    "idea",
+    "inspiration",
+    "innovation",
+    "illumination"
+  ],
+  "calendar": [
+    "date",
+    "time",
+    "schedule",
+    "appointment",
+    "event"
+  ],
+  "calendar-outline": [
+    "date",
+    "time",
+    "schedule",
+    "plan",
+    "organize"
+  ],
+  "camera": [
+    "capture",
+    "record",
+    "photograph",
+    "shoot",
+    "frame"
+  ],
+  "camera-outline": [
+    "picture",
+    "photo",
+    "image",
+    "capture",
+    "record"
+  ],
+  "car": [
+    "vehicle",
+    "transport",
+    "travel",
+    "road",
+    "journey"
+  ],
+  "car-outline": [
+    "vehicle",
+    "transport",
+    "travel",
+    "drive",
+    "journey"
+  ],
+  "cast": [
+    "broadcast",
+    "transmit",
+    "relay",
+    "signal",
+    "transmission"
+  ],
+  "cast-outline": [
+    "media",
+    "streaming",
+    "broadcast",
+    "transmit",
+    "receive"
+  ],
+  "charging": [
+    "power",
+    "energy",
+    "charge",
+    "fuel",
+    "battery"
+  ],
+  "charging-outline": [
+    "electricity",
+    "current",
+    "flow",
+    "power-up",
+    "recharge"
+  ],
+  "checkmark": [
+    "approved",
+    "accepted",
+    "verified",
+    "confirmed",
+    "valid"
+  ],
+  "checkmark-circle": [
+    "checked",
+    "complete",
+    "finished",
+    "done",
+    "fulfilled"
+  ],
+  "checkmark-circle-2": [
+    "mark",
+    "tick",
+    "approval",
+    "verify",
+    "validation"
+  ],
+  "checkmark-circle-2-outline": [
+    "border",
+    "edge",
+    "hollow",
+    "simple"
+  ],
+  "checkmark-circle-outline": [
+    "solid",
+    "full",
+    "complete",
+    "round"
+  ],
+  "checkmark-outline": [
+    "approval",
+    "verify",
+    "confirm",
+    "accept",
+    "mark"
+  ],
+  "checkmark-square": [
+    "tick",
+    "approve",
+    "select",
+    "complete",
+    "confirm"
+  ],
+  "checkmark-square-2": [
+    "validate",
+    "verify",
+    "accept",
+    "choose"
+  ],
+  "checkmark-square-2-outline": [
+    "border",
+    "edge",
+    "hollow",
+    "simple"
+  ],
+  "checkmark-square-outline": [
+    "solid",
+    "full",
+    "complete",
+    "round"
+  ],
+  "chevron-down": [
+    "arrow",
+    "indicator",
+    "pointing",
+    "direction",
+    "pointer"
+  ],
+  "chevron-down-outline": [
+    "arrow",
+    "direction",
+    "move",
+    "descend",
+    "drop"
+  ],
+  "chevron-left": [
+    "previous",
+    "back",
+    "prior",
+    "anterior",
+    "retrograde"
+  ],
+  "chevron-left-outline": [
+    "arrow",
+    "direction",
+    "move",
+    "backward",
+    "reverse"
+  ],
+  "chevron-right": [
+    "next",
+    "forward",
+    "following",
+    "successor",
+    "proceeding"
+  ],
+  "chevron-right-outline": [
+    "arrow",
+    "direction",
+    "move",
+    "forward",
+    "advance"
+  ],
+  "chevron-up": [
+    "increase",
+    "rise",
+    "ascend",
+    "elevate",
+    "boost"
+  ],
+  "chevron-up-outline": [
+    "arrow",
+    "direction",
+    "move",
+    "ascend",
+    "rise"
+  ],
+  "clipboard": [
+    "notebook",
+    "document",
+    "paperclip",
+    "record",
+    "entry"
+  ],
+  "clipboard-outline": [
+    "paper",
+    "document",
+    "note",
+    "copy",
+    "paste"
+  ],
+  "clock": [
+    "time",
+    "hour",
+    "moment",
+    "instant",
+    "period"
+  ],
+  "clock-outline": [
+    "time",
+    "hour",
+    "minute",
+    "second",
+    "schedule"
+  ],
+  "close": [
+    "stop",
+    "exit",
+    "quit",
+    "halt",
+    "terminate"
+  ],
+  "close-circle": [
+    "dismiss",
+    "cancel",
+    "terminate",
+    "stop",
+    "exit"
+  ],
+  "close-circle-outline": [
+    "stop",
+    "exit",
+    "terminate",
+    "halt",
+    "cancel"
+  ],
+  "close-outline": [
+    "shut",
+    "end",
+    "finish",
+    "stoppage"
+  ],
+  "close-square": [
+    "block",
+    "barrier",
+    "obstacle",
+    "hindrance",
+    "blockage"
+  ],
+  "close-square-outline": [
+    "stop",
+    "exit",
+    "terminate",
+    "halt",
+    "cancel"
+  ],
+  "cloud-download": [
+    "fetch",
+    "retrieve",
+    "acquire",
+    "obtain",
+    "transfer"
+  ],
+  "cloud-download-outline": [
+    "file",
+    "transfer",
+    "upload",
+    "fetch"
+  ],
+  "cloud-upload": [
+    "send",
+    "transmit",
+    "deliver",
+    "deposit"
+  ],
+  "cloud-upload-outline": [
+    "file",
+    "transfer",
+    "send",
+    "transmit"
+  ],
+  "code": [
+    "program",
+    "software",
+    "script",
+    "algorithm",
+    "editor"
+  ],
+  "code-download": [
+    "fetch",
+    "retrieve",
+    "obtain",
+    "extract",
+    "data"
+  ],
+  "code-download-outline": [
+    "fetch",
+    "retrieve",
+    "obtain",
+    "extract"
+  ],
+  "code-outline": [
+    "program",
+    "software",
+    "script",
+    "algorithm",
+    "code-snippet"
+  ],
+  "collapse": [
+    "fold",
+    "tuck",
+    "hide",
+    "conceal",
+    "bury"
+  ],
+  "collapse-outline": [
+    "fold",
+    "compress",
+    "reduce",
+    "minimize",
+    "condense"
+  ],
+  "color-palette": [
+    "hue",
+    "tint",
+    "shade",
+    "pigment"
+  ],
+  "color-palette-outline": [
+    "hue",
+    "tint",
+    "shade",
+    "pigment"
+  ],
+  "color-picker": [
+    "painter",
+    "artist",
+    "designer",
+    "chooser",
+    "selector"
+  ],
+  "color-picker-outline": [
+    "pick",
+    "select",
+    "choose",
+    "opt",
+    "picking"
+  ],
+  "compass": [
+    "direction",
+    "orientation",
+    "bearing",
+    "course",
+    "navigation"
+  ],
+  "compass-outline": [
+    "direction",
+    "bearing",
+    "course",
+    "orientation",
+    "navigation"
+  ],
+  "copy": [
+    "duplicate",
+    "clone",
+    "transfer",
+    "move",
+    "paste"
+  ],
+  "copy-outline": [
+    "duplicate",
+    "clone",
+    "replicate",
+    "mirror",
+    "copying"
+  ],
+  "corner-down-left": [
+    "bottom",
+    "angle",
+    "vertex",
+    "direction",
+    "position"
+  ],
+  "corner-down-left-outline": [
+    "bottom",
+    "angle",
+    "vertex",
+    "end",
+    "point"
+  ],
+  "corner-down-right": [
+    "bottom",
+    "angle",
+    "position",
+    "location",
+    "direction"
+  ],
+  "corner-down-right-outline": [
+    "bottom",
+    "angle",
+    "vertex",
+    "end",
+    "point"
+  ],
+  "corner-left-down": [
+    "angle",
+    "direction",
+    "position",
+    "alignment",
+    "orientation"
+  ],
+  "corner-left-down-outline": [
+    "angle",
+    "vertex",
+    "end",
+    "point"
+  ],
+  "corner-left-up": [
+    "top-right",
+    "angle",
+    "vertex",
+    "edge",
+    "point"
+  ],
+  "corner-left-up-outline": [
+    "angle",
+    "vertex",
+    "end",
+    "point"
+  ],
+  "corner-right-down": [
+    "bottom-right",
+    "right-angle",
+    "oblique",
+    "diagonal",
+    "angle"
+  ],
+  "corner-right-down-outline": [
+    "angle",
+    "vertex",
+    "end",
+    "point"
+  ],
+  "corner-right-up": [
+    "top-right",
+    "right-pointing",
+    "acute",
+    "angled",
+    "vertex"
+  ],
+  "corner-right-up-outline": [
+    "angle",
+    "vertex",
+    "end",
+    "point"
+  ],
+  "corner-up-left": [
+    "left-top",
+    "top-left",
+    "oblique",
+    "angled",
+    "vertex"
+  ],
+  "corner-up-left-outline": [
+    "angle",
+    "vertex",
+    "end",
+    "point"
+  ],
+  "corner-up-right": [
+    "top-right",
+    "right-pointing",
+    "acute",
+    "angled",
+    "vertex"
+  ],
+  "corner-up-right-outline": [
+    "angle",
+    "vertex",
+    "end",
+    "point"
+  ],
+  "credit-card": [
+    "payment",
+    "money",
+    "finance",
+    "transaction",
+    "purchase"
+  ],
+  "credit-card-outline": [
+    "payment",
+    "money",
+    "finance",
+    "banking",
+    "transaction"
+  ],
+  "crop": [
+    "harvest",
+    "garden",
+    "sheep",
+    "plow",
+    "field"
+  ],
+  "crop-outline": [
+    "cut",
+    "trim",
+    "edit",
+    "image",
+    "photo"
+  ],
+  "cube": [
+    "sphere",
+    "ball",
+    "cuboid",
+    "geometric",
+    "shape"
+  ],
+  "cube-outline": [
+    "shape",
+    "geometry",
+    "model",
+    "object"
+  ],
+  "diagonal-arrow-left-down": [
+    "direction",
+    "move",
+    "travel",
+    "journey",
+    "path"
+  ],
+  "diagonal-arrow-left-down-outline": [
+    "shape",
+    "form",
+    "solid",
+    "silhouette"
+  ],
+  "diagonal-arrow-left-up": [
+    "direction",
+    "move",
+    "upward",
+    "ascend",
+    "rise"
+  ],
+  "diagonal-arrow-left-up-outline": [
+    "shape",
+    "form",
+    "solid",
+    "silhouette"
+  ],
+  "diagonal-arrow-right-down": [
+    "direction",
+    "move",
+    "pointing-down",
+    "downward",
+    "slope"
+  ],
+  "diagonal-arrow-right-down-outline": [
+    "shape",
+    "form",
+    "solid",
+    "silhouette"
+  ],
+  "diagonal-arrow-right-up": [
+    "upward",
+    "ascend",
+    "rise",
+    "move-up",
+    "arrow-upright"
+  ],
+  "diagonal-arrow-right-up-outline": [
+    "shape",
+    "form",
+    "solid",
+    "silhouette"
+  ],
+  "done-all": [
+    "complete",
+    "finished",
+    "checked",
+    "approved",
+    "accepted"
+  ],
+  "done-all-outline": [
+    "completion",
+    "fulfillment",
+    "accomplishment",
+    "success",
+    "achievement"
+  ],
+  "download": [
+    "file",
+    "save",
+    "transfer",
+    "receive",
+    "fetch"
+  ],
+  "download-outline": [
+    "save",
+    "fetch",
+    "retrieve",
+    "extract",
+    "transfer"
+  ],
+  "droplet": [
+    "water",
+    "liquid",
+    "fluid",
+    "drop",
+    "precipitation"
+  ],
+  "droplet-off": [
+    "drop",
+    "fall",
+    "liquid",
+    "fluid",
+    "flow"
+  ],
+  "droplet-off-outline": [
+    "disabled",
+    "inactive",
+    "remove",
+    "cancel",
+    "deactivate"
+  ],
+  "droplet-outline": [
+    "water",
+    "liquid",
+    "fluid",
+    "drop",
+    "pour"
+  ],
+  "edit": [
+    "modify",
+    "change",
+    "update",
+    "alter"
+  ],
+  "edit-2": [
+    "modify",
+    "update",
+    "change",
+    "alter",
+    "improve"
+  ],
+  "edit-2-outline": [
+    "modify",
+    "update",
+    "change",
+    "alter",
+    "improve"
+  ],
+  "edit-outline": [
+    "modify",
+    "update",
+    "change",
+    "alter",
+    "adjust"
+  ],
+  "email": [
+    "message",
+    "communication",
+    "mail",
+    "letter",
+    "post"
+  ],
+  "email-outline": [
+    "message",
+    "communication",
+    "send",
+    "transmit",
+    "correspondence"
+  ],
+  "expand": [
+    "open",
+    "increase",
+    "enlarge",
+    "grow",
+    "swell"
+  ],
+  "expand-outline": [
+    "enlarge",
+    "increase",
+    "grow",
+    "augment",
+    "expansion"
+  ],
+  "external-link": [
+    "connect",
+    "access",
+    "visit",
+    "browse"
+  ],
+  "external-link-outline": [
+    "connection",
+    "relation",
+    "network",
+    "web",
+    "internet"
+  ],
+  "eye": [
+    "gaze",
+    "look",
+    "observe",
+    "examine",
+    "vision"
+  ],
+  "eye-off": [
+    "close-eye",
+    "blind",
+    "hide",
+    "cover",
+    "obscure"
+  ],
+  "eye-off-2": [
+    "disabled",
+    "inactive",
+    "hide",
+    "conceal",
+    "blindness"
+  ],
+  "eye-off-2-outline": [
+    "blind",
+    "closed",
+    "darkness",
+    "obstructed",
+    "shut"
+  ],
+  "eye-off-outline": [
+    "blinded",
+    "dazzled",
+    "disoriented",
+    "obscured",
+    "stunned"
+  ],
+  "eye-outline": [
+    "awake",
+    "alert",
+    "bright",
+    "open",
+    "seeing"
+  ],
+  "facebook": [
+    "profile",
+    "account",
+    "social",
+    "network",
+    "connection"
+  ],
+  "facebook-outline": [
+    "connection",
+    "friendship",
+    "link",
+    "network",
+    "relationship"
+  ],
+  "file": [
+    "document",
+    "record",
+    "data",
+    "information",
+    "content"
+  ],
+  "file-add": [
+    "addition",
+    "appendage",
+    "attachment",
+    "extension",
+    "increment"
+  ],
+  "file-add-outline": [
+    "attachment",
+    "document",
+    "download",
+    "upload",
+    "record"
+  ],
+  "file-outline": [
+    "archive",
+    "document",
+    "record",
+    "storage",
+    "data"
+  ],
+  "file-remove": [
+    "document",
+    "erase",
+    "delete",
+    "discard",
+    "record"
+  ],
+  "file-remove-outline": [
+    "document",
+    "erase",
+    "delete",
+    "discard",
+    "discard-file"
+  ],
+  "file-text": [
+    "document",
+    "record",
+    "data",
+    "information"
+  ],
+  "file-text-outline": [
+    "content",
+    "data",
+    "document",
+    "information"
+  ],
+  "film": [
+    "movie",
+    "screen",
+    "camera",
+    "projector",
+    "reel"
+  ],
+  "film-outline": [
+    "cinema",
+    "movie",
+    "picture",
+    "screen",
+    "video"
+  ],
+  "flag": [
+    "banner",
+    "standard",
+    "crest",
+    "emblem"
+  ],
+  "flag-outline": [
+    "alert",
+    "caution",
+    "danger",
+    "warning",
+    "signal"
+  ],
+  "flash": [
+    "light",
+    "illuminate",
+    "shine",
+    "glow",
+    "radiate"
+  ],
+  "flash-off": [
+    "stop",
+    "pause",
+    "dim",
+    "interrupt",
+    "light"
+  ],
+  "flash-off-outline": [
+    "darkness",
+    "dusk",
+    "night",
+    "obscure",
+    "shadows"
+  ],
+  "flash-outline": [
+    "bright",
+    "light",
+    "radiance",
+    "shine",
+    "sunlight"
+  ],
+  "flip": [
+    "rotate",
+    "swipe",
+    "turn",
+    "slide",
+    "twist"
+  ],
+  "flip-2": [
+    "rotate",
+    "swipe",
+    "toggle",
+    "switch",
+    "turn"
+  ],
+  "flip-2-outline": [
+    "toggle",
+    "switch",
+    "rotate",
+    "turn",
+    "slide"
+  ],
+  "flip-outline": [
+    "swipe",
+    "slide",
+    "turn",
+    "rotate",
+    "toggle"
+  ],
+  "folder": [
+    "directory",
+    "section",
+    "division",
+    "category",
+    "collection"
+  ],
+  "folder-add": [
+    "create",
+    "upload",
+    "save",
+    "import",
+    "addition"
+  ],
+  "folder-add-outline": [
+    "create",
+    "upload",
+    "save",
+    "import",
+    "addition"
+  ],
+  "folder-outline": [
+    "file",
+    "document",
+    "directory",
+    "organize",
+    "categorize"
+  ],
+  "folder-remove": [
+    "delete",
+    "erase",
+    "discard",
+    "clear"
+  ],
+  "folder-remove-outline": [
+    "delete",
+    "erase",
+    "discard",
+    "clear"
+  ],
+  "funnel": [
+    "narrowing",
+    "constriction",
+    "channel",
+    "pipe",
+    "duct"
+  ],
+  "funnel-outline": [
+    "filter",
+    "sort",
+    "rank",
+    "prioritize",
+    "separate"
+  ],
+  "gift": [
+    "present",
+    "token",
+    "reward",
+    "bonus",
+    "treasure"
+  ],
+  "gift-outline": [
+    "present",
+    "surprise",
+    "treasure",
+    "reward"
+  ],
+  "github": [
+    "platform",
+    "software",
+    "company",
+    "organization",
+    "site"
+  ],
+  "github-outline": [
+    "code",
+    "repository",
+    "development",
+    "community",
+    "collaborate"
+  ],
+  "globe": [
+    "world",
+    "earth",
+    "planet",
+    "sphere"
+  ],
+  "globe-2": [
+    "world",
+    "earth",
+    "planet",
+    "map",
+    "location"
+  ],
+  "globe-2-outline": [
+    "world",
+    "earth",
+    "planet",
+    "map",
+    "location"
+  ],
+  "globe-3": [
+    "world",
+    "earth",
+    "planet",
+    "map",
+    "location"
+  ],
+  "globe-outline": [
+    "world",
+    "earth",
+    "planet",
+    "map",
+    "location"
+  ],
+  "google": [
+    "find",
+    "discover",
+    "learn",
+    "inform"
+  ],
+  "google-outline": [
+    "browser",
+    "internet",
+    "information",
+    "query"
+  ],
+  "grid": [
+    "square",
+    "rectangle",
+    "cell",
+    "block",
+    "matrix"
+  ],
+  "grid-outline": [
+    "pattern",
+    "structure",
+    "layout",
+    "framework",
+    "matrix"
+  ],
+  "hard-drive": [
+    "store",
+    "record",
+    "preserve",
+    "retain",
+    "archive"
+  ],
+  "hard-drive-outline": [
+    "computer",
+    "disk",
+    "storage",
+    "server",
+    "data"
+  ],
+  "hash": [
+    "code",
+    "key",
+    "password",
+    "cipher",
+    "encrypt"
+  ],
+  "hash-outline": [
+    "password",
+    "code",
+    "cipher",
+    "secret",
+    "cipher-text"
+  ],
+  "headphones": [
+    "earbuds",
+    "speaker",
+    "audio-gadget",
+    "music-player",
+    "sound-system"
+  ],
+  "headphones-outline": [
+    "music",
+    "audio",
+    "speaker",
+    "phone",
+    "sound"
+  ],
+  "heart": [
+    "love",
+    "passion",
+    "affection",
+    "desire",
+    "longing"
+  ],
+  "heart-outline": [
+    "love",
+    "romance",
+    "passion",
+    "affection",
+    "emotion"
+  ],
+  "home": [
+    "house",
+    "dwelling",
+    "abode",
+    "residence",
+    "nest"
+  ],
+  "home-outline": [
+    "house",
+    "residence",
+    "abode",
+    "dwelling",
+    "building"
+  ],
+  "image": [
+    "picture",
+    "photo",
+    "graph",
+    "chart",
+    "representation"
+  ],
+  "image-2": [
+    "picture",
+    "photo",
+    "graph",
+    "visual"
+  ],
+  "image-outline": [
+    "picture",
+    "photograph",
+    "graphical-representation",
+    "visual-aid",
+    "media"
+  ],
+  "inbox": [
+    "mail",
+    "letter",
+    "message",
+    "email",
+    "post"
+  ],
+  "inbox-outline": [
+    "mail",
+    "email",
+    "message",
+    "letter",
+    "post"
+  ],
+  "info": [
+    "information",
+    "data",
+    "details",
+    "facts",
+    "knowledge"
+  ],
+  "info-outline": [
+    "information",
+    "data",
+    "knowledge",
+    "facts",
+    "details"
+  ],
+  "keypad": [
+    "keyboard",
+    "input",
+    "typing",
+    "keys",
+    "tactile"
+  ],
+  "keypad-outline": [
+    "keyboard",
+    "input",
+    "typing",
+    "keys",
+    "tactile"
+  ],
+  "layers": [
+    "stack",
+    "pile",
+    "sequence",
+    "series",
+    "structure"
+  ],
+  "layers-outline": [
+    "layer",
+    "level",
+    "stack",
+    "pile",
+    "structure"
+  ],
+  "layout": [
+    "design",
+    "arrangement",
+    "organization",
+    "structure",
+    "composition"
+  ],
+  "layout-outline": [
+    "design",
+    "arrangement",
+    "organization",
+    "pattern",
+    "composition"
+  ],
+  "link": [
+    "route",
+    "path",
+    "connection",
+    "tie",
+    "junction"
+  ],
+  "link-2": [
+    "connect",
+    "join",
+    "tie",
+    "bind",
+    "linking"
+  ],
+  "link-2-outline": [
+    "connection",
+    "route",
+    "path",
+    "wire",
+    "linkage"
+  ],
+  "link-outline": [
+    "connection",
+    "route",
+    "path",
+    "url",
+    "address"
+  ],
+  "linkedin": [
+    "network",
+    "connection",
+    "link",
+    "relation",
+    "friendship"
+  ],
+  "linkedin-outline": [
+    "connection",
+    "network",
+    "profile",
+    "person",
+    "social"
+  ],
+  "list": [
+    "bullet-point",
+    "checklist",
+    "sequence",
+    "series",
+    "catalog"
+  ],
+  "list-outline": [
+    "bullet",
+    "itemize",
+    "catalog",
+    "directory",
+    "index"
+  ],
+  "loader-outline": [
+    "spinner",
+    "animation",
+    "progress",
+    "indication",
+    "wait"
+  ],
+  "lock": [
+    "locked",
+    "frozen",
+    "secured",
+    "protected",
+    "sealed"
+  ],
+  "lock-outline": [
+    "security",
+    "protection",
+    "safety",
+    "shield",
+    "access"
+  ],
+  "log-in": [
+    "enter",
+    "login",
+    "access",
+    "authenticate",
+    "authorize"
+  ],
+  "log-in-outline": [
+    "login",
+    "authenticate",
+    "entry",
+    "credentials",
+    "authorization"
+  ],
+  "log-out": [
+    "exit",
+    "leave",
+    "logout",
+    "disengage",
+    "disconnect"
+  ],
+  "log-out-outline": [
+    "logout",
+    "exit",
+    "disconnection",
+    "deactivate",
+    "unauthorized"
+  ],
+  "map": [
+    "location",
+    "place",
+    "spot",
+    "site",
+    "territory"
+  ],
+  "map-outline": [
+    "location",
+    "route",
+    "directions",
+    "navigation",
+    "chart"
+  ],
+  "maximize": [
+    "expand",
+    "enlarge",
+    "increase",
+    "boost",
+    "amplify"
+  ],
+  "maximize-outline": [
+    "expand",
+    "enlarge",
+    "increase",
+    "growth",
+    "zoom"
+  ],
+  "menu": [
+    "hamburger",
+    "navigation",
+    "list",
+    "options",
+    "drawer"
+  ],
+  "menu-2": [
+    "hamburger",
+    "navigation",
+    "list",
+    "options",
+    "drawer"
+  ],
+  "menu-2-outline": [
+    "submenu",
+    "subitem",
+    "nested",
+    "hierarchy",
+    "branch"
+  ],
+  "menu-arrow": [
+    "arrow-down",
+    "downward",
+    "direction",
+    "pointing-right",
+    "indicating"
+  ],
+  "menu-arrow-outline": [
+    "arrow-down",
+    "downward",
+    "direction",
+    "pointing-right",
+    "indicating"
+  ],
+  "menu-outline": [
+    "navigation",
+    "list",
+    "options",
+    "drawer",
+    "menuing"
+  ],
+  "message-circle": [
+    "notification",
+    "alert",
+    "warning",
+    "reminder",
+    "update"
+  ],
+  "message-circle-outline": [
+    "notification",
+    "alert",
+    "warning",
+    "caution",
+    "reminder"
+  ],
+  "message-square": [
+    "notification",
+    "alert",
+    "warning",
+    "reminder",
+    "update"
+  ],
+  "message-square-outline": [
+    "error",
+    "warning",
+    "alert",
+    "notification",
+    "alertness"
+  ],
+  "mic": [
+    "listen",
+    "hear",
+    "record",
+    "microphone",
+    "audio"
+  ],
+  "mic-off": [
+    "mute",
+    "silence",
+    "stop",
+    "pause",
+    "quiet"
+  ],
+  "mic-off-outline": [
+    "mute",
+    "silence",
+    "quiet",
+    "stop",
+    "disabling"
+  ],
+  "mic-outline": [
+    "speaker",
+    "audio",
+    "phone",
+    "voice",
+    "sound"
+  ],
+  "minimize": [
+    "compact",
+    "reduce",
+    "shrink",
+    "simplify",
+    "condense"
+  ],
+  "minimize-outline": [
+    "reduce",
+    "shrink",
+    "compress",
+    "condense",
+    "miniaturize"
+  ],
+  "minus": [
+    "subtract",
+    "reduce",
+    "decrease",
+    "lessen",
+    "eliminate"
+  ],
+  "minus-circle": [
+    "decrease",
+    "reduce",
+    "cancel",
+    "reject",
+    "eliminating"
+  ],
+  "minus-circle-outline": [
+    "subtract",
+    "remove",
+    "delete",
+    "takeaway",
+    "deduct"
+  ],
+  "minus-outline": [
+    "decrease",
+    "diminish",
+    "lessen",
+    "reduce",
+    "abate"
+  ],
+  "minus-square": [
+    "decrease",
+    "reduce",
+    "cancel",
+    "reject",
+    "eliminating"
+  ],
+  "minus-square-outline": [
+    "defeat",
+    "lose",
+    "fail",
+    "disadvantage",
+    "deficit"
+  ],
+  "monitor": [
+    "screen",
+    "display",
+    "watch",
+    "observe",
+    "viewing"
+  ],
+  "monitor-outline": [
+    "display",
+    "screen",
+    "watch",
+    "observe",
+    "viewing"
+  ],
+  "moon": [
+    "lunar-cycle",
+    "phase",
+    "orbit",
+    "rotation",
+    "celestial-body"
+  ],
+  "moon-outline": [
+    "night",
+    "darkness",
+    "shadow",
+    "silence",
+    "stillness"
+  ],
+  "more-horizontal": [
+    "expand",
+    "increase",
+    "grow",
+    "augment",
+    "enlarge"
+  ],
+  "more-horizontal-outline": [
+    "expand",
+    "increase",
+    "add",
+    "augment",
+    "enlarge"
+  ],
+  "more-vertical": [
+    "expand",
+    "increase",
+    "grow",
+    "augment",
+    "enlarge"
+  ],
+  "more-vertical-outline": [
+    "heighten",
+    "elevate",
+    "raise",
+    "boost",
+    "enhance"
+  ],
+  "move": [
+    "relocation",
+    "shift",
+    "transfer",
+    "transport",
+    "migration"
+  ],
+  "move-outline": [
+    "transfer",
+    "shift",
+    "relocate",
+    "transport",
+    "reposition"
+  ],
+  "music": [
+    "sound",
+    "melody",
+    "harmony",
+    "rhythm",
+    "tune"
+  ],
+  "music-outline": [
+    "song",
+    "melody",
+    "harmony",
+    "rhythm",
+    "tune"
+  ],
+  "navigation": [
+    "map",
+    "route",
+    "directions",
+    "waypoint",
+    "path"
+  ],
+  "navigation-2": [
+    "route",
+    "path",
+    "journey",
+    "travel",
+    "direction"
+  ],
+  "navigation-2-outline": [
+    "path",
+    "route",
+    "link",
+    "direction",
+    "way"
+  ],
+  "navigation-outline": [
+    "path",
+    "route",
+    "link",
+    "direction",
+    "map"
+  ],
+  "npm": [
+    "package",
+    "install",
+    "manager",
+    "dependency",
+    "update"
+  ],
+  "npm-outline": [
+    "package",
+    "library",
+    "framework",
+    "module",
+    "dependency"
+  ],
+  "options": [
+    "settings",
+    "configuration",
+    "controls",
+    "panel",
+    "configurations"
+  ],
+  "options-2": [
+    "settings",
+    "configuration",
+    "controls",
+    "panel",
+    "configurations"
+  ],
+  "options-2-outline": [
+    "outline-settings",
+    "outline-configuration",
+    "outline-controls",
+    "outline-interface",
+    "outline-panel"
+  ],
+  "options-outline": [
+    "outline-options",
+    "outline-config",
+    "outline-control",
+    "outline-ui",
+    "outline-panel"
+  ],
+  "pantone": [
+    "color",
+    "hue",
+    "tint",
+    "shade",
+    "saturation"
+  ],
+  "pantone-outline": [
+    "outline-color",
+    "outline-hue",
+    "outline-tint",
+    "outline-shade",
+    "outline-saturation"
+  ],
+  "paper-plane": [
+    "airplane",
+    "dart",
+    "dartboard",
+    "sketch",
+    "flight"
+  ],
+  "paper-plane-outline": [
+    "outline-paper",
+    "outline-plane",
+    "outline-document",
+    "outline-file",
+    "outline-print"
+  ],
+  "pause-circle": [
+    "time",
+    "moment",
+    "instant",
+    "epoch",
+    "period"
+  ],
+  "pause-circle-outline": [
+    "outline-pause",
+    "outline-stop",
+    "outline-break",
+    "outline-halt",
+    "outline-suspend"
+  ],
+  "people": [
+    "individual",
+    "person",
+    "human",
+    "being",
+    "subject"
+  ],
+  "people-outline": [
+    "outline-people",
+    "outline-group",
+    "outline-community",
+    "outline-friends",
+    "outline-followers"
+  ],
+  "percent": [
+    "percentage",
+    "fraction",
+    "ratio",
+    "proportion",
+    "rate"
+  ],
+  "percent-outline": [
+    "outline-percent",
+    "outline-proportion",
+    "outline-ratio",
+    "outline-fraction",
+    "outline-scale"
+  ],
+  "person": [
+    "user",
+    "account",
+    "profile",
+    "account-holder",
+    "individual"
+  ],
+  "person-add": [
+    "user",
+    "account",
+    "profile",
+    "avatar",
+    "representative"
+  ],
+  "person-add-outline": [
+    "outline-person",
+    "outline-user",
+    "outline-account",
+    "outline-profile",
+    "outline-identity"
+  ],
+  "person-delete": [
+    "outline-remove",
+    "outline-delete",
+    "outline-expire",
+    "outline-cancel",
+    "outline-terminate"
+  ],
+  "person-delete-outline": [
+    "outline-remove",
+    "outline-delete",
+    "outline-expired",
+    "outline-canceled",
+    "outline-terminated"
+  ],
+  "person-done": [
+    "outline-completed",
+    "outline-finished",
+    "outline-successful",
+    "outline-delivered",
+    "outline-shipped"
+  ],
+  "person-done-outline": [
+    "outline-completed",
+    "outline-finished",
+    "outline-succeeded",
+    "outline-delivered",
+    "outline-shipped"
+  ],
+  "person-outline": [
+    "user",
+    "account",
+    "member",
+    "contact",
+    "identity"
+  ],
+  "person-remove": [
+    "individual",
+    "human",
+    "face",
+    "figure"
+  ],
+  "person-remove-outline": [
+    "delete",
+    "erase",
+    "eliminate",
+    "discard"
+  ],
+  "phone": [
+    "communication",
+    "device",
+    "mobile",
+    "telephone",
+    "connection"
+  ],
+  "phone-call": [
+    "connect",
+    "communicate",
+    "talk",
+    "dialogue"
+  ],
+  "phone-call-outline": [
+    "talk",
+    "communicate",
+    "connect",
+    "dialogue",
+    "voice"
+  ],
+  "phone-missed": [
+    "ignore",
+    "dismiss",
+    "neglect",
+    "overlook",
+    "dismissal"
+  ],
+  "phone-missed-outline": [
+    "unanswered",
+    "ignored",
+    "unreached",
+    "unsent",
+    "message"
+  ],
+  "phone-off": [
+    "disable",
+    "deactivate",
+    "turnoff",
+    "stop",
+    "shutdown"
+  ],
+  "phone-off-outline": [
+    "disabled",
+    "inactive",
+    "deactivated",
+    "shutdown"
+  ],
+  "phone-outline": [
+    "call",
+    "talk",
+    "communicate",
+    "connect",
+    "dialogue"
+  ],
+  "pie-chart": [
+    "circle",
+    "ring",
+    "disk",
+    "sector"
+  ],
+  "pie-chart-2": [
+    "graph",
+    "diagram",
+    "table",
+    "statistics"
+  ],
+  "pie-chart-outline": [
+    "graph",
+    "diagram",
+    "table",
+    "statistics"
+  ],
+  "pin": [
+    "attach",
+    "fasten",
+    "fix",
+    "hold",
+    "secure"
+  ],
+  "pin-outline": [
+    "stick",
+    "attach",
+    "fix",
+    "secure",
+    "fasten"
+  ],
+  "play-circle": [
+    "start",
+    "begin",
+    "activate",
+    "initiate",
+    "launch"
+  ],
+  "play-circle-outline": [
+    "listen",
+    "hear",
+    "audition",
+    "entertain",
+    "music"
+  ],
+  "plus": [
+    "addition",
+    "sum",
+    "total",
+    "growth",
+    "expansion"
+  ],
+  "plus-circle": [
+    "disk",
+    "wheel",
+    "rotation",
+    "spin"
+  ],
+  "plus-circle-outline": [
+    "add",
+    "increase",
+    "expand",
+    "augment",
+    "enhance"
+  ],
+  "plus-outline": [
+    "add",
+    "increase",
+    "expand",
+    "augment",
+    "enhance"
+  ],
+  "plus-square": [
+    "rectangle",
+    "box",
+    "grid",
+    "layout"
+  ],
+  "plus-square-outline": [
+    "rectangle",
+    "box",
+    "container",
+    "enclosure",
+    "shape"
+  ],
+  "power": [
+    "electricity",
+    "energy",
+    "current",
+    "voltage",
+    "ampere"
+  ],
+  "power-outline": [
+    "energy",
+    "force",
+    "strength",
+    "ability"
+  ],
+  "pricetags": [
+    "discount",
+    "label",
+    "category",
+    "rating",
+    "price"
+  ],
+  "pricetags-outline": [
+    "labels",
+    "categories",
+    "inventory",
+    "stock"
+  ],
+  "printer": [
+    "copier",
+    "scanner",
+    "fax",
+    "document",
+    "paper"
+  ],
+  "printer-outline": [
+    "computer",
+    "document",
+    "print",
+    "paper",
+    "scanner"
+  ],
+  "question-mark": [
+    "marker",
+    "indicator",
+    "flag",
+    "query"
+  ],
+  "question-mark-circle": [
+    "query",
+    "inquiry",
+    "curiosity",
+    "investigation"
+  ],
+  "question-mark-circle-outline": [
+    "help",
+    "information",
+    "query",
+    "support",
+    "warning"
+  ],
+  "question-mark-outline": [
+    "answer",
+    "ask",
+    "inquiry",
+    "query",
+    "response"
+  ],
+  "radio": [
+    "station",
+    "broadcast",
+    "signal",
+    "wave",
+    "transmitter"
+  ],
+  "radio-button-off": [
+    "inactive",
+    "disabled",
+    "none",
+    "deactivated"
+  ],
+  "radio-button-off-outline": [
+    "inactive",
+    "disabled",
+    "none",
+    "hidden"
+  ],
+  "radio-button-on": [
+    "active",
+    "enabled",
+    "yes",
+    "selected"
+  ],
+  "radio-button-on-outline": [
+    "active",
+    "enabled",
+    "yes",
+    "selected",
+    "activated"
+  ],
+  "radio-outline": [
+    "control",
+    "input",
+    "option",
+    "switch"
+  ],
+  "recording": [
+    "audio",
+    "film",
+    "movie",
+    "music",
+    "video"
+  ],
+  "recording-outline": [
+    "audio",
+    "film",
+    "movie",
+    "music",
+    "video"
+  ],
+  "refresh": [
+    "update",
+    "renew",
+    "revive",
+    "regenerate",
+    "reboot"
+  ],
+  "refresh-outline": [
+    "reload",
+    "renew",
+    "restart",
+    "update"
+  ],
+  "repeat": [
+    "reprise",
+    "redo",
+    "rerun",
+    "reopen",
+    "revive"
+  ],
+  "repeat-outline": [
+    "loop",
+    "cycle",
+    "iterate",
+    "replay",
+    "iteration"
+  ],
+  "rewind-left": [
+    "previous",
+    "back",
+    "prior",
+    "previously",
+    "before"
+  ],
+  "rewind-left-outline": [
+    "previous",
+    "back",
+    "prior",
+    "previously",
+    "earlier"
+  ],
+  "rewind-right": [
+    "next",
+    "forward",
+    "later",
+    "subsequent",
+    "following"
+  ],
+  "rewind-right-outline": [
+    "pause",
+    "replay",
+    "back",
+    "undo",
+    "previous"
+  ],
+  "save": [
+    "backup",
+    "document",
+    "record",
+    "file",
+    "archive"
+  ],
+  "save-outline": [
+    "backup",
+    "preserve",
+    "store",
+    "record",
+    "archive"
+  ],
+  "scissors": [
+    "cutting",
+    "trimming",
+    "shearing",
+    "clipping",
+    "snipping"
+  ],
+  "scissors-outline": [
+    "cut",
+    "edit",
+    "trim",
+    "clip",
+    "redact"
+  ],
+  "search": [
+    "find",
+    "locate",
+    "discover",
+    "query",
+    "browse"
+  ],
+  "search-outline": [
+    "find",
+    "look",
+    "query",
+    "inquire",
+    "investigate"
+  ],
+  "settings": [
+    "configure",
+    "adjust",
+    "modify",
+    "tweak",
+    "fine-tune"
+  ],
+  "settings-2": [
+    "configuration",
+    "options",
+    "preference",
+    "setting",
+    "control"
+  ],
+  "settings-2-outline": [
+    "configure",
+    "adjust",
+    "modify",
+    "tweak",
+    "fine-tune"
+  ],
+  "settings-outline": [
+    "options",
+    "preferences",
+    "customize",
+    "alter",
+    "adjustment"
+  ],
+  "shake": [
+    "vibrate",
+    "tremble",
+    "quake",
+    "shudder",
+    "oscillate"
+  ],
+  "shake-outline": [
+    "quiver",
+    "twitch",
+    "fluctuate",
+    "wobble",
+    "sway"
+  ],
+  "share": [
+    "transmit",
+    "communicate",
+    "reveal",
+    "disclose",
+    "expose"
+  ],
+  "share-outline": [
+    "transmit",
+    "send",
+    "disseminate",
+    "broadcast",
+    "distribute"
+  ],
+  "shield": [
+    "protect",
+    "defend",
+    "safety",
+    "security",
+    "guard"
+  ],
+  "shield-off": [
+    "disable",
+    "deactivate",
+    "block",
+    "protectoff",
+    "guarddown"
+  ],
+  "shield-off-outline": [
+    "hide",
+    "conceal",
+    "cover",
+    "obscure",
+    "mask"
+  ],
+  "shield-outline": [
+    "protect",
+    "defend",
+    "guard",
+    "safeguard",
+    "fortify"
+  ],
+  "shopping-bag": [
+    "cart",
+    "baggage",
+    "packaging",
+    "container",
+    "load"
+  ],
+  "shopping-bag-outline": [
+    "purchase",
+    "buy",
+    "acquire",
+    "acquaint",
+    "stock"
+  ],
+  "shopping-cart": [
+    "basket",
+    "bag",
+    "market",
+    "purchase",
+    "commerce"
+  ],
+  "shopping-cart-outline": [
+    "order",
+    "procure",
+    "accompany",
+    "attend",
+    "accommodate"
+  ],
+  "shuffle": [
+    "mix",
+    "randomize",
+    "arrange",
+    "reorder",
+    "jumble"
+  ],
+  "shuffle-2": [
+    "mix",
+    "blend",
+    "interleave",
+    "randomize",
+    "jumble"
+  ],
+  "shuffle-2-outline": [
+    "rearrange",
+    "reorganize",
+    "permutate",
+    "disarray",
+    "muddle"
+  ],
+  "shuffle-outline": [
+    "mix",
+    "randomize",
+    "reorder",
+    "jumble",
+    "mingle"
+  ],
+  "skip-back": [
+    "fastforward",
+    "accelerate",
+    "speedup",
+    "movequickly",
+    "rushback"
+  ],
+  "skip-back-outline": [
+    "previous",
+    "retrograde",
+    "prioritize",
+    "defer"
+  ],
+  "skip-forward": [
+    "forwardmotion",
+    "progression",
+    "continuation",
+    "advancement",
+    "movement"
+  ],
+  "skip-forward-outline": [
+    "next",
+    "advance",
+    "proceed",
+    "continue",
+    "step"
+  ],
+  "slash": [
+    "cut",
+    "slice",
+    "divide",
+    "separate",
+    "split"
+  ],
+  "slash-outline": [
+    "cut",
+    "separate",
+    "divide",
+    "split",
+    "disjoin"
+  ],
+  "smartphone": [
+    "mobile",
+    "cell",
+    "phone",
+    "communication",
+    "device"
+  ],
+  "smartphone-outline": [
+    "mobile",
+    "telephone",
+    "device",
+    "screen",
+    "phone"
+  ],
+  "smiling-face": [
+    "smile",
+    "grin",
+    "laugh",
+    "cheer",
+    "greet"
+  ],
+  "smiling-face-outline": [
+    "facial",
+    "expression",
+    "emoticon",
+    "emoji",
+    "visage"
+  ],
+  "speaker": [
+    "audio",
+    "communication",
+    "loudspeaker",
+    "noise",
+    "voice"
+  ],
+  "speaker-outline": [
+    "audio",
+    "sound",
+    "voice",
+    "communication",
+    "speech"
+  ],
+  "square": [
+    "rectangle",
+    "box",
+    "grid",
+    "matrix",
+    "cell"
+  ],
+  "square-outline": [
+    "rectangle",
+    "box",
+    "grid",
+    "cell",
+    "shape"
+  ],
+  "star": [
+    "favorite",
+    "like",
+    "rate",
+    "approve",
+    "endorse"
+  ],
+  "star-outline": [
+    "point",
+    "rating",
+    "evaluation",
+    "appreciation",
+    "quality"
+  ],
+  "stop-circle": [
+    "halt",
+    "cease",
+    "terminate",
+    "interrupt"
+  ],
+  "stop-circle-outline": [
+    "halt",
+    "cease",
+    "pause",
+    "interrupt",
+    "block"
+  ],
+  "sun": [
+    "day",
+    "light",
+    "heat",
+    "radiance",
+    "glow"
+  ],
+  "sun-outline": [
+    "day",
+    "light",
+    "heat",
+    "radiance",
+    "solar"
+  ],
+  "swap": [
+    "exchange",
+    "replace",
+    "switch",
+    "trade",
+    "negotiate"
+  ],
+  "swap-outline": [
+    "alternating",
+    "reversing",
+    "inverting",
+    "flipping",
+    "transposing"
+  ],
+  "sync": [
+    "update",
+    "refresh",
+    "renew",
+    "synchronize",
+    "sync-up"
+  ],
+  "sync-outline": [
+    "synchronize",
+    "coordinate",
+    "align",
+    "match",
+    "conform"
+  ],
+  "text": [
+    "message",
+    "content",
+    "letter",
+    "word",
+    "communication"
+  ],
+  "text-outline": [
+    "highlight",
+    "border",
+    "stroke",
+    "fill",
+    "typography"
+  ],
+  "thermometer": [
+    "temperature",
+    "heat",
+    "climate",
+    "weather",
+    "meter"
+  ],
+  "thermometer-minus": [
+    "decrease",
+    "drop",
+    "fall",
+    "cool",
+    "temperature"
+  ],
+  "thermometer-minus-outline": [
+    "minus-outline",
+    "decrease-outline",
+    "drop-outline",
+    "fall-outline",
+    "cool-outline"
+  ],
+  "thermometer-outline": [
+    "increase",
+    "rise",
+    "boost",
+    "warmth",
+    "heat"
+  ],
+  "thermometer-plus": [
+    "increase",
+    "rise",
+    "boost",
+    "warmth",
+    "heat"
+  ],
+  "thermometer-plus-outline": [
+    "plus-outline",
+    "increase-outline",
+    "rise-outline",
+    "boost-outline",
+    "warmth-outline"
+  ],
+  "toggle-left": [
+    "switchleft",
+    "flipleft",
+    "turnlefton",
+    "activateleft",
+    "enableleft"
+  ],
+  "toggle-left-outline": [
+    "previous",
+    "back",
+    "move-left",
+    "switch-off",
+    "direction"
+  ],
+  "toggle-right": [
+    "switchright",
+    "flipright",
+    "turnrighton",
+    "activateright",
+    "enableright"
+  ],
+  "toggle-right-outline": [
+    "next",
+    "forward",
+    "move-right",
+    "switch-on",
+    "direction"
+  ],
+  "trash": [
+    "waste",
+    "discard",
+    "destruction",
+    "abandonment",
+    "dismissal"
+  ],
+  "trash-2": [
+    "discard",
+    "getridof",
+    "remove",
+    "eliminate",
+    "destroy"
+  ],
+  "trash-2-outline": [
+    "remove",
+    "delete",
+    "discard",
+    "discard-all",
+    "clear"
+  ],
+  "trash-outline": [
+    "recycle",
+    "reuse",
+    "donate",
+    "reduce",
+    "dispose"
+  ],
+  "trending-down": [
+    "falling",
+    "decreasing",
+    "dropping",
+    "declining",
+    "deteriorating"
+  ],
+  "trending-down-outline": [
+    "decreasing",
+    "falling",
+    "dropping",
+    "declining",
+    "deteriorating"
+  ],
+  "trending-up": [
+    "increase",
+    "rise",
+    "growth",
+    "boost",
+    "expansion"
+  ],
+  "trending-up-outline": [
+    "increase",
+    "rise",
+    "growth",
+    "upward",
+    "expansion"
+  ],
+  "tv": [
+    "television",
+    "screen",
+    "video",
+    "broadcast",
+    "signal"
+  ],
+  "tv-outline": [
+    "screen",
+    "monitor",
+    "display",
+    "picture",
+    "video"
+  ],
+  "twitter": [
+    "bird",
+    "tweet",
+    "social",
+    "media",
+    "network"
+  ],
+  "twitter-outline": [
+    "tweet",
+    "post",
+    "share",
+    "message",
+    "update"
+  ],
+  "umbrella": [
+    "weather",
+    "storm",
+    "shelter",
+    "protection",
+    "cover"
+  ],
+  "umbrella-outline": [
+    "rain",
+    "cloud",
+    "storm",
+    "weather",
+    "precipitation"
+  ],
+  "undo": [
+    "revert",
+    "cancel",
+    "reverse",
+    "redo",
+    "rescind"
+  ],
+  "undo-outline": [
+    "revert",
+    "cancel",
+    "reverse",
+    "redo",
+    "erase"
+  ],
+  "unlock": [
+    "key",
+    "lock",
+    "access",
+    "permission",
+    "authorization"
+  ],
+  "unlock-outline": [
+    "lock",
+    "secure",
+    "access",
+    "open",
+    "unlocked"
+  ],
+  "upload": [
+    "transmit",
+    "send",
+    "share",
+    "post",
+    "publish"
+  ],
+  "upload-outline": [
+    "send",
+    "transmit",
+    "receive",
+    "file",
+    "transfer"
+  ],
+  "video": [
+    "movie",
+    "film",
+    "screen",
+    "recording",
+    "stream"
+  ],
+  "video-off": [
+    "pause",
+    "stop",
+    "mute",
+    "playback",
+    "record"
+  ],
+  "video-off-outline": [
+    "pause",
+    "stop",
+    "mute",
+    "blackout",
+    "silence"
+  ],
+  "video-outline": [
+    "play",
+    "record",
+    "stream",
+    "movie",
+    "film"
+  ],
+  "volume-down": [
+    "mute",
+    "decrease",
+    "lower",
+    "softer",
+    "quieter"
+  ],
+  "volume-down-outline": [
+    "decrease",
+    "lower",
+    "dim",
+    "reduce",
+    "soften"
+  ],
+  "volume-mute": [
+    "silence",
+    "stop",
+    "pause",
+    "quiet",
+    "stillness"
+  ],
+  "volume-mute-outline": [
+    "muffle",
+    "dampen",
+    "quiet",
+    "soften",
+    "hush"
+  ],
+  "volume-off": [
+    "disabled",
+    "silenced",
+    "muted",
+    "inactive"
+  ],
+  "volume-off-outline": [
+    "silence",
+    "mute",
+    "stop",
+    "cessation",
+    "quiet"
+  ],
+  "volume-up": [
+    "music",
+    "sound",
+    "amp",
+    "level",
+    "mix"
+  ],
+  "volume-up-outline": [
+    "increase",
+    "raise",
+    "boost",
+    "amplify",
+    "louden"
+  ],
+  "wifi": [
+    "network",
+    "internet",
+    "connection",
+    "wireless",
+    "signal"
+  ],
+  "wifi-off": [
+    "disconnect",
+    "disappear",
+    "fade",
+    "stop",
+    "disable"
+  ],
+  "wifi-off-outline": [
+    "disconnect",
+    "disengage",
+    "disable",
+    "block",
+    "shutdown"
+  ],
+  "wifi-outline": [
+    "connect",
+    "enable",
+    "activate",
+    "link",
+    "network"
+  ]
+}

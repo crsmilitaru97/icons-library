@@ -9,3 +9,7 @@ src/**
 **/*.map
 **/*.ts
 **/*.vsix
+scripts/**
+packs-temp/**
+tools/**
+GEMINI.md

@@ -1,0 +1,53 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "node",
+      "request": "launch",
+      "name": "Interpret (Ollama)",
+      "runtimeArgs": ["--import", "tsx"],
+      "args": ["--ollama"],
+      "program": "${workspaceFolder}/src/interpret.ts",
+      "cwd": "${workspaceFolder}",
+      "console": "integratedTerminal",
+      "internalConsoleOptions": "neverOpen",
+      "skipFiles": ["<node_internals>/**"]
+    },
+    {
+      "type": "node",
+      "request": "launch",
+      "name": "Fix Tags (Ollama)",
+      "runtimeArgs": ["--import", "tsx"],
+      "args": ["--ollama"],
+      "program": "${workspaceFolder}/src/fix-tags.ts",
+      "cwd": "${workspaceFolder}",
+      "console": "integratedTerminal",
+      "internalConsoleOptions": "neverOpen",
+      "skipFiles": ["<node_internals>/**"]
+    },
+    {
+      "type": "node",
+      "request": "launch",
+      "name": "Interpret (NVIDIA NIM API)",
+      "runtimeArgs": ["--import", "tsx"],
+      "args": ["--nvidia"],
+      "program": "${workspaceFolder}/src/interpret.ts",
+      "cwd": "${workspaceFolder}",
+      "console": "integratedTerminal",
+      "internalConsoleOptions": "neverOpen",
+      "skipFiles": ["<node_internals>/**"]
+    },
+    {
+      "type": "node",
+      "request": "launch",
+      "name": "Fix Tags (NVIDIA NIM API)",
+      "runtimeArgs": ["--import", "tsx"],
+      "args": ["--nvidia"],
+      "program": "${workspaceFolder}/src/fix-tags.ts",
+      "cwd": "${workspaceFolder}",
+      "console": "integratedTerminal",
+      "internalConsoleOptions": "neverOpen",
+      "skipFiles": ["<node_internals>/**"]
+    }
+  ]
+}

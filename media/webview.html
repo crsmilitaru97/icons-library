@@ -4,20 +4,36 @@
 <head>
 	<meta charset="UTF-8">
 	<meta http-equiv="Content-Security-Policy"
-		content="default-src 'none'; style-src {{cspSource}} 'unsafe-inline' https://unpkg.com https://cdnjs.cloudflare.com https://cdn.jsdelivr.net https://fonts.googleapis.com; font-src {{cspSource}} https://unpkg.com https://cdnjs.cloudflare.com https://cdn.jsdelivr.net https://fonts.gstatic.com; script-src 'unsafe-inline' {{cspSource}};">
+		content="default-src 'none'; img-src {{cspSource}} https://cdn.simpleicons.org https://unpkg.com https://cdn.jsdelivr.net https://cdn.lineicons.com data:; style-src {{cspSource}} 'unsafe-inline' https://unpkg.com https://cdn.jsdelivr.net https://fonts.googleapis.com https://cdn.lineicons.com; font-src {{cspSource}} https://unpkg.com https://cdn.jsdelivr.net https://fonts.gstatic.com https://cdn.lineicons.com; script-src 'unsafe-inline' {{cspSource}};">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 	<link href="{{codiconsUri}}" rel="stylesheet" />
 	<link rel="stylesheet" href="{{fontAwesomeUri}}">
 	<link rel="stylesheet" href="{{primeIconsUri}}">
 	<link rel="stylesheet" href="{{bootstrapIconsUri}}">
-	<link rel="stylesheet" href="{{materialIconsUri}}">
+	<link rel="stylesheet" href="{{materialSymbolsUri}}">
+	<link rel="stylesheet" href="{{heroiconsUri}}">
+	<link rel="stylesheet" href="{{lucideUri}}">
+	<link rel="stylesheet" href="{{featherUri}}">
+	<link rel="stylesheet" href="{{tablerUri}}">
+	<link rel="stylesheet" href="{{remixiconUri}}">
+	<link rel="stylesheet" href="{{lineiconsUri}}">
+	<link rel="stylesheet" href="{{evaUri}}">
+	<link rel="stylesheet" href="{{boxiconsUri}}">
+	<link rel="stylesheet" href="{{iconoirUri}}">
+	<link rel="stylesheet" href="{{phosphorUri}}">
 	<link rel="stylesheet" href="{{styleUri}}">
 </head>
 
 <body class="preload">
 	<div class="search-container">
-		<input type="text" id="search-input" placeholder="Search icons..." aria-label="Search icons">
+
+		<div class="search-wrapper">
+			<input type="text" id="search-input" placeholder="Search icons..." aria-label="Search icons">
+			<button id="clear-search" class="clear-btn" title="Clear Search" aria-label="Clear Search">
+				<i class="codicon codicon-close"></i>
+			</button>
+		</div>
 		<div class="controls-row">
 			<div class="dropdown-wrapper" id="pack-dropdown">
 				<div class="dropdown-toggle" tabindex="0" role="button" aria-haspopup="listbox" aria-expanded="false">
@@ -30,21 +46,23 @@
 					</div>
 				</div>
 			</div>
-			<button id="settings-btn" class="icon-btn" title="Open Settings" aria-label="Open Settings">
+			<button id="settings-btn" class="action-btn" title="Open Settings" aria-label="Open Settings">
 				<i class="codicon codicon-gear"></i>
 			</button>
 		</div>
 	</div>
 
-	<div id="icon-count" class="icon-count"></div>
+	<div id="icon-count" class="results-count"></div>
 
 	<div id="icons-grid" class="icons-grid"></div>
 	<div id="empty-state" class="empty-state">
 		<i class="codicon codicon-search"></i>
 		<p>No icons found</p>
 	</div>
+
 	<div id="loading">Loading icons...</div>
 
+	<script>window.initialConfig = ('{{config}}');</script>
 	<script>window.initialIconData = '{{iconData}}';</script>
 	<script src="{{scriptUri}}"></script>
 </body>

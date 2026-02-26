@@ -7,11 +7,14 @@
 </p>
 
 <p align="center">
-  <a href="https://open-vsx.org/extension/crsx/icons-library"><img src="https://img.shields.io/open-vsx/v/crsx/icons-library?logo=open-vsx&logoColor=white" alt="Open VSX Version"></a>
+  <a href="https://marketplace.visualstudio.com/items?itemName=crsx.icons-library"><img src="https://vsmarketplacebadges.dev/version/crsx.icons-library.svg" alt="VS Marketplace Version"></a>
+  <a href="https://marketplace.visualstudio.com/items?itemName=crsx.icons-library"><img src="https://vsmarketplacebadges.dev/downloads/crsx.icons-library.svg" alt="VS Marketplace Downloads"></a>
+  <a href="https://open-vsx.org/extension/crsx/icons-library"><img src="https://img.shields.io/open-vsx/v/crsx/icons-library?label=Open%20VSX&logo=open-vsx&logoColor=white" alt="Open VSX Version"></a>
   <a href="https://open-vsx.org/extension/crsx/icons-library"><img src="https://img.shields.io/open-vsx/dt/crsx/icons-library" alt="Open VSX Downloads"></a>
+  <br>
   <a href="https://github.com/crsmilitaru97/icons-library"><img src="https://img.shields.io/badge/GitHub-Repository-181717?logo=github&logoColor=white" alt="GitHub"></a>
-  <a href="https://github.com/crsmilitaru97/icons-library/stargazers"><img src="https://img.shields.io/github/stars/crsmilitaru97/icons-library" alt="GitHub Stars"></a>
-  <a href="https://github.com/crsmilitaru97/icons-library/blob/main/LICENSE"><img src="https://img.shields.io/github/license/crsmilitaru97/icons-library" alt="License"></a>
+  <a href="https://github.com/crsmilitaru97/icons-library/stargazers"><img src="https://img.shields.io/github/stars/crsmilitaru97/icons-library?logo=github" alt="GitHub Stars"></a>
+  <a href="https://github.com/crsmilitaru97/icons-library/blob/main/LICENSE"><img src="https://img.shields.io/github/license/crsmilitaru97/icons-library?style=flat" alt="License"></a>
   <a href="https://www.paypal.com/donate?hosted_button_id=MZQS5CZ68NGEW"><img src="https://img.shields.io/badge/Donate-PayPal-00457C?logo=paypal&logoColor=white" alt="Donate"></a>
 </p>
 
